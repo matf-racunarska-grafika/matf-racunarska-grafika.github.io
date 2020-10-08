@@ -11,7 +11,7 @@
 
 -Završni teorijski ispit (50 poean)
 
-*Da bi se ispit polozio potrebno je na projektu osvojiti bar 25 poena, na zavrsnom teorijskom ispitu osvojiti bar 20 poena i u zbiru imati bar 51 poen.*
+**Da bi se ispit polozio potrebno je na projektu osvojiti bar 25 poena, na zavrsnom teorijskom ispitu osvojiti bar 20 poena i u zbiru imati bar 51 poen.**
 
 ## Materijali
 [Snimci, prezentacije, dokumenti](https://drive.google.com/drive/folders/1KqTmrBcbMp_hbUfxV9fCBXvuXd6Wgcbm?usp=sharing)
