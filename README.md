@@ -14,13 +14,13 @@
 [learnopengl repozitorijum](https://learnopengl.com/Code-repository)
 
 ### 01
--[CLion](https://www.jetbrains.com/clion/): интегрисано развојно окружење, компајлирање, дебаговање, CMake
+-[CLion](https://www.jetbrains.com/clion/): integrisano razvojno okruženje, kompajliranje, debagovanje, CMake
 
--C++: основе језика, стандардна библиотека
+-C++: osnove jezika
 
 -Git: clone, add, commit, remove, branch, checkout, push, pull, merge, rebase
 
--Увод у интерактивну рачунарску графику
+-Uvod u interakvitnu računarsku grafiku
 
 ### 02
 -GLFW, GLAD
@@ -44,35 +44,84 @@
 -[Rekapitulacija](https://learnopengl.com/Getting-started/Review)
 
 ### 05
--Boje: 
+-Colors: scena sa svetlom
 
--Osvetljenje:
+-Basic lighting: ambijentalno, difuzno, spekularno 
 
--Materijali
+-Materials: postavljanje materijala, svojstva svetla, različite boje svetla
+
+-Ligthing maps: difuzne, spekularne
 
 ### 06
--Izvori svetlosti:
+-Light casters: direkciono, tačkasto, koncentrisano
 
--Više izvora svetlosti:
+-Multiple lights: direkciono, tačkasto
 
 -Rekaputilacija svetlosti
 
 ### 07
--[Assimp](https://learnopengl.com/Model-Loading/Assimp): инсталација и коришћење библиотеке
+-[Assimp](https://learnopengl.com/Model-Loading/Assimp): instalacija i korišćenje biblioteke
 
--[Mesh](https://learnopengl.com/Model-Loading/Mesh): модели и оптимизације
+-[Mesh](https://learnopengl.com/Model-Loading/Mesh): modeli i optimizacije
 
--[Модели](https://learnopengl.com/Model-Loading/Model): формати и учитавање модела
-
+-[Modeli](https://learnopengl.com/Model-Loading/Model): formati i učitavanje modela
 
 
 ### 08
+-[Debugging]: glGetError, debug izlaz, eksterni alati
+
+-[Text rendering]: klasično, modreno
+
+-[2D Game]
 
 
 ### 09
+-[Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing)
+
+-[Stencil testing](https://learnopengl.com/Advanced-OpenGL/Stencil-testing)
+
+-[Blending](https://learnopengl.com/Advanced-OpenGL/Blending)
+
+-[Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling)
+
+-[Framebuffers](https://learnopengl.com/Advanced-OpenGL/Framebuffers)
+
+-[Cubemaps](https://learnopengl.com/Advanced-OpenGL/Cubemaps)
+
 ### 10
+
+-[Advanced Data](https://learnopengl.com/Advanced-OpenGL/Advanced-Data)
+
+-[Advanced GLSL](https://learnopengl.com/Advanced-OpenGL/Advanced-GLSL)
+
+-[Geometry Shader](https://learnopengl.com/Advanced-OpenGL/Geometry-Shader)
+
+-[Instancing](https://learnopengl.com/Advanced-OpenGL/Instancing)
+
+-[Anti Aliasing](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing)
+
 ### 11
+-[Advanced Lighting](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing)
+
+-[Gamm Correction](https://learnopengl.com/Advanced-Lighting/Gamma-Correction)
+
+-[Shadow mapping](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping)
+
+-[Point shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows)
+
 ### 12
+-[Normal mapping](https://learnopengl.com/Advanced-Lighting/Normal-Mapping)
+
+-[Parallax Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping)
+
+-[HDR](https://learnopengl.com/Advanced-Lighting/HDR)
+
+-[Bloom](https://learnopengl.com/Advanced-Lighting/Bloom)
+
+-[Deffered Shading](https://learnopengl.com/Advanced-Lighting/Deferred-Shading)
+
+-[SSAO](https://learnopengl.com/Advanced-Lighting/SSAO)
+
 ### 13
 
 ### Biblioteke
