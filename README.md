@@ -1,13 +1,17 @@
-# Рачунарска графика 
-## Материјали за курс из Рачунарске графике на Математичком факултету - Универзитет у Београду 
+# Računarska grafika 
+## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## Наставници и асистентни
--наставник: [др. Весна Маринковић](http://poincare.matf.bg.ac.rs/~vesnam/grafika.html)
--асистент: Марко Спасић
+## Nastavnici i asistenti
+-nastavnik: [dr. Vesna Marinković](http://poincare.matf.bg.ac.rs/~vesnam/grafika.html)
 
-## Материјали
-[Снимци, презентацијe, документи](https://drive.google.com/drive/folders/1KqTmrBcbMp_hbUfxV9fCBXvuXd6Wgcbm?usp=sharing)
-[Репозиторијум](
+-asistent: Marko Spasić
+
+## Materijali
+[Snimci, prezentacije, dokumenti](https://drive.google.com/drive/folders/1KqTmrBcbMp_hbUfxV9fCBXvuXd6Wgcbm?usp=sharing)
+
+[Kodovi sa časa](https://github.com/matf-racunarska-grafika/kodovi-sa-casa-2020-2021)
+
+[learnopengl repozitorijum](https://learnopengl.com/Code-repository)
 
 ### 01
 -[CLion](https://www.jetbrains.com/clion/): интегрисано развојно окружење, компајлирање, дебаговање, CMake
@@ -21,35 +25,37 @@
 ### 02
 -GLFW, GLAD
 
--[Hello Window](https://learnopengl.com/Getting-started/Hello-Window): Празан пројекат, укључивање библиотека GLFW и GLAD, прозор, догађаји
+-[Hello Window](https://learnopengl.com/Getting-started/Hello-Window): Skelet projekta, uključivanje biblioteka GLFW i GLAD, prozor, dorađaji
 
 -[Hello Triangle](https://learnopengl.com/Getting-started/Hello-Triangle): Vertex shader, Fragmen shader, Vertex Buffer Object, Vertex Array Object, Element Buffer Object
 
 ### 03
--[Shaders](https://learnopengl.com/Getting-started/Shaders): GLSL, улаз, излаз, Uniforms, Shader класа (наша прва абстракција)
+-[Shaders](https://learnopengl.com/Getting-started/Shaders): GLSL, in, out, Uniforms, Shader klasa (naša prva abstrakcija)
 
--[Textures](https://learnopengl.com/Getting-started/Textures): текстуре, мапирање текстура, Mipmaps
+-[Textures](https://learnopengl.com/Getting-started/Textures): teksture, mapiranje tekstura, MipMaps
 
--[Transformations](https://learnopengl.com/Getting-started/Transformations): векотри, матрице, операције над матрицама, транслације, ротације, GLM
+-[Transformations](https://learnopengl.com/Getting-started/Transformations): vektori, matrice, operacije nad matricama, translacije, rotacije, GLM
 
 ### 04
 -[Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems): local space, world space, view space, clip space, screen space
 
--[Camera](https://learnopengl.com/Getting-started/Camera): позиција, поглед, опсег, кретање камере, Camera класа (још абстракција)
+-[Camera](https://learnopengl.com/Getting-started/Camera): pozicija, pogled, opseg, kretanje kamere, Camera klasa (još abstrakcija)
 
--[Рекапитулација](https://learnopengl.com/Getting-started/Review)
+-[Rekapitulacija](https://learnopengl.com/Getting-started/Review)
 
 ### 05
--Осветљење: боје, базично осветљење, материјали
+-Boje: 
 
--Мапе: дифузна мапа, спекуларна мапа
+-Osvetljenje:
+
+-Materijali
 
 ### 06
--Извори светла: дирекционо, тачкасто, усмерено
+-Izvori svetlosti:
 
--Више извора светолости
+-Više izvora svetlosti:
 
--Рекапутилација светлости
+-Rekaputilacija svetlosti
 
 ### 07
 -[Assimp](https://learnopengl.com/Model-Loading/Assimp): инсталација и коришћење библиотеке
@@ -69,17 +75,17 @@
 ### 12
 ### 13
 
-### Инсталација потребних библиотека и алата
+### Biblioteke
 `sudo apt-get install g++ cmake git build-essential libgl1-mesa-dev libsoil-dev libglm-dev libassimp-dev libglew-dev libglfw3-dev libxinerama-dev libxcursor-dev libxi-dev mesa-common-dev mesa-utils`
 
-Провера верзије OpenGL: `glxinfo | grep OpenGL`
+Provera verzije OpenGL: `glxinfo | grep OpenGL`
 
-### Литература
+### Literatura
 -[learnopengl](https://learnopengl.com/)
 
 -[learncpp](https://www.learncpp.com/)
 
-### Документација
+### Dokumentacija
 -[OpenGL docs](http://docs.gl/)
 
 -[glfw](https://www.glfw.org/)
@@ -89,4 +95,16 @@
 -[cppreference](https://en.cppreference.com/w/)
 
 -[Git cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
+-[learngit](https://learngitbranching.js.org/)
+
+### Alati
+[CLion](https://www.jetbrains.com/clion/)
+
+[CMake](https://cmake.org/)
+
+[Github](https://github.com/)
+
+
+
 
