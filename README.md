@@ -6,6 +6,13 @@
 
 -asistent: Marko Spasić
 
+## Bodovanje
+-Projekat (50 poean) 
+
+-Završni teorijski ispit (50 poean)
+
+*Da bi se ispit polozio potrebno je na projektu osvojiti bar 25 poena, na zavrsnom teorijskom ispitu osvojiti bar 20 poena i u zbiru imati bar 51 poen.*
+
 ## Materijali
 [Snimci, prezentacije, dokumenti](https://drive.google.com/drive/folders/1KqTmrBcbMp_hbUfxV9fCBXvuXd6Wgcbm?usp=sharing)
 
@@ -44,20 +51,20 @@
 -[Rekapitulacija](https://learnopengl.com/Getting-started/Review)
 
 ### 05
--Colors: scena sa svetlom
+-[Colors](https://learnopengl.com/Lighting/Colors): scena sa svetlom
 
--Basic lighting: ambijentalno, difuzno, spekularno 
+-[Basic lighting](https://learnopengl.com/Lighting/Basic-Lighting): ambijentalno, difuzno, spekularno 
 
--Materials: postavljanje materijala, svojstva svetla, različite boje svetla
+-[Materials](https://learnopengl.com/Lighting/Materials): postavljanje materijala, svojstva svetla, različite boje svetla
 
--Ligthing maps: difuzne, spekularne
+-[Ligthing maps](https://learnopengl.com/Lighting/Lighting-maps): difuzne, spekularne
 
 ### 06
--Light casters: direkciono, tačkasto, koncentrisano
+-[Light casters](https://learnopengl.com/Lighting/Light-casters): direkciono, tačkasto, koncentrisano
 
--Multiple lights: direkciono, tačkasto
+-[Multiple lights](https://learnopengl.com/Lighting/Multiple-lights): direkciono, tačkasto
 
--Rekaputilacija svetlosti
+-[Rekaputilacija svetlosti](https://learnopengl.com/Lighting/Review)
 
 ### 07
 -[Assimp](https://learnopengl.com/Model-Loading/Assimp): instalacija i korišćenje biblioteke
