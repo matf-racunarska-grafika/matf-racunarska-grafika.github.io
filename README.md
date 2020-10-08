@@ -161,6 +161,6 @@ Provera verzije OpenGL: `glxinfo | grep OpenGL`
 
 [Github](https://github.com/)
 
-<3 N
+<!-- <3 N -->
 
 
