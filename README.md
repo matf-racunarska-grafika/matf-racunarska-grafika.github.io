@@ -2,12 +2,15 @@
 ## Материјали за курс из Рачунарске графике на Математичком факултету - Универзитет у Београду 
 
 ## Наставници и асистентни
-- наставник: др. Весна Маринковић
-- асистент: Марко Спасић
+-наставник: [др. Весна Маринковић](http://poincare.matf.bg.ac.rs/~vesnam/grafika.html)
+-асистент: Марко Спасић
 
 ## Материјали
+[Снимци, презентацијe, документи](https://drive.google.com/drive/folders/1KqTmrBcbMp_hbUfxV9fCBXvuXd6Wgcbm?usp=sharing)
+[Репозиторијум](
+
 ### 01
--CLion: интегрисано развојно окружење, компајлирање, дебаговање, CMake
+-[CLion](https://www.jetbrains.com/clion/): интегрисано развојно окружење, компајлирање, дебаговање, CMake
 
 -C++: основе језика, стандардна библиотека
 
@@ -18,23 +21,23 @@
 ### 02
 -GLFW, GLAD
 
--Hello Window: Празан пројекат, укључивање библиотека GLFW и GLAD, прозор, догађаји
+-[Hello Window](https://learnopengl.com/Getting-started/Hello-Window): Празан пројекат, укључивање библиотека GLFW и GLAD, прозор, догађаји
 
--Hello Triangle: Vertex shader, Fragmen shader, Vertex Buffer Object, Vertex Array Object, Element Buffer Object
+-[Hello Triangle](https://learnopengl.com/Getting-started/Hello-Triangle): Vertex shader, Fragmen shader, Vertex Buffer Object, Vertex Array Object, Element Buffer Object
 
 ### 03
--Shaders: GLSL, улаз, излаз, Uniforms, Shader класа (наша прва абстракција)
+-[Shaders](https://learnopengl.com/Getting-started/Shaders): GLSL, улаз, излаз, Uniforms, Shader класа (наша прва абстракција)
 
--Textures: текстуре, мапирање текстура, Mipmaps
+-[Textures](https://learnopengl.com/Getting-started/Textures): текстуре, мапирање текстура, Mipmaps
 
--Transformations: векотри, матрице, операције над матрицама, транслације, ротације, GLM
+-[Transformations](https://learnopengl.com/Getting-started/Transformations): векотри, матрице, операције над матрицама, транслације, ротације, GLM
 
 ### 04
--Coordinate systems: local space, world space, view space, clip space, screen space
+-[Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems): local space, world space, view space, clip space, screen space
 
--Camera: позиција, поглед, опсег, кретање камере, Camera класа (још абстракција)
+-[Camera](https://learnopengl.com/Getting-started/Camera): позиција, поглед, опсег, кретање камере, Camera класа (још абстракција)
 
--Рекапитулација
+-[Рекапитулација](https://learnopengl.com/Getting-started/Review)
 
 ### 05
 -Осветљење: боје, базично осветљење, материјали
@@ -49,53 +52,41 @@
 -Рекапутилација светлости
 
 ### 07
--Модели: формати и учитавање модела
--Assimp: инсталација и коришћење библиотеке
--Mesh: модели и оптимизације
+-[Assimp](https://learnopengl.com/Model-Loading/Assimp): инсталација и коришћење библиотеке
+
+-[Mesh](https://learnopengl.com/Model-Loading/Mesh): модели и оптимизације
+
+-[Модели](https://learnopengl.com/Model-Loading/Model): формати и учитавање модела
+
+
 
 ### 08
+
+
 ### 09
 ### 10
 ### 11
 ### 12
 ### 13
 
+### Инсталација потребних библиотека и алата
+`sudo apt-get install g++ cmake git build-essential libgl1-mesa-dev libsoil-dev libglm-dev libassimp-dev libglew-dev libglfw3-dev libxinerama-dev libxcursor-dev libxi-dev mesa-common-dev mesa-utils`
 
-```
-## Welcome to GitHub Pages
+Провера верзије OpenGL: `glxinfo | grep OpenGL`
 
-You can use the [editor on GitHub](https://github.com/matf-racunarska-grafika/matf-racunarska-grafika.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Литература
+-[learnopengl](https://learnopengl.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-[learncpp](https://www.learncpp.com/)
 
-### Markdown
+### Документација
+-[OpenGL docs](http://docs.gl/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-[glfw](https://www.glfw.org/)
 
-```markdown
-Syntax highlighted code block
+-[glad generator](https://glad.dav1d.de/)
 
-# Header 1
-## Header 2
-### Header 3
+-[cppreference](https://en.cppreference.com/w/)
 
-- Bulleted
-- List
+-[Git cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matf-racunarska-grafika/matf-racunarska-grafika.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
