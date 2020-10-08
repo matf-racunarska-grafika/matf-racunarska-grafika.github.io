@@ -1,5 +1,5 @@
-# Рачунарска графика
-## Материјали за курс из Рачунарске графике на Математичком факултету - Унверзитет у Београду
+# Рачунарска графика 
+## Материјали за курс из Рачунарске графике на Математичком факултету - Универзитет у Београду 
 
 ## Наставници и асистентни
 - наставник: др. Весна Маринковић
@@ -37,6 +37,7 @@
 -Рекапитулација
 
 ### 05
+-Осветљење: боје, базично осветљење материјали
 ### 06
 ### 07
 ### 08
@@ -46,6 +47,8 @@
 ### 12
 ### 13
 
+
+```
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/matf-racunarska-grafika/matf-racunarska-grafika.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -73,7 +76,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
