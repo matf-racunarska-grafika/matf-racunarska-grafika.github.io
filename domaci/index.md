@@ -17,8 +17,11 @@ Na kraju, pogledajte rešenje kako bi ste proverili da li ste ispravno uradili i
 5. Instalirati sve potrebne biblioteke
 
    ```sudo apt-get install g++ cmake git build-essential libgl1-mesa-dev
+   
     sudo apt-get install libsoil-dev libglm-dev libassimp-dev libglew-dev libglfw3-dev libxinerama-dev libxcursor-dev libxi-dev
+    
     sudo apt-get install mesa-common-dev mesa-utils
+    
     glxinfo | grep OpenGL```
     
 6. Klonirati [learnopengl](https://github.com/JoeyDeVries/LearnOpenGL) repozitorijum; poreknuti svaki primer
