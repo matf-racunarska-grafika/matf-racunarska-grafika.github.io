@@ -32,7 +32,7 @@
 
 -Git: clone, add, commit, remove, branch, checkout, push, pull, merge, rebase
 
--Uvod u interakvitnu računarsku grafiku
+-Uvod u interaktivnu računarsku grafiku
 
 ### 02
 -GLFW, GLAD
