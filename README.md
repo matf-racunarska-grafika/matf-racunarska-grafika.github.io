@@ -1,6 +1,9 @@
 # Računarska grafika 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
+## Obaveštenja
+[10.10.2020. 11:20] Na ovoj stranici će biti postaljeni linkovi za vežbe.
+
 ## Nastavnici i asistenti
 -nastavnik: [dr. Vesna Marinković](http://poincare.matf.bg.ac.rs/~vesnam/grafika.html)
 
