@@ -92,55 +92,47 @@
 
 -[Stencil testing](https://learnopengl.com/Advanced-OpenGL/Stencil-testing): odbacivanje fragmenata, stencil funkcije, ivičenje objekata
 
--[Blending](https://learnopengl.com/Advanced-OpenGL/Blending):
-providnost, odbacivanje fragmenata, utapanje, prikaz polu-providnih tekstura
+-[Blending](https://learnopengl.com/Advanced-OpenGL/Blending): providnost, odbacivanje fragmenata, utapanje, prikaz polu-providnih tekstura
 
--[Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling):
-winding number, odsecanja
+-[Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling): winding number, odsecanja
 
--[Framebuffers](https://learnopengl.com/Advanced-OpenGL/Framebuffers):
-kreiranje, renderovanje na teksturu, post-procesiranje, kernel efekti
+-[Framebuffers](https://learnopengl.com/Advanced-OpenGL/Framebuffers): kreiranje, renderovanje na teksturu, post-procesiranje, kernel efekti
 
--[Cubemaps](https://learnopengl.com/Advanced-OpenGL/Cubemaps):
-kreiranje, skybox, mapiranje okruženja, dinamične mape okruženja
+-[Cubemaps](https://learnopengl.com/Advanced-OpenGL/Cubemaps): kreiranje, skybox, mapiranje okruženja, dinamične mape okruženja
 
 ### 10
 
--[Advanced Data](https://learnopengl.com/Advanced-OpenGL/Advanced-Data):
-vertex atributi, baferi
+-[Advanced Data](https://learnopengl.com/Advanced-OpenGL/Advanced-Data): vertex atributi, baferi
 
--[Advanced GLSL](https://learnopengl.com/Advanced-OpenGL/Advanced-GLSL):
-GLSL promenljive, interfejsi blokovi, uniform bafer objekti
+-[Advanced GLSL](https://learnopengl.com/Advanced-OpenGL/Advanced-GLSL): GLSL promenljive, interfejsi blokovi, uniform bafer objekti
 
 -[Geometry Shader](https://learnopengl.com/Advanced-OpenGL/Geometry-Shader): korišćenje, eksplodirajući objekti
 
--[Instancing](https://learnopengl.com/Advanced-OpenGL/Instancing):
-primer (polje asterioda)
+-[Instancing](https://learnopengl.com/Advanced-OpenGL/Instancing): primer (polje asterioda)
 
--[Anti Aliasing](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing)
-: multisampling, MSAA, Off-screen MSAA
+-[Anti Aliasing](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing): multisampling, MSAA, Off-screen MSAA
 
 ### 11
--[Advanced Lighting](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing)
+-[Advanced Lighting](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing): Blinn-Phong
 
--[Gamm Correction](https://learnopengl.com/Advanced-Lighting/Gamma-Correction)
+-[Gamm Correction](https://learnopengl.com/Advanced-Lighting/Gamma-Correction): sRGB teksture
 
--[Shadow mapping](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping)
+-[Shadow mapping](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping): mapa senki, mapa dubine, renderovanje senki, PCF
 
--[Point shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows)
+-[Point shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows): omnidirekcione mape senki, PCF
 
 ### 12
--[Normal mapping](https://learnopengl.com/Advanced-Lighting/Normal-Mapping)
+-[Normal mapping](https://learnopengl.com/Advanced-Lighting/Normal-Mapping): mapiranje normala, tangenti prostori, kompleksni objekti, 
 
--[Parallax Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping)
+-[Parallax Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping): paralaks mapiranje, koso paralaks mapiranje, paralaks absorbovanje
 
 -[HDR](https://learnopengl.com/Advanced-Lighting/HDR)
 
--[Bloom](https://learnopengl.com/Advanced-Lighting/Bloom)
+-[Bloom](https://learnopengl.com/Advanced-Lighting/Bloom): ekstrakovanje blještavih boja, Gausov blur, blending
 
--[Deffered Shading](https://learnopengl.com/Advanced-Lighting/Deferred-Shading)
+-[Deffered Shading](https://learnopengl.com/Advanced-Lighting/Deferred-Shading): G-bafer
 
--[SSAO](https://learnopengl.com/Advanced-Lighting/SSAO)
+-[SSAO](https://learnopengl.com/Advanced-Lighting/SSAO): 
 
 ### 13
 
