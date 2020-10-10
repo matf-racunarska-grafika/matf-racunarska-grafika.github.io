@@ -88,29 +88,37 @@
 
 
 ### 09
--[Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing)
+-[Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing): Bafer dubine, funkcija testiranja dubine, preciznost vrednosti dubine, vizuelizacija bafera dubine, z-bafer
 
--[Stencil testing](https://learnopengl.com/Advanced-OpenGL/Stencil-testing)
+-[Stencil testing](https://learnopengl.com/Advanced-OpenGL/Stencil-testing): odbacivanje fragmenata, stencil funkcije, ivičenje objekata
 
--[Blending](https://learnopengl.com/Advanced-OpenGL/Blending)
+-[Blending](https://learnopengl.com/Advanced-OpenGL/Blending):
+providnost, odbacivanje fragmenata, utapanje, prikaz polu-providnih tekstura
 
--[Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling)
+-[Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling):
+winding number, odsecanja
 
--[Framebuffers](https://learnopengl.com/Advanced-OpenGL/Framebuffers)
+-[Framebuffers](https://learnopengl.com/Advanced-OpenGL/Framebuffers):
+kreiranje, renderovanje na teksturu, post-procesiranje, kernel efekti
 
--[Cubemaps](https://learnopengl.com/Advanced-OpenGL/Cubemaps)
+-[Cubemaps](https://learnopengl.com/Advanced-OpenGL/Cubemaps):
+kreiranje, skybox, mapiranje okruženja, dinamične mape okruženja
 
 ### 10
 
--[Advanced Data](https://learnopengl.com/Advanced-OpenGL/Advanced-Data)
+-[Advanced Data](https://learnopengl.com/Advanced-OpenGL/Advanced-Data):
+vertex atributi, baferi
 
--[Advanced GLSL](https://learnopengl.com/Advanced-OpenGL/Advanced-GLSL)
+-[Advanced GLSL](https://learnopengl.com/Advanced-OpenGL/Advanced-GLSL):
+GLSL promenljive, interfejsi blokovi, uniform bafer objekti
 
--[Geometry Shader](https://learnopengl.com/Advanced-OpenGL/Geometry-Shader)
+-[Geometry Shader](https://learnopengl.com/Advanced-OpenGL/Geometry-Shader): korišćenje, eksplodirajući objekti
 
--[Instancing](https://learnopengl.com/Advanced-OpenGL/Instancing)
+-[Instancing](https://learnopengl.com/Advanced-OpenGL/Instancing):
+primer (polje asterioda)
 
 -[Anti Aliasing](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing)
+: multisampling, MSAA, Off-screen MSAA
 
 ### 11
 -[Advanced Lighting](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing)
