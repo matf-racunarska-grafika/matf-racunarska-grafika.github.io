@@ -2,6 +2,13 @@
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
 ## Obaveštenja
+[11.10.2020. 11:46] Vežbe će se održavati online putem platforme Webex u terminu po rasporedu časova. 
+Snimci sa vežbi će biti okačeni. Upustvo za pristup i korišćenje možete pročitati  
+[ovde](http://alas.matf.bg.ac.rs/webexUputstvoStudenti.pdf). 
+
+Link za pristup vežbama će biti postavljen na ovoj stranici desetak minuta pre početka vežbi.
+
+
 [10.10.2020. 11:20] Na ovoj stranici će biti postavljeni linkovi za vežbe.
 
 ## Nastavnici i asistenti
