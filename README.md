@@ -7,7 +7,7 @@
 ## Nastavnici i asistenti
 -nastavnik: [dr. Vesna Marinković](http://poincare.matf.bg.ac.rs/~vesnam/grafika.html)
 
--asistent: Marko Spasić
+-asistent: Marko Spasić (marko_spasic@matf.bg.ac.rs)
 
 ## Bodovanje
 -Projekat (50 poena) 
