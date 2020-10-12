@@ -4,11 +4,13 @@
 
 ### Ubuntu 16.04+
 Pre instalacija obavezno poreknuti komande u terminalu:
+
 `sudo apt-get install g++ cmake git build-essential`
 
 Onda će CLion moći automatski da ih pronađe i konfigurše okruženje.
 
 0) Ukoliko imate Ubuntu 16.04 ili noviju verziju u terminalu pokrenuti:
+
 `sudo snap install clion --classic`
 
 ### Postupna instalacija
@@ -33,14 +35,17 @@ Onda će CLion moći automatski da ih pronađe i konfigurše okruženje.
 ![podešavanje](img/clion_05.png)
 
 7) To je sve.
+
 ![podešavanje](img/clion_06.png)
 
 8) CLion će biti dostupan kao aplikacija na sistemu. Može se pokretati preko prečice.
+
 ![podešavanje](img/clion_07.png)
 
 9) Kada se projekat prvi put učita okruženju je ponekad potrebno vremena da indeksira sve fajlove.
 Nakon indeksiranja biće dostupne funkcije okruženja koje pomažu u radu kao što su dokumentacija,
 predlaganja, pronalaženje simbola u projektu i slično.
+
 ![podešavanje](img/clion_08.png)
 
 
