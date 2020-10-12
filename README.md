@@ -33,6 +33,8 @@
 
 [Domaci](https://matf-racunarska-grafika.github.io/domaci/)
 
+[Uputstva](uputstva/) CLion, Github
+
 ### 01
 -[CLion](https://www.jetbrains.com/clion/): integrisano razvojno okruženje, kompajliranje, debagovanje, CMake
 
