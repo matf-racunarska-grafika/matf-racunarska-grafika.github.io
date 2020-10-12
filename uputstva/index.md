@@ -1,6 +1,9 @@
 # Uputstva
 
 ## CLion
+CLion je integrisano razvojno okruženje namenjeno za programske jezike C i C++.
+
+Bazirano je na IntelliJ okruženju koje se koristi na predmetu OOP.
 
 ### Ubuntu 16.04+
 Pre instalacija obavezno poreknuti komande u terminalu:
@@ -42,11 +45,29 @@ Onda će CLion moći automatski da ih pronađe i konfigurše okruženje.
 
 ![podešavanje](img/clion_07.png)
 
-9) Kada se projekat prvi put učita okruženju je ponekad potrebno vremena da indeksira sve fajlove.
+
+9) https://www.jetbrains.com/community/education/#students
+
+Potrebno je registrovati besplatnu studentsku licencu. Kliknuti na plavo `Applay now` dugme.
+Nakon toga popuniti formular i obavezno uneti *alas* mejl adresu.
+
+![podešavanje](img/clion_09.png)
+
+Na alas mejl adresu će stići mejl za potvrdu. Nakon potvrde naloge dobija se studentska
+licenca.
+
+10) Aktivirati studentsku licencu preko JetBrains naloga koji ste upravo napravili.
+
+![podešavanje](img/clion_10.png)
+
+
+-Kada se projekat prvi put učita okruženju je ponekad potrebno vremena da indeksira sve fajlove.
 Nakon indeksiranja biće dostupne funkcije okruženja koje pomažu u radu kao što su dokumentacija,
 predlaganja, pronalaženje simbola u projektu i slično.
 
 ![podešavanje](img/clion_08.png)
+
+
 
 
 ## Github
