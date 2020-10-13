@@ -6,6 +6,7 @@ Sastanak je otvoren. Počinjemo u 13:15.
 
 https://matf.webex.com/meet/marko_spasic
 
+Cas je u toku! :)
 
 ## Obaveštenja
 [11.10.2020. 11:46] 
