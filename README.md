@@ -3,6 +3,7 @@
 
 ## Čas 01 3i12
 Sastanak je otvoren. Počinjemo u 13:15.
+
 https://matf.webex.com/meet/marko_spasic
 
 
