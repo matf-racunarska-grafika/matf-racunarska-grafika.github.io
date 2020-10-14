@@ -10,6 +10,8 @@ Pocinjemo u 8:15.
 
 Cas je u toku! :)
 
+Jos neka promena od drguog clana! :)
+
 ## Obaveštenja
 [11.10.2020. 11:46] 
 -Vežbe će se održavati online putem platforme Webex u terminu po rasporedu časova. 
