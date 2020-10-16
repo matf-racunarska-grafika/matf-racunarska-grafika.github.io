@@ -1,15 +1,6 @@
 # Računarska grafika 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## Cas 01 11-14
-Cas je otvoren:
-https://matf.webex.com/meet/marko_spasic
-
-Pocinjemo u 11:15
-
-Cas je u toku! :)
-asdfasdf
-dodati jos nesto od drugog kolege
 ## Obaveštenja
 [11.10.2020. 11:46] 
 -Vežbe će se održavati online putem platforme Webex u terminu po rasporedu časova. 
@@ -34,7 +25,8 @@ dodati jos nesto od drugog kolege
 **Da bi se ispit položio potrebno je na projektu osvojiti bar 25 poena, na završnom teorijskom ispitu osvojiti bar 20 poena i u zbiru imati bar 51 poen.**
 
 ## Materijali
-[Snimci, prezentacije, dokumenti](https://drive.google.com/drive/folders/1KqTmrBcbMp_hbUfxV9fCBXvuXd6Wgcbm?usp=sharing)
+[Snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) 
+[Prezentacije, dokumenti](https://drive.google.com/drive/folders/1KqTmrBcbMp_hbUfxV9fCBXvuXd6Wgcbm?usp=sharing)
 
 [Kodovi sa časa](https://github.com/matf-racunarska-grafika/kodovi-sa-casa-2020-2021)
 
