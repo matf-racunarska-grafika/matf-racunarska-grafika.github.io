@@ -5,7 +5,9 @@
 [11.10.2020. 11:46] 
 -Vežbe će se održavati online putem platforme Webex u terminu po rasporedu časova. 
 
--Snimci sa vežbi će biti okačeni. Upustvo za pristup i korišćenje možete pročitati  
+-Snimci sa vežbi će biti okačeni. 
+
+-Upustvo za pristup i korišćenje možete pročitati  
 [ovde](http://alas.matf.bg.ac.rs/webexUputstvoStudenti.pdf). 
 
 -Link za pristup vežbama će biti postavljen na ovoj stranici desetak minuta pre početka vežbi.
@@ -26,6 +28,7 @@
 
 ## Materijali
 [Snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) 
+
 [Prezentacije, dokumenti](https://drive.google.com/drive/folders/1KqTmrBcbMp_hbUfxV9fCBXvuXd6Wgcbm?usp=sharing)
 
 [Kodovi sa časa](https://github.com/matf-racunarska-grafika/kodovi-sa-casa-2020-2021)
