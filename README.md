@@ -5,6 +5,8 @@
 Cas je otvoren:
 https://matf.webex.com/meet/marko_spasic
 
+Pocinjemo u 11:15
+
 ## Obaveštenja
 [11.10.2020. 11:46] 
 -Vežbe će se održavati online putem platforme Webex u terminu po rasporedu časova. 
