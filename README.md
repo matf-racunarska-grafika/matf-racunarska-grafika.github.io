@@ -1,14 +1,10 @@
 # Računarska grafika 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## Cas 01 08-11
+## Cas 01 11-14
 Cas je otvoren:
 https://matf.webex.com/meet/marko_spasic
 
-Pocinjemo u 8:15.
-
-Cas je u toku :) ...
-Cas ce se uskoro zavrsiti...
 ## Obaveštenja
 [11.10.2020. 11:46] 
 -Vežbe će se održavati online putem platforme Webex u terminu po rasporedu časova. 
