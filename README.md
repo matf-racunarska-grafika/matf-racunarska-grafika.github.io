@@ -2,6 +2,9 @@
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
 ## Obaveštenja
+[17.10.2020. 09:18] Okačeni su [snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) časova prve nedelje.
+
+
 [11.10.2020. 11:46] 
 -Vežbe će se održavati online putem platforme Webex u terminu po rasporedu časova. 
 
