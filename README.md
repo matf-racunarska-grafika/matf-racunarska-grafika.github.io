@@ -18,8 +18,10 @@ Ako ste zainteresovani stavite odgovor u dole navedenu formu.
 
 Ako bude dovoljno prijavljenih vidimo se u subotu.
 
-Pozdrav
 [Vikend stream forma](https://forms.gle/sYgfWXYjFAVxbj6H6)
+
+Pozdrav
+
 
 [17.10.2020. 09:18] Okačeni su [snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) časova prve nedelje.
 
