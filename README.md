@@ -5,7 +5,21 @@
 
 ## Obaveštenja
 
-[20.10.2020. 20:38] [Vikend stream forma](https://forms.gle/sYgfWXYjFAVxbj6H6)
+[20.10.2020. 21:38] 
+C++, Clion, Git i Github su alati koje ćemo koristiti tokom kursa i o njima bi mogao da se napravi dodatni predmet.
+
+Kako bi olakšali rad i mogli da se fokusiramo na grafiku imao sam ideju da napravim jedan Twitch stream u subotu 24.10. početkom
+u 16:00 na kom bi barem 2-3 sata programirao u C++ u Clion-u i koristio git i github za sve što uradim sa idejom
+da steknete bolji osećaj kako napreduje ceo tok rada na projektu i da naučimo C++.
+
+Biće na Twitchu jer onda mogu da strimujem FullHD 60fps pa bude lakše za gledanje.
+
+Ako ste zainteresovani stavite odgovor u dole navedenu formu.
+
+Ako bude dovoljno prijavljenih vidimo se u subotu.
+
+Pozdrav
+[Vikend stream forma](https://forms.gle/sYgfWXYjFAVxbj6H6)
 
 [17.10.2020. 09:18] Okačeni su [snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) časova prve nedelje.
 
