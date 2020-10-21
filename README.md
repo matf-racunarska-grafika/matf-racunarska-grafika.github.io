@@ -48,6 +48,25 @@ Pozdrav
 
 **Da bi se ispit položio potrebno je na projektu osvojiti bar 25 poena, na završnom teorijskom ispitu osvojiti bar 20 poena i u zbiru imati bar 51 poen.**
 
+## Projekat
+
+-Tim za projekat ima 2 člana. Ko želi, može da radi sam.
+
+-Prijava tema će početi od 7-8 nedelje kada budemo prešli dovoljno gradiva da možete da smislite šta bi ste radili.
+
+-Projekat mora da sadrži sve iz prvih 7 nedelja. 
+
+-(PODLOŽNO IZMENI U ZAVISNOSTI KOLIKO GRADIVA STIGNEMO DA PREĐEMO) Po jednu oblast iz svake od nedelja 9, 10, 11 i 12. Na primer: Blending (09), Instancing (10),
+Shadow mapping (11), Bloom (12)
+
+-Pred svaki termin ispita biće zakazane odbrane projekata. Jednom urađen i odbranjen projekat važi u svim rokovima.
+
+-Urađen i odbranjen projekat je uslov za izlazak na završni teorijski ispit.
+
+-Odbrana projekta se sastoji iz: prezentacije projekta i pitanja za sam projekat, opšta pitanja gradiva sa vežbi.
+
+-Uspešno urađen i odbranjen projekat u januarskom ili februarskom roku donosi bonus 5 poena.
+
 ## Materijali
 [Snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) 
 
