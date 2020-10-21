@@ -67,6 +67,10 @@ Shadow mapping (11), Bloom (12)
 
 -Uspešno urađen i odbranjen projekat u januarskom ili februarskom roku donosi bonus 5 poena.
 
+-Nije moguće preneti bodove projekta iz predhodne školske godine. Gradivo je promenjeno.
+
+
+
 ## Materijali
 [Snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) 
 
