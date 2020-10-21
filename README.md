@@ -1,6 +1,12 @@
 # Računarska grafika 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
+## Cas 02 08-11
+Cas je otvoren.
+
+https://matf.webex.com/meet/marko_spasic
+
+Pocinjemo u 8:15.
 
 
 ## Obaveštenja
