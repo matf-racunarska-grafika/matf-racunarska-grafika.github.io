@@ -1,24 +1,16 @@
 # Računarska grafika 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## Cas 02 08-11
-Cas je otvoren.
-
-https://matf.webex.com/meet/marko_spasic
-
-Pocinjemo u 8:15.
-
-
 ## Obaveštenja
 
 [20.10.2020. 21:38] 
 C++, Clion, Git i Github su alati koje ćemo koristiti tokom kursa i o njima bi mogao da se napravi dodatni predmet.
 
 Kako bi olakšali rad i mogli da se fokusiramo na grafiku imao sam ideju da napravim jedan Twitch stream u subotu 24.10. početkom
-u 16:00 na kom bi barem 2-3 sata programirao u C++ u Clion-u i koristio git i github za sve što uradim sa idejom
+u 16:00 na kom bi barem 2-3 sata programirao u C++-u, Clion-u i koristio git i github za sve što uradim sa idejom
 da steknete bolji osećaj kako napreduje ceo tok rada na projektu i da naučimo C++.
 
-Biće na Twitchu jer onda mogu da strimujem FullHD 60fps pa bude lakše za gledanje.
+Biće na Twitchu jer prenos može da bude FullHD 60fps, što je prijatnije za praćenje.
 
 Ako ste zainteresovani stavite odgovor u dole navedenu formu.
 
