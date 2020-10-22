@@ -227,6 +227,10 @@ Provera verzije OpenGL: `glxinfo | grep OpenGL`
 
 [Github](https://github.com/)
 
+### Licenca
+Materijali kursa su bazirani na www.learnopengl.com sajtu napravljenom od strane [Joey De Vries](https://joeydevries.com/#home) i kao takvi spadaju pod [CC BY-NC 4.0)(https://creativecommons.org/licenses/by-nc/4.0/) licencu. Celokupan tekst licence možete pronaći [ovde](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+
 <!--- <3 N --->
 
 
