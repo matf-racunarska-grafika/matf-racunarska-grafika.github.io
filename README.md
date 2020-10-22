@@ -83,7 +83,8 @@ Shadow mapping (11), Bloom (12)
 
 [Uputstva](uputstva/) CLion, Github
 
-[Skelet projekta](https://github.com/matf-racunarska-grafika/project_base) Skelet projekta sa svim uključenim bibliotekama za vežbanje primera sa časa. Biće dopunjavan tokom semestra.
+[Skelet projekta](https://github.com/matf-racunarska-grafika/project_base) Skelet projekta sa svim uključenim bibliotekama za vežbanje primera sa časa. 
+Biće dopunjavan tokom semestra.
 
 ### 01
 -[CLion](https://www.jetbrains.com/clion/): integrisano razvojno okruženje, kompajliranje, debagovanje, CMake
