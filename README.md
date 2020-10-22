@@ -70,7 +70,6 @@ Shadow mapping (11), Bloom (12)
 -Nije moguće preneti bodove projekta iz predhodne školske godine. Gradivo je promenjeno.
 
 
-
 ## Materijali
 [Snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) 
 
@@ -83,6 +82,8 @@ Shadow mapping (11), Bloom (12)
 [Domaci](https://matf-racunarska-grafika.github.io/domaci/)
 
 [Uputstva](uputstva/) CLion, Github
+
+[Skelet projekta](https://github.com/matf-racunarska-grafika/project_base) Skelet projekta sa svim uključenim bibliotekama za vežbanje primera sa časa. Biće dopunjavan tokom semestra.
 
 ### 01
 -[CLion](https://www.jetbrains.com/clion/): integrisano razvojno okruženje, kompajliranje, debagovanje, CMake
