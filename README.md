@@ -77,7 +77,7 @@ Shadow mapping (11), Bloom (12)
 
 [Kodovi sa časa](kodovi/)
 
-[learnopengl repozitorijum](https://learnopengl.com/Code-repository)
+[learnopengl repozitorijum](https://github.com/matf-racunarska-grafika/LearnOpenGL/)
 
 [Domaci](https://matf-racunarska-grafika.github.io/domaci/)
 
