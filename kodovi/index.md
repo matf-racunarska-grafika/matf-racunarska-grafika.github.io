@@ -1,5 +1,11 @@
 # Primeri sa časa
 
+[Repozitorijum](https://github.com/matf-racunarska-grafika/LearnOpenGL/)
+
+## Nedelja 01
+Nije bilo programiranja.
+
+
 ## Nedelja 02
 [hello_window](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/1.1.hello_window)
 
