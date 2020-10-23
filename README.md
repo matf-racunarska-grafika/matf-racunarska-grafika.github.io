@@ -1,13 +1,6 @@
 # Računarska grafika 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## Cas 11-14 
-Cas je otvoren.
-
-https://matf.webex.com/meet/marko_spasic
-
-Pocinjemo u 11:15.
-
 ## Obaveštenja
 
 [20.10.2020. 21:38] 
@@ -82,7 +75,7 @@ Shadow mapping (11), Bloom (12)
 
 [Prezentacije, dokumenti](https://drive.google.com/drive/folders/1KqTmrBcbMp_hbUfxV9fCBXvuXd6Wgcbm?usp=sharing)
 
-[Kodovi sa časa](https://github.com/matf-racunarska-grafika/kodovi-sa-casa-2020-2021)
+[Kodovi sa časa](kodovi/)
 
 [learnopengl repozitorijum](https://learnopengl.com/Code-repository)
 
