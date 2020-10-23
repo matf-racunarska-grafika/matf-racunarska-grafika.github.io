@@ -2,6 +2,17 @@
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
 ## Obaveštenja
+[23.10.2020 19:11] 
+Link za vikend strim (subota 24.10.) biće okačen na ovoj stranici oko 16:00h. 
+Počeće u 16:15h.
+
+Nije potrebno instalirati nikakav dodatan softver. Strim će biti preko twitch.tv
+
+Teme: C++, CLion, Git, CMake.
+
+Vidimo se! :)
+
+
 [23.10.2020. 17:34] Dodata je sekcija [kodova sa časa](kodovi/). Kada klonirate repozitorijum sa primerima klonirajte 
 https://github.com/matf-racunarska-grafika/LearnOpenGL/. U njemu su dodati neki primeri kojih nema u originalnom repozitorijumu. Uskoro
 će i video tutorial o kloniranju repozitorijuma sa svim primerima biti izmenjen.
