@@ -2,6 +2,10 @@
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
 ## Obaveštenja
+[23.10.2020. 17:34] Dodata je sekcija [kodova sa časa](kodovi/). Kada klonirate repozitorijum sa primerima klonirajte 
+https://github.com/matf-racunarska-grafika/LearnOpenGL/. U njemu su dodati neki primeri kojih nema u originalnom repozitorijumu. Uskoro
+će i video tutorial o kloniranju repozitorijuma sa svim primerima biti izmenjen.
+
 
 [20.10.2020. 21:38] 
 C++, Clion, Git i Github su alati koje ćemo koristiti tokom kursa i o njima bi mogao da se napravi dodatni predmet.
