@@ -2,46 +2,17 @@
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
 ## Obaveštenja
-[24.10.2020 15:45] 
-https://www.twitch.tv/spasicmark0/
 
-Strim će biti otvoren oko 16:00. Počećemo oko 16:15.
+[23.10.2020. 17:34] 
 
-[23.10.2020 19:11] 
-Link za vikend strim (subota 24.10.) biće okačen na ovoj stranici oko 16:00h. 
-Počeće u 16:15h.
-
-Nije potrebno instalirati nikakav dodatan softver. Strim će biti preko twitch.tv
-
-Teme: C++, CLion, Git, CMake.
-
-Vidimo se! :)
-
-
-[23.10.2020. 17:34] Dodata je sekcija [kodova sa časa](kodovi/). Kada klonirate repozitorijum sa primerima klonirajte 
+Dodata je sekcija [kodova sa časa](kodovi/). Kada klonirate repozitorijum sa primerima klonirajte 
 https://github.com/matf-racunarska-grafika/LearnOpenGL/. U njemu su dodati neki primeri kojih nema u originalnom repozitorijumu. Uskoro
 će i video tutorial o kloniranju repozitorijuma sa svim primerima biti izmenjen.
 
 
-[20.10.2020. 21:38] 
-C++, Clion, Git i Github su alati koje ćemo koristiti tokom kursa i o njima bi mogao da se napravi dodatni predmet.
+[17.10.2020. 09:18] 
 
-Kako bi olakšali rad i mogli da se fokusiramo na grafiku imao sam ideju da napravim jedan Twitch stream u subotu 24.10. početkom
-u 16:00 na kom bi barem 2-3 sata programirao u C++-u, Clion-u i koristio git i github za sve što uradim sa idejom
-da steknete bolji osećaj kako napreduje ceo tok rada na projektu i da naučimo C++.
-
-Biće na Twitchu jer prenos može da bude FullHD 60fps, što je prijatnije za praćenje.
-
-Ako ste zainteresovani stavite odgovor u dole navedenu formu.
-
-Ako bude dovoljno prijavljenih vidimo se u subotu.
-
-[Vikend stream forma](https://forms.gle/sYgfWXYjFAVxbj6H6)
-
-Pozdrav
-
-
-[17.10.2020. 09:18] Okačeni su [snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) časova prve nedelje.
+Okačeni su [snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) časova prve nedelje.
 
 
 [11.10.2020. 11:46] 
