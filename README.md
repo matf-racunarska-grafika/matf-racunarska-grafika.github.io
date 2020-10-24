@@ -2,6 +2,11 @@
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
 ## Obaveštenja
+[24.10.2020 15:45] 
+https://www.twitch.tv/spasicmark0/
+
+Strim će biti otvoren oko 16:00. Počećemo oko 16:15.
+
 [23.10.2020 19:11] 
 Link za vikend strim (subota 24.10.) biće okačen na ovoj stranici oko 16:00h. 
 Počeće u 16:15h.
