@@ -2,7 +2,6 @@
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
 ## Obaveštenja
-
 [23.10.2020. 17:34] 
 
 Dodata je sekcija [kodova sa časa](kodovi/). Kada klonirate repozitorijum sa primerima klonirajte 
@@ -63,6 +62,10 @@ Shadow mapping (11), Bloom (12)
 
 ## Materijali
 [Snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) 
+
+[cpp tutorial repozitorijum](https://github.com/spaske00/cpp_tutorial)
+
+[cpp tutorial snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
 
 [Prezentacije, dokumenti](https://drive.google.com/drive/folders/1KqTmrBcbMp_hbUfxV9fCBXvuXd6Wgcbm?usp=sharing)
 
