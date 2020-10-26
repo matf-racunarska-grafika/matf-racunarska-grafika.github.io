@@ -4,7 +4,7 @@
 ## Obaveštenja
 **[26.10.2020. 08:00]**
 
-Dodata je link u sekciji Materijali za C++.
+Dodati su linkovi u sekciji Materijali za C++.
 [cpp tutorial repozitorijum](https://github.com/spaske00/cpp_tutorial)
 
 [cpp tutorial snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
@@ -216,6 +216,8 @@ Provera verzije OpenGL: `glxinfo | grep OpenGL`
 -[learnopengl](https://learnopengl.com/)
 
 -[learncpp](https://www.learncpp.com/)
+
+-[Tour of C++ - Bjarne](https://www.google.com/search?q=Bjarne+Stroustrup+-+A+Tour+of+C%2B%2B-Addison-Wesley+Professional+(2018))
 
 ### Dokumentacija
 -[OpenGL docs](http://docs.gl/)
