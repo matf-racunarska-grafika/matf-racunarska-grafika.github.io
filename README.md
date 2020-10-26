@@ -2,7 +2,7 @@
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
 ## Obaveštenja
-[26.10.2020. 08:00]
+**[26.10.2020. 08:00]**
 
 Dodata je link u sekciji Materijali za C++.
 [cpp tutorial repozitorijum](https://github.com/spaske00/cpp_tutorial)
@@ -15,18 +15,20 @@ Knjiga [Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018)] je
 jedno popodne. Samo obratite pažnju da bude drugo izdanje.
 
 
-[23.10.2020. 17:34] 
+**[23.10.2020. 17:34]**
+
 Dodata je sekcija [kodova sa časa](kodovi/). Kada klonirate repozitorijum sa primerima klonirajte 
 https://github.com/matf-racunarska-grafika/LearnOpenGL/. U njemu su dodati neki primeri kojih nema u originalnom repozitorijumu. Uskoro
 će i video tutorial o kloniranju repozitorijuma sa svim primerima biti izmenjen.
 
 
-[17.10.2020. 09:18] 
+**[17.10.2020. 09:18]** 
 
 Okačeni su [snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) časova prve nedelje.
 
 
-[11.10.2020. 11:46] 
+**[11.10.2020. 11:46]** 
+
 -Vežbe će se održavati online putem platforme Webex u terminu po rasporedu časova. 
 
 -Snimci sa vežbi će biti okačeni. 
@@ -36,7 +38,9 @@ Okačeni su [snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5
 
 -Link za pristup vežbama će biti postavljen na ovoj stranici desetak minuta pre početka vežbi.
 
-[10.10.2020. 11:20] Na ovoj stranici će biti postavljeni linkovi za vežbe.
+**[10.10.2020. 11:20]**
+
+Na ovoj stranici će biti postavljeni linkovi za vežbe.
 
 ## Nastavnici i asistenti
 -nastavnik: [dr. Vesna Marinković](http://poincare.matf.bg.ac.rs/~vesnam/grafika.html)
