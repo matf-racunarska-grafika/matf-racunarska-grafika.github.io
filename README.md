@@ -2,8 +2,20 @@
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
 ## Obaveštenja
-[23.10.2020. 17:34] 
+[26.10.2020. 08:00]
 
+Dodata je link u sekciji Materijali za C++.
+[cpp tutorial repozitorijum](https://github.com/spaske00/cpp_tutorial)
+
+[cpp tutorial snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
+
+Do kraja dana će biti okačeno još snimaka. 
+
+Knjiga [Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018)] je dobar uvod u C++ i može se pročitati za
+jedno popodne. Samo obratite pažnju da bude drugo izdanje.
+
+
+[23.10.2020. 17:34] 
 Dodata je sekcija [kodova sa časa](kodovi/). Kada klonirate repozitorijum sa primerima klonirajte 
 https://github.com/matf-racunarska-grafika/LearnOpenGL/. U njemu su dodati neki primeri kojih nema u originalnom repozitorijumu. Uskoro
 će i video tutorial o kloniranju repozitorijuma sa svim primerima biti izmenjen.
