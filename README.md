@@ -5,6 +5,7 @@
 **[26.10.2020. 08:00]**
 
 Dodati su linkovi u sekciji Materijali za C++.
+
 [cpp tutorial repozitorijum](https://github.com/spaske00/cpp_tutorial)
 
 [cpp tutorial snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
