@@ -20,7 +20,7 @@ Na kraju, pogledajte rešenje kako bi ste proverili da li ste ispravno uradili i
     
  Proveriti verziju: `glxinfo | grep OpenGL`
     
-6. Klonirati [learnopengl](https://github.com/JoeyDeVries/LearnOpenGL) repozitorijum; poreknuti svaki primer
+6. Klonirati [learnopengl](https://github.com/matf-racunarska-grafika/LearnOpenGL) repozitorijum; poreknuti svaki primer
 
 7. Pročitati lekcije za sledeće vežbe
 
@@ -40,3 +40,26 @@ Rešenja:
 2. /src/1.getting_started/2.4.hello_triangle_exercise2/
 
 3. /src/1.getting_started/2.5.hello_triangle_exercise3/
+
+# 03
+
+1. Izmeniti vrteks šejder u primeru 3.2. tako da trougao pokazuje na dole
+
+2. Napraviti horizontalni offset preko uniform promenljive i pomeriti trougao u desni deo ekrana preko vrteks šejdera
+za ovu vrednost.
+
+3. Proslediti poziciju vrteksa fragment šejderu koristeći out i postaviti boju
+u fragment šejderu da bude jednaka poziciji vrteksa. Jednom kada se to desi
+odgovoriti na pitanje: Zašto je donji levi deo trougla crn?
+
+4. Odgledati [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown)
+
+5. Odgledati [Projective geometry and homogeneous coordinates](https://www.youtube.com/watch?v=q3turHmOWq4)
+
+**Rešenja:**
+
+1. /src/1.getting_started/3.4.shaders_exercies1/shaders_exercies1.cpp
+
+2. /src/1.getting_started/3.5.shaders_exercies2/shaders_exercies2.cpp
+
+3. /src/1.getting_started/3.6.shaders_exercies3/shaders_exercies3.cpp
