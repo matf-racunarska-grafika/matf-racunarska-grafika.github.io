@@ -1,14 +1,6 @@
 # Računarska grafika 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## Čas Petak 11-14
-
-Čas je otvoren.
-
-https://matf.webex.com/meet/marko_spasic
-
-Počinjemo u 11:15.
-
 
 ## Obaveštenja
 **[26.10.2020. 08:00]**
@@ -105,6 +97,9 @@ Shadow mapping (11), Bloom (12)
 
 [Skelet projekta](https://github.com/matf-racunarska-grafika/project_base) Skelet projekta sa svim uključenim bibliotekama za vežbanje primera sa časa. 
 Biće dopunjavan tokom semestra.
+
+## Konsultacije
+Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 
 ### 01
 -[CLion](https://www.jetbrains.com/clion/): integrisano razvojno okruženje, kompajliranje, debagovanje, CMake
