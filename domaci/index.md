@@ -35,11 +35,11 @@ Na kraju, pogledajte rešenje kako bi ste proverili da li ste ispravno uradili i
 
 Rešenja:
 
-1. /src/1.getting_started/2.3.hello_triangle_ exercise1/
+[1.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.3.hello_triangle_exercise1)
 
-2. /src/1.getting_started/2.4.hello_triangle_exercise2/
+[2.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.4.hello_triangle_exercise2/)
 
-3. /src/1.getting_started/2.5.hello_triangle_exercise3/
+[3.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.5.hello_triangle_exercise3/)
 
 # 03
 
@@ -52,14 +52,34 @@ za ovu vrednost.
 u fragment šejderu da bude jednaka poziciji vrteksa. Jednom kada se to desi
 odgovoriti na pitanje: Zašto je donji levi deo trougla crn?
 
-4. Odgledati [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown)
+4. Napraviti da samo happyface gleda u drugom smeru horizontalno
 
-5. Odgledati [Projective geometry and homogeneous coordinates](https://www.youtube.com/watch?v=q3turHmOWq4)
+5. Eksperimentisati sa različitim metodama texture wrapping navođenjem koordinata u opsegu 0.0f do 2.0f umesto 1.0f. Probajte da prikažete
+4 smajlija na jednoj slici kutije.[rezultat](https://learnopengl.com/img/getting-started/textures_exercise2.png)
 
+6. Probajte da prikažate samo centralne piksele teksture slike na pravougaoniku tako da se individualni pikseli vide kada menjamo kooridnate
+teksture. Probati sa različitim metodama flitritranja.
+
+7. Iskoristiti uniform promenljivu kao treći argument mix funkcije u vrteks šejderu. Postaviti da vrednost može da se povećava i smanjuje strelicama
+tastature.
+
+8. Odgledati [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown)
+
+9. Odgledati [Projective geometry and homogeneous coordinates](https://www.youtube.com/watch?v=q3turHmOWq4)
+
+10. Napraviti abstrakciju nad kodom za učitavanje i rad sa teksturama 
 **Rešenja:**
 
-1. /src/1.getting_started/3.4.shaders_exercies1/shaders_exercies1.cpp
+[1.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.4.shaders_exercies1/shaders_exercies1.cpp)
 
-2. /src/1.getting_started/3.5.shaders_exercies2/shaders_exercies2.cpp
+[2.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.5.shaders_exercies2/shaders_exercies2.cpp)
 
-3. /src/1.getting_started/3.6.shaders_exercies3/shaders_exercies3.cpp
+[3.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.6.shaders_exercies3/shaders_exercies3.cpp)
+
+[4.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise1)
+
+[5.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise2)
+
+[6.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise3)
+
+[7.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise4)
