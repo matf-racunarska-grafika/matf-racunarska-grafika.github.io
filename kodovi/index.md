@@ -27,6 +27,9 @@ Nije bilo programiranja.
 
 
 ## Nedeljla 03
+
+[Shader class](https://github.com/matf-racunarska-grafika/LearnOpenGL/blob/master/includes/rg/Shader.h)
+
 [3.1.shaders_uniform](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.1.shaders_uniform)
 
 [3.2.shaders_interpolation](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.2.shaders_interpolation)
