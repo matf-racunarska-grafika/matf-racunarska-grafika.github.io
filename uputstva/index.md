@@ -67,9 +67,6 @@ predlaganja, pronalaženje simbola u projektu i slično.
 
 ![podešavanje](img/clion_08.png)
 
-
-
-
 ## Github
 1) https://github.com/
 
@@ -78,4 +75,39 @@ predlaganja, pronalaženje simbola u projektu i slično.
 3) Unesite svoje informacije. Mejl ne mora biti sa alasa.
 
 4) Potvrdite nalog.
+
+## Šta radi FileSystem::getPath?
+
+U [repozitorijumu](https://github.com/matf-racunarska-grafika/LearnOpenGL/) radni direktorijum svakog programa je bin/*redni_broj_poglavlja*/.
+
+Na primer, kada pokrenemo 1.1.getting_started/3.3.shaders_class, radni direktorijum iz kojeg se startuje program je
+bin/1.1.getting_started relativno od korenog direkotrijuma projekta.
+
+U primerima u repozitrijumu se fajl koji sadrži izvorni kod nekog šejdera nalazi u istom direktorijumu kao 
+i izvorni kod tog primera. Tako se šejderi za 1.1.getting_started/3.3.shaders_class nalaze u direktorijumu
+src/1.1.getting_started/3.3.shaders_class. Kada se bilduje ceo projekat šejderi se iskopiraju
+u bin/*redni_broj_poglavlja*. Zbog toga u repozitorijumu kada se koristi šejder klasa kao na [primer](https://github.com/matf-racunarska-grafika/LearnOpenGL/blob/master/src/1.getting_started/3.3.shaders_class/shaders_class.cpp) na liniji 50 navodi se samo ime šejdera.
+
+Kada smo kucali na času, u project_base šederi si nalaze na putanji resources/shaders/, a radni direktorijum projekta pri pokretanju je
+koreni direktorijum projekta. Zato smo navodili resources/shaders/vertexShader.vs na primer.
+
+U [repozitorijumu](https://github.com/matf-racunarska-grafika/LearnOpenGL/)  svim primerima susrešće te se sa funkcijom
+FileSystem::getPath kao na [primer](https://github.com/matf-racunarska-grafika/LearnOpenGL/blob/master/src/1.getting_started/4.1.textures/textures.cpp) na
+liniji 105.
+
+To je opet zato što u tom repozirtorijumu radni direktorijum programa kada se pokrene je bin/*redni_broj_poglavlja* relativno od korenog direktorijuma
+celog projekta, a teksture se nalaze u resources/textures. Sve što uradi FileSystem::getPath("resources/textures/container.jpg") je da pretvori
+u "../../resources/textures/container.jpg".
+
+
+Kada radimo sa project_base ne koristimo FileSystem::getPath jer je radni direktorijum programa postavljen da bude koreni direktorijum programa.
+Implementacija FileSystem::getPath je za project_base izmenjena tako da odgovara toj razlici. Copy-paste primeri bi trebalo da rade bez problema,
+samo treba osigurati da su šejderi u resources/shaders/ i da svaki put kada učitavamo šejder navedemo punu putanju
+resources/shaders/vertexShader.vs.
+
+Ili se šejderi mogu staviti u koreni direktorijum projekta.
+
+
+
+
 
