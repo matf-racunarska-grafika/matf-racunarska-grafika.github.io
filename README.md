@@ -123,9 +123,11 @@ Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 
 -[Textures](https://learnopengl.com/Getting-started/Textures): teksture, mapiranje tekstura, MipMaps
 
--[Transformations](https://learnopengl.com/Getting-started/Transformations): vektori, matrice, operacije nad matricama, translacije, rotacije, GLM
+
 
 ### 04
+-[Transformations](https://learnopengl.com/Getting-started/Transformations): vektori, matrice, operacije nad matricama, translacije, rotacije, GLM
+
 -[Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems): local space, world space, view space, clip space, screen space
 
 -[Camera](https://learnopengl.com/Getting-started/Camera): pozicija, pogled, opseg, kretanje kamere, Camera klasa (još abstrakcija)
