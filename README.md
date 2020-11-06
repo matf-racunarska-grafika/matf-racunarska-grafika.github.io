@@ -2,7 +2,6 @@
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
 
-
 ## [Obaveštenja](#obaveštenja) [Bodovanje](#bodovanje) [Projekat](#projekat) [Materijali](#materijali) [Literatura, Dokumentacija, Alati](#literatura)
 
 ## Obaveštenja
@@ -225,7 +224,7 @@ Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 ### 13
 
 ### Biblioteke
-`sudo apt-get install g++ cmake git build-essential libgl1-mesa-dev libsoil-dev libglm-dev libassimp-dev libglew-dev libglfw3-dev libxinerama-dev libxcursor-dev libxi-dev mesa-common-dev mesa-utils libxxf86vm-dev libfreetype-dev`
+`sudo apt-get install g++ cmake git build-essential libgl1-mesa-dev libsoil-dev libglm-dev libassimp-dev libglew-dev libglfw3-dev libxinerama-dev libxcursor-dev libxi-dev mesa-common-dev mesa-utils libxxf86vm-dev libfreetype6-dev`
 
 Provera verzije OpenGL: `glxinfo | grep OpenGL`
 
