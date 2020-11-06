@@ -83,3 +83,30 @@ tastature.
 [6.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise3)
 
 [7.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise4)
+
+# 04
+
+1. Zameniti redosled transformacija u 5.1.transformations i posmatrati rezultat
+
+2. Nacrtati još jedanu kopiju pravougaonika koristeći samo transformacije i još jedan poziv glDrawElements.
+
+3. Eksperimentisati sa FoV i asepct-ratio parametrima funkcije glm::perspective. 
+
+4. Posmatrati kako utiču na piramidu pogleda kamere. Igrati se sa view matricom translirajući u više smerova i posmatrati kako scena menja. Razmišljati i view matrici kao kamera objektu.
+
+5. Napraviti da se svaka treća kutija rotira kontinualno, a druge da stoje statično na postavljenom mestu.
+
+6. Napisati kamera klasu tako da postane prava FPS kamera gde je moguće samo kretanje po xz ravni i gledanje naokolo.
+
+7. Napraviti vašu LookAt funkciju koja ima iste parametre kao glm::lookAt i kreira lookAt matricu. Zameniti glm implementaciju i proveriti da li radi ispravno.
+
+**Rešenja:**
+
+[2.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/5.2.transformations_exercise1)
+
+[5.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/6.4.coordinate_systems_exercise3)
+
+[6.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/7.5.camera_exercise1)
+
+[7.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/7.6.camera_exercise2)
+
