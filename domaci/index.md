@@ -162,6 +162,6 @@ neke vektore i koristiti < umesto >. Objasniti rezultat.
 
 # 07
 
-1. Upoznati se sa Blender alatom za modelovanje: https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri
+1. Upoznati se sa Blender alatom za modelovanje: [yt](https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri)
 
-2. Naučiti pripremu modela za učitavanje u OpenGL: https://www.youtube.com/watch?v=4DQquG_o-Ac
+2. Naučiti pripremu modela za učitavanje u OpenGL: [yt](https://www.youtube.com/watch?v=4DQquG_o-Ac)
