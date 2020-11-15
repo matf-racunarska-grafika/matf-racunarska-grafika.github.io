@@ -110,3 +110,31 @@ tastature.
 
 [7.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/7.6.camera_exercise2)
 
+# 05
+
+1. Napraviti da se izvor svetlosti pomera po sceni po nekoj funkciji sin ili cos.
+
+2. Eksperimentisati sa ambijentalnom, difuznom, i spekularnom jačinom i posmatrati rezultate. Takođe, menjati i shininess faktor.
+
+3. Implementirati phonogovo sečenje u View-space koordinatama umesto u World-space koordinatama.
+
+4. Implementirati Gouraud osvetljenje umesto Phongovog osvetljenja. Zašto izgleda drugačije?
+
+5. Promenom vrednosti svetla promeniti boju kocke.
+
+6. Simulirati objekte iz stvarnog sveta definisajući njihove materijale. Uzeti u obzir da u [tabeli](http://devernay.free.fr/cours/opengl/materials.html) 
+ambijentalne vrednosti nisu iste kao difuzne. Kako bi ispravno postavili vrednosti uzeti da su sve komponente svetlosti inteziteta vec3(1.0f).
+
+Can you simulate some of the real-world objects by defining their respective materials like we've seen at the start of this chapter? Note that the table's ambient values are not the same as the diffuse values; they didn't take light intensities into account. To correctly set their values you'd have to set all the light intensities to vec3(1.0) to get the same output: solution of cyan plastic container.
+
+**Rešenja:**
+
+[1. 2.lighting/2.3.basic_lighting_exercise1/basic_lighting_exercise1.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.3.basic_lighting_exercise1/basic_lighting_exercise1.cpp)
+
+[3. 2.lighting/2.4.basic_lighting_exercise2/basic_lighting_exercise2.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.4.basic_lighting_exercise2/basic_lighting_exercise2.cpp)
+
+[4. 2.lighting/2.5.basic_lighting_exercise3/basic_lighting_exercise3.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.5.basic_lighting_exercise3/basic_lighting_exercise3.cpp)
+
+[6. 2.lighting/3.2.materials_exercise1/materials_exercise1.cpp](2.lighting/3.2.materials_exercise1/materials_exercise1.cpp)
+
+
