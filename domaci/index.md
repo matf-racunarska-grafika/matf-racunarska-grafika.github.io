@@ -33,7 +33,7 @@ Na kraju, pogledajte rešenje kako bi ste proverili da li ste ispravno uradili i
 
 4. Pročitati lekcije za sledeće vežbe
 
-Rešenja:
+**Rešenja:**
 
 [1. 1.getting_started/2.3.hello_triangle_exercise1](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.3.hello_triangle_exercise1)
 
@@ -68,6 +68,7 @@ tastature.
 9. Odgledati [Projective geometry and homogeneous coordinates](https://www.youtube.com/watch?v=q3turHmOWq4)
 
 10. Napraviti abstrakciju nad kodom za učitavanje i rad sa teksturama 
+
 **Rešenja:**
 
 [1. 1.getting_started/3.4.shaders_exercies1/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.4.shaders_exercies1/)
@@ -125,8 +126,6 @@ tastature.
 6. Simulirati objekte iz stvarnog sveta definisajući njihove materijale. Uzeti u obzir da u [tabeli](http://devernay.free.fr/cours/opengl/materials.html) 
 ambijentalne vrednosti nisu iste kao difuzne. Kako bi ispravno postavili vrednosti uzeti da su sve komponente svetlosti inteziteta vec3(1.0f).
 
-Can you simulate some of the real-world objects by defining their respective materials like we've seen at the start of this chapter? Note that the table's ambient values are not the same as the diffuse values; they didn't take light intensities into account. To correctly set their values you'd have to set all the light intensities to vec3(1.0) to get the same output: solution of cyan plastic container.
-
 **Rešenja:**
 
 [1. 2.lighting/2.3.basic_lighting_exercise1/basic_lighting_exercise1.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.3.basic_lighting_exercise1/)
@@ -136,5 +135,8 @@ Can you simulate some of the real-world objects by defining their respective mat
 [4. 2.lighting/2.5.basic_lighting_exercise3/basic_lighting_exercise3.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.5.basic_lighting_exercise3/)
 
 [6. 2.lighting/3.2.materials_exercise1/materials_exercise1.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/3.2.materials_exercise1/)
+
+# 06
+
 
 
