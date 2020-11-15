@@ -12,7 +12,7 @@ Na kraju, pogledajte rešenje kako bi ste proverili da li ste ispravno uradili i
 
 3. Proći kroz [learngitbranching](https://learngitbranching.js.org/) tutorial
 
-4. Odgledati [bonus snimke](https://drive.google.com/drive/folders/16MAKMbOuB-zwJ0HsdGiGIguVGISqePUF?usp=sharing) iz C++ sa gugl drajva
+4. Odgledati [bonus snimke](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT) iz C++
 
 5. Instalirati sve potrebne biblioteke
 
@@ -70,11 +70,11 @@ tastature.
 10. Napraviti abstrakciju nad kodom za učitavanje i rad sa teksturama 
 **Rešenja:**
 
-[1.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.4.shaders_exercies1/shaders_exercies1.cpp)
+[1.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.4.shaders_exercies1/)
 
-[2.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.5.shaders_exercies2/shaders_exercies2.cpp)
+[2.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.5.shaders_exercies2/)
 
-[3.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.6.shaders_exercies3/shaders_exercies3.cpp)
+[3.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.6.shaders_exercies3/)
 
 [4.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise1)
 
@@ -129,12 +129,12 @@ Can you simulate some of the real-world objects by defining their respective mat
 
 **Rešenja:**
 
-[1. 2.lighting/2.3.basic_lighting_exercise1/basic_lighting_exercise1.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.3.basic_lighting_exercise1/basic_lighting_exercise1.cpp)
+[1. 2.lighting/2.3.basic_lighting_exercise1/basic_lighting_exercise1.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.3.basic_lighting_exercise1/)
 
-[3. 2.lighting/2.4.basic_lighting_exercise2/basic_lighting_exercise2.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.4.basic_lighting_exercise2/basic_lighting_exercise2.cpp)
+[3. 2.lighting/2.4.basic_lighting_exercise2/basic_lighting_exercise2.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.4.basic_lighting_exercise2/)
 
-[4. 2.lighting/2.5.basic_lighting_exercise3/basic_lighting_exercise3.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.5.basic_lighting_exercise3/basic_lighting_exercise3.cpp)
+[4. 2.lighting/2.5.basic_lighting_exercise3/basic_lighting_exercise3.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.5.basic_lighting_exercise3/)
 
-[6. 2.lighting/3.2.materials_exercise1/materials_exercise1.cpp](2.lighting/3.2.materials_exercise1/materials_exercise1.cpp)
+[6. 2.lighting/3.2.materials_exercise1/materials_exercise1.cpp](2.lighting/3.2.materials_exercise1/)
 
 
