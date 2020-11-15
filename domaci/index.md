@@ -159,3 +159,9 @@ neke vektore i koristiti < umesto >. Objasniti rezultat.
 [4. 2.lighting/4.4.lighting_maps_exercise4/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/4.4.lighting_maps_exercise4/lighting_maps_exercise4.cpp)
 
 [6. 2.lighting/6.multiple_lights_exercise1/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/6.multiple_lights_exercise1/multiple_lights_exercise1.cpp)
+
+# 07
+
+1. Upoznati se sa Blender alatom za modelovanje: https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri
+
+2. Naučiti pripremu modela za učitavanje u OpenGL: https://www.youtube.com/watch?v=4DQquG_o-Ac
