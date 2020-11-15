@@ -138,5 +138,24 @@ ambijentalne vrednosti nisu iste kao difuzne. Kako bi ispravno postavili vrednos
 
 # 06
 
+1. Igrati se komponentama izvora svetlosti i posmatrati kako utiču na kutije
 
+2. Invertovati boje spekularne mape u u fragment šejderu tako da drvo ima spekularnu refleksiju, a metalni obod ne.
 
+3. Kreirati spekularnu mapu iz difuzne tako da koristi boje umesto nijansi bele. Možete koristiti [ovu](https://learnopengl.com/img/lighting/lighting_maps_specular_color.png) teksturu. 
+
+4. Dodati *emission map*, tekstura koja sadrži boje koje emituje tekstura kao da su svetlo. Ovako
+objekat može da sija i ako nije obasjan nekim svetlom kao u [ovom](https://www.tomdalling.com/images/posts/modern-opengl-08/emissive.png) primeru. Dodati [ovu](https://learnopengl.com/img/textures/matrix.jpg) teksturu kao emission mapu. [Ovo](https://learnopengl.com/img/lighting/lighting_maps_exercise4.png) bi trebalo da bude rezultat. 
+
+5. Eksperimentisati sa različitim tipovima svetlosti i njihovim fragment šejderima. Invertovati
+neke vektore i koristiti < umesto >. Objasniti rezultat.
+
+6. Rekreirati ova 4 okruženja sa [slike](https://learnopengl.com/img/lighting/multiple_lights_atmospheres.png)
+
+**Rešenja:**
+
+[2. 2.lighting/4.3.lighting_maps_exercise2](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/4.3.lighting_maps_exercise2) 
+
+[4. 2.lighting/4.4.lighting_maps_exercise4/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/4.4.lighting_maps_exercise4/lighting_maps_exercise4.cpp)
+
+[6. 2.lighting/6.multiple_lights_exercise1/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/6.multiple_lights_exercise1/multiple_lights_exercise1.cpp)
