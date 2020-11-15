@@ -35,11 +35,11 @@ Na kraju, pogledajte rešenje kako bi ste proverili da li ste ispravno uradili i
 
 Rešenja:
 
-[1.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.3.hello_triangle_exercise1)
+[1. 1.getting_started/2.3.hello_triangle_exercise1](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.3.hello_triangle_exercise1)
 
-[2.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.4.hello_triangle_exercise2/)
+[2. 1.getting_started/2.4.hello_triangle_exercise2/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.4.hello_triangle_exercise2/)
 
-[3.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.5.hello_triangle_exercise3/)
+[3. 1.getting_started/2.5.hello_triangle_exercise3/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.5.hello_triangle_exercise3/)
 
 # 03
 
@@ -70,19 +70,19 @@ tastature.
 10. Napraviti abstrakciju nad kodom za učitavanje i rad sa teksturama 
 **Rešenja:**
 
-[1.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.4.shaders_exercies1/)
+[1. 1.getting_started/3.4.shaders_exercies1/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.4.shaders_exercies1/)
 
-[2.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.5.shaders_exercies2/)
+[2. 1.getting_started/3.5.shaders_exercies2/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.5.shaders_exercies2/)
 
-[3.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.6.shaders_exercies3/)
+[3. 1.getting_started/3.6.shaders_exercies3/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.6.shaders_exercies3/)
 
-[4.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise1)
+[4. 1.getting_started/4.3.textures_exercise1](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise1)
 
-[5.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise2)
+[5. 1.getting_started/4.3.textures_exercise2](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise2)
 
-[6.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise3)
+[6. 1.getting_started/4.3.textures_exercise3](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise3)
 
-[7.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise4)
+[7. 1.getting_started/4.3.textures_exercise4](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise4)
 
 # 04
 
@@ -102,13 +102,13 @@ tastature.
 
 **Rešenja:**
 
-[2.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/5.2.transformations_exercise1)
+[2. 1.getting_started/5.2.transformations_exercise1](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/5.2.transformations_exercise1)
 
-[5.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/6.4.coordinate_systems_exercise3)
+[5. 1.getting_started/6.4.coordinate_systems_exercise3](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/6.4.coordinate_systems_exercise3)
 
-[6.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/7.5.camera_exercise1)
+[6. 1.getting_started/7.5.camera_exercise1](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/7.5.camera_exercise1)
 
-[7.](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/7.6.camera_exercise2)
+[7. 1.getting_started/7.6.camera_exercise2](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/7.6.camera_exercise2)
 
 # 05
 
@@ -135,6 +135,6 @@ Can you simulate some of the real-world objects by defining their respective mat
 
 [4. 2.lighting/2.5.basic_lighting_exercise3/basic_lighting_exercise3.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.5.basic_lighting_exercise3/)
 
-[6. 2.lighting/3.2.materials_exercise1/materials_exercise1.cpp](2.lighting/3.2.materials_exercise1/)
+[6. 2.lighting/3.2.materials_exercise1/materials_exercise1.cpp](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/3.2.materials_exercise1/)
 
 
