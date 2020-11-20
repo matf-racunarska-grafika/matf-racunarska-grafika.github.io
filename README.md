@@ -1,13 +1,9 @@
 # Računarska grafika 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## Čas 06 Sreda 08-11
+## Čas 06 Petak
 
-Čas je otvoren.
-
-https://matf.webex.com/meet/marko_spasic
-
-Počinjemo u 08:15
+Danas 20.11.2020. neće biti vežbi. Snimci će biti okačeni do kraja dana.
 
 ## [Obaveštenja](#obaveštenja) [Bodovanje](#bodovanje) [Projekat](#projekat) [Materijali](#materijali) [Literatura, Dokumentacija, Alati](#literatura)
 
