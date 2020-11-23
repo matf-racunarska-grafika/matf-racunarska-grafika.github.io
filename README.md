@@ -1,9 +1,9 @@
 # Računarska grafika 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## Čas 06 Petak
+## Čas 07 Utorak-Sreda
 
-Danas 20.11.2020. neće biti vežbi. Snimci će biti okačeni do kraja dana.
+Dana 25.11.(utorak) neće biti vežbi!
 
 ## [Obaveštenja](#obaveštenja) [Bodovanje](#bodovanje) [Projekat](#projekat) [Materijali](#materijali) [Literatura, Dokumentacija, Alati](#literatura)
 
