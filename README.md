@@ -3,7 +3,7 @@
 
 ## Čas 07 Utorak-Sreda
 
-Dana 25.11.(utorak) neće biti vežbi!
+Dana 24.11.(utorak) neće biti vežbi!
 
 ## [Obaveštenja](#obaveštenja) [Bodovanje](#bodovanje) [Projekat](#projekat) [Materijali](#materijali) [Literatura, Dokumentacija, Alati](#literatura)
 
