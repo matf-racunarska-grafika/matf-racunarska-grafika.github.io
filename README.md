@@ -3,7 +3,14 @@
 
 ## Čas 07 Utorak
 
-Dana 24.11.(utorak) neće biti vežbi!
+Ove nedelje neće biti vežbi. 
+
+Utorak 24.11.
+
+Sreda 25.11.
+
+Petak 27.11.
+
 
 ## [Obaveštenja](#obaveštenja) [Bodovanje](#bodovanje) [Projekat](#projekat) [Materijali](#materijali) [Literatura, Dokumentacija, Alati](#literatura)
 
