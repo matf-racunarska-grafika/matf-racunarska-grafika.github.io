@@ -1,7 +1,7 @@
 # Računarska grafika 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## Čas 07 Utorak-Sreda
+## Čas 07 Utorak
 
 Dana 24.11.(utorak) neće biti vežbi!
 
