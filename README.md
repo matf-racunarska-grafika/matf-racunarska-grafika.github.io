@@ -3,14 +3,9 @@
 
 ## Čas 07 
 
-Ove nedelje neće biti vežbi. 
+Od 1.12. vežbe se nastavljaju u terminu po rasporedu.
 
-Utorak 24.11.
-
-Sreda 25.11.
-
-Petak 27.11.
-
+Vidimo se!
 
 ## [Obaveštenja](#obaveštenja) [Bodovanje](#bodovanje) [Projekat](#projekat) [Materijali](#materijali) [Literatura, Dokumentacija, Alati](#literatura)
 
