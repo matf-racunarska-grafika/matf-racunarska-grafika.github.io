@@ -9,17 +9,17 @@ https://matf.webex.com/meet/marko_spasic
 
 Počinjemo u 08:15
 
->> [Obaveštenja](#obaveštenja) 
+> [Obaveštenja](#obaveštenja) 
 
->> [Bodovanje](#bodovanje) 
+> [Bodovanje](#bodovanje) 
 
->> [Projekat](#projekat) 
+> [Projekat](#projekat) 
 
->> [Materijali](#materijali) 
+> [Materijali](#materijali) 
 
->> [Literatura Dokumentacija Alati](#literatura)
+> [Literatura Dokumentacija Alati](#literatura)
 
->> [Extras](#extras)
+> [Extras](#extras)
 
 
 ## Obaveštenja
