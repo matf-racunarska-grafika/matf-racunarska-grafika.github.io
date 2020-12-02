@@ -23,6 +23,37 @@ Počinjemo u 08:15
 
 
 ## Obaveštenja
+** [02.12.2020] **
+
+**Gostujuće predavanje: Syrmia 3.12. od 12:15h**
+
+
+**Grafički procesor i sistemska softverska podrška za njega **
+
+*U okviru predavanja biće opisani osnovni načini na koje je grafička
+kartica spregnuta sa računarskim sistemom. Opisaće se kako sistemski
+softver omogućava optimalan rad sa njom. Ukazaće se na neke od čestih
+problema u radu sa grafikom i prikazati načini za njihovo rešavanje.
+Uvešće se pojam virtuelizacije grafičkih kartica i diskutovati o
+prednostima ove tehnologije. Razgovaraćemo o različitim programskim i
+tehnološkim rešenjima, od VGA, preko modernih grafičkih procesora, sve
+do centralizovane obrade grafičkih zadataka na udaljenim računarima.
+Prikazaćemo strukturu sistemkog softvera za rad sa grafikom u svakom
+od ovih slučajeva.*
+
+Predavači: Nikola Veljković i Nikola Prica, senior inženjeri u kompaniji Sirmija
+
+Link za prisustvovanje predavanju je:
+
+Meeting link: https://matf.webex.com/matf/j.php?MTID=m0c602f153ba74371a0673ddc91d963b8
+
+Meeting number: 137 443 6386
+
+Password: HFw2MKw3nm3
+
+
+
+
 **[26.10.2020. 17:01]**
 
 U sredu 11.11.2020. u terminu od 08:00-11:00 zbog državnog praznika neće biti vežbi.
