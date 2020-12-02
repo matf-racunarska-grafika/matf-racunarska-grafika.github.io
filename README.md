@@ -9,7 +9,18 @@ https://matf.webex.com/meet/marko_spasic
 
 Počinjemo u 08:15
 
-## [Obaveštenja](#obaveštenja) [Bodovanje](#bodovanje) [Projekat](#projekat) [Materijali](#materijali) [Literatura, Dokumentacija, Alati](#literatura)
+## [Obaveštenja](#obaveštenja) 
+
+>> [Bodovanje](#bodovanje) 
+
+>> [Projekat](#projekat) 
+
+>> [Materijali](#materijali) 
+
+>> [Literatura Dokumentacija Alati](#literatura)
+
+>> [Extras](#extras)
+
 
 ## Obaveštenja
 **[26.10.2020. 17:01]**
@@ -262,12 +273,17 @@ Provera verzije OpenGL: `glxinfo | grep OpenGL`
 
 [Github](https://github.com/)
 
+### Extras
+
+[John Carmack on inlined code](http://number-none.com/blow/john_carmack_on_inlined_code.html)
+
 ### Licenca
 Materijali kursa su bazirani na [www.learnopengl.com](www.learnopengl.com) sajtu napravljenom od strane [Joey De Vries](https://joeydevries.com/#home) i kao takvi spadaju pod [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licencu. Celokupan tekst licence možete pronaći [ovde](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 
 
 Examples used in this course are based on [www.learnopengl.com](www.learnopengl.com) tutorials by [Joey De Vries](https://joeydevries.com/#home) and as such are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Full text of the licence can be found [here](https://creativecommons.org/licenses/by/4.0/legalcode).
+
 
 
 <!--- <3 N --->
