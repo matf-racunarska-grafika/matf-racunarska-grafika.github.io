@@ -23,7 +23,7 @@ Počinjemo u 08:15
 
 
 ## Obaveštenja
-** [02.12.2020] **
+**[02.12.2020]**
 
 **Gostujuće predavanje: Syrmia 3.12. od 12:15h**
 
