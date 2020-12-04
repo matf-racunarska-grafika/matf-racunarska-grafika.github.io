@@ -1,7 +1,7 @@
 # Računarska grafika 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## Čas 07 Sreda 08-11
+## Čas 07 Petak 08-11
 
 Čas je otvoren.
 
