@@ -1,14 +1,6 @@
 # Računarska grafika 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## Čas 07 Petak 11-14
-
-Čas je otvoren.
-
-https://matf.webex.com/meet/marko_spasic
-
-Počinjemo u 11:15
-
 > [Obaveštenja](#obaveštenja) 
 
 > [Bodovanje](#bodovanje) 
@@ -23,6 +15,19 @@ Počinjemo u 11:15
 
 
 ## Obaveštenja
+**[04.12.2020.]**
+
+**Nadoknada**
+
+Nadoknada časova od prošle nedelje će se održati u subotu 12.12. ili nedelju 13.12.
+
+Precizno vreme i dan biće objavljeni naknadno.
+
+Gradivo za sledeću nedelju se nadovezuje na vežbe od ove nedelje. 
+
+Obnovite sve što smo radili ove nedelje da bi ste mogli lakše da ispratite časove sledeće nedelje :)
+
+
 **[02.12.2020]**
 
 **Gostujuće predavanje: Syrmia 3.12. od 12:15h**
