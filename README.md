@@ -233,6 +233,7 @@ Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 
 -[Modeli](https://learnopengl.com/Model-Loading/Model): formati i učitavanje modela
 
+-[Blender](www.youtube.com/watch?v=4DQquG_o-Ac): kako konvertovati bilo koji model u Blenderu tako da radi sa trenutnom implementacijom učitavanja modela
 
 ### 08
 -[Debugging]: glGetError, debug izlaz, eksterni alati
