@@ -15,6 +15,20 @@
 
 
 ## Obaveštenja
+**[06.12.2020.]**
+
+**Nadoknada**
+
+Nadoknada časova za radnu nedelju od 23.11. do 27.11. biće održana u terminima:
+
+Subota (12.01.):  10h-13h
+
+Nedelja (13.01.):  16h-19h
+
+Možete prisustvovati u bilo kojem od termina. Snimci će svakako biti okačani.
+
+Ako bude pitanja, možemo ostati malo duže.
+
 **[04.12.2020.]**
 
 **Nadoknada**
