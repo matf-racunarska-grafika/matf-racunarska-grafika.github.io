@@ -236,11 +236,11 @@ Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 -[Blender](www.youtube.com/watch?v=4DQquG_o-Ac): kako konvertovati bilo koji model u Blenderu tako da radi sa trenutnom implementacijom učitavanja modela
 
 ### 08
--[Debugging]: glGetError, debug izlaz, eksterni alati
+-[Model and Lighting]: Model i osvetljenje 
 
--[Text rendering]: klasično, modreno
+-[ImGui]: [ImGui](https://github.com/ocornut/imgui) biblioteka
 
--[2D Game]
+-[Text Rendering]: prikazivanje teksta
 
 
 ### 09
