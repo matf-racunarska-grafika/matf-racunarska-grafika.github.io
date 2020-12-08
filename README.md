@@ -137,39 +137,60 @@ Na ovoj stranici će biti postavljeni linkovi za vežbe.
 
 ## Projekat
 
--Tim za projekat ima 2 člana. Ko želi, može da radi sam.
+**Da li projekat radimo sami ili u timu?**
 
-~~-Prijava tema će početi od 7-8 nedelje kada budemo prešli dovoljno gradiva da možete da smislite šta bi ste radili.~~
+> Tim za projekat ima 2 člana. Ko želi, može da radi sam.
 
--Prijava projekata će biti otvorena pre svakog ispitnog roka. Prijavu popunjavate za onaj rok u kome želite da branite projekat. 
+**Kada počinje prijava projekata?**
+
+> ~~-Prijava tema će početi od 7-8 nedelje kada budemo prešli dovoljno gradiva da možete da smislite šta bi ste radili.~~
+
+> Prijava projekata će biti otvorena pre svakog ispitnog roka. Prijavu popunjavate za onaj rok u kome želite da branite projekat. 
 U prijavi će te ostavljati link do Github repozitorijuma na kom se nalazi projekat i podatke o članovima tima.
 
--Projekat se šalje kao repozotirjum na Github-u zajedno sa celom istorijom komitova od oba člana (ili jednog ako se radi individualno)
+**Zašto nam treba Github?**
 
--Možete koristiti [skelet projekta](https://github.com/matf-racunarska-grafika/project_base). Iskopirati sve fajlove uključujući i sakriveni .gitignore
+> Projekat se šalje kao repozotirjum na Github-u zajedno sa celom istorijom komitova od oba člana (ili jednog ako se radi individualno)
 
--Projekat mora da sadrži sve iz prvih 7 nedelja. 
+> Napravite repozitorijum na svom nalogu i dodajte drugog člana tima (ako postoji) kao kolaboratora.
 
--Gradivo iz 8 nedelje je pomoć za izradu i debagovanje. 
 
--(PODLOŽNO IZMENI U ZAVISNOSTI KOLIKO GRADIVA STIGNEMO DA PREĐEMO) Po jednu oblast iz svake od nedelja 9, 10, 11 i 12. Na primer: Blending (09), Instancing (10),
+**Da li sve u projektu mora da bude urađeno od početka ili postoji neki šablon za projekat?**
+
+> Možete koristiti [skelet projekta](https://github.com/matf-racunarska-grafika/project_base). Iskopirati sve fajlove uključujući i sakriveni .gitignore
+
+> Ukoliko koristite nečiji kod obavezno navesti početak i kraj, i odakle je kod preuzet
+
+**Šta sve mora da sadrži projekat?**
+> Projekat mora da sadrži sve iz prvih 7 nedelja. 
+
+> Gradivo iz 8 nedelje je pomoć za izradu i debagovanje. 
+
+> (PODLOŽNO IZMENI U ZAVISNOSTI KOLIKO GRADIVA STIGNEMO DA PREĐEMO) Po jednu oblast iz svake od nedelja 9, 10, 11 i 12. Na primer: Blending (09), Instancing (10),
 Shadow mapping (11), Bloom (12)
 
--Pred svaki termin ispita biće zakazane odbrane projekata. Jednom urađen i odbranjen projekat važi u svim rokovima.
+**Kako se polaže/brani projekat?**
 
--Urađen i odbranjen projekat je uslov za izlazak na završni teorijski ispit.
+> Pred svaki termin ispita biće zakazane odbrane projekata. Jednom urađen i odbranjen projekat važi u svim rokovima. Projekat se brani uživo?
 
--Odbrana projekta se sastoji iz: prezentacije projekta i pitanja za sam projekat, opšta pitanja gradiva sa vežbi.
+> Odbrana projekta se sastoji iz: prezentacije projekta i pitanja za sam projekat, opšta pitanja gradiva sa vežbi.
 
--Uspešno urađen i odbranjen projekat u januarskom ili februarskom roku donosi bonus 5 poena.
 
--Nije moguće preneti bodove projekta iz predhodne školske godine. Gradivo je promenjeno.
+**Da li je moguće izaći na završni teorijski ispit bez odbranjenog projekta?**
 
--Napravite repozitorijum na svom nalogu i dodajte drugog člana tima (ako postoji) kao kolaboratora.
+> Urađen i odbranjen projekat je uslov za izlazak na završni teorijski ispit.
 
--Sva pitanja možete postaviti nakon vežbi ili putem mejla.
+**Da li postoji neka olakšica?**
 
--Ukoliko niste sigurni za obima teme projekta obavezno pitajte na vežbama.
+> Uspešno urađen i odbranjen projekat u januarskom ili februarskom roku donosi bonus 5 poena.
+
+**Da li je moguće preneti bodove projekta iz predhodne školske godine?**
+
+> Nije moguće preneti bodove projekta iz predhodne školske godine. Gradivo je promenjeno.
+
+**Koliki treba da bude obim projekta?**
+
+> Ukoliko niste sigurni za obima teme projekta obavezno pitajte na vežbama.
 
 
 ## Materijali
