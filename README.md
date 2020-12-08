@@ -19,109 +19,19 @@
 ## Obaveštenja
 **[06.12.2020.]**
 
-**Nadoknada**
+> **Nadoknada**
 
-Nadoknada časova za radnu nedelju od 23.11. do 27.11. biće održana u terminima:
+> Nadoknada časova za radnu nedelju od 23.11. do 27.11. biće održana u terminima:
 
-Subota (12.12.2020.):  10h-13h
+> Subota (12.12.2020.):  10h-13h
 
-Nedelja (13.12.2020.):  16h-19h
+> Nedelja (13.12.2020.):  16h-19h
 
-Možete prisustvovati u bilo kojem od termina. Snimci će svakako biti okačani.
+> Možete prisustvovati u bilo kojem od termina. Snimci će svakako biti okačani.
 
-Ako bude pitanja, možemo ostati malo duže.
-
-**[04.12.2020.]**
-
-**Nadoknada**
-
-Nadoknada časova od prošle nedelje će se održati u subotu 12.12. ili nedelju 13.12.
-
-Precizno vreme i dan biće objavljeni naknadno.
-
-Gradivo za sledeću nedelju se nadovezuje na vežbe od ove nedelje. 
-
-Obnovite sve što smo radili ove nedelje da bi ste mogli lakše da ispratite časove sledeće nedelje :)
+> Ako bude pitanja, možemo ostati malo duže.
 
 
-**[02.12.2020]**
-
-**Gostujuće predavanje: Syrmia 3.12. od 12:15h**
-
-
-**Grafički procesor i sistemska softverska podrška za njega **
-
-*U okviru predavanja biće opisani osnovni načini na koje je grafička
-kartica spregnuta sa računarskim sistemom. Opisaće se kako sistemski
-softver omogućava optimalan rad sa njom. Ukazaće se na neke od čestih
-problema u radu sa grafikom i prikazati načini za njihovo rešavanje.
-Uvešće se pojam virtuelizacije grafičkih kartica i diskutovati o
-prednostima ove tehnologije. Razgovaraćemo o različitim programskim i
-tehnološkim rešenjima, od VGA, preko modernih grafičkih procesora, sve
-do centralizovane obrade grafičkih zadataka na udaljenim računarima.
-Prikazaćemo strukturu sistemkog softvera za rad sa grafikom u svakom
-od ovih slučajeva.*
-
-Predavači: Nikola Veljković i Nikola Prica, senior inženjeri u kompaniji Sirmija
-
-Link za prisustvovanje predavanju je:
-
-Meeting link: https://matf.webex.com/matf/j.php?MTID=m0c602f153ba74371a0673ddc91d963b8
-
-Meeting number: 137 443 6386
-
-Password: HFw2MKw3nm3
-
-
-
-
-**[26.10.2020. 17:01]**
-
-U sredu 11.11.2020. u terminu od 08:00-11:00 zbog državnog praznika neće biti vežbi.
-
-Mole se studenti koji slušaju vežbe u ovom terminu te nedelje da dođu u bilo koji drugi termin po želji.
-
-
-**[26.10.2020. 08:00]**
-
-Dodati su linkovi u sekciji Materijali za C++.
-
-[cpp tutorial repozitorijum](https://github.com/spaske00/cpp_tutorial)
-
-[cpp tutorial snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
-
-Do kraja dana će biti okačeno još snimaka. 
-
-Knjiga [Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018)] je dobar uvod u C++ i može se pročitati za
-jedno popodne. Samo obratite pažnju da bude drugo izdanje.
-
-
-**[23.10.2020. 17:34]**
-
-Dodata je sekcija [kodova sa časa](kodovi/). Kada klonirate repozitorijum sa primerima klonirajte 
-https://github.com/matf-racunarska-grafika/LearnOpenGL/. U njemu su dodati neki primeri kojih nema u originalnom repozitorijumu. Uskoro
-će i video tutorial o kloniranju repozitorijuma sa svim primerima biti izmenjen.
-
-
-**[17.10.2020. 09:18]** 
-
-Okačeni su [snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) časova prve nedelje.
-
-
-**[11.10.2020. 11:46]** 
-
--Vežbe će se održavati online putem platforme Webex u terminu po rasporedu časova. 
-
--Snimci sa vežbi će biti okačeni. 
-
--Upustvo za pristup i korišćenje možete pročitati  
-[ovde](http://alas.matf.bg.ac.rs/webexUputstvoStudenti.pdf). 
-
--Link za pristup vežbama će biti postavljen na ovoj stranici desetak minuta pre početka vežbi.
-
-**[10.10.2020. 11:20]**
-
-Na ovoj stranici će biti postavljeni linkovi za vežbe.
 
 ## Nastavnici i asistenti
 -nastavnik: [dr. Vesna Marinković](http://poincare.matf.bg.ac.rs/~vesnam/grafika.html)
@@ -365,6 +275,101 @@ Provera verzije OpenGL: `glxinfo | grep OpenGL`
 ### Extras
 
 [John Carmack on inlined code](http://number-none.com/blow/john_carmack_on_inlined_code.html)
+
+### Stara obaveštenja
+
+**[04.12.2020.]**
+
+**Nadoknada**
+
+Nadoknada časova od prošle nedelje će se održati u subotu 12.12. ili nedelju 13.12.
+
+Precizno vreme i dan biće objavljeni naknadno.
+
+Gradivo za sledeću nedelju se nadovezuje na vežbe od ove nedelje. 
+
+Obnovite sve što smo radili ove nedelje da bi ste mogli lakše da ispratite časove sledeće nedelje :)
+
+
+**[02.12.2020]**
+
+**Gostujuće predavanje: Syrmia 3.12. od 12:15h**
+
+
+**Grafički procesor i sistemska softverska podrška za njega **
+
+*U okviru predavanja biće opisani osnovni načini na koje je grafička
+kartica spregnuta sa računarskim sistemom. Opisaće se kako sistemski
+softver omogućava optimalan rad sa njom. Ukazaće se na neke od čestih
+problema u radu sa grafikom i prikazati načini za njihovo rešavanje.
+Uvešće se pojam virtuelizacije grafičkih kartica i diskutovati o
+prednostima ove tehnologije. Razgovaraćemo o različitim programskim i
+tehnološkim rešenjima, od VGA, preko modernih grafičkih procesora, sve
+do centralizovane obrade grafičkih zadataka na udaljenim računarima.
+Prikazaćemo strukturu sistemkog softvera za rad sa grafikom u svakom
+od ovih slučajeva.*
+
+Predavači: Nikola Veljković i Nikola Prica, senior inženjeri u kompaniji Sirmija
+
+Link za prisustvovanje predavanju je:
+
+Meeting link: https://matf.webex.com/matf/j.php?MTID=m0c602f153ba74371a0673ddc91d963b8
+
+Meeting number: 137 443 6386
+
+Password: HFw2MKw3nm3
+
+
+
+
+**[26.10.2020. 17:01]**
+
+U sredu 11.11.2020. u terminu od 08:00-11:00 zbog državnog praznika neće biti vežbi.
+
+Mole se studenti koji slušaju vežbe u ovom terminu te nedelje da dođu u bilo koji drugi termin po želji.
+
+
+**[26.10.2020. 08:00]**
+
+Dodati su linkovi u sekciji Materijali za C++.
+
+[cpp tutorial repozitorijum](https://github.com/spaske00/cpp_tutorial)
+
+[cpp tutorial snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
+
+Do kraja dana će biti okačeno još snimaka. 
+
+Knjiga [Bjarne Stroustrup - A Tour of C++-Addison-Wesley Professional (2018)] je dobar uvod u C++ i može se pročitati za
+jedno popodne. Samo obratite pažnju da bude drugo izdanje.
+
+
+**[23.10.2020. 17:34]**
+
+Dodata je sekcija [kodova sa časa](kodovi/). Kada klonirate repozitorijum sa primerima klonirajte 
+https://github.com/matf-racunarska-grafika/LearnOpenGL/. U njemu su dodati neki primeri kojih nema u originalnom repozitorijumu. Uskoro
+će i video tutorial o kloniranju repozitorijuma sa svim primerima biti izmenjen.
+
+
+**[17.10.2020. 09:18]** 
+
+Okačeni su [snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) časova prve nedelje.
+
+
+**[11.10.2020. 11:46]** 
+
+-Vežbe će se održavati online putem platforme Webex u terminu po rasporedu časova. 
+
+-Snimci sa vežbi će biti okačeni. 
+
+-Upustvo za pristup i korišćenje možete pročitati  
+[ovde](http://alas.matf.bg.ac.rs/webexUputstvoStudenti.pdf). 
+
+-Link za pristup vežbama će biti postavljen na ovoj stranici desetak minuta pre početka vežbi.
+
+**[10.10.2020. 11:20]**
+
+Na ovoj stranici će biti postavljeni linkovi za vežbe.
+
 
 ### Licenca
 Materijali kursa su bazirani na [www.learnopengl.com](www.learnopengl.com) sajtu napravljenom od strane [Joey De Vries](https://joeydevries.com/#home) i kao takvi spadaju pod [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licencu. Celokupan tekst licence možete pronaći [ovde](https://creativecommons.org/licenses/by/4.0/legalcode).
