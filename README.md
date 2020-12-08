@@ -340,7 +340,7 @@ Provera verzije OpenGL: `glxinfo | grep OpenGL`
 
 -[learncpp](https://www.learncpp.com/)
 
--[Tour of C++ - Bjarne](https://www.google.com/search?q=Bjarne+Stroustrup+-+A+Tour+of+C%2B%2B-Addison-Wesley+Professional+(2018))
+-[Tour of C++ - Bjarne](https://www.stroustrup.com/Tour.html)
 
 ### Dokumentacija
 -[OpenGL docs](http://docs.gl/)
