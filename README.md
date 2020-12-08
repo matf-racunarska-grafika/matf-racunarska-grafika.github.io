@@ -255,9 +255,9 @@ Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 ### 08
 -[Model and Lighting]: Model i osvetljenje 
 
--[ImGui]: [ImGui](https://github.com/ocornut/imgui) biblioteka
+-[ImGui](https://github.com/ocornut/imgui): GUI biblioteka
 
--[Text Rendering]: prikazivanje teksta
+-[Text Rendering](https://learnopengl.com/In-Practice/Text-Rendering): prikazivanje teksta
 
 
 ### 09
