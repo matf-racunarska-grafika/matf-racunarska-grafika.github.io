@@ -146,9 +146,18 @@ Na ovoj stranici će biti postavljeni linkovi za vežbe.
 
 -Tim za projekat ima 2 člana. Ko želi, može da radi sam.
 
--Prijava tema će početi od 7-8 nedelje kada budemo prešli dovoljno gradiva da možete da smislite šta bi ste radili.
+~~-Prijava tema će početi od 7-8 nedelje kada budemo prešli dovoljno gradiva da možete da smislite šta bi ste radili.~~
+
+-Prijava projekata će biti otvorena pre svakog ispitnog roka. Prijavu popunjavate za onaj rok u kome želite da branite projekat. 
+U prijavi će te ostavljati link do Github repozitorijuma na kom se nalazi projekat i podatke o članovima tima.
+
+-Projekat se šalje kao repozotirjum na Github-u zajedno sa celom istorijom komitova od oba člana (ili jednog ako se radi individualno)
+
+-Možete koristiti [skelet projekta](https://github.com/matf-racunarska-grafika/project_base). Iskopirati sve fajlove uključujući i sakriveni .gitignore
 
 -Projekat mora da sadrži sve iz prvih 7 nedelja. 
+
+-Gradivo iz 8 nedelje je pomoć za izradu i debagovanje. 
 
 -(PODLOŽNO IZMENI U ZAVISNOSTI KOLIKO GRADIVA STIGNEMO DA PREĐEMO) Po jednu oblast iz svake od nedelja 9, 10, 11 i 12. Na primer: Blending (09), Instancing (10),
 Shadow mapping (11), Bloom (12)
@@ -162,6 +171,12 @@ Shadow mapping (11), Bloom (12)
 -Uspešno urađen i odbranjen projekat u januarskom ili februarskom roku donosi bonus 5 poena.
 
 -Nije moguće preneti bodove projekta iz predhodne školske godine. Gradivo je promenjeno.
+
+-Napravite repozitorijum na svom nalogu i dodajte drugog člana tima (ako postoji) kao kolaboratora.
+
+-Sva pitanja možete postaviti nakon vežbi ili putem mejla.
+
+-Ukoliko niste sigurni za obima teme projekta obavezno pitajte na vežbama.
 
 
 ## Materijali
