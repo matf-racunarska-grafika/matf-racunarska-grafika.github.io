@@ -30,9 +30,9 @@ Počinjemo u 13:15.
 
 Nadoknada časova za radnu nedelju od 23.11. do 27.11. biće održana u terminima:
 
-Subota (12.01.):  10h-13h
+Subota (12.12.):  10h-13h
 
-Nedelja (13.01.):  16h-19h
+Nedelja (13.12.):  16h-19h
 
 Možete prisustvovati u bilo kojem od termina. Snimci će svakako biti okačani.
 
