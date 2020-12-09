@@ -88,7 +88,7 @@ Shadow mapping (11), Bloom (12)
 
 **Kako se polaže/brani projekat?**
 
-> Pred svaki termin ispita biće zakazane odbrane projekata. Jednom urađen i odbranjen projekat važi u svim rokovima. Projekat se brani uživo?
+> Pred svaki termin ispita biće zakazane odbrane projekata. Jednom urađen i odbranjen projekat važi u svim rokovima. Projekat se brani uživo.
 
 > Odbrana projekta se sastoji iz: prezentacije projekta i pitanja za sam projekat, opšta pitanja gradiva sa vežbi.
 
