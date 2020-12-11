@@ -1,12 +1,12 @@
 # Računarska grafika 
 
-## Čas 08 Petak 08-11
+## Čas 08 Petak 11-14
 
 Čas je otvoren.
 
 https://matf.webex.com/meet/marko_spasic
 
-Počinjemo u 08:15.
+Počinjemo u 11:15.
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
@@ -188,7 +188,7 @@ Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 
 -[Modeli](https://learnopengl.com/Model-Loading/Model): formati i učitavanje modela
 
--[Blender](www.youtube.com/watch?v=4DQquG_o-Ac): kako konvertovati bilo koji model u Blenderu tako da radi sa trenutnom implementacijom učitavanja modela
+-[Blender](https://youtube.com/watch?v=4DQquG_o-Ac): kako konvertovati bilo koji model u Blenderu tako da radi sa trenutnom implementacijom učitavanja modela
 
 ### 08
 -[Model and Lighting]: Model i osvetljenje 
