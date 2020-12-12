@@ -82,15 +82,21 @@ U prijavi će te ostavljati link do Github repozitorijuma na kom se nalazi proje
 
 > Možete koristiti [skelet projekta](https://github.com/matf-racunarska-grafika/project_base). Iskopirati sve fajlove uključujući i sakriveni .gitignore
 
-> Ukoliko koristite nečiji kod obavezno navesti početak i kraj, i odakle je kod preuzet
+> Ukoliko koristite nečiji kod obavezno navesti početak i kraj, i odakle je kod preuzet. 
 
 **Šta sve mora da sadrži projekat?**
-> Projekat mora da sadrži sve iz prvih 7 nedelja. 
+> Projekat **mora** da sadrži **sve** iz prvih 7 nedelja. 
 
 > Gradivo iz 8 nedelje je pomoć za izradu i debagovanje. 
 
-> (PODLOŽNO IZMENI U ZAVISNOSTI KOLIKO GRADIVA STIGNEMO DA PREĐEMO) Po jednu oblast iz svake od nedelja 9, 10, 11 i 12. Na primer: Blending (09), Instancing (10),
-Shadow mapping (11), Bloom (12)
+> ~~(PODLOŽNO IZMENI U ZAVISNOSTI KOLIKO GRADIVA STIGNEMO DA PREĐEMO) Po jednu oblast iz svake od nedelja 9, 10, 11 i 12. Na primer: Blending (09), Instancing (10),
+Shadow mapping (11), Bloom (12)~~
+
+> Za veće ocene: 
+>> Jednu od oblasti iz 9. nedelje (Depth testing, Stencil testing, Blending, Face culling, Framebuffers)
+>> Jednu od oblasti iz 10. nedeljle (Cubemaps, Geometry shader, Instancing, Anti-aliasing)
+>> Jednu od oblasti iz 11 ili 12 nedelje (Advanced ligthing, Gamma correction, Shadow mapping, Point shadows, Normal mapping, Parallax mapping, Bloom, Deffered shading, SSAO) (Nije obavezno u rokovima januar1 i januar2)
+
 
 **Kako se polaže/brani projekat?**
 
@@ -113,7 +119,20 @@ Shadow mapping (11), Bloom (12)
 
 **Koliki treba da bude obim projekta?**
 
-> Ukoliko niste sigurni za obima teme projekta obavezno pitajte na vežbama.
+> Nema univerzlnog odgovora za svaku temu. Obavezno pitajte na vežbama ili preko mejla.
+
+**Da li model/objekat treba da bude osvetljen?**
+
+> Da. Model/Objekat mora biti osvetljen. Pogledati prvi tročas 8. nedelje na kome je rađen primer integracije svetlosti i modela.
+
+**Da li je dovoljno da se kamera pomera sceni, a da modeli budu statični?
+
+> Neophodno je da se barem nešto na sceni pomera. Može biti i pozicija izvora svetlosti. 
+
+**Da li moraju svi objekti da imaju teksture? Da li mogu neki da budu obojeni nekom bojom?**
+
+> Dokle god barem jedan objekat na sceni ima mapiranu teksturu koja se koristi u izračunavanju osvetljenja tog modela ostali modeli mogu biti obojeni nekom bojom.
+
 
 
 ## Materijali
@@ -197,7 +216,7 @@ Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 -[Blender](https://youtube.com/watch?v=4DQquG_o-Ac): kako konvertovati bilo koji model u Blenderu tako da radi sa trenutnom implementacijom učitavanja modela
 
 ### 08
--[Model and Lighting]: Model i osvetljenje 
+-[Model and Lighting]: Model i osvetljenje (Mora biti u projektu. Ovde je demonstrirano kako se radi.)
 
 -[ImGui](https://github.com/ocornut/imgui): GUI biblioteka
 
