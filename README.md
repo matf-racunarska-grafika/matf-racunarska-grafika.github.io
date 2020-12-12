@@ -1,6 +1,6 @@
 # Računarska grafika 
 
-## Čas 09 Subota 10-13
+## Čas 09 Subota 10-13 (Nadoknada)
 
 Trenutno nema struje u delu grada u kome stanujem. Nadam se
 da će uskoro biti otklonjen kvar.
