@@ -128,9 +128,9 @@ Shadow mapping (11), Bloom (12)~~
 
 > Da. Model/Objekat mora biti osvetljen. Pogledati prvi tročas 8. nedelje na kome je rađen primer integracije svetlosti i modela.
 
-**Da li je dovoljno da se kamera pomera sceni, a da modeli budu statični?
+**Da li je dovoljno da se kamera pomera po sceni, a da modeli budu statični?**
 
-> Neophodno je da se barem nešto na sceni pomera. Može biti i pozicija izvora svetlosti. 
+> Neophodno je da se barem jedan model na sceni pomera. Može biti i pozicija izvora svetlosti. 
 
 **Da li moraju svi objekti da imaju teksture? Da li mogu neki da budu obojeni nekom bojom?**
 
