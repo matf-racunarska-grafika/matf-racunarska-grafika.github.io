@@ -93,8 +93,11 @@ U prijavi će te ostavljati link do Github repozitorijuma na kom se nalazi proje
 Shadow mapping (11), Bloom (12)~~
 
 > Za veće ocene: 
+
 >> Jednu od oblasti iz 9. nedelje (Depth testing, Stencil testing, Blending, Face culling, Framebuffers)
+
 >> Jednu od oblasti iz 10. nedeljle (Cubemaps, Geometry shader, Instancing, Anti-aliasing)
+
 >> Jednu od oblasti iz 11 ili 12 nedelje (Advanced ligthing, Gamma correction, Shadow mapping, Point shadows, Normal mapping, Parallax mapping, Bloom, Deffered shading, SSAO) (Nije obavezno u rokovima januar1 i januar2)
 
 
