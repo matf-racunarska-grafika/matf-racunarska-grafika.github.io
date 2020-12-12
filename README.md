@@ -1,12 +1,18 @@
 # Računarska grafika 
 
-## Čas 08 Petak 11-14
+## Čas 09 Subota 10-13
 
-Čas je otvoren.
+Trenutno nema struje u delu grada u kome stanujem. Nadam se
+da će uskoro biti otklonjen kvar.
 
-https://matf.webex.com/meet/marko_spasic
+Ako do 10:30 ne bude okačen link za vežbe, zamolio bih studente koji
+su hteli da slušaju nadoknadu u današnjem terminu da se uključe 
+u sutrašnji termin nadoknade od 16h-19h. Ne bih da počinjemo nakon
+zakaznog termina i tako poremetimo ostale obaveze koje ste možda isplanirali
+za ostatak dana. Ako nekome ipak ne odgovara
+sutrašnji termin snimci će svakako biti okačeni u nedelju uveče.
 
-Počinjemo u 11:15.
+Hvala na razumevanju!
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
