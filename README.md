@@ -136,7 +136,7 @@ Shadow mapping (11), Bloom (12)~~
 
 > Dokle god barem jedan objekat na sceni ima mapiranu teksturu koja se koristi u izračunavanju osvetljenja tog modela ostali modeli mogu biti obojeni nekom bojom.
 
-**Zašto oblasti Advanced Data i Advanced GLSL iz 10. nedelje nisu navedene kao oblasti za veću ocenu?
+**Zašto oblasti Advanced Data i Advanced GLSL iz 10. nedelje nisu navedene kao oblasti za veću ocenu?**
 
 > Advanced Data i Advanced GLSL su uvodne oblasti za teme koje slede kasnije i obrađuju neke aspekte performansi OpenGL. Nisu nešto što proizvodi napredne efekte u grafici samo po sebi, već su funkcionalnosti OpenGL-a i GLSL-a koje olakšavaju programiranje.
 
