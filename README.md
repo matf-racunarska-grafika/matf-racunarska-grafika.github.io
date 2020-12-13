@@ -151,9 +151,8 @@ Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 
 -[Framebuffers](https://learnopengl.com/Advanced-OpenGL/Framebuffers): kreiranje, renderovanje na teksturu, post-procesiranje, kernel efekti
 
--[Cubemaps](https://learnopengl.com/Advanced-OpenGL/Cubemaps): kreiranje, skybox, mapiranje okruženja, dinamične mape okruženja
-
 ### 10
+-[Cubemaps](https://learnopengl.com/Advanced-OpenGL/Cubemaps): kreiranje, skybox, mapiranje okruženja, dinamične mape okruženja
 
 -[Advanced Data](https://learnopengl.com/Advanced-OpenGL/Advanced-Data): vertex atributi, baferi
 
