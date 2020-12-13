@@ -49,9 +49,9 @@ Moguće je uspešno odbraniti projekat bez implementacije oblasti iz 9. 10. 11. 
 tom slučaju je 35.
 
 Boduje se:
--implementacija tema
--oblasti koje projekat sadrži
--odbrana projekta
+1) implementacija tema
+2) oblasti koje projekat sadrži
+3) odbrana projekta
 
 Odbrana projekta se sastoji iz:
 1. Prezentovanja projekta (najviše 5 min)
@@ -59,10 +59,12 @@ Odbrana projekta se sastoji iz:
 3. Odgovaranje na opšta pitanja iz gradiva sa vežbi
 
 Iz opštih pitanja za gradivo sa vežbi:
+
 -Sve od 2. do 7. 
 -Iz 9. 10. 11. i 12. nedelje samo iz oblasti koje su implementirane u projektu
 
 Iz opštih pitanja neće biti:
+
 -C++
 -CMake
 -CLion
