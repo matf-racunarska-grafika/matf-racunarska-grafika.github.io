@@ -39,7 +39,7 @@ teksturu**, Blending (9. nedelja), Anti-Aliasing (10.nedelja), Shadow
 mapping (11. nedelja) => 0 poena, projekat mora sadržati sve od 2. do 7. nedelje
 
 Olakšica za januarski i februarski rok:
- Sve oblasti od 2. do 7. nedelje: 35 poena
+ + Sve oblasti od 2. do 7. nedelje: 35 poena
  + Jedna tema iz 9 nedelje: +7.5 poena
  + Jedna tema iz 10 nedelje: +7.5 poena
  + Jedna tema iz 11 ili 12 nedelje: Nije obavezno. Može da zameni neku temu iz 9. ili 10. nedelje.
