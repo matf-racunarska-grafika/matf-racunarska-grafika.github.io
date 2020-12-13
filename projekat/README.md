@@ -34,21 +34,17 @@ Anti-Aliasing (10.nedelja), Shadow mapping (11. nedelja) => najviše
 Anti-Aliasing (10.nedelja) => najviše 40 poena (u zavisnosti od
 kvaliteta odbrane)
 
- Projekat6: sadrži sve od 2. do 7. nedelje sem što **nema ni jednu
+ Projekat7: sadrži sve od 2. do 7. nedelje sem što **nema ni jednu
 teksturu**, Blending (9. nedelja), Anti-Aliasing (10.nedelja), Shadow
-mapping (11. nedelja) => 0 poena, projekat mora sadržati sve od 2. do
-7. nedelje
+mapping (11. nedelja) => 0 poena, projekat mora sadržati sve od 2. do 7. nedelje
 
- Olakšica za januarski i februarski rok:
- Sve oblasti od 2. do 7. nedelje: 35 poena
+Olakšica za januarski i februarski rok:
+Sve oblasti od 2. do 7. nedelje: 35 poena
  + Jedna tema iz 9 nedelje: +7.5 poena
  + Jedna tema iz 10 nedelje: +7.5 poena
- + Jedna tema iz 11 ili 12 nedelje: Nije obavezno. Može da zameni neku temu iz
-9. ili 10. nedelje.
- 
+ + Jedna tema iz 11 ili 12 nedelje: Nije obavezno. Može da zameni neku temu iz 9. ili 10. nedelje.
 
- Moguće je uspešno odbraniti projekat bez implementacije oblasti iz 9.
-10. 11. i 12. nedelje. Maksimalan broj poena koje je moguće osvojiti u
+Moguće je uspešno odbraniti projekat bez implementacije oblasti iz 9. 10. 11. i 12. nedelje. Maksimalan broj poena koje je moguće osvojiti u
 tom slučaju je 35.
 
 Boduje se:
@@ -57,9 +53,9 @@ Boduje se:
 -odbrana projekta
 
 Odbrana projekta se sastoji iz:
- 1) Prezentovanja projekta (najviše 5 min)
- 2) Odgovaranje na pitanja vezana za projekat
- 3) Odgovaranje na opšta pitanja iz gradiva sa vežbi
+1. Prezentovanja projekta (najviše 5 min)
+2. Odgovaranje na pitanja vezana za projekat
+3. Odgovaranje na opšta pitanja iz gradiva sa vežbi
 
 Iz opštih pitanja za gradivo sa vežbi:
 -Sve od 2. do 7. 
