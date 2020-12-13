@@ -1,18 +1,11 @@
 # Računarska grafika 
 
-## Čas 09 Subota 10-13 (Nadoknada)
+## Čas 09 Nedelja 16-19 (Nadoknada)
 
-Trenutno nema struje u delu grada u kome stanujem. Nadam se
-da će uskoro biti otklonjen kvar.
+Link će biti okačen u 16:00.
 
-Ako do 10:30 ne bude okačen link za vežbe, zamolio bih studente koji
-su hteli da slušaju nadoknadu u današnjem terminu da se uključe 
-u sutrašnji termin nadoknade od 16h-19h. Ne bih da počinjemo nakon
-zakaznog termina i tako poremetimo ostale obaveze koje ste možda isplanirali
-za ostatak dana. Ako nekome ipak ne odgovara
-sutrašnji termin snimci će svakako biti okačeni u nedelju uveče.
+Čas počinje u 16:15.
 
-Hvala na razumevanju!
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
