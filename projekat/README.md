@@ -39,38 +39,35 @@ teksturu**, Blending (9. nedelja), Anti-Aliasing (10.nedelja), Shadow
 mapping (11. nedelja) => 0 poena, projekat mora sadržati sve od 2. do 7. nedelje
 
 Olakšica za januarski i februarski rok:
-
-> Sve oblasti od 2. do 7. nedelje: 35 poena
-> + Jedna tema iz 9 nedelje: +7.5 poena
-> + Jedna tema iz 10 nedelje: +7.5 poena
-> + Jedna tema iz 11 ili 12 nedelje: Nije obavezno. Može da zameni neku temu iz 9. ili 10. nedelje.
+ Sve oblasti od 2. do 7. nedelje: 35 poena
+ + Jedna tema iz 9 nedelje: +7.5 poena
+ + Jedna tema iz 10 nedelje: +7.5 poena
+ + Jedna tema iz 11 ili 12 nedelje: Nije obavezno. Može da zameni neku temu iz 9. ili 10. nedelje.
 
 Moguće je uspešno odbraniti projekat bez implementacije oblasti iz 9. 10. 11. i 12. nedelje. Maksimalan broj poena koje je moguće osvojiti u
 tom slučaju je 35.
 
 Boduje se:
-1) implementacija tema
-2) oblasti koje projekat sadrži
-3) odbrana projekta
+ 1. implementacija tema
+ 2. oblasti koje projekat sadrži
+ 3. odbrana projekta
 
 Odbrana projekta se sastoji iz:
-1. Prezentovanja projekta (najviše 5 min)
-2. Odgovaranje na pitanja vezana za projekat
-3. Odgovaranje na opšta pitanja iz gradiva sa vežbi
+ 1. Prezentovanja projekta (najviše 5 min)
+ 2. Odgovaranje na pitanja vezana za projekat
+ 3. Odgovaranje na opšta pitanja iz gradiva sa vežbi
 
 Iz opštih pitanja za gradivo sa vežbi:
-
--Sve od 2. do 7. 
--Iz 9. 10. 11. i 12. nedelje samo iz oblasti koje su implementirane u projektu
+ -Sve od 2. do 7. 
+ -Iz 9. 10. 11. i 12. nedelje samo iz oblasti koje su implementirane u projektu
 
 Iz opštih pitanja neće biti:
-
--C++
--CMake
--CLion
--ImGui
--Text rendering
--Git i Github
+ -C++
+ -CMake
+ -CLion
+ -ImGui
+ -Text rendering
+ -Git i Github
 
 **Da li projekat radimo sami ili u timu?**
 
