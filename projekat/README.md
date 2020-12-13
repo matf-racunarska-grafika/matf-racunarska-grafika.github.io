@@ -58,16 +58,16 @@ Odbrana projekta se sastoji iz:
  3. Odgovaranje na opšta pitanja iz gradiva sa vežbi
 
 Iz opštih pitanja za gradivo sa vežbi:
- -Sve od 2. do 7. 
- -Iz 9. 10. 11. i 12. nedelje samo iz oblasti koje su implementirane u projektu
+* Sve od 2. do 7. 
+* Iz 9. 10. 11. i 12. nedelje samo iz oblasti koje su implementirane u projektu
 
 Iz opštih pitanja neće biti:
- -C++
- -CMake
- -CLion
- -ImGui
- -Text rendering
- -Git i Github
+* C++
+* CMake
+* CLion
+* ImGui
+* Text rendering
+* Git i Github
 
 **Da li projekat radimo sami ili u timu?**
 
