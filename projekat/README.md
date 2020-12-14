@@ -159,8 +159,12 @@ prijavite projekat za odbranu u nekom od narednih rokova.
 
 **Šta podrazumeva 'sve od 2. do 7. nedelje'?**
 > Nedelja 2: Barem 1 objekat nacrtan pomoću Element Buffer Objekta
+
 > Nedelja 3: Barem 2 šejder programa sa različitim verteks i fragment šejderima. Barem 1 objekat na koji je mapirana difuzna i spekularna tekstura. 
+
 > Nedelja 4: Barem jedan model na sceni mora da se pomera. Može biti i izvor svetlosti. Kamera može biti i statična.
-> Nedelja 5 i 6: barem dva izvora svetlosti različitog tipa (direkciono, tačkasto, lampa). 
+
+> Nedelja 5 i 6: barem dva izvora svetlosti različitog tipa (direkciono, tačkasto, lampa).
+
 > Nedelja 7: barem jedan model učitan preko Model klase
 
