@@ -150,3 +150,17 @@ Shadow mapping (11), Bloom (12)~~
 > Advanced Data i Advanced GLSL su uvodne oblasti za teme koje slede kasnije i obrađuju neke aspekte performansi OpenGL. Nisu nešto što proizvodi napredne efekte u grafici samo po sebi, već su funkcionalnosti OpenGL-a i GLSL-a koje olakšavaju programiranje.
 
 
+**Šta ako nismo zadovoljni brojem osvojenih bodova?**
+> Ako niste zadovoljni brojem osvojenih bodova implementirate još neki napredni efekat i ponovo
+prijavite projekat za odbranu u nekom od narednih rokova.
+
+**Kako da znam da mi je tema dobra i da sam implementirao sve što je neophodno?**
+> Možete poslati link do repozitorijuma na mejl i zatražiti mišljenje nakon čega ćete dobiti odgovor da li projekat zadovoljava sve neophodne kriterijume i šta bi eventualno trebalo doraditi. Takođe, možete pokazati projekat i na konsultacijama preko webex-a.
+
+**Šta podrazumeva 'sve od 2. do 7. nedelje'?**
+> Nedelja 2: Barem 1 objekat nacrtan pomoću Element Buffer Objekta
+> Nedelja 3: Barem 2 šejder programa sa različitim verteks i fragment šejderima. Barem 1 objekat na koji je mapirana difuzna i spekularna tekstura. 
+> Nedelja 4: Barem jedan model na sceni mora da se pomera. Može biti i izvor svetlosti. Kamera može biti i statična.
+> Nedelja 5 i 6: barem dva izvora svetlosti različitog tipa (direkciono, tačkasto, lampa). 
+> Nedelja 7: barem jedan model učitan preko Model klase
+
