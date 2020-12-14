@@ -135,7 +135,7 @@ Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 
 
 ### 09
--[Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing): Bafer dubine, funkcija testiranja dubine, preciznost vrednosti dubine, vizuelizacija bafera dubine, z-bafer
+-[Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing): Bafer dubine, funkcija testiranja dubine, preciznost vrednosti dubine, vizuelizacija bafera dubine, z-bafer, [z-value math](http://www.songho.ca/opengl/gl_projectionmatrix.html)
 
 -[Stencil testing](https://learnopengl.com/Advanced-OpenGL/Stencil-testing): odbacivanje fragmenata, stencil funkcije, ivičenje objekata
 
