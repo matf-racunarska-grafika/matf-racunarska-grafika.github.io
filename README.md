@@ -17,19 +17,6 @@
 
 
 ## Obaveštenja
-**[06.12.2020.]**
-
-> **Nadoknada**
-
-> Nadoknada časova za radnu nedelju od 23.11. do 27.11. biće održana u terminima:
-
-> Subota (12.12.2020.):  10h-13h
-
-> Nedelja (13.12.2020.):  16h-19h
-
-> Možete prisustvovati u bilo kojem od termina. Snimci će svakako biti okačani.
-
-> Ako bude pitanja, možemo ostati malo duže.
 
 
 
@@ -219,6 +206,20 @@ Provera verzije OpenGL: `glxinfo | grep OpenGL`
 [John Carmack on inlined code](http://number-none.com/blow/john_carmack_on_inlined_code.html)
 
 ### Stara obaveštenja
+**[06.12.2020.]**
+
+> **Nadoknada**
+
+> Nadoknada časova za radnu nedelju od 23.11. do 27.11. biće održana u terminima:
+
+> Subota (12.12.2020.):  10h-13h
+
+> Nedelja (13.12.2020.):  16h-19h
+
+> Možete prisustvovati u bilo kojem od termina. Snimci će svakako biti okačani.
+
+> Ako bude pitanja, možemo ostati malo duže.
+
 
 **[04.12.2020.]**
 
