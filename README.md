@@ -33,7 +33,7 @@ Počinjemo u 08:15.
 -asistent: Marko Spasić (marko_spasic@matf.bg.ac.rs)
 
 ## Bodovanje
--Projekat (50 poena) 
+-Projekat (50 poena) [detaljnije](projekat/)
 
 -Završni teorijski ispit (50 poena)
 
