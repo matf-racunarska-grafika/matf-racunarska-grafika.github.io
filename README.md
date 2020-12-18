@@ -1,6 +1,6 @@
 # Računarska grafika 
 
-## Čas 10 Sreda 08-11
+## Čas 10 Petak 08-11
 
 Čas je otvoren.
 
