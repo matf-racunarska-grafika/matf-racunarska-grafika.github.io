@@ -1,12 +1,14 @@
 # Računarska grafika 
 
-## Čas 10 Petak 11-14
+## Časovi do kraja semestra
 
-Čas je otvoren.
+Termini vežbi do kraja semestra će biti termini konsultacija za projekte ili gradivo iz bilo koje lekcije. Možete doći u bilo koji termin. Prisustvo najaviti mejlom barem dan unapred.
 
-https://matf.webex.com/meet/marko_spasic
+Snimci lekcija iz 11. i 12. će biti kačene jedna po jedna kako budu snimljene.
 
-Počinjemo u 11:15.
+Forma za prijave projekata za januarski rok će biti okačena kada se bude znao raspored ispita.
+
+Na stranici [Projekat](projekat/) se nalaze detaljnije informacije o sadržaju i načinu bodovanja projekta. 
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
