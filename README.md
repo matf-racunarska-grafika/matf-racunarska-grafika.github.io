@@ -1,5 +1,9 @@
 # Računarska grafika 
 
+## Konsultacije 08-11 Petak
+
+https://matf.webex.com/meet/marko_spasic
+
 ## Časovi do kraja semestra
 
 Termini vežbi do kraja semestra će biti termini konsultacija za projekte ili gradivo iz bilo koje lekcije. Možete doći u bilo koji termin. Prisustvo najaviti mejlom barem dan unapred.
