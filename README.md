@@ -1,6 +1,6 @@
 # Računarska grafika 
 
-## Konsultacije 08-11 Petak
+## Konsultacije 11-14 Petak
 
 https://matf.webex.com/meet/marko_spasic
 
