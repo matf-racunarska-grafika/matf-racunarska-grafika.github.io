@@ -167,8 +167,10 @@ Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 
 -[Point shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows): omnidirekcione mape senki, PCF
 
+-[Normal mapping](https://learnopengl.com/Advanced-Lighting/Normal-Mapping): mapiranje normala, tangenti prostori, kompleksni objekti
+
 ### 12
--[Normal mapping](https://learnopengl.com/Advanced-Lighting/Normal-Mapping): mapiranje normala, tangenti prostori, kompleksni objekti, 
+
 
 -[Parallax Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping): paralaks mapiranje, koso paralaks mapiranje, paralaks absorbovanje
 
