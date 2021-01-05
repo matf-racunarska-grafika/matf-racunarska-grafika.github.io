@@ -1,8 +1,22 @@
 # Računarska grafika 
 
-## Konsultacije 13- Utorak
+## JANUAR1 PREDROK
 
-https://matf.webex.com/meet/marko_spasic
+Predrok za odbranu projekata.
+
+Sreda 13.01. od 11:00 na Trgu.
+
+Forma za prijavu:
+
+https://forms.gle/z7ogmjFFyasMChqs8
+
+## TERMINI ZA ODBRANE PROJEKATA 
+
+Par dana nakon termina biće okačena forma za prijavu.
+
+JAN1: 19.01. i 24.01.
+
+JAN2: 02.02. i 11.02.
 
 ## Časovi do kraja semestra
 
