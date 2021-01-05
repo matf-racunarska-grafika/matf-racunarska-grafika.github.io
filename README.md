@@ -6,9 +6,10 @@ Predrok za odbranu projekata.
 
 Sreda 13.01. od 11:00 na Trgu.
 
-Forma za prijavu:
+Forma za prijavu (otvorena do 12.01. 21:00):
 
 https://forms.gle/z7ogmjFFyasMChqs8
+
 
 ## TERMINI ZA ODBRANE PROJEKATA 
 
