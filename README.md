@@ -10,6 +10,8 @@ Forma za prijavu (otvorena do 12.01. 21:00):
 
 https://forms.gle/z7ogmjFFyasMChqs8
 
+Raspored će biti objavljen u utorak nakon završetka prijave.
+
 
 ## TERMINI ZA ODBRANE PROJEKATA 
 
