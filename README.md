@@ -1,16 +1,24 @@
 # Računarska grafika 
 
-## JANUAR1 PREDROK
+## JANUAR1 PREDROK TERMINI
 
-Predrok za odbranu projekata.
+Sreda 13.01. od 11:00 na Trgu. Učionica 704.
 
-Sreda 13.01. od 11:00 na Trgu.
+**11:00** 
+> mi18045	mi18169
 
-Forma za prijavu (otvorena do 12.01. 21:00):
+> mi18010	mi18141
 
-https://forms.gle/z7ogmjFFyasMChqs8
+**12:00**
+> mi18225	mi18128
 
-Raspored će biti objavljen u utorak nakon završetka prijave.
+> mi18145	mi18218
+
+**13:00** 
+> mi18049	mi18038
+
+> mi17298
+
 
 
 ## TERMINI ZA ODBRANE PROJEKATA 
