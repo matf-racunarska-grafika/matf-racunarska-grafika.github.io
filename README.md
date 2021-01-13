@@ -1,25 +1,14 @@
 # Računarska grafika 
 
-## JANUAR1 PREDROK TERMINI
+## JANUAR1 PRIJAVA 
 
-Sreda 13.01. od 11:00 na Trgu. Učionica 704.
+Forma za prijavu:
 
-**11:00** 
-> mi18045	mi18169
+https://forms.gle/H7uNGDGcrnPprWah9
 
-> mi18010	mi18141
+Raspored i lokacija za 19.01. biće objavljeni 18.01. oko 21:00.
 
-**12:00**
-> mi18225	mi18128
-
-> mi18145	mi18218
-
-**13:00** 
-> mi18049	mi18038
-
-> mi17298
-
-
+Raspored i lokacija za 24.01. biće objavljeni 23.01. oko 21:00.
 
 ## TERMINI ZA ODBRANE PROJEKATA 
 
