@@ -12,7 +12,7 @@ Raspored i lokacija za 24.01. biće objavljeni 23.01. oko 21:00.
 
 ## TERMINI ZA ODBRANE PROJEKATA 
 
-Par dana nakon termina biće okačena forma za prijavu.
+Par dana pre termina biće okačena forma za prijavu.
 
 JAN1: 19.01. i 24.01.
 
