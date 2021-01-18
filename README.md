@@ -1,5 +1,16 @@
 # Računarska grafika 
 
+## JAN1 19.01. Termini:
+
+**08:00**
+
+>> mi18241
+
+>> mi18096
+
+>> mi18039
+
+
 ## JANUAR1 PRIJAVA 
 
 Forma za prijavu:
