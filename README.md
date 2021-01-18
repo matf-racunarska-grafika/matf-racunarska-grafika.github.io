@@ -10,7 +10,8 @@
 
 > mi18039
 
-Ispred učionice 718. 
+Ispred učionice 718. Molim Vas dođite na vreme da bi smo završili do 9 jer posle počinju drugi ispiti. 
+Hvala na razumevanju!
 
 ## JANUAR1 PRIJAVA 
 
