@@ -2,14 +2,15 @@
 
 ## JAN1 19.01. Termini:
 
-**08:00**
+**Trg: 08:00**
 
->> mi18241
+> mi18241
 
->> mi18096
+> mi18096
 
->> mi18039
+> mi18039
 
+Ispred učionice 718. 
 
 ## JANUAR1 PRIJAVA 
 
