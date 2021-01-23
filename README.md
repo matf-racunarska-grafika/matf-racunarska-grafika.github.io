@@ -1,17 +1,20 @@
 # Računarska grafika 
 
-## JAN1 19.01. Termini:
+## JAN1 24.01. Termini:
 
-**Trg: 08:00**
+**17:00**
 
-> mi18241
+> mn16199 mr16131
 
-> mi18096
+> mi18240 mi18182
 
-> mi18039
+**18:00**
 
-Ispred učionice 718. Molim Vas dođite na vreme da bi smo završili do 9 jer posle počinju drugi ispiti. 
-Hvala na razumevanju!
+> mi18044 mi18083
+
+> mi18030 mi18006
+
+Ispred učionice **RLAB**.
 
 ## JANUAR1 PRIJAVA 
 
