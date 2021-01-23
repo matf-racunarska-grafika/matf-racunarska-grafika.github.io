@@ -14,6 +14,12 @@
 
 > mi18030 mi18006
 
+**19:00**
+
+> mi17146 mi17052
+
+> mi18213
+
 Ispred učionice **RLAB**.
 
 ## JANUAR1 PRIJAVA 
