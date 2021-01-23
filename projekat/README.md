@@ -116,6 +116,8 @@ Shadow mapping (11), Bloom (12)~~
 
 > Odbrana projekta se sastoji iz: prezentacije projekta i pitanja za sam projekat, opšta pitanja gradiva sa vežbi.
 
+> Ako je projekat rađen u paru, oba člana brane projekat u istom terminu.
+
 
 **Da li je moguće izaći na završni teorijski ispit bez odbranjenog projekta?**
 
