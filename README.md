@@ -1,36 +1,11 @@
 # Računarska grafika 
 
-## JAN1 24.01. Termini:
-
-**17:00**
-
-> mn16199 mr16131
-
-> mi18240 mi18182
-
-**18:00**
-
-> mi18044 mi18083
-
-> mi18030 mi18006
-
-**19:00**
-
-> mi17146 mi17052
-
-> mi18213
-
-Ispred učionice **RLAB**.
-
-## JANUAR1 PRIJAVA 
+## FEBRUAR PRIJAVA 
 
 Forma za prijavu:
 
-https://forms.gle/H7uNGDGcrnPprWah9
+https://forms.gle/BvseQyyVoDeyRsMw9
 
-Raspored i lokacija za 19.01. biće objavljeni 18.01. oko 21:00.
-
-Raspored i lokacija za 24.01. biće objavljeni 23.01. oko 21:00.
 
 ## TERMINI ZA ODBRANE PROJEKATA 
 
