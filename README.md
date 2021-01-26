@@ -1,6 +1,6 @@
 # Računarska grafika 
 
-## FEBRUAR PRIJAVA 
+## FEBRUAR: ODBRANA PROJEKATA
 
 Forma za prijavu:
 
