@@ -11,9 +11,9 @@ https://forms.gle/BvseQyyVoDeyRsMw9
 
 Par dana pre termina biće okačena forma za prijavu.
 
-JAN1: 19.01. i 24.01.
+JAN: 19.01. i 24.01.
 
-JAN2: 02.02. i 12.02.
+FEB: 02.02. i 12.02.
 
 ## Časovi do kraja semestra
 
