@@ -10,11 +10,13 @@ https://forms.gle/BvseQyyVoDeyRsMw9
 
 Zgrada na Trgu. Učionica 718 (ako se desi da bude zauzeta, ovde će biti objavljena učionica).
 
-15:15
+15:00
 
 > mi18100	mi18069
 
 > mi17308
+
+> mi18215
 
 16:00
 
