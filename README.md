@@ -6,6 +6,34 @@ Forma za prijavu:
 
 https://forms.gle/BvseQyyVoDeyRsMw9
 
+## 02.02. Raspored
+
+Zgrada na Trgu. Učionica 718 (ako se desi da bude zauzeta, ovde će biti objavljena učionica).
+
+15:15
+
+> mi18100	mi18069
+
+> mi17308
+
+16:00
+
+> mi18029	mi18269
+
+> mi18099	mi18130
+
+17:00
+
+> mi18027	mi18135
+
+> mi18028	mi18116
+
+18:00
+
+> mi18018	mi18131
+
+> mi18268	mi18168
+
 
 ## TERMINI ZA ODBRANE PROJEKATA 
 
