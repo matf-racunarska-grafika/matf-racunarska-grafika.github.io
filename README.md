@@ -1,5 +1,30 @@
 # Računarska grafika 
 
+## FEBRUAR: 12.02. Termini TRG RLAB 
+(Ukoliko ucionica bude promenjena ovde ce biti okačeno obaveštenje)
+
+**08:00**
+
+> mi18024	mi18092
+> mi18075
+> mr14255
+
+**09:00**
+
+> mi18106	mi18015
+> mi18300	mi18219
+
+**10:00**
+
+> ai16235	mi18476
+> mi18465
+> mi18227
+
+**11:00**
+
+> 290/2018	78/2018
+> mi18171	mi18193
+
 ## FEBRUAR: ODBRANA PROJEKATA
 
 Forma za prijavu:
