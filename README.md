@@ -1,54 +1,5 @@
 # Računarska grafika 
 
-## FEBRUAR: 12.02. Termini TRG RLAB 
-(Ukoliko ucionica bude promenjena ovde ce biti okačeno obaveštenje)
-
-**08:00**
-
-> mi18024	mi18092
-> mi18075
-> mr14255
-
-**09:00**
-
-> mi18106	mi18015
-> mi18300	mi18219
-
-**10:00**
-
-> ai16235	mi18476
-> mi18465
-> mi18227
-
-**11:00**
-
-> 290/2018	78/2018
-> mi18171	mi18193
-
-## FEBRUAR: ODBRANA PROJEKATA
-
-Forma za prijavu:
-
-https://forms.gle/BvseQyyVoDeyRsMw9
-
-## TERMINI ZA ODBRANE PROJEKATA 
-
-Par dana pre termina biće okačena forma za prijavu.
-
-JAN: 19.01. i 24.01.
-
-FEB: 02.02. i 12.02.
-
-## Časovi do kraja semestra
-
-Termini vežbi do kraja semestra će biti termini konsultacija za projekte ili gradivo iz bilo koje lekcije. Možete doći u bilo koji termin. Prisustvo najaviti mejlom barem dan unapred.
-
-Snimci lekcija iz 11. i 12. će biti kačene jedna po jedna kako budu snimljene.
-
-Forma za prijave projekata za januarski rok će biti okačena kada se bude znao raspored ispita.
-
-Na stranici [Projekat](projekat/) se nalaze detaljnije informacije o sadržaju i načinu bodovanja projekta. 
-
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
 > [Obaveštenja](#obaveštenja) 
