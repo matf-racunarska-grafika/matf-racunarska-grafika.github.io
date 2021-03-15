@@ -166,7 +166,7 @@ Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 
 -[Parallax Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping): paralaks mapiranje, koso paralaks mapiranje, paralaks absorbovanje [video](https://youtu.be/Rqj_yDFALWk)
 
--[HDR](https://learnopengl.com/Advanced-Lighting/HDR) [video](https://youtu.be/4bMwMTA8BEw)
+-[HDR](https://learnopengl.com/Advanced-Lighting/HDR): Floating point buffers, Tone mapping, Exposure [video](https://youtu.be/4bMwMTA8BEw)
 
 -[Bloom](https://learnopengl.com/Advanced-Lighting/Bloom): ekstrakovanje blještavih boja, Gausov blur, blending [video](https://youtu.be/m2lJ800T42o)
 
