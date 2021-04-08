@@ -4,7 +4,7 @@
 
 ## APRIL Predrok
 
-Forma za prijavu https://forms.gle/wCgnv5gZXELSxhpc7
+[Forma](https://forms.gle/wCgnv5gZXELSxhpc7) za prijavu.
 
 Rok za prijavu 19.04.
 
