@@ -2,6 +2,14 @@
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
+## APRIL Predrok
+
+Forma za prijavu https://forms.gle/wCgnv5gZXELSxhpc7
+
+Rok za prijavu 19.04.
+
+Odbrana će biti između 19.04. i 23.04. Tačan termin i lokacija biće objavljeni naknadno.
+
 > [Obaveštenja](#obaveštenja) 
 
 > [Bodovanje](#bodovanje) 
