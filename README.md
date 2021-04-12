@@ -10,6 +10,8 @@ Rok za prijavu 19.04.
 
 Odbrana će biti između 19.04. i 23.04. Tačan termin i lokacija biće objavljeni naknadno.
 
+**NAPOMENA**: Za junski rok i dalje ostaju dva termina za odbranu projekata. Jedan krajem maja i jedan u toku ispitnog roka.
+
 > [Obaveštenja](#obaveštenja) 
 
 > [Bodovanje](#bodovanje) 
@@ -26,7 +28,7 @@ Odbrana će biti između 19.04. i 23.04. Tačan termin i lokacija biće objavlje
 ## Obaveštenja
 **[14.03.2021.] JUNSKI ROK**
 
-U junskom roku će za odbranu projekata biti organizovana dva termina. Jedan u krajem maja i jedan u toku ispitnog roka.
+U junskom roku će za odbranu projekata biti organizovana dva termina. Jedan  krajem maja i jedan u toku ispitnog roka.
 
 
 ## Nastavnici i asistenti
