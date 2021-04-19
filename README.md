@@ -2,7 +2,20 @@
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## APRIL Predrok
+## APRIL Predrok Sreda 21.04. zgrada na Trgu 
+
+Ako nismo u 718 sačekajte ispred nje, doći ću po Vas u zakazanom terminu.
+
+**Termini:**  
+**11:00**  
+mi18222 mi18109  
+mi18001 mi18079  
+mi17113  
+
+**12:00**  
+mi18117 mi18271  
+mi18165 mi18176  
+mr14265 mr14028
 
 [Forma](https://forms.gle/wCgnv5gZXELSxhpc7) za prijavu.
 
