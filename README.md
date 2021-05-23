@@ -2,6 +2,16 @@
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
+## Odbrana projekata MAJ
+
+Odbrana projekata će se održati u četvrtak 27.05. u zgradi na Trgu u jutranjm satima (od 08:00 pa nadalje). Tačan raspored biće objavljen u sredu
+oko 20:00.
+
+Forma za prijavu: https://forms.gle/uGxnVAQqxFAGVgm46
+
+Prijave su otvorene do srede u 20:00.
+
+
 **NAPOMENA**: Za junski rok i dalje ostaju dva termina za odbranu projekata. Jedan krajem maja i jedan u toku ispitnog roka.
 
 > [Obaveštenja](#obaveštenja) 
