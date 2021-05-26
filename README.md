@@ -4,6 +4,25 @@
 
 ## Odbrana projekata MAJ
 
+Termini:  
+**09:00**  
+mi16104  
+mi18191  
+mi17090	mi17044  
+
+**10:00**  
+mi17317  
+mi18185	mi18293  
+mi18064  
+
+**11:00**  
+mi18214  
+mi17132	mi18200  
+mi18059	mi18107  
+
+Gore navedeni termini su objavljeni 26.05. u 17:25 svhi koji su se do tada prijavlil.  
+Ukoliko se prijavite kasnije večeras dodaću Vas na spisak u terminu od 12:00.
+
 Odbrana projekata će se održati u četvrtak 27.05. u zgradi na Trgu u jutranjm satima (od 08:00 pa nadalje). Tačan raspored biće objavljen u sredu
 oko 20:00.
 
