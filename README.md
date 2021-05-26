@@ -19,6 +19,8 @@ mi18064
 mi18214  
 mi17132	mi18200  
 mi18059	mi18107  
+mi16293  
+
 
 Gore navedeni termini su objavljeni 26.05. u 17:25 svhi koji su se do tada prijavlil.  
 Ukoliko se prijavite kasnije večeras dodaću Vas na spisak u terminu od 12:00.
