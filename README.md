@@ -4,7 +4,7 @@
 
 ## Odbrana projekata MAJ
 
-Termini:  
+Termini:  (BIM sala)  
 **09:00**  
 mi16104  
 mi18191  
@@ -21,16 +21,6 @@ mi17132	mi18200
 mi18059	mi18107  
 mi16293  
 
-
-Gore navedeni termini su objavljeni 26.05. u 17:25 svhi koji su se do tada prijavlil.  
-Ukoliko se prijavite kasnije večeras dodaću Vas na spisak u terminu od 12:00.
-
-Odbrana projekata će se održati u četvrtak 27.05. u zgradi na Trgu u jutranjm satima (od 08:00 pa nadalje). Tačan raspored biće objavljen u sredu
-oko 20:00.
-
-Forma za prijavu: [https://forms.gle/uGxnVAQqxFAGVgm46](https://forms.gle/uGxnVAQqxFAGVgm46)
-
-Prijave su otvorene do srede u 20:00.
 
 
 **NAPOMENA**: Za junski rok i dalje ostaju dva termina za odbranu projekata. Jedan krajem maja i jedan u toku ispitnog roka.
