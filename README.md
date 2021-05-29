@@ -16,10 +16,6 @@ Forma za prijavu za termin odbrane projekata u ispitnom roku jun2. [https://form
 Termin 26.06. ili 27.06. biće objavljeno naknadno.
 
 
-
-
-**NAPOMENA**: Za junski rok i dalje ostaju dva termina za odbranu projekata. Jedan krajem maja i jedan u toku ispitnog roka.
-
 > [Obaveštenja](#obaveštenja) 
 
 > [Bodovanje](#bodovanje) 
