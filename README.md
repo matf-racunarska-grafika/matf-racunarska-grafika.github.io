@@ -8,6 +8,10 @@ Forma za prijavu za termin odbrane projekata u ispitnom roku jun1. [https://form
 
 Termin 09.06. u prepodnevnim satima.
 
+**TERMINI**  
+Zgrada na Trgu ispred učionice 716.
+10:00 mi16167 mi18181  
+
 
 ## Odbrana projekata Jun2
 
