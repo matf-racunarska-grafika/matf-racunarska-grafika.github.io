@@ -2,17 +2,6 @@
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## Odbrana projekata Jun1
-
-Forma za prijavu za termin odbrane projekata u ispitnom roku jun1. [https://forms.gle/eWNsQCsrfh2TQ5i99](https://forms.gle/eWNsQCsrfh2TQ5i99)
-
-Termin 09.06. u prepodnevnim satima.
-
-**TERMINI**  
-Zgrada na Trgu ispred učionice 716.  
-10:00  
-mi16167 mi18181  
-
 
 ## Odbrana projekata Jun2
 
