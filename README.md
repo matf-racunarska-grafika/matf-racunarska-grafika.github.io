@@ -23,12 +23,6 @@ Termin 26.06. ili 27.06. biće objavljeno naknadno.
 > [Extras](#extras)
 
 
-## Obaveštenja
-**[14.03.2021.] JUNSKI ROK**
-
-U junskom roku će za odbranu projekata biti organizovana dva termina. Jedan  krajem maja i jedan u toku ispitnog roka.
-
-
 ## Nastavnici i asistenti
 -nastavnik: [dr. Vesna Marinković](http://poincare.matf.bg.ac.rs/~vesnam/grafika.html)
 
