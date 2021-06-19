@@ -10,6 +10,17 @@ Forma za prijavu za termin odbrane projekata u ispitnom roku jun2. [https://form
 Termin 26.06. ili 27.06. biće objavljeno naknadno.
 
 
+## Odbrana projekata: Septembar
+
+Drage koleginice i kolege,
+
+U ispitnim rokovima SEP0, SEP1 i SEP2 će biti po jedan termin u svakom roku koji će biti pre završnog teorijskog ispita za taj rok.  
+Dodatno, u drugoj polovini avgusta će biti jedan termin u predroku za odbranu projekata.  
+Datum završnog teorijskog ispita možete naći u [rasporedu ispita](http://www.matf.bg.ac.rs/m/36/raspored-ispita/) na sajtu Matematičkog fakulteta.
+
+Srdačan pozdrav,  
+Marko Spasić  
+
 > [Obaveštenja](#obaveštenja) 
 
 > [Bodovanje](#bodovanje) 
@@ -21,6 +32,7 @@ Termin 26.06. ili 27.06. biće objavljeno naknadno.
 > [Literatura Dokumentacija Alati](#literatura)
 
 > [Extras](#extras)
+
 
 
 ## Nastavnici i asistenti
