@@ -7,7 +7,7 @@
 
 Forma za prijavu za termin odbrane projekata u ispitnom roku jun2. [https://forms.gle/NJdG35DrexfKhPJb6](https://forms.gle/NJdG35DrexfKhPJb6)
 
-Termin 26.06. ili 27.06. biće objavljeno naknadno.
+Termin 26.06.
 
 
 ## Odbrana projekata: Septembar
