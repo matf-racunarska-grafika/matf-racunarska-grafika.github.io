@@ -5,9 +5,7 @@
 
 ## Odbrana projekata Jun2
 
-Forma za prijavu za termin odbrane projekata u ispitnom roku jun2. [https://forms.gle/NJdG35DrexfKhPJb6](https://forms.gle/NJdG35DrexfKhPJb6)
-
-Termin 26.06.
+Termin 26.06. zgrada na Trgu u 15:00 ispred učionice 716. 
 
 
 ## Odbrana projekata: Septembar
