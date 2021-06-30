@@ -2,12 +2,6 @@
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-
-## Odbrana projekata Jun2
-
-Termin 26.06. zgrada na Trgu u 15:00 ispred učionice 716. 
-
-
 ## Odbrana projekata: Septembar
 
 Drage koleginice i kolege,
