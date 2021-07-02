@@ -218,6 +218,8 @@ Provera verzije OpenGL: `glxinfo | grep OpenGL`
 
 [John Carmack on inlined code](http://number-none.com/blow/john_carmack_on_inlined_code.html)
 
+[https://polygone.art](https://polygone.art)
+
 ### Stara obaveštenja
 **[06.12.2020.]**
 
