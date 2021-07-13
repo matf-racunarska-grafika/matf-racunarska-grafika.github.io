@@ -21,9 +21,7 @@ Marko Spasić
 
 > [Materijali](#materijali) 
 
-> [Literatura Dokumentacija Alati](#literatura)
-
-> [Extras](#extras)
+> [Literatura Dokumentacija Alati](docs/)
 
 
 
