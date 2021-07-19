@@ -6,7 +6,7 @@
 
 Drage koleginice i kolege,
 
-U ispitnim rokovima SEP0, SEP1 i SEP2 će biti po jedan termin u svakom roku koji će biti pre završnog teorijskog ispita za taj rok.  
+U ispitnim rokovima ~~SEP0~~ (samo za ispite iz drugog semestra), SEP1 i SEP2 će biti po jedan termin u svakom roku koji će biti pre završnog teorijskog ispita za taj rok.  
 Dodatno, u drugoj polovini avgusta će biti jedan termin u predroku za odbranu projekata.  
 Datum završnog teorijskog ispita možete naći u [rasporedu ispita](http://www.matf.bg.ac.rs/m/36/raspored-ispita/) na sajtu Matematičkog fakulteta.
 
