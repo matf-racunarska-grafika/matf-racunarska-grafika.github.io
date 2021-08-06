@@ -2,7 +2,7 @@
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## SEP RG predrok za odbranu projekata (Petak 20.08.)
+## RG predrok za odbranu projekata (Petak 20.08.)
 
 [Forma](https://forms.gle/XjHLchSA59SF5KQw8) za prijavu.  
 Forma za prijavu će biti otvorena do 18.08.  
