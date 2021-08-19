@@ -4,9 +4,16 @@
 
 ## RG predrok za odbranu projekata (Petak 20.08.)
 
-[Forma](https://forms.gle/XjHLchSA59SF5KQw8) za prijavu.  
-Forma za prijavu će biti otvorena do 18.08.  
-Termin odbrane: Petak 20.08.  
+Termin 10:00  
+64/2018  
+115/2018  
+94/2017  
+144/2018  
+
+Termin 11:00  
+147/2018  
+89/2018  
+169/2017  
 
 ## Odbrana projekata: Septembar
 
