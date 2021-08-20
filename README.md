@@ -2,7 +2,7 @@
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## RG predrok za odbranu projekata (Petak 20.08.)
+## RG predrok za odbranu projekata (Petak 20.08.) **RLAB**  
 
 Termin 10:00  
 64/2018  
