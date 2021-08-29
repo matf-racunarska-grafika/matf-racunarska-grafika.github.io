@@ -2,18 +2,12 @@
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## RG predrok za odbranu projekata (Petak 20.08.) **RLAB**  
+## RG Sep1 prijava ##
 
-Termin 10:00  
-64/2018  
-115/2018  
-94/2017  
-144/2018  
+[Forma](https://forms.gle/K3AW91QvVuWJ6GpL8) za prijavu će biti otvorena do 03.09. u 14:00.  
+Odbrane projekata će biti 04.09. na Trgu u prepodnevnim satima.  
+Tačan raspored će biti objavljen 03.09. nakon završetka prijava.
 
-Termin 11:00  
-147/2018  
-89/2018  
-169/2017  
 
 ## Odbrana projekata: Septembar
 
