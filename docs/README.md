@@ -35,3 +35,4 @@
 
 [GameLoop](https://dewitters.com/dewitters-gameloop/)
 
+[Game Programming Patterns](https://gameprogrammingpatterns.com/)
