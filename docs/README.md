@@ -33,3 +33,5 @@
 
 [OpenGL, Vulkan, DirectX, Metal - Kako odabrati API?](http://www.rastertek.com/choosing.html)
 
+[GameLoop](https://dewitters.com/dewitters-gameloop/)
+
