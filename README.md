@@ -4,10 +4,10 @@
 
 ## RG Sep1 prijava ##
 
-[Forma](https://forms.gle/K3AW91QvVuWJ6GpL8) za prijavu će biti otvorena do 03.09. u 14:00.  
-Odbrane projekata će biti 04.09. na Trgu u prepodnevnim satima.  
-Tačan raspored će biti objavljen 03.09. nakon završetka prijava.
-
+Termin **04.09. u 15:00**. Zgrada na **Trgu**. Naći ćemo se ispred učionice **716**.  
+239/2018  
+95/2018  
+256/2018  
 
 ## Odbrana projekata: Septembar
 
