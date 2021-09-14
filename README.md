@@ -2,12 +2,15 @@
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-## RG Sep1 prijava ##
-
-Termin **04.09. u 15:00**. Zgrada na **Trgu**. Naći ćemo se ispred učionice **716**.  
-239/2018  
-95/2018  
-256/2018  
+## RG Sep2 prijava ##
+ 
+ [Forma](https://forms.gle/Vy1NZt1r3TnizJg48) za prijavu za odbrane projekata u ispitnom roku Sep2.
+ 
+ Termin odbrane 20.09. Forma za prijavu će biti otvorena do 19.09. u 14:00. Tada će biti izbačen raspored.  
+ Odbrane će biti u popodnevnim satima.
+ 
+ Javite mi mejlom ukoliko Vam ovaj dan ne odgovara zbog nekog drugog ispita.
+ 
 
 ## Odbrana projekata: Septembar
 
