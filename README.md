@@ -9,7 +9,7 @@
  Termin odbrane 20.09. Forma za prijavu će biti otvorena do 19.09. u 14:00. Tada će biti izbačen raspored.  
  Odbrane će biti u popodnevnim satima.
  
- Javite mi mejlom ukoliko Vam ovaj dan ne odgovara zbog nekog drugog ispita.
+ Javite mi mejlom ukoliko vam ovaj dan ne odgovara zbog nekog drugog ispita.
  
 
 ## Odbrana projekata: Septembar
