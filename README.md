@@ -11,6 +11,15 @@
  
  Javite mi mejlom ukoliko vam ovaj dan ne odgovara zbog nekog drugog ispita.
  
+ ## RG Sep2 termini ##
+ 
+ 10:00  
+ 278/2017	55/2018  
+ 57/2018  
+ 
+ 11:00  
+ 208/2018	184/2018   
+ 353/2020	132/2018   
 
 ## Odbrana projekata: Septembar
 
