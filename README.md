@@ -8,12 +8,12 @@
 Vidimo se ispred 716.  
 Ovde će u ponedeljak u 10:00 biti istaknuto u kojoj smo učionici.  
  
-10:00  
+09:30  
 278/2017	55/2018  
 57/2018  
 44/2018  
  
-11:00  
+10:45  
 208/2018	184/2018   
 353/2020	132/2018   
 
@@ -21,15 +21,15 @@ Ovde će u ponedeljak u 10:00 biti istaknuto u kojoj smo učionici.
 249/2018
 265/2015  
 293/16  
-37/2018  
 
 13:00
 163/2017	247/2017  
-127/2018  
-115/2016  
+37/2018  
 
 17:00  
-115/2016
+115/2016  
+127/2018  
+115/2017  
 
 ## Odbrana projekata: Septembar
 
