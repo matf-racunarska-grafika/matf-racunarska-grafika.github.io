@@ -7,6 +7,7 @@
 
 Vidimo se ispred 716.  
 Ovde će u ponedeljak u 10:00 biti istaknuto u kojoj smo učionici.  
+**BIM**
  
 09:30  
 278/2017	55/2018  
