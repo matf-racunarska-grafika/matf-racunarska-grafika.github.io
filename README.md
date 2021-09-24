@@ -2,51 +2,6 @@
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
-
-## RG Sep2 termini ##
-
-Vidimo se ispred 716.  
-Ovde će u ponedeljak u 10:00 biti istaknuto u kojoj smo učionici.  
-**BIM**
- 
-09:30  
-278/2017	55/2018  
-57/2018  
-44/2018  
- 
-10:45  
-208/2018	184/2018   
-353/2020	132/2018   
-
-12:00  
-249/2018
-265/2015  
-293/16  
-
-13:00  
-163/2017	247/2017  
-37/2018  
-
-17:00  
-115/2016  
-127/2018  
-115/2017  
-
-## Odbrana projekata: Septembar
-
-Drage koleginice i kolege,
-
-U ispitnim rokovima ~~SEP0~~ (samo za ispite iz drugog semestra), SEP1 i SEP2 će biti po jedan termin u svakom roku koji će biti pre završnog teorijskog ispita za taj rok.  
-Dodatno, u drugoj polovini avgusta će biti jedan termin u predroku za odbranu projekata.  
-Datum završnog teorijskog ispita možete naći u [rasporedu ispita](http://www.matf.bg.ac.rs/m/36/raspored-ispita/) na sajtu Matematičkog fakulteta.
-
-Srdačan pozdrav,  
-Marko Spasić  
-
-> [Obaveštenja](#obaveštenja) 
-
-> [Bodovanje](#bodovanje) 
-
 > [Projekat](projekat/) 
 
 > [Materijali](#materijali) 
