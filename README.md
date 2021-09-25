@@ -4,7 +4,7 @@
 
 > [Projekat](projekat/) 
 
-> [Materijali](#materijali) 
+> [Materijali](materijali/) 
 
 > [Literatura Dokumentacija Alati](docs/)
 
