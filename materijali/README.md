@@ -1,3 +1,13 @@
+[Snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) 
+
+[repozitorijum](https://github.com/matf-racunarska-grafika/LearnOpenGL/)
+
+[cpp tutorial repozitorijum](https://github.com/spaske00/cpp_tutorial)
+
+[cpp tutorial snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
+
+[Domaci](https://matf-racunarska-grafika.github.io/domaci/)
+
 ### 01
 -[CLion](https://www.jetbrains.com/clion/): integrisano razvojno okruženje, kompajliranje, debagovanje, CMake [video](https://youtu.be/Epx2jEskAJw)
 
