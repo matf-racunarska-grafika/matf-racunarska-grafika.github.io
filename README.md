@@ -23,20 +23,7 @@
 **Da bi se ispit položio potrebno je na projektu osvojiti bar 25 poena, na završnom teorijskom ispitu osvojiti bar 20 poena i u zbiru imati bar 51 poen.**
 
 
-## Materijali
-[Snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) 
 
-[cpp tutorial repozitorijum](https://github.com/spaske00/cpp_tutorial)
-
-[cpp tutorial snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
-
-[Prezentacije, dokumenti](https://drive.google.com/drive/folders/1KqTmrBcbMp_hbUfxV9fCBXvuXd6Wgcbm?usp=sharing)
-
-[Kodovi sa časa](kodovi/)
-
-[learnopengl repozitorijum](https://github.com/matf-racunarska-grafika/LearnOpenGL/)
-
-[Domaci](https://matf-racunarska-grafika.github.io/domaci/)
 
 [Uputstva](uputstva/) CLion, Github
 
