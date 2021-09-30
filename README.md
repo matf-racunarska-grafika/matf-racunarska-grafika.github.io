@@ -1,5 +1,20 @@
 # Računarska grafika 
 
+# Početak 2021/2022
+
+Drage koleginice i kolege,
+
+Vežbe iz računarske grafike će se držati onlajn. Gradivo će biti identično kao prošle godine, sa dodatkom par novih lekcija u osmoj nedelji 
+i promenom redosleda nekih lekcija. 
+
+Sigurno ste umorni od ispitnog roka tako da će prva nedelja vežbi biti upoznavanje sa predmetom i načinom polaganja, 
+a sa gradivom ćemo krenuti od druge nedelje.
+
+Pratite ovu stranicu za sva obavestenja. 
+
+Srećan početak nove školske godine,
+Marko
+
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
 > [Projekat](projekat/) 
