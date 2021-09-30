@@ -17,11 +17,7 @@
 -asistent: Marko Spasić (marko_spasic@matf.bg.ac.rs)
 
 ## Bodovanje
--Projekat (50 poena) [detaljnije](projekat/)
-
--Završni teorijski ispit (50 poena)
-
-**Da bi se ispit položio potrebno je na projektu osvojiti bar 25 poena, na završnom teorijskom ispitu osvojiti bar 20 poena i u zbiru imati bar 51 poen.**
+-Projekat [detaljnije](projekat/)
 
 [Skelet projekta](https://github.com/matf-racunarska-grafika/project_base) Skelet projekta sa svim uključenim bibliotekama za vežbanje primera sa časa. 
 Biće dopunjavan tokom semestra.
