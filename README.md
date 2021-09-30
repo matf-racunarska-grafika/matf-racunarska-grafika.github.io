@@ -12,8 +12,8 @@ a sa gradivom ćemo krenuti od druge nedelje.
 
 Pratite ovu stranicu za sva obavestenja. 
 
-Srećan početak nove školske godine,
-Marko
+Srećan početak nove školske godine,  
+RG tim
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
