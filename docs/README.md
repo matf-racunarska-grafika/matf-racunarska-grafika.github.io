@@ -21,6 +21,8 @@
 ### Alati
 [CLion](https://www.jetbrains.com/clion/)
 
+[QtCreator](https://www.qt.io/download-qt-installer)
+
 [CMake](https://cmake.org/)
 
 [Github](https://github.com/)
