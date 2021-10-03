@@ -21,6 +21,8 @@ RG tim
 
 > [Materijali](materijali/) 
 
+> [Galerija](gallery/)
+
 > [Literatura Dokumentacija Alati](docs/)
 
 > [Uputstva](uputstva/) CLion, Github, QtCreator, CMake
