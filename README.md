@@ -1,19 +1,14 @@
 # Računarska grafika 
 
-# Početak 2021/2022
+# Linkovi za vežbe  
+[Utorak 11:00-14:00](https://matf.webex.com/matf/j.php?MTID=m639c5a4037feb3487c9b9c8192560864)  
+[Cetvrtak 08:00-11:00](https://matf.webex.com/matf/j.php?MTID=m05eea7c68e11f16d4d4db5db033a94e2)  
+[Cetvrtak 11:00-14:00](https://matf.webex.com/matf/j.php?MTID=mb097e4cfa06f6f0b2ffddb8965f04297)  
+[Petak 12:00-15:00](https://matf.webex.com/matf/j.php?MTID=mb49af7e380cead65fe48d1de00149651)  
 
-Drage koleginice i kolege,
+**Šifra: rg2021**
 
-Vežbe iz računarske grafike će se držati onlajn. Gradivo će biti identično kao prošle godine, sa dodatkom par novih lekcija u osmoj nedelji 
-i promenom redosleda nekih lekcija. 
 
-Sigurno ste umorni od ispitnog roka tako da će prva nedelja vežbi biti upoznavanje sa predmetom i načinom polaganja, 
-a sa gradivom ćemo krenuti od druge nedelje.
-
-Pratite ovu stranicu za sva obavestenja. 
-
-Srećan početak nove školske godine,  
-RG tim
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
