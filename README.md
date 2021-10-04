@@ -29,7 +29,7 @@
 -asistent: Marko Spasić (marko_spasic@matf.bg.ac.rs)
 
 ## Bodovanje  
-Prakični: 55 (35 projekat + 20 pismeni)  
+Praktični: 55 (35 projekat + 20 pismeni)  
 Teorijski: 45 (završni teorijski)  
 
 [Praktični detaljnije](projekat/)  
