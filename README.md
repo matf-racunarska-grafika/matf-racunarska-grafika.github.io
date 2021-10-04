@@ -28,11 +28,11 @@
 
 -asistent: Marko Spasić (marko_spasic@matf.bg.ac.rs)
 
-## Bodovanje
--Projekat [detaljnije](projekat/)
+## Bodovanje  
+Prakični: 55 (35 projekat + 20 pismeni)  
+Teorijski: 45 (završni teorijski)  
 
-[Skelet projekta](https://github.com/matf-racunarska-grafika/project_base) Skelet projekta sa svim uključenim bibliotekama za vežbanje primera sa časa. 
-Biće dopunjavan tokom semestra.
+[Praktični detaljnije](projekat/)  
 
 ## Konsultacije
 Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
@@ -43,6 +43,7 @@ Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 
 Provera verzije OpenGL: `glxinfo | grep OpenGL`
 
+[Skelet projekta](https://github.com/matf-racunarska-grafika/project_base) Skelet projekta sa svim uključenim bibliotekama za vežbanje primera sa časa. 
 
 ### Licenca
 Materijali kursa su bazirani na [www.learnopengl.com](www.learnopengl.com) sajtu napravljenom od strane [Joey De Vries](https://joeydevries.com/#home) i kao takvi spadaju pod [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licencu. Celokupan tekst licence možete pronaći [ovde](https://creativecommons.org/licenses/by/4.0/legalcode).
