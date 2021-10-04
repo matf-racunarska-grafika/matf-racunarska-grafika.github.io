@@ -40,6 +40,11 @@ Ukoliko se projekat radi u paru svaki član tima bira po jednu oblast iz grupe A
 Pismeni deo nosi 20 bodova i polaže se na papiru zajedno sa završnim teorijskim ispitom.  
 Sastoji se od pitanja iz oblasti od 1-8 nedelje, [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling), [Advanced Lighting](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing), [Blending](https://learnopengl.com/Advanced-OpenGL/Blending).  Uspešno urađen i odbranjen projekat je uslov za izlazak na pismeni i teorijski deo ispita.
 
+**Šta mora da sadrži Github repozitorijum?**  
+Celokupan izvorni kod projekta zajedno sa potrebnim resurisma (modeli, teksture...). Ukoliko je veličina datoteke u kojoj se nalaze objekti ili teksture prevelika za git, isti se mogu postaviti na google-drive kao zip fajl. U tom slučaju neophodno je u README.md ostaviti link ka tom zip fajlu.
+
+README.md datoteka treba da sadrži upustvo za korišćenje projekta u vidu dugmića tastature i efekta koji proizvode. Ukoliko se u projektu nalazi gradivo iz grupe A i grupe B, onda treba da sadrži i nazive oblasti koja je implementirana.
+
 
 **Kada počinje prijava projekata?**  
 Prijava projekata će biti otvorena dve nedelje pre svakog teorijskog završnog ispita i zatvara se nedelju dana pre termina završnog teorijskog ispita. Prijavu popunjavate za onaj rok u kome želite da branite projekat. Nije potrebno unapred prijavljivati temu.
