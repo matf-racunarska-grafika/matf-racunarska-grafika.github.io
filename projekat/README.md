@@ -43,7 +43,7 @@ Sastoji se od pitanja iz oblasti od 1-8 nedelje, [Depth testing](https://learnop
 **Šta mora da sadrži Github repozitorijum?**  
 Celokupan izvorni kod projekta zajedno sa potrebnim resurisma (modeli, teksture...). Ukoliko je veličina datoteke u kojoj se nalaze objekti ili teksture prevelika za git, isti se mogu postaviti na google-drive kao zip fajl. U tom slučaju neophodno je u README.md ostaviti link ka tom zip fajlu.
 
-README.md datoteka treba da sadrži upustvo za korišćenje projekta u vidu dugmića tastature i efekta koji proizvode. Ukoliko se u projektu nalazi gradivo iz grupe A i grupe B, onda treba da sadrži i nazive oblasti koja je implementirana.
+README.md datoteka treba da sadrži upustvo za korišćenje projekta u vidu dugmića tastature i efekta koji proizvode. Ukoliko se u projektu nalazi gradivo iz grupe A i grupe B, onda treba da sadrži i nazive oblasti koje su implementirane.
 
 
 **Kada počinje prijava projekata?**  
