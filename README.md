@@ -32,6 +32,10 @@
 Praktični: 55 (35 projekat + 20 pismeni)  
 Teorijski: 45 (završni teorijski)  
 
+Da bi se položio praktični deo ispita neophodno je ostvariti barem 25/55 bodova, od toga barem 10/35 na projektu i barem 10/20 na pismenom.  
+Da bi se položio teorijski deo ispita neophodno je ostvariti barem 20/45 bodova na završnom teorijskom ispitu.  
+Na kraju, potrebno je na praktičnom i teorijskom delu imati barem 51 bodova u zbiru.  
+
 [Praktični detaljnije](projekat/)  
 
 ## Konsultacije
