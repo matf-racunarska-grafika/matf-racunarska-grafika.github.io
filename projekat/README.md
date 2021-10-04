@@ -38,7 +38,7 @@ Ukoliko se projekat radi u paru svaki član tima bira po jednu oblast iz grupe A
 
 **Kako se bodouje i polaže pismeni deo?**  
 Pismeni deo nosi 20 bodova i polaže se na papiru zajedno sa završnim teorijskim ispitom.  
-Sastoji se od pitanja iz oblasti od 1-8 nedelje, [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling), [Advanced Lighting](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing), [Blending](https://learnopengl.com/Advanced-OpenGL/Blending).  Uspenšno urađen i odbranjen projekat je uslov za izlazak na pismeni i teorijski deo ispita.
+Sastoji se od pitanja iz oblasti od 1-8 nedelje, [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling), [Advanced Lighting](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing), [Blending](https://learnopengl.com/Advanced-OpenGL/Blending).  Uspešno urađen i odbranjen projekat je uslov za izlazak na pismeni i teorijski deo ispita.
 
 
 **Kada počinje prijava projekata?**  
