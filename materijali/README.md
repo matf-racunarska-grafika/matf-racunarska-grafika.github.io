@@ -102,7 +102,7 @@
 -[Anti Aliasing](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing): multisampling, MSAA, Off-screen MSAA [video](https://youtu.be/2M3vx5W6LTQ)
 
 ### 11
--[Advanced Lighting](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing): Blinn-Phong [video](https://youtu.be/CJcRTXwHYhg)
+-[Advanced Lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting): Blinn-Phong [video](https://youtu.be/CJcRTXwHYhg)
 
 -[Gamm Correction](https://learnopengl.com/Advanced-Lighting/Gamma-Correction): sRGB teksture [video](https://youtu.be/eXhWwqU1eiA)
 
