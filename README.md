@@ -2,7 +2,7 @@
 
 # Linkovi za vežbe  
 [Utorak 11:00-14:00](https://matf.webex.com/matf/j.php?MTID=m639c5a4037feb3487c9b9c8192560864)  
-[Cetvrtak 08:00-11:00](https://matf.webex.com/matf/j.php?MTID=m05eea7c68e11f16d4d4db5db033a94e2)  
+[Cetvrtak 08:00-11:00](https://matf.webex.com/matf/j.php?MTID=m05eea7c68e11f16d4d4db5db033a94e2)  (Počeće u 09:00 ove nedelje)
 [Cetvrtak 11:00-14:00](https://matf.webex.com/matf/j.php?MTID=mb097e4cfa06f6f0b2ffddb8965f04297)  
 [Petak 12:00-15:00](https://matf.webex.com/matf/j.php?MTID=mb49af7e380cead65fe48d1de00149651)  
 
