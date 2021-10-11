@@ -8,7 +8,12 @@
 
 **Šifra: rg2021**
 
+## Obaveštenja
 
+[11.10.2021.]  
+Neće biti vežbi u petak 15.10. Molim studente da prisustvuju vežbama u nekom drugom terminu po želji ove nedelje ili odgledaju snimke vežbe.  
+Pozdrav,  
+Marko  
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
