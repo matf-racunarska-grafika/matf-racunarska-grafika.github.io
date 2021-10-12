@@ -76,7 +76,7 @@ predlaganja, pronalaženje simbola u projektu i slično.
 6) [Kreiranje SSH kljuca](https://www.youtube.com/watch?v=WgZIv5HI44o)  
 7) U terminalu pokrenuti: ssh -T git@github.com  
 8) Ukoliko je sve dobro uradjeno trebalo bi da ispise poruku: "Hi ${VasUsername}! You've successfully authenticated, but GitHub does not provide shell access."  
-
+Napomena: Svuda gde se u snimku koristi HTTPS link za kolniranje, zameniti sa SSH linkom. 
 
 ## Šta radi FileSystem::getPath?
 
