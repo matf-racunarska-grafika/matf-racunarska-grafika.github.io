@@ -10,6 +10,10 @@
 
 ## Obaveštenja
 
+[07.11.2021.]  
+Četvrtak 11.11.2021. je državni praznik i neradni dan. Molim studente koji vežbe slušaju četvrtkom da sledeće nedelje prisustvuju vežbama u utorak ili petak, ili odgledaju snimke vežbi 05.
+
+
 [11.10.2021.]  
 Neće biti vežbi u petak 15.10. Molim studente da prisustvuju vežbama u nekom drugom terminu po želji ove nedelje ili odgledaju snimke vežbi.  
 Pozdrav, 
