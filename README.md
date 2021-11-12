@@ -45,6 +45,14 @@ Da bi se položio praktični deo ispita neophodno je ostvariti barem 25/55 bodov
 Da bi se položio teorijski deo ispita neophodno je ostvariti barem 20/45 bodova na završnom teorijskom ispitu.  
 Na kraju, potrebno je na praktičnom i teorijskom delu imati barem 51 bodova u zbiru.  
 
+**Polaganje**  
+Odbranjen projekat je uslov za izlazak na pismeni i završni teorijski. Jednom odbranjen projekat i dobijeni bodovi važe cele godine.  
+Pismeni i završni teorijski su međusobno nezavisni i mogu se polagati u bilo kom ispitnom roku odvojeno ili zajedno.  
+Jednom položen pismeni ili završni teorijski važi cele godine.  
+Pismeni i zavržni teorijski se polažu na dan ispita iz Računarske grafike po [rasporedu](http://www.matf.bg.ac.rs/m/36/raspored-ispita/) sa sajta fakulteta.  
+Ukoliko niste zadovljni osvojenim bodovima sa pismenog ili teorijskog možete izaći ponovo. Ponovni izlazak na neki od delova ispita poništava prethodno osvojene bodove.  
+Ukoliko niste zadovoljni osvojenim bodovima na projektu, možete projekat doraditi i izaći ponovo na odbranu.  
+
 [Praktični detaljnije](projekat/)  
 
 ## Konsultacije
