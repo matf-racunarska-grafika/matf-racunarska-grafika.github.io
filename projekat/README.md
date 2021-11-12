@@ -36,8 +36,8 @@ Bodovanje obuhvata:
 **Kako se raspoređuju bodovi ukoliko se projekat radi u paru?**  
 Ukoliko se projekat radi u paru svaki član tima bira po jednu oblast iz grupe A (dve ukupno) i jednu oblast iz grupe B (dve ukupno) koju implementira. Na Github-u se mora videti cela istorija komitova svakog člana. Član tima dobiće bodove samo za one delove projekta koje istorija komitova pokazuje da je implementirao.
 
-**Kako se bodouje i polaže pismeni deo?**  
-Pismeni deo nosi 20 bodova i polaže se na papiru zajedno sa završnim teorijskim ispitom.  
+**Kako se boduje i polaže pismeni deo?**  
+Pismeni deo nosi 20 bodova i polaže se na papiru u terminu ispita po rasporedu sa sajta fakulteta.   
 Sastoji se od pitanja iz oblasti od 1-8 nedelje, [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling), [Advanced Lighting](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing), [Blending](https://learnopengl.com/Advanced-OpenGL/Blending).  Uspešno urađen i odbranjen projekat je uslov za izlazak na pismeni i teorijski deo ispita.
 
 **Šta mora da sadrži Github repozitorijum?**  
