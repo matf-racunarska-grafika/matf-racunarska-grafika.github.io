@@ -1,5 +1,4 @@
 # Galerija 2020
-![01](2020/01.png?raw=true "01")
 ![02](2020/02.png?raw=true "02")
 ![03](2020/03.png?raw=true "03")
 ![04](2020/04.png?raw=true "04")
