@@ -7,7 +7,7 @@ Projekat se može raditi u paru ili individualno.
 Projekat nosi 35 poena.  
 Neophodno je da projekat sadrži sve teme od 1. nedelje zaključno sa 8. nedeljom, [Blending](https://learnopengl.com/Advanced-OpenGL/Blending), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling), [Advanced lighintg](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting). Ako sadrži to i samo to maksimalan broj bodova koje je moguće osvojiti je 15.  
 
-Za više bodova, ukoliko se projekat radi individualno bira se po jedna oblast iz grupe A i jedna oblast iz grupe B. Ukoliko se projekat radi u paru biraju se dve oblasti iz grupe A i dve oblasti iz grupe B.  
+Za više bodova, ukoliko se projekat radi individualno bira se po jedna oblast iz grupe A i jedna oblast iz grupe B. Ukoliko se projekat radi u paru svaki član bira po jednu oblast iz grupe A i jednu oblast iz grupe B. Ukupno dve različite oblasti iz grupe A i dve različite oblasti iz grupe B za projekat.
 
 Ukoliko projekat sadrži sve neophodne oblasti i oblast (dve oblasti ukoliko se radi u paru) iz grupe A maksimalan broj bodova koje je moguće osvojiti je 25.    
 Ukoliko projekat sadrži sve neophodne oblasti, oblast iz grupe A (dve ukoliko se radi u paru) i oblast iz grupe B (dve ukoliko se radi u paru) maksimalan broj bodova koje je moguće osvojiti je 35.  
@@ -34,7 +34,7 @@ Bodovanje obuhvata:
 
 
 **Kako se raspoređuju bodovi ukoliko se projekat radi u paru?**  
-Ukoliko se projekat radi u paru svaki član tima bira po jednu oblast iz grupe A (dve ukupno) i jednu oblast iz grupe B (dve ukupno) koju implementira. Na Github-u se mora videti cela istorija komitova svakog člana. Član tima dobiće bodove samo za one delove projekta koje istorija komitova pokazuje da je implementirao.
+Ukoliko se projekat radi u paru svaki član tima bira po jednu oblast iz grupe A (dve ukupno) i jednu oblast iz grupe B (dve ukupno) koju implementira. Na Github-u se mora videti cela istorija komitova svakog člana. Član tima dobiće bodove samo za one delove projekta koje istorija komitova pokazuje da je implementirao.  
 
 **Kako se boduje i polaže pismeni deo?**  
 Pismeni deo nosi 20 bodova i polaže se na papiru u terminu ispita po rasporedu sa sajta fakulteta.   
