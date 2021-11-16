@@ -45,6 +45,9 @@ Celokupan izvorni kod projekta zajedno sa potrebnim resurisma (modeli, teksture.
 
 README.md datoteka treba da sadrži upustvo za korišćenje projekta u vidu dugmića tastature i efekta koji proizvode. Ukoliko se u projektu nalazi gradivo iz grupe A i grupe B, onda treba da sadrži i nazive oblasti koje su implementirane.
 
+Deo koda koji preuzet iz nekog izvora mora biti jasno naznačen početkom i krajom i linkom do orignalnog koda.  
+Sav kod iz project_base i LearnOpenGL repozitorijuma se može koristiti bez navođenja.  
+
 
 **Kada počinje prijava projekata?**  
 Prijava projekata će biti otvorena dve nedelje pre svakog teorijskog završnog ispita i zatvara se nedelju dana pre termina završnog teorijskog ispita. Prijavu popunjavate za onaj rok u kome želite da branite projekat. Nije potrebno unapred prijavljivati temu.
@@ -58,3 +61,8 @@ Primere odličnih projekata iz prethodnih godina možete pronaći na: [https://g
 
 > Ukoliko koristite nečiji kod obavezno navesti početak i kraj, i odakle je kod preuzet. 
 
+**Kako se brani projekat?**  
+Projekat se prijavljuje preko gugl forme koja će biti istaknuta na stranici kursa 2 nedelje pre početka svakog roka. Prijava traje nedelju dana.  
+Uz projekat se prilaže snimak ekrana u trajanju najviše do 5 minuta na kojem se demonstrira projekat. Za snimanje ekrana projekta preporučuje se https://obsproject.com/download.  
+Projekat se ocenjuje do poslednjeg komita na main grani u trenutku prijave projekta. Sve izmene nakon prijave projekta ce nece pregledati.  
+Projekti će biti pregledani u toku trajanje prijave.  
