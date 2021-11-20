@@ -54,7 +54,7 @@
 ### 06
 -[Ligthing maps](https://learnopengl.com/Lighting/Lighting-maps): difuzne, spekularne [video](https://youtu.be/RXvi0umB4lo)
 
--[Light casters](https://learnopengl.com/Lighting/Light-casters): direkciono, tačkasto, koncentrisano [video](https://youtu.be/5RdgdZk3Ts8) 
+-[Light casters](https://learnopengl.com/Lighting/Light-casters): direkciono, tačkasto, koncentrisano [video](https://youtu.be/MEPziIv_TJI) 
 
 -[Multiple lights](https://learnopengl.com/Lighting/Multiple-lights): direkciono, tačkasto [video](https://youtu.be/PwkLzp0dNjQ)
 
