@@ -32,6 +32,7 @@ Bodovanje obuhvata:
 -Stil, kreativnost i skladnost scene  
 -Uočljivost, izraženost i doprinos implementiranih oblasti atmosferi scene   
 
+U projektu nije dozvoljeno korišćenje .obj modela iz glavnog [repozitorijuma](https://github.com/matf-racunarska-grafika/LearnOpenGL).
 
 **Kako se raspoređuju bodovi ukoliko se projekat radi u paru?**  
 Ukoliko se projekat radi u paru svaki član tima bira po jednu oblast iz grupe A (dve ukupno) i jednu oblast iz grupe B (dve ukupno) koju implementira. Na Github-u se mora videti cela istorija komitova svakog člana. Član tima dobiće bodove samo za one delove projekta koje istorija komitova pokazuje da je implementirao.  
