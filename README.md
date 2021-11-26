@@ -9,6 +9,11 @@
 **Šifra: rg2021**
 
 ## Obaveštenja
+[26.11.2021.]  
+Na časovima u nedelji od 29.11. do 03.12. na vežbama će se raditi gradivo iz [8. nedelje nastave](materijali/#08).  
+U subotu 04.12. u 11:00 imaćemo dopunski čas vežbi na kojem ćemo u skelet projekta implementirati sisteme koji treba da olakšaju izradu
+projekta pri radi sa: ulazom sa tasture i miša, događajima, paralelnim dešavanjima na sceni i kreiranjem i renderovanjem objekata na sceni. 
+
 
 [07.11.2021.]  
 Četvrtak 11.11.2021. je državni praznik i neradni dan. Molim studente koji vežbe slušaju četvrtkom da sledeće nedelje prisustvuju vežbama u utorak ili petak, ili odgledaju snimke vežbi 05.
