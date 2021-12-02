@@ -8,7 +8,12 @@
 
 **Šifra: rg2021**
 
-## Obaveštenja
+## Obaveštenja  
+[03.12.2021.]  
+Dodatni čas [subota 04.12. u 11:00.](https://matf.webex.com/matf/j.php?MTID=m5704df7c093be83f724db6a5fbf9ef11).  
+Šifra: rg2021
+
+
 [26.11.2021.]  
 Na časovima u nedelji od 29.11. do 03.12. na vežbama će se raditi gradivo iz [8. nedelje nastave](materijali/#08).  
 U subotu 04.12. u 11:00 imaćemo dopunski čas vežbi na kojem ćemo u skelet projekta implementirati sisteme koji treba da olakšaju izradu
