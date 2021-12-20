@@ -5,7 +5,10 @@ Praktični nosi 55 poena (35 projekat + 20 pismeni)
 **Kako se boduje projekat?**  
 Projekat se može raditi u paru ili individualno.  
 Projekat nosi 35 poena.  
-Neophodno je da projekat sadrži sve teme od 1. nedelje zaključno sa 8. nedeljom, [Blending](https://learnopengl.com/Advanced-OpenGL/Blending), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling), [Advanced lighintg](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting). Ako sadrži to i samo to maksimalan broj bodova koje je moguće osvojiti je 15.  
+Neophodno je da projekat sadrži sve teme od 1. nedelje zaključno sa 8. nedeljom, [Blending](https://learnopengl.com/Advanced-OpenGL/Blending), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling), [Advanced lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting). Ako sadrži to i samo to maksimalan broj bodova koje je moguće osvojiti je 15.  
+
+Svo osvetljenje na sceni treba da se računa po Blin-Fonogovom modelu [Advanced lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting).  
+Dovoljno je da projekat ima jedan tip [Blendinga](https://learnopengl.com/Advanced-OpenGL/Blending)(Discard ili blend).  
 
 Za više bodova, ukoliko se projekat radi individualno bira se po jedna oblast iz grupe A i jedna oblast iz grupe B. Ukoliko se projekat radi u paru svaki član bira po jednu oblast iz grupe A i jednu oblast iz grupe B. Ukupno dve različite oblasti iz grupe A i dve različite oblasti iz grupe B za projekat.
 
