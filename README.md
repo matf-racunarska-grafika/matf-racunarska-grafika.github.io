@@ -1,12 +1,22 @@
 # Računarska grafika 
 
-# Linkovi za vežbe  
-[Utorak 11:00-14:00](https://matf.webex.com/matf/j.php?MTID=m639c5a4037feb3487c9b9c8192560864)  
-[Cetvrtak 08:00-11:00](https://matf.webex.com/matf/j.php?MTID=m05eea7c68e11f16d4d4db5db033a94e2)  
-[Cetvrtak 11:00-14:00](https://matf.webex.com/matf/j.php?MTID=mb097e4cfa06f6f0b2ffddb8965f04297)  
-[Petak 12:00-15:00](https://matf.webex.com/matf/j.php?MTID=mb49af7e380cead65fe48d1de00149651)  
+## Prijava projekata jan1
 
-**Šifra: rg2021**
+Drage koleginice i kolege,
+
+Na [ovom linku](https://forms.gle/eqEtsoaZABvkDPwt7) možete pronaći formu za prijavu projekata za ispitni rok januar1.  
+Pre nego što prijavite projekat molim Vas proverite da li sadrži sve neophodno sa stranice https://matf-racunarska-grafika.github.io/projekat/  
+Nakon prijave projekta neće biti moguća dorada. Bodovaće se samo ono što je urađeno na projektu do trenutka prijave.  
+
+Projekti će biti pregladni po redosledu u kom su prijavljeni.  
+[Tabela sa rezultatima](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing) će biti ažurirani kako koji projekat bude pregledan.  
+
+Želim Vam uspešan početak ispitnog roka, srećno! :)
+
+## Prijava za izlazak na ispit
+
+Prijava za izlazak na ispit će biti otvorena 14.01. i trajaće do 18.01.
+
 
 ## Obaveštenja  
 [03.12.2021.]  
