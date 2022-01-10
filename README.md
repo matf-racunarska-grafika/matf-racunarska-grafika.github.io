@@ -4,7 +4,7 @@
 
 Drage koleginice i kolege,
 
-Na [ovom linku](https://forms.gle/eqEtsoaZABvkDPwt7) možete pronaći formu za prijavu projekata za ispitni rok januar1.  
+Na [ovom linku](https://forms.gle/eqEtsoaZABvkDPwt7) možete pronaći formu za prijavu projekata za ispitni rok januar1. Prijava traje do 17.01. u 14:00.    
 Pre nego što prijavite projekat molim Vas proverite da li sadrži sve neophodno sa stranice https://matf-racunarska-grafika.github.io/projekat/  
 Nakon prijave projekta neće biti moguća dorada. Bodovaće se samo ono što je urađeno na projektu do trenutka prijave.  
 
