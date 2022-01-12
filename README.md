@@ -7,6 +7,7 @@ Drage koleginice i kolege,
 Na [ovom linku](https://forms.gle/eqEtsoaZABvkDPwt7) možete pronaći formu za prijavu projekata za ispitni rok januar1. Prijava traje do 17.01. u 14:00.    
 Pre nego što prijavite projekat molim Vas proverite da li sadrži sve neophodno sa stranice https://matf-racunarska-grafika.github.io/projekat/  
 Nakon prijave projekta neće biti moguća dorada. Bodovaće se samo ono što je urađeno na projektu do trenutka prijave.  
+Ukoliko je projekat radjen u paru, u README.md dokument dodajte Github korisničko ime i broj indeksa člana kome pripada.  
 
 Projekti će biti pregladni po redosledu u kom su prijavljeni.  
 [Tabela sa rezultatima](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing) će biti ažurirani kako koji projekat bude pregledan.  
