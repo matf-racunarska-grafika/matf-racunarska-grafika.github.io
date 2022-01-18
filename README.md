@@ -2,7 +2,7 @@
 
 ## Januar1
 
-Draga koleginice i kolege,
+Drage koleginice i kolege,
 
 Ispit iz računarske grafike odražće se 20.01. u 13:00 u zgradi na Trgu.  
 Teorijski deo ispita počeće u 13:00, a pismeni deo ispita u 14:15.  
