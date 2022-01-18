@@ -1,22 +1,17 @@
 # Računarska grafika 
 
+## Januar1
+
+Draga koleginice i kolege,
+
+Ispit iz računarske grafike odražće se 20.01. u 13:00 u zgradi na Trgu.  
+Teorijski deo ispita počeće u 13:00, a pismeni deo ispita u 14:15.  
+Studenti koji polažu samo pismeni deo mogu doći nešto pre 14:15 samo na pismeni deo.  
+Molimo sve studente da dođu barem 15 minuta ranije ispred učionice 718 kako bi ispit počeo na vreme.  
+Uspešno odbranjen projekat je uslov za izlazak na pismeni i teorijski deo ispita. Jednom odbranjen projekat, važi u svim daljim rokovima.  
+
 ## Prijava projekata jan1
-
-Drage koleginice i kolege,
-
-Na [ovom linku](https://forms.gle/eqEtsoaZABvkDPwt7) možete pronaći formu za prijavu projekata za ispitni rok januar1. Prijava traje do 17.01. u 14:00.    
-Pre nego što prijavite projekat molim Vas proverite da li sadrži sve neophodno sa stranice https://matf-racunarska-grafika.github.io/projekat/  
-Nakon prijave projekta neće biti moguća dorada. Bodovaće se samo ono što je urađeno na projektu do trenutka prijave.  
-Ukoliko je projekat radjen u paru, u README.md dokument dodajte Github korisničko ime i broj indeksa člana kome pripada.  
-
-Projekti će biti pregladni po redosledu u kom su prijavljeni.  
 [Tabela sa rezultatima](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing) će biti ažurirani kako koji projekat bude pregledan.  
-
-Želim Vam uspešan početak ispitnog roka, srećno! :)
-
-## Prijava za izlazak na ispit
-
-Prijava za izlazak na ispit će biti otvorena 14.01. i trajaće do 18.01.
 
 
 ## Obaveštenja  
