@@ -1,17 +1,12 @@
 # Računarska grafika 
 
-## Januar1
-
+## Prijava projekata jan2
 Drage koleginice i kolege,
 
-Ispit iz računarske grafike odražće se 20.01. u 13:00 u zgradi na Trgu.  
-Teorijski deo ispita počeće u 13:00, a pismeni deo ispita u 14:15.  
-Studenti koji polažu samo pismeni deo mogu doći nešto pre 14:15 samo na pismeni deo.  
-Molimo sve studente da dođu barem 15 minuta ranije ispred učionice 718 kako bi ispit počeo na vreme.  
-Uspešno odbranjen projekat je uslov za izlazak na pismeni i teorijski deo ispita. Jednom odbranjen projekat, važi u svim daljim rokovima.  
+Otvorena je prijava za projekte za ispitni rok Januar 2. Projekte možete prijaviti na sledećoj [formi](https://forms.gle/QxEsBekGseRmbykh8).  
+Prijava će biti otvorena do 03.02. u 14:00. 
 
-## Prijava projekata jan1
-[Tabela sa rezultatima](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing) će biti ažurirani kako koji projekat bude pregledan.  
+[Tabela sa rezultatima](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing) će biti ažurirana kako koji projekat bude pregledan.  
 
 
 ## Obaveštenja  
