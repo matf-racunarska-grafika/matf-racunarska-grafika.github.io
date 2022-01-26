@@ -6,7 +6,9 @@ Drage koleginice i kolege,
 Otvorena je prijava za projekte za ispitni rok Januar 2. Projekte možete prijaviti na sledećoj [formi](https://forms.gle/QxEsBekGseRmbykh8).  
 Prijava će biti otvorena do 03.02. u 14:00. 
 
-[Tabela sa rezultatima](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing) će biti ažurirana kako koji projekat bude pregledan.  
+[Tabela sa rezultatima projekata](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing) će biti ažurirana kako koji projekat bude pregledan.  
+
+[Tabelu sa bodovima svih delova ispita](http://poincare.matf.bg.ac.rs/~vesnap/grafika.html).
 
 
 ## Obaveštenja  
