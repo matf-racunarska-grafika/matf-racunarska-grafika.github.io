@@ -4,7 +4,7 @@
 Drage koleginice i kolege,
 
 Ispit iz Računarske grafike u ispitnom roku Januar 2 biće održan u **utorak 08.02. u zradi na Trgu.**  
-**Teorijski deo** ispita počeće u **13:00** i traje do 14:00. **Pismeni deo** ispita počeće u **14:15** i traje do 15:00.  
+**Teorijski deo** ispita počeće u **13:00** i traje do 14:00. **Pismeni deo** ispita počeće u **14:15** i traje do 15:00.  Dođite ispred učionice 718.
 Uspepšno položen projekat je uslvo za izlazak na pismeni i teorijski deo ispita.  
 Jednom odbranjen projekat, položen pismeni ili teorijski deo važi do kraja godine.  
 
