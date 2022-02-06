@@ -1,12 +1,13 @@
 # Računarska grafika 
 
-## Prijava projekata jan2
+## Jan2
 Drage koleginice i kolege,
 
-Otvorena je prijava za projekte za ispitni rok Januar 2. Projekte možete prijaviti na sledećoj [formi](https://forms.gle/QxEsBekGseRmbykh8).  
-Prijava će biti otvorena do 03.02. u 14:00. 
+Ispit iz Računarske grafike u ispitnom roku Januar 2 biće održan u **utorak 08.02. u zradi na Trgu.**  
+**Teorijski deo** ispita počeće u **13:00** i traje do 14:00. **Pismeni deo** ispita počeće u **14:15** i traje do 15:00.  
+Uspepšno položen projekat je uslvo za izlazak na pismeni i teorijski deo ispita.  
+Jednom odbranjen projekat, položen pismeni ili teorijski deo važi do kraja godine.  
 
-[Tabela sa rezultatima projekata](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing) će biti ažurirana kako koji projekat bude pregledan.  
 
 [Tabelu sa bodovima svih delova ispita](http://poincare.matf.bg.ac.rs/~vesnap/grafika.html).
 
