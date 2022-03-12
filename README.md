@@ -1,5 +1,14 @@
 # Računarska grafika 
 
+## Predrok: April
+
+Drage koleginice i kolege,
+
+Organizovaćemo aprilski predrok za polaganje predmeta računarske grafike.  
+Forma za prijavu projekata biće otvorena 20.03. i trajaće do 02.04. u 14:00.  
+Pismeni i završni teorijski ispit biće u subotu 09.04.  
+Lokacija i tačan termin biće naknadno objavljeni.  
+
 
 [Tabelu sa bodovima svih delova ispita](http://poincare.matf.bg.ac.rs/~vesnap/grafika.html).
 
