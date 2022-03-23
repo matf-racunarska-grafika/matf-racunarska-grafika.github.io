@@ -1,5 +1,15 @@
 # Računarska grafika 
 
+## Prijava projekata: April
+
+Drage koleginice i kolege,
+
+[Ovde](https://forms.gle/NzjwsnAQzRbBuSfd7) možete naći formu za prijavu projekta. Molim Vas da pažljivo pročitate stranicu 
+https://matf-racunarska-grafika.github.io/projekat/ i proverite da li projekat i Github stranica ispunjavaju sve navedene uslove.  
+
+Forma za prijavu biće otvorena do 03.04. u 14:00. 
+
+
 ## Predrok: April
 
 Drage koleginice i kolege,
