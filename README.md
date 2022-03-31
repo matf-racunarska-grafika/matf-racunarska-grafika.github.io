@@ -7,7 +7,7 @@ Drage koleginice i kolege,
 [Ovde](https://forms.gle/NzjwsnAQzRbBuSfd7) možete naći formu za prijavu projekta. Molim Vas da pažljivo pročitate stranicu 
 https://matf-racunarska-grafika.github.io/projekat/ i proverite da li projekat i Github stranica ispunjavaju sve navedene uslove.  
 
-Forma za prijavu biće otvorena do 03.04. u 14:00. 
+Forma za prijavu biće otvorena do ~~03.04.~~ 10.04. u 14:00. 
 
 
 ## Predrok: April
@@ -15,8 +15,8 @@ Forma za prijavu biće otvorena do 03.04. u 14:00.
 Drage koleginice i kolege,
 
 Organizovaćemo aprilski predrok za polaganje predmeta računarske grafike.  
-Forma za prijavu projekata biće otvorena 20.03. i trajaće do 02.04. u 14:00.  
-Pismeni i završni teorijski ispit biće u subotu 09.04.  
+~~Forma za prijavu projekata biće otvorena 20.03. i trajaće do 02.04. u 14:00.~~
+Pismeni i završni teorijski ispit biće u ~~subotu 09.04.~~ **subotu 16.04.**
 Lokacija i tačan termin biće naknadno objavljeni.  
 
 
