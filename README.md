@@ -9,6 +9,7 @@ https://matf-racunarska-grafika.github.io/projekat/ i proverite da li projekat i
 
 Forma za prijavu biće otvorena do ~~03.04.~~ 10.04. u 14:00. 
 
+[Tabela sa trenutim bodovima projekata](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing)
 
 ## Predrok: April
 
