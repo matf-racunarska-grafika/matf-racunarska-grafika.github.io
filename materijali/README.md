@@ -8,6 +8,12 @@
 
 [Domaci](https://matf-racunarska-grafika.github.io/domaci/)
 
+Modeli:  
+- [sketchfab](https://sketchfab.com/3d-models)
+- [artec3d](https://www.artec3d.com/3d-models)
+- [free3D](www.free3d.com)
+- [turbosquid](https://www.turbosquid.com/3d-models/)
+- 
 ### 01
 -[CLion](https://www.jetbrains.com/clion/): integrisano razvojno okruženje, kompajliranje, debagovanje, CMake [video](https://youtu.be/Epx2jEskAJw)
 
