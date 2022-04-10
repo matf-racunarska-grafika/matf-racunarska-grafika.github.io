@@ -4,10 +4,10 @@
 
 Drage koleginice i kolege,
 
-[Ovde](https://forms.gle/NzjwsnAQzRbBuSfd7) možete naći formu za prijavu projekta. Molim Vas da pažljivo pročitate stranicu 
-https://matf-racunarska-grafika.github.io/projekat/ i proverite da li projekat i Github stranica ispunjavaju sve navedene uslove.  
-
-Forma za prijavu biće otvorena do ~~03.04.~~ 10.04. u 14:00. 
+Bodove projekata možete pronaći u tabeli ispod. Pismeni i teorijski ispit biće održani u subotu 16.04. u 10:00 u zgradi na Trgu.  
+Popunite sledeću [formu](https://forms.gle/E2gD9zw4ZS27vCmc6) ukoliko izlazite na pismeni ili teorijski ispit.  
+Forma za prijavu za izlazak na ispit biće otvorena do četvrtka u 14:00.  
+Molimo Vas da se radi bolje organizacije ispita prijavite samo ukoliko sigurno izlazite. 
 
 [Tabela sa trenutim bodovima projekata](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing)
 
