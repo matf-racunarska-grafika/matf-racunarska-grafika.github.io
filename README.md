@@ -1,15 +1,20 @@
 # Računarska grafika 
 
-## Prijava projekata: April
+## Rezultati April
 
-Drage koleginice i kolege,
+Drage koleginice i kolege, 
 
-Bodove projekata možete pronaći u tabeli ispod. Pismeni i teorijski ispit biće održani u subotu 16.04. u 10:00 u zgradi na Trgu.  
-Popunite sledeću [formu](https://forms.gle/E2gD9zw4ZS27vCmc6) ukoliko izlazite na pismeni ili teorijski ispit.  
-Forma za prijavu za izlazak na ispit biće otvorena do četvrtka u 14:00.  
-Molimo Vas da se radi bolje organizacije ispita prijavite samo ukoliko sigurno izlazite. 
+Ispod možete pronaći rezultate projekata i pismenog dela ispita.  
+Javite mejlom ako uočite neku grešku ili nepravilnost između objedinjene tabele sa bodovima i tabele sa bodovima projekata.  
+
+
+[Tabela sa svim rezultatima](https://docs.google.com/spreadsheets/d/1lLv7_VEtz7zStQUrU3HrcINacXLeuOWd/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
 
 [Tabela sa trenutim bodovima projekata](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing)
+
+Pozdrav,  
+Marko
+
 
 ## Predrok: April
 
