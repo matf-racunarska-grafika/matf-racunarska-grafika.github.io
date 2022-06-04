@@ -1,32 +1,14 @@
 # Računarska grafika 
 
-## Rezultati April
+## Prijava projkeata Jun1
 
-Drage koleginice i kolege, 
+[Forma za prijavu projekata](https://forms.gle/ukJHmVZvAvHeSD317)
 
-Ispod možete pronaći rezultate projekata i pismenog dela ispita.  
-Javite mejlom ako uočite neku grešku ili nepravilnost između objedinjene tabele sa bodovima i tabele sa bodovima projekata.  
-
+Prijava projekata trajaće do 09.05. u 20:00.  
 
 [Tabela sa svim rezultatima](https://docs.google.com/spreadsheets/d/1lLv7_VEtz7zStQUrU3HrcINacXLeuOWd/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
 
 [Tabela sa trenutim bodovima projekata](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing)
-
-Pozdrav,  
-Marko
-
-
-## Predrok: April
-
-Drage koleginice i kolege,
-
-Organizovaćemo aprilski predrok za polaganje predmeta računarske grafike.  
-~~Forma za prijavu projekata biće otvorena 20.03. i trajaće do 02.04. u 14:00.~~
-Pismeni i završni teorijski ispit biće u ~~subotu 09.04.~~ **subotu 16.04.**
-Lokacija i tačan termin biće naknadno objavljeni.  
-
-
-[Tabelu sa bodovima svih delova ispita](http://poincare.matf.bg.ac.rs/~vesnap/grafika.html).
 
 
 ## Obaveštenja  
