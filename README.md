@@ -4,7 +4,7 @@
 
 [Forma za prijavu projekata](https://forms.gle/ukJHmVZvAvHeSD317)
 
-Prijava projekata trajaće do 09.05. u 20:00.  
+Prijava projekata trajaće do 09.06. u 20:00.  
 
 [Tabela sa svim rezultatima](https://docs.google.com/spreadsheets/d/1lLv7_VEtz7zStQUrU3HrcINacXLeuOWd/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
 
