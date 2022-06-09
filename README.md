@@ -1,6 +1,6 @@
 # Računarska grafika 
 
-## Izlazk na ispit Jun1
+## Izlazk na ispit Jun1 (13.06. N sale 09:00)
 
 Drage koleginice i kolege,
 
