@@ -1,5 +1,14 @@
 # Računarska grafika 
 
+## Izlazk na ispit Jun1
+
+Drage koleginice i kolege,
+
+Radi bolje organizacije ispita molimo vas da popunite sledeću [formu](https://forms.gle/KMWCzFdRXdgUpmqV9)
+
+Prijava će biti otvorena do 11.06. u 20:00.
+
+
 ## Prijava projkeata Jun1
 
 [Forma za prijavu projekata](https://forms.gle/ukJHmVZvAvHeSD317)
