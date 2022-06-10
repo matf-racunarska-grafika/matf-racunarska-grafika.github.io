@@ -9,12 +9,6 @@ Radi bolje organizacije ispita molimo vas da popunite sledeću [formu](https://f
 Prijava će biti otvorena do 11.06. u 20:00.
 
 
-## Prijava projkeata Jun1
-
-[Forma za prijavu projekata](https://forms.gle/ukJHmVZvAvHeSD317)
-
-Prijava projekata trajaće do 09.06. u 20:00.  
-
 [Tabela sa svim rezultatima](https://docs.google.com/spreadsheets/d/1lLv7_VEtz7zStQUrU3HrcINacXLeuOWd/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
 
 [Tabela sa trenutim bodovima projekata](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing)
