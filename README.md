@@ -12,7 +12,7 @@ Radi bolje organizacije ispita 02.07. molimo vas da popunite sledeću [formu](ht
 Prijava za izlazak na ispit biće otvorena do 30.06. u 20:00.
 
 Ukoliko sada prvi put predajte projekat i želite da izađete i na neki od delova ispita, 
-možete se prijaviti na oba. 
+možete se prijaviti na obe forme. 
 
 ## Bodovi
 
