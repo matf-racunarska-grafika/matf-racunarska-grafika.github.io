@@ -1,13 +1,20 @@
 # Računarska grafika 
 
-## Izlazk na ispit Jun1 (13.06. N sale 13:00)
+## Izlazk na ispit jun2 (02.06. N sale 13:00)
 
 Drage koleginice i kolege,
 
-Radi bolje organizacije ispita molimo vas da popunite sledeću [formu](https://forms.gle/KMWCzFdRXdgUpmqV9)
+Projekte za ispitni rok jun2 možete prijavti na sledećoj [formi](https://forms.gle/xSECWsvZ1GDNAtEa9).  
+Prijava projekata biće otvorena do 30.06. u 12:00.  
 
-Prijava će biti otvorena do 11.06. u 20:00.
 
+Radi bolje organizacije ispita 02.07. molimo vas da popunite sledeću [formu](https://forms.gle/SqHP4gmydoWuSGrF9)  
+Prijava za izlazak na ispit biće otvorena do 30.06. u 20:00.
+
+Ukoliko sada prvi put predajte projekat i želite da izađete i na neki od delova ispita, 
+možete se prijaviti na oba. 
+
+## Bodovi
 
 [Tabela sa svim rezultatima](https://docs.google.com/spreadsheets/d/1lLv7_VEtz7zStQUrU3HrcINacXLeuOWd/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
 
