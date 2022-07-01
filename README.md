@@ -4,7 +4,7 @@
 
 Drage koleginice i kolege,
 
-Ispit iz računarske grafike biće održan u **N salam** 02.07. sa početkom 13:00.  
+Ispit iz računarske grafike biće održan u **N salam** 02.07. sa početkom u 13:00.  
 Prvo će se raditi teorijsi deo, pa u 14:00 pismeni deo.  
 Ukoliko izlazite samo na pismeni, možete doći samo na taj deo.
 
