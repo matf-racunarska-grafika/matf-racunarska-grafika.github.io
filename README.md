@@ -1,16 +1,12 @@
 # Računarska grafika 
 
-## Izlazk na ispit jun2 (02.07. N sale 13:00)
-
-Drage koleginice i kolege,
-
-Ispit iz računarske grafike biće održan u **N salam** 02.07. sa početkom u 13:00.  
-Prvo će se raditi teorijsi deo, pa u 14:00 pismeni deo.  
-Ukoliko izlazite samo na pismeni, možete doći samo na taj deo.
+"Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Bodovi
 
-[Tabela sa svim rezultatima](https://docs.google.com/spreadsheets/d/1lLv7_VEtz7zStQUrU3HrcINacXLeuOWd/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
+Rezultati praktičnog dela u roku jun2 su upisani u tabelu sa svim rezultatima.
+
+[Tabela sa svim rezultatima](https://docs.google.com/spreadsheets/d/1S5UPfYUdzKZ-kJLnqRJeDTB-JrJg2fIy/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
 
 [Tabela sa trenutim bodovima projekata](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing)
 
