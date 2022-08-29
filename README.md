@@ -4,8 +4,12 @@
 
 ## Sep1
 
-Projekte za ispitni rok septembar 1 možete prijaviti na sledećoj formi [https://forms.gle/oC2nVYbioPoFfQRA8](https://forms.gle/oC2nVYbioPoFfQRA8).  
-Forma će biti otvorena do 20:00 datuma 28.08.   
+Projekti:  
+122/2017 - 25  
+143/2019 - 32  
+212/2019 - 35  
+217/2017 - 35  
+
 
 ## Bodovi
 
