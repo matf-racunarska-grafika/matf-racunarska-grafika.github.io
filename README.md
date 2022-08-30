@@ -4,6 +4,9 @@
 
 ## Sep1
 
+Prijava za izlazak na ispit 03.09. [https://forms.gle/kv4gxr2niW9FkkNu8](https://forms.gle/kv4gxr2niW9FkkNu8)
+
+
 Projekti:  
 122/2017 - 25  
 143/2019 - 32  
