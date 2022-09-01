@@ -4,7 +4,8 @@
 
 ## Sep1
 
-Prijava za izlazak na ispit 03.09. [https://forms.gle/kv4gxr2niW9FkkNu8](https://forms.gle/kv4gxr2niW9FkkNu8)
+Prijava za izlazak na ispit 03.09. [https://forms.gle/kv4gxr2niW9FkkNu8](https://forms.gle/kv4gxr2niW9FkkNu8)  
+[Edit]: Forma će biti otvorena do 1.9. u 21:00.   
 
 
 Projekti:  
