@@ -4,8 +4,9 @@
 
 ## Sep1
 
-Prijava za izlazak na ispit 03.09. [https://forms.gle/kv4gxr2niW9FkkNu8](https://forms.gle/kv4gxr2niW9FkkNu8)  
-[Edit]: Forma će biti otvorena do 1.9. u 21:00.   
+Drage koleginice i kolege,  
+Ispit će se održati u subotu 03.09. u 13.00 u **N salama**.  
+Prvo se radi teorijski deo ispita u trajanju od sat vremena, pa zatim praktični deo ispita.  
 
 
 Projekti:  
