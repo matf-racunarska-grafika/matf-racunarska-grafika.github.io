@@ -2,25 +2,13 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Sep1
-
-Drage koleginice i kolege,  
-Ispit će se održati u subotu 03.09. u 13.00 u **N salama**.  
-Prvo se radi teorijski deo ispita u trajanju od sat vremena, pa zatim praktični deo ispita.  
-
-
-Projekti:  
-122/2017 - 25  
-143/2019 - 32  
-212/2019 - 35  
-217/2017 - 35  
-
-
 ## Bodovi
 
-Rezultati praktičnog dela u roku jun2 su upisani u tabelu sa svim rezultatima.
+U tabeli ispod možete naći rezultate praktičnog dela ispita za rok sep1.
 
-[Tabela sa svim rezultatima](https://docs.google.com/spreadsheets/d/1S5UPfYUdzKZ-kJLnqRJeDTB-JrJg2fIy/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
+Rezultati praktičnog dela u roku sep1 su upisani u tabelu sa svim rezultatima.
+
+[Tabela sa svim rezultatima](https://docs.google.com/spreadsheets/d/1YGqlOW-39YtXGwB52VsleaVdBH3Bn7Y_/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
 
 [Tabela sa trenutim bodovima projekata](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing)
 
