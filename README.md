@@ -2,6 +2,12 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## Septembar 2
+
+Projekte za ispitni rok septembar 2 možete prijaviti na formi [https://forms.gle/MPE6M92JNg5ZohEw9](https://forms.gle/MPE6M92JNg5ZohEw9).  
+Prijava će biti otvorena do 18.09 u 20:00.
+
+
 ## Bodovi
 
 U tabeli ispod možete naći rezultate praktičnog dela ispita za rok sep1.
