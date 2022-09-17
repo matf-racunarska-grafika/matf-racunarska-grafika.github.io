@@ -2,6 +2,10 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## Septembar 2 Projekti
+
+119/2016 - 35  
+
 ## Septembar 2
 
 Drage koleginice i kolege,
