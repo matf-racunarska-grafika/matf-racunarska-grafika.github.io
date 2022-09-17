@@ -6,7 +6,7 @@
 
 Drage koleginice i kolege,
 
-Radi bolje organizacije ispita molimo vas da popunite naredu formu https://forms.gle/vmWJE7khpCKdW1BB6.  
+Radi bolje organizacije ispita molimo vas da popunite naredu formu [https://forms.gle/vmWJE7khpCKdW1BB6](https://forms.gle/vmWJE7khpCKdW1BB6).  
 Forma će biti otvorena do 19.09. u 14:00. 
 
 Projekte za ispitni rok septembar 2 možete prijaviti na formi [https://forms.gle/MPE6M92JNg5ZohEw9](https://forms.gle/MPE6M92JNg5ZohEw9).  
