@@ -2,50 +2,10 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Septembar 2 Projekti
+# Bodovi
 
-119/2016 - 35  
-350/2020 - 27
+[Tabela sa svim rezultatima](http://poincare.matf.bg.ac.rs/~vesnap/grafika/studenti_rg_2021.xls)
 
-## Septembar 2
-
-Drage koleginice i kolege,
-
-Radi bolje organizacije ispita molimo vas da popunite naredu formu [https://forms.gle/vmWJE7khpCKdW1BB6](https://forms.gle/vmWJE7khpCKdW1BB6).  
-Forma će biti otvorena do 19.09. u 14:00. 
-
-
-## Bodovi
-
-U tabeli ispod možete naći rezultate praktičnog dela ispita za rok sep1.
-
-Rezultati praktičnog dela u roku sep1 su upisani u tabelu sa svim rezultatima.
-
-[Tabela sa svim rezultatima](https://docs.google.com/spreadsheets/d/1YGqlOW-39YtXGwB52VsleaVdBH3Bn7Y_/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
-
-[Tabela sa trenutim bodovima projekata](https://docs.google.com/spreadsheets/d/1qoWOBNly_7EMwzm-K5ftO--M5zs7LQ0GnpDGUfm7n_w/edit?usp=sharing)
-
-
-## Obaveštenja  
-[03.12.2021.]  
-Dodatni čas [subota 04.12. u 11:00.](https://matf.webex.com/matf/j.php?MTID=m5704df7c093be83f724db6a5fbf9ef11).  
-Šifra: rg2021
-
-
-[26.11.2021.]  
-Na časovima u nedelji od 29.11. do 03.12. na vežbama će se raditi gradivo iz [8. nedelje nastave](materijali/#08).  
-U subotu 04.12. u 11:00 imaćemo dopunski čas vežbi na kojem ćemo u skelet projekta implementirati sisteme koji treba da olakšaju izradu
-projekta pri radi sa: ulazom sa tasture i miša, događajima, paralelnim dešavanjima na sceni i kreiranjem i renderovanjem objekata na sceni. 
-
-
-[07.11.2021.]  
-Četvrtak 11.11.2021. je državni praznik i neradni dan. Molim studente koji vežbe slušaju četvrtkom da sledeće nedelje prisustvuju vežbama u utorak ili petak, ili odgledaju snimke vežbi 05.
-
-
-[11.10.2021.]  
-Neće biti vežbi u petak 15.10. Molim studente da prisustvuju vežbama u nekom drugom terminu po želji ove nedelje ili odgledaju snimke vežbi.  
-Pozdrav, 
-Marko  
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
