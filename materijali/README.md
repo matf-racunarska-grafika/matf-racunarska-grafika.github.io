@@ -1,19 +1,21 @@
-[Snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) 
+# Materijali
 
-[repozitorijum](https://github.com/matf-racunarska-grafika/LearnOpenGL/)
+[Snimci vežbi](https://www.youtube.com/playlist?list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj) 
 
-[cpp tutorial repozitorijum](https://github.com/spaske00/cpp_tutorial)
+[Primeri sa časa](https://github.com/matf-racunarska-grafika/LearnOpenGL/)
 
-[cpp tutorial snimci](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
+[C++ primeri](https://github.com/spaske00/cpp_tutorial)
 
-[Domaci](https://matf-racunarska-grafika.github.io/domaci/)
+[C++ mini kurs](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
 
-Modeli:  
+[Domaći zadaci](https://matf-racunarska-grafika.github.io/domaci/)
+
+Modele možete preuzeti sa:  
 - [sketchfab](https://sketchfab.com/3d-models)
 - [artec3d](https://www.artec3d.com/3d-models)
 - [free3D](www.free3d.com)
 - [turbosquid](https://www.turbosquid.com/3d-models/)
-- 
+
 ### 01
 -[CLion](https://www.jetbrains.com/clion/): integrisano razvojno okruženje, kompajliranje, debagovanje, CMake [video](https://youtu.be/Epx2jEskAJw)
 
@@ -37,8 +39,6 @@ Modeli:
 [video](https://youtu.be/2kdH7_39AWo)
 
 -[Textures](https://learnopengl.com/Getting-started/Textures): teksture, mapiranje tekstura, MipMaps [video](https://youtu.be/1Hxf4UvPcS4)
-
-
 
 ### 04
 -[Transformations](https://learnopengl.com/Getting-started/Transformations): vektori, matrice, operacije nad matricama, translacije, rotacije, GLM [video](https://youtu.be/b8wFCYJErLw)
@@ -129,6 +129,5 @@ Modeli:
 
 -[Deffered Shading](https://learnopengl.com/Advanced-Lighting/Deferred-Shading): G-bafer
 
--[SSAO](https://learnopengl.com/Advanced-Lighting/SSAO): 
+-[SSAO](https://learnopengl.com/Advanced-Lighting/SSAO)
 
-### 13
