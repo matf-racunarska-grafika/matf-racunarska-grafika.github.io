@@ -25,6 +25,10 @@
 
 -asistent: Marko Spasić (marko_spasic _At_-- math.rs)
 
+## Imam pitanje?  
+Vaše pitanje možete postaviti na [Github stranici kursa](https://github.com/matf-racunarska-grafika/matf-racunarska-grafika.github.io/issues).  
+Pre postavljanja pitanje provesti barem 2 sata u samostalnom pokušaju rešavanja problema. Prilikom opisa problema obavezno opisati šta je pokušano kao rešenje i dobijeni rezultat.
+
 ## Bodovanje  
 Praktični: 55 (35 projekat + 20 pismeni)  
 Teorijski: 45 (završni teorijski)  
@@ -47,7 +51,7 @@ Ukoliko niste zadovoljni osvojenim bodovima na projektu, možete projekat doradi
 Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 
 
-### Biblioteke
+## Biblioteke
 `sudo apt-get install g++ cmake git build-essential libgl1-mesa-dev libsoil-dev libglm-dev libassimp-dev libglew-dev libglfw3-dev libxinerama-dev libxcursor-dev libxi-dev mesa-common-dev mesa-utils libxxf86vm-dev libfreetype6-dev`
 
 Provera verzije OpenGL: `glxinfo | grep OpenGL`  
