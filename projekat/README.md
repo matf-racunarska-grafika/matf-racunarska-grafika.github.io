@@ -55,7 +55,7 @@ Sav kod iz project_base i LearnOpenGL repozitorijuma se može koristiti bez navo
 Prijava projekata će biti otvorena dve nedelje pre svakog teorijskog završnog ispita i zatvara se nedelju dana pre termina završnog teorijskog ispita. Prijavu popunjavate za onaj rok u kome želite da branite projekat. Nije potrebno unapred prijavljivati temu.
 
 **Da li negde možemo videti primere projekata prethodnih godina?**
-Primere odličnih projekata iz prethodnih godina možete pronaći na: [https://github.com/matf-rg-2020-showcase](https://github.com/matf-rg-2020-showcase)
+Primere odličnih projekata iz prethodnih godina možete pronaći na: [https://github.com/matf-racunarska-grafika-galerija](https://github.com/matf-racunarska-grafika-galerija)
 
 **Da li sve u projektu mora da bude urađeno od početka ili postoji neki šablon za projekat?**
 
