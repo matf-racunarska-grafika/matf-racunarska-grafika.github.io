@@ -1,11 +1,13 @@
-### Literatura
+# Prateći resursi
+
+## Literatura
 -[learnopengl](https://learnopengl.com/)
 
 -[learncpp](https://www.learncpp.com/)
 
 -[Tour of C++ - Bjarne](https://www.stroustrup.com/Tour.html)
 
-### Dokumentacija
+## Dokumentacija
 -[OpenGL docs](http://docs.gl/)
 
 -[glfw](https://www.glfw.org/)
@@ -18,7 +20,7 @@
 
 -[learngit](https://learngitbranching.js.org/)
 
-### Alati
+## Alati
 [CLion](https://www.jetbrains.com/clion/)
 
 [QtCreator](https://www.qt.io/download-qt-installer)
@@ -30,8 +32,7 @@
 [RenderDoc](https://renderdoc.org/)
 
 
-
-### Extras
+## Interesantni članci
 
 [John Carmack on inlined code](http://number-none.com/blow/john_carmack_on_inlined_code.html)
 
