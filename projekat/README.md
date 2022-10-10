@@ -17,6 +17,8 @@ Ukoliko projekat sadrži sve neophodne oblasti, oblast iz grupe A (dve ukoliko s
 
 Ukoliko projekat sadrži sve gore navedeno moguće je implementirati još jednu oblast iz grupe B za bonus 5 poena.
 
+**Veoma važno: Na platformi Github mora postojati istorija komitova celog projekta. Projekat koji nema istoriju komitova neće biti pregledan.**  
+
 Oblasti grupe A:  
 -[Framebuffers](https://learnopengl.com/Advanced-OpenGL/Framebuffers)  
 -[Cubemaps](https://learnopengl.com/Advanced-OpenGL/Cubemaps)  
@@ -37,9 +39,6 @@ Bodovanje obuhvata:
 
 U projektu nije dozvoljeno korišćenje .obj modela iz glavnog [repozitorijuma](https://github.com/matf-racunarska-grafika/LearnOpenGL).
 
-**Kako se raspoređuju bodovi ukoliko se projekat radi u paru?**  
-Ukoliko se projekat radi u paru svaki član tima bira po jednu oblast iz grupe A (dve ukupno) i jednu oblast iz grupe B (dve ukupno) koju implementira. Na Github-u se mora videti cela istorija komitova svakog člana. Član tima dobiće bodove samo za one delove projekta koje istorija komitova pokazuje da je implementirao.  
-
 **Kako se boduje i polaže pismeni deo?**  
 Pismeni deo nosi 20 bodova i polaže se na papiru u terminu ispita po rasporedu sa sajta fakulteta.   
 Sastoji se od pitanja iz oblasti od 1-8 nedelje, [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling), [Advanced Lighting](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing), [Blending](https://learnopengl.com/Advanced-OpenGL/Blending).  Uspešno urađen i odbranjen projekat je uslov za izlazak na pismeni i teorijski deo ispita.
@@ -51,7 +50,6 @@ README.md datoteka treba da sadrži upustvo za korišćenje projekta u vidu dugm
 
 Deo koda koji preuzet iz nekog izvora mora biti jasno naznačen početkom i krajom i linkom do orignalnog koda.  
 Sav kod iz project_base i LearnOpenGL repozitorijuma se može koristiti bez navođenja.  
-
 
 **Kada počinje prijava projekata?**  
 Prijava projekata će biti otvorena dve nedelje pre svakog teorijskog završnog ispita i zatvara se nedelju dana pre termina završnog teorijskog ispita. Prijavu popunjavate za onaj rok u kome želite da branite projekat. Nije potrebno unapred prijavljivati temu.
@@ -66,7 +64,7 @@ Primere odličnih projekata iz prethodnih godina možete pronaći na: [https://g
 > Ukoliko koristite nečiji kod obavezno navesti početak i kraj, i odakle je kod preuzet. 
 
 **Kako se brani projekat?**  
-Projekat se prijavljuje preko gugl forme koja će biti istaknuta na stranici kursa 2 nedelje pre početka svakog roka. Prijava traje nedelju dana.  
+Projekat se prijavljuje preko gugl forme koja će biti istaknuta na stranici kursa nedelju dana pre datuma ispita. Prijava traje nedelju dana.  
 Uz projekat se prilaže snimak ekrana u trajanju najviše do 5 minuta na kojem se demonstrira projekat. Snimak postaviti na youtube, a link ostaviti u README datoteci repozitorijuma projekta. Za snimanje ekrana projekta preporučuje se https://obsproject.com/download.  
 Projekat se ocenjuje do poslednjeg komita na main grani u trenutku prijave projekta. Sve izmene nakon prijave projekta ce nece pregledati.  
 Projekti će biti pregledani u toku trajanje prijave.  
