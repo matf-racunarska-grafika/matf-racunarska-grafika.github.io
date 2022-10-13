@@ -71,11 +71,11 @@ tastature.
 
 **Rešenja:**
 
-[1. 1.getting_started/3.4.shaders_exercies1/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.4.shaders_exercise1)
+[1. 1.getting_started/3.4.shaders_exercise1/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.4.shaders_exercise1)
 
-[2. 1.getting_started/3.5.shaders_exercies2/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.5.shaders_exercise2)
+[2. 1.getting_started/3.5.shaders_exercise2/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.5.shaders_exercise2)
 
-[3. 1.getting_started/3.6.shaders_exercies3/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.6.shaders_exercies3/)
+[3. 1.getting_started/3.6.shaders_exercise3/](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.6.shaders_exercise3/)
 
 [4. 1.getting_started/4.3.textures_exercise1](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.3.textures_exercise1)
 
