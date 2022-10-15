@@ -3,14 +3,12 @@
 Praktični nosi 55 poena (35 projekat + 20 pismeni)
 
 **Kako se boduje projekat?**  
-Projekat se može raditi u paru ili individualno.  
+Projekat se radi individualno.  
 Projekat nosi 35 poena.  
 Neophodno je da projekat sadrži sve teme od 1. nedelje zaključno sa 8. nedeljom, [Blending](https://learnopengl.com/Advanced-OpenGL/Blending), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling), [Advanced lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting). Ako sadrži to i samo to maksimalan broj bodova koje je moguće osvojiti je 15.  
 
 Svo osvetljenje na sceni treba da se računa po Blin-Fonogovom modelu [Advanced lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting).  
 Dovoljno je da projekat ima jedan tip [Blendinga](https://learnopengl.com/Advanced-OpenGL/Blending)(Discard ili blend).  
-
-Za više bodova, ukoliko se projekat radi individualno bira se po jedna oblast iz grupe A i jedna oblast iz grupe B. Ukoliko se projekat radi u paru svaki član bira po jednu oblast iz grupe A i jednu oblast iz grupe B. Ukupno dve različite oblasti iz grupe A i dve različite oblasti iz grupe B za projekat.
 
 Ukoliko projekat sadrži sve neophodne oblasti i oblast (dve oblasti ukoliko se radi u paru) iz grupe A maksimalan broj bodova koje je moguće osvojiti je 25.    
 Ukoliko projekat sadrži sve neophodne oblasti, oblast iz grupe A (dve ukoliko se radi u paru) i oblast iz grupe B (dve ukoliko se radi u paru) maksimalan broj bodova koje je moguće osvojiti je 35.  
@@ -37,7 +35,7 @@ Bodovanje obuhvata:
 -Stil, kreativnost i skladnost scene  
 -Uočljivost, izraženost i doprinos implementiranih oblasti atmosferi scene   
 
-U projektu nije dozvoljeno korišćenje .obj modela iz glavnog [repozitorijuma](https://github.com/matf-racunarska-grafika/LearnOpenGL).
+U projektu nije dozvoljeno korišćenje .obj modela i tekstura iz glavnog [repozitorijuma](https://github.com/matf-racunarska-grafika/LearnOpenGL).
 
 **Kako se boduje i polaže pismeni deo?**  
 Pismeni deo nosi 20 bodova i polaže se na papiru u terminu ispita po rasporedu sa sajta fakulteta.   
@@ -64,7 +62,7 @@ Primere odličnih projekata iz prethodnih godina možete pronaći na: [https://g
 > Ukoliko koristite nečiji kod obavezno navesti početak i kraj, i odakle je kod preuzet. 
 
 **Kako se brani projekat?**  
-Projekat se prijavljuje preko gugl forme koja će biti istaknuta na stranici kursa nedelju dana pre datuma ispita. Prijava traje nedelju dana.  
+Projekat se prijavljuje preko gugl forme koja će biti istaknuta na stranici kursa oko 10 dana pre datuma ispita. Prijava traje nedelju dana.  
 Uz projekat se prilaže snimak ekrana u trajanju najviše do 5 minuta na kojem se demonstrira projekat. Snimak postaviti na youtube, a link ostaviti u README datoteci repozitorijuma projekta. Za snimanje ekrana projekta preporučuje se https://obsproject.com/download.  
-Projekat se ocenjuje do poslednjeg komita na main grani u trenutku prijave projekta. Sve izmene nakon prijave projekta ce nece pregledati.  
+Projekat se ocenjuje do poslednjeg komita na grani `main` u trenutku prijave projekta. Sve izmene nakon prijave projekta  neće biti pregledane.  
 Projekti će biti pregledani u toku trajanje prijave.  
