@@ -92,7 +92,7 @@ Napomena: Svuda gde se u snimku koristi HTTPS link za kolniranje, zameniti sa SS
 
 ## Drajveri  
 Nakon pokretanja skripte za insaltaciju proveriti da li je verzija OpenGL driajver >= 3.3.  
-Ukoliko nije pokrenuti: `sudo apt-get update && apt'get upgrade`  
+Ukoliko nije pokrenuti: `sudo apt-get update && apt-get upgrade`  
 Probati reinstalaciju: `sudo apt-get remove libgl1-mesa-devmesa-common-dev mesa-utils && apt-get install libgl1-mesa-devmesa-common-dev mesa-utils`  
 Neke distribucije Linux operativnog sistema nemaju podršku novijih verzija OpenGL na nekim integrisanim ili starim grafičkim karticama.  
 Na primer Mint distribucija nema podršku neke grafičke kartice. Preporučuje se korišćenje novije Ubuntu 18.04+ distribucije.  
