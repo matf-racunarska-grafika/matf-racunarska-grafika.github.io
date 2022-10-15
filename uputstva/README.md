@@ -1,12 +1,24 @@
 # Uputstva
 
-## Biblioteke
+## Virtualna mašina
+
+1. Preuzeti i instalirati [Virtual box](https://www.virtualbox.org/).  
+2. Preuzeti [podešenu virtualnu mašinu](https://drive.google.com/file/d/1zcNJGaPv6A84O1r5K9olvff4S3K_preN/view?usp=sharing) i otpakovati `zip` datoteku.  
+3. Pokrenuti `Virtual box`  
+4. Klikunti dugme `Add` i otvoriti odabrati `matf-racunarska-grafika.vbox` koja se nalazi u otpakovanoj datoteci iz koraka 2.  
+5. Pokrenuti virtualnu mašinu `matf-racunarska-grafika` pritiskom na dugme `Start`
+
+Sve biblioteke i alati su instalirani. Nije potrebno dodatno podešavanje virtualne mašine.  
+
+## Postupna instalacija
+
+### Biblioteke
 
 ```
 sudo apt-get install g++ cmake git build-essential libgl1-mesa-dev libsoil-dev libglm-dev libassimp-dev libglew-dev libglfw3-dev libxinerama-dev libxcursor-dev libxi-dev mesa-common-dev mesa-utils libxxf86vm-dev libfreetype6-dev
 ```
 
-## CLion
+### CLion
 CLion je integrisano razvojno okruženje namenjeno za programske jezike C i C++.
 
 Bazirano je na IntelliJ okruženju koje se koristi na predmetu OOP.
@@ -15,12 +27,6 @@ Bazirano je na IntelliJ okruženju koje se koristi na predmetu OOP.
 Pre instalacija obavezno poreknuti komande u terminalu:
 
 `sudo apt-get install g++ cmake git build-essential`
-
-Onda će CLion moći automatski da ih pronađe i konfigurše okruženje.
-
-0) Ukoliko imate Ubuntu 16.04 ili noviju verziju u terminalu pokrenuti:
-
-`sudo snap install clion --classic`
 
 ### Postupna instalacija
 
