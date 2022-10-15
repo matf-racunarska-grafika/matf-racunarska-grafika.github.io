@@ -45,28 +45,19 @@ Ukoliko niste zadovoljni osvojenim bodovima na projektu, možete projekat doradi
 ## Konsultacije
 Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 
+## Virtualna mašina
 
-## Biblioteke
-`sudo apt-get install g++ cmake git build-essential libgl1-mesa-dev libsoil-dev libglm-dev libassimp-dev libglew-dev libglfw3-dev libxinerama-dev libxcursor-dev libxi-dev mesa-common-dev mesa-utils libxxf86vm-dev libfreetype6-dev`
+Preporučeno je podesiti matični Ubuntu sistem prema koracima u [upustvu/](upustva/).  
+Ukoliko želite, kurs možete pratiti i raditi projekat i na virtuelnoj mašini. 
 
-Provera verzije OpenGL: `glxinfo | grep OpenGL`  
-```
-OpenGL vendor string: NVIDIA Corporation
-OpenGL renderer string: GeForce RTX 2060/PCIe/SSE2
-**OpenGL core profile version string: 4.6.0 NVIDIA 460.91.03** <--- Verzija OpenGL-a 4.6.0
-OpenGL core profile shading language version string: 4.60 NVIDIA
-OpenGL core profile context flags: (none)
-OpenGL core profile profile mask: core profile
-OpenGL core profile extensions:
-OpenGL version string: 4.6.0 NVIDIA 460.91.03
-OpenGL shading language version string: 4.60 NVIDIA
-OpenGL context flags: (none)
-OpenGL profile mask: (none)
-OpenGL extensions:
-OpenGL ES profile version string: OpenGL ES 3.2 NVIDIA 460.91.03
-OpenGL ES profile shading language version string: OpenGL ES GLSL ES 3.20
-OpenGL ES profile extensions:
-```
+1. Preuzeti i instalirati [Virtual box](https://www.virtualbox.org/).  
+2. Preuzeti [podešenu virtualnu mašinu](https://drive.google.com/file/d/1zcNJGaPv6A84O1r5K9olvff4S3K_preN/view?usp=sharing) i otpakovati `zip` datoteku.  
+3. Pokrenuti `Virtual box`  
+4. Klikunti dugme `Add` i otvoriti odabrati `matf-racunarska-grafika.vbox` koja se nalazi u otpakovanoj datoteci iz koraka 2.  
+5. Pokrenuti virtualnu mašinu `matf-racunarska-grafika` pritiskom na dugme `Start`
+
+Sve biblioteke i alati su instalirani. Nije potrebno dodatno podešavanje virtualne mašine.  
+
 
 [Skelet projekta](https://github.com/matf-racunarska-grafika/project_base) Skelet projekta sa svim uključenim bibliotekama za vežbanje primera sa časa. 
 
