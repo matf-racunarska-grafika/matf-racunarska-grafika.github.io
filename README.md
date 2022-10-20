@@ -31,6 +31,7 @@ Teorijski: 45 (završni teorijski)
 Da bi se položio praktični deo ispita neophodno je ostvariti barem 25/55 bodova, od toga barem 10/35 na projektu i barem 10/20 na pismenom.  
 Da bi se položio teorijski deo ispita neophodno je ostvariti barem 20/45 bodova na završnom teorijskom ispitu.  
 Na kraju, potrebno je na praktičnom i teorijskom delu imati barem 51 bodova u zbiru.  
+Bodovi osvojeni na projektu u školskoj godini 2021/2022 važe i u školskoj godini 2022/2023.  
 
 **Polaganje**  
 Odbranjen projekat je uslov za izlazak na pismeni i završni teorijski. Jednom odbranjen projekat i dobijeni bodovi važe cele godine.  
