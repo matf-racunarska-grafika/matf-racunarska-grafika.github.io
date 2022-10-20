@@ -54,7 +54,8 @@ Ukoliko želite, kurs možete pratiti i raditi projekat i na virtuelnoj mašini.
 2. Preuzeti [podešenu virtualnu mašinu](https://drive.google.com/file/d/1zcNJGaPv6A84O1r5K9olvff4S3K_preN/view?usp=sharing) i otpakovati `zip` datoteku.  
 3. Pokrenuti `Virtual box`  
 4. Klikunti dugme `Add` i otvoriti odabrati `matf-racunarska-grafika.vbox` koja se nalazi u otpakovanoj datoteci iz koraka 2.  
-5. Pokrenuti virtualnu mašinu `matf-racunarska-grafika` pritiskom na dugme `Start`
+5. Pokrenuti virtualnu mašinu `matf-racunarska-grafika` pritiskom na dugme `Start`  
+6. Šifra: "matfrg"
 
 Sve biblioteke i alati su instalirani. Nije potrebno dodatno podešavanje virtualne mašine.  
 
