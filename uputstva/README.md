@@ -50,54 +50,20 @@ Pre instalacija obavezno poreknuti komande u terminalu:
 
 ### Postupna instalacija
 
-1) Skinuti CLion sa stranice https://www.jetbrains.com/clion/download/#section=linux
-
-2) Preuzeti fajl CLion-NekiDatumStojiOvde.tar.gz otpakovati u željeni folder
-
-3) cd clion-2020.2.4/bin/
-
-4) sudo ./clion.sh
-
-5) Program će se pokrenuti. Odaberite temu.
-
-![odabir teme](img/clion_01.png)
-
-6) Osim ako ne želite drugačije, naredna podešavanja možete ostaviti na podrazumevano:
-
-![podešavanje](img/clion_02.png)
-![podešavanje](img/clion_03.png)
-![podešavanje](img/clion_04.png)
-![podešavanje](img/clion_05.png)
-
-7) To je sve.
-
-![podešavanje](img/clion_06.png)
-
-8) CLion će biti dostupan kao aplikacija na sistemu. Može se pokretati preko prečice.
-
-![podešavanje](img/clion_07.png)
-
-
-9) https://www.jetbrains.com/community/education/#students
-
-Potrebno je registrovati besplatnu studentsku licencu. Kliknuti na plavo `Applay now` dugme.
-Nakon toga popuniti formular i obavezno uneti *alas* mejl adresu.
-
-![podešavanje](img/clion_09.png)
+1) Skinuti CLion sa stranice https://www.jetbrains.com/clion/download/#section=linux  
+2) Preuzeti fajl CLion-NekiDatumStojiOvde.tar.gz otpakovati u željeni folder  
+3) cd clion-2020.2.4/bin/  
+4) sudo ./clion.sh  
+5) Continue -> Send/Don't send statistics -> Odabrati Activate Clion i JB Account -> Log In to JetBrains Account...  
+6) Ako se u pretraživaču automatski ne otvori link kliknuti *Troubles?* -> copy the link -> otvoriti u pretraživaču ručno  
+7) Napraviti nalog sa **školskom alas mejl adresom** i ulogovati se  
+8) Nakon logovanja prekopirati dobijeni token iz pretraživača u okruženje CLion -> kliknuti *Check Token*  
+9) Kliknuti Activate  
+10) Continue  
+11) Open -> Pronaći LearnOpenGL direktorijum na sistemu  
 
 Na alas mejl adresu će stići mejl za potvrdu. Nakon potvrde naloge dobija se studentska
 licenca.
-
-10) Aktivirati studentsku licencu preko JetBrains naloga koji ste upravo napravili.
-
-![podešavanje](img/clion_10.png)
-
-
--Kada se projekat prvi put učita okruženju je ponekad potrebno vremena da indeksira sve fajlove.
-Nakon indeksiranja biće dostupne funkcije okruženja koje pomažu u radu kao što su dokumentacija,
-predlaganja, pronalaženje simbola u projektu i slično.
-
-![podešavanje](img/clion_08.png)
 
 ## Github  
 1) https://github.com/  
