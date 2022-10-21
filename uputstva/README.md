@@ -72,6 +72,7 @@ Pre instalacija obavezno poreknuti komande u terminalu:
 9) Kliknuti Activate  
 10) Continue  
 11) Open -> Pronaći LearnOpenGL direktorijum na sistemu  
+12) Kreirati prečicu na sistemu preko *Tools -> Create Desktop Entry...*
 
 Na alas mejl adresu će stići mejl za potvrdu. Nakon potvrde naloge dobija se studentska
 licenca.
