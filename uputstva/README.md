@@ -37,6 +37,17 @@ OpenGL ES profile shading language version string: OpenGL ES GLSL ES 3.20
 OpenGL ES profile extensions:
 ```
 
+## Github  
+1) https://github.com/  
+2) Sign up.  
+3) Unesite svoje informacije. Mejl ne mora biti sa alasa.  
+4) Potvrdite nalog.  
+5) [SSH key i kloniranje repozitorijuma](https://www.youtube.com/watch?v=Z3ELWci34cM) [Github dokumentacija](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+6) [Kreiranje SSH kljuca](https://www.youtube.com/watch?v=WgZIv5HI44o)  
+7) U terminalu pokrenuti: ssh -T git@github.com  
+8) Ukoliko je sve dobro uradjeno trebalo bi da ispise poruku: "Hi ${VasUsername}! You've successfully authenticated, but GitHub does not provide shell access."  
+Napomena: Svuda gde se u snimku koristi HTTPS link za kolniranje, zameniti sa SSH linkom. 
+9) Klonirati repozitorijum sa primerima: `git clone git@github.com:matf-racunarska-grafika/LearnOpenGL.git`
 
 ### CLion
 CLion je integrisano razvojno okruženje namenjeno za programske jezike C i C++.
@@ -64,17 +75,6 @@ Pre instalacija obavezno poreknuti komande u terminalu:
 
 Na alas mejl adresu će stići mejl za potvrdu. Nakon potvrde naloge dobija se studentska
 licenca.
-
-## Github  
-1) https://github.com/  
-2) Sign up.  
-3) Unesite svoje informacije. Mejl ne mora biti sa alasa.  
-4) Potvrdite nalog.  
-5) [SSH key i kloniranje repozitorijuma](https://www.youtube.com/watch?v=Z3ELWci34cM) [Github dokumentacija](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-6) [Kreiranje SSH kljuca](https://www.youtube.com/watch?v=WgZIv5HI44o)  
-7) U terminalu pokrenuti: ssh -T git@github.com  
-8) Ukoliko je sve dobro uradjeno trebalo bi da ispise poruku: "Hi ${VasUsername}! You've successfully authenticated, but GitHub does not provide shell access."  
-Napomena: Svuda gde se u snimku koristi HTTPS link za kolniranje, zameniti sa SSH linkom. 
 
 ## Drajveri  
 Nakon pokretanja skripte za insaltaciju proveriti da li je verzija OpenGL driajver >= 3.3.  
