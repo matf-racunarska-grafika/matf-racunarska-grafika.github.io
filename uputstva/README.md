@@ -49,6 +49,22 @@ OpenGL ES profile extensions:
 Napomena: Svuda gde se u snimku koristi HTTPS link za kolniranje, zameniti sa SSH linkom. 
 9) Klonirati repozitorijum sa primerima: `git clone git@github.com:matf-racunarska-grafika/LearnOpenGL.git`
 
+### JetBrains CLion student licence
+
+1. Preko linka https://www.jetbrains.com/shop/eform/students uneti sve podatke
+i školski mejl i kliknuti na `Applay for free products`
+2. Na školski emejl će stići email od JetBrains-a u kojem se nalazi link za
+potvrdu.
+3. Klikom na taj link prikazaće se stranica sa tekstom: 
+"Keep it going! You're just one step away from using JetBrains Educational Pack
+for free." i dugmetom 'Get started to use'
+4. Klikom na 'Get started to use' pretraživač vodi do stranice za kreiranje naloga
+i logovanje.
+5. Kreirati novi nalog sa školskom mejl adresom. Ukoliko već imate nalog sa
+školskom mejl adresom samo se ulogujete.
+6. Nakon toga će stići još jedan mejl u kojem se nalazi link sa tekstom: "Link your free licence". 
+Klikom na taj link je proces dobijanja licence završen.
+
 ### CLion
 CLion je integrisano razvojno okruženje namenjeno za programske jezike C i C++.
 
@@ -67,7 +83,7 @@ Pre instalacija obavezno poreknuti komande u terminalu:
 4) sudo ./clion.sh  
 5) Continue -> Send/Don't send statistics -> Odabrati Activate Clion i JB Account -> Log In to JetBrains Account...  
 6) Ako se u pretraživaču automatski ne otvori link kliknuti *Troubles?* -> copy the link -> otvoriti u pretraživaču ručno  
-7) Napraviti nalog sa **školskom alas mejl adresom** i ulogovati se  
+7) Ako već nije urađeno, ispratiti korake u upustvu (JetBrains CLion student licence)  
 8) Nakon logovanja prekopirati dobijeni token iz pretraživača u okruženje CLion -> kliknuti *Check Token*  
 9) Kliknuti Activate  
 10) Continue  
