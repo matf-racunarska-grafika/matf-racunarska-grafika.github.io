@@ -131,3 +131,10 @@ Modele možete preuzeti sa:
 
 -[SSAO](https://learnopengl.com/Advanced-Lighting/SSAO)
 
+### Dodatna (neobavezna) literatura
+
+-[Game Engine Architecture - Jason Gregory](https://www.gameenginebook.com/)   
+-[Game Programming Patterns - Robert Nystrom](https://gameprogrammingpatterns.com/)  
+-[Physically Based Rendering: From Theory to Implementation 3rd Edition](https://www.pbrt.org/)  
+-[Raytracing in One Weekend](https://raytracing.github.io/)  
+
