@@ -37,7 +37,7 @@ Modele možete preuzeti sa:
 ### 03
 -[Shaders](https://learnopengl.com/Getting-started/Shaders): GLSL, in, out, Uniforms, Shader klasa (naša prva abstrakcija) [video](https://youtu.be/JyYwUaZicxQ)
 [video](https://youtu.be/2kdH7_39AWo)  
-[Interpolacija trogula](https://codeplea.com/triangular-interpolation)
+[Interpolacija trougla](https://codeplea.com/triangular-interpolation)
 
 -[Textures](https://learnopengl.com/Getting-started/Textures): teksture, mapiranje tekstura, MipMaps [video](https://youtu.be/1Hxf4UvPcS4)
 
