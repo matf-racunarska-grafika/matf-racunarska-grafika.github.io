@@ -3,6 +3,11 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja
+[18.11.2022.] Drage koleginice i kolege,  
+Molimo vas da popunite sledeću anketu za održavanje aprilskog roka.
+[https://forms.gle/8xwad1dvbc7YfbC3A](https://forms.gle/8xwad1dvbc7YfbC3A).
+
+
 [06.11.2022.] U petak 11.11. neće biti vežbi. Studenti koji vežbe slušaju petkom mogu doći na bilo koji termin u četvrtak 10.11.
 
 [01.11.2022.] Termin vežbi utorkom je oslobođen. Studenti koji su vežbe slušali utorkom mogu doći na vežbe u bilo kom drugom terminu po želji. 
