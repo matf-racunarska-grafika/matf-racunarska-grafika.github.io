@@ -3,6 +3,15 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja
+[23.11.2022.] Drage koleginice i kolege,  
+Prema [rezultatima ankete](https://docs.google.com/spreadsheets/d/1oUl6DA428fpUZ9R3yg-rCOK6fMkIOISbrAgXD2-GlmI/edit?usp=sharing) za predlog da se jaunarski ispitni rok zameni aprilskim ispitnim rokom glasalo je 160 studenata.  
+Za: 152  
+Protiv: 8  
+Dakle, *januarski rok neće biti održan, umesto januarskog roka biće održan aprilski rok u drugoj polovini meseca aprila.*  
+Tačan datum i termin dogovorićemo početkom meseca aprila.  Ostali ispitni rokovi ostaju nepromenjeni.
+Hvala vam na velikom odzivu i učestvoanju u donošenju ove odluke. Nadamo se da će vam ovakav raspored pomoći da balgovremeno i temeljno naučite gradivo i uspešno položite ovaj i druge ispite u ovoj školskoj godini.  
+Srdačan pozdrav
+
 [18.11.2022.] Drage koleginice i kolege,  
 Molimo vas da popunite sledeću anketu za održavanje aprilskog roka.
 [https://forms.gle/8xwad1dvbc7YfbC3A](https://forms.gle/8xwad1dvbc7YfbC3A).
