@@ -9,7 +9,7 @@ Za: 152
 Protiv: 8  
 Dakle, *januarski rok neće biti održan, umesto januarskog roka biće održan aprilski rok u drugoj polovini meseca aprila.*  
 Tačan datum i termin dogovorićemo početkom meseca aprila.  Ostali ispitni rokovi ostaju nepromenjeni.
-Hvala vam na velikom odzivu i učestvoanju u donošenju ove odluke. Nadamo se da će vam ovakav raspored pomoći da balgovremeno i temeljno naučite gradivo i uspešno položite ovaj i druge ispite u ovoj školskoj godini.  
+Hvala vam na velikom odzivu i učestvovanju u donošenju ove odluke. Nadamo se da će vam ovakav raspored pomoći da balgovremeno i temeljno naučite gradivo i uspešno položite ovaj i druge ispite u ovoj školskoj godini.  
 Srdačan pozdrav
 
 [18.11.2022.] Drage koleginice i kolege,  
