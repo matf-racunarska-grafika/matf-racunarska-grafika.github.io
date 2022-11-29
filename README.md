@@ -4,11 +4,11 @@
 
 ## Obaveštenja
 [23.11.2022.] Drage koleginice i kolege,  
-Prema [rezultatima ankete](https://docs.google.com/spreadsheets/d/1oUl6DA428fpUZ9R3yg-rCOK6fMkIOISbrAgXD2-GlmI/edit?usp=sharing) za predlog da se jaunarski ispitni rok zameni aprilskim ispitnim rokom glasalo je 160 studenata.  
+Prema [rezultatima ankete](https://docs.google.com/spreadsheets/d/1oUl6DA428fpUZ9R3yg-rCOK6fMkIOISbrAgXD2-GlmI/edit?usp=sharing) za predlog da se ispitni rok Jan1 zameni aprilskim ispitnim rokom glasalo je 160 studenata.  
 Za: 152  
 Protiv: 8  
-Dakle, *januarski rok neće biti održan, umesto januarskog roka biće održan aprilski rok u drugoj polovini meseca aprila.*  
-Tačan datum i termin dogovorićemo početkom meseca aprila.  Ostali ispitni rokovi ostaju nepromenjeni.
+Dakle, *ispitni rok Jan1 neće biti održan, umesto Jan1 biće održan aprilski rok u drugoj polovini meseca aprila.*  
+Tačan datum i termin dogovorićemo početkom meseca aprila.  Ostali ispitni rokovi (jan2, jun1, sep1) ostaju nepromenjeni.
 Hvala vam na velikom odzivu i učestvovanju u donošenju ove odluke. Nadamo se da će vam ovakav raspored pomoći da balgovremeno i temeljno naučite gradivo i uspešno položite ovaj i druge ispite u ovoj školskoj godini.  
 Srdačan pozdrav
 
