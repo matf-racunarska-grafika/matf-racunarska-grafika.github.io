@@ -3,6 +3,13 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja
+[30.11.2022.] Drage koleginice i kolege, 
+Zadovoljstvo mi je da vas obavestim da ćemo u utorak 13.12. u 12h u terminu predavanja imati gostujuća predavanja 
+kolega iz kompanija Nordeus i Sirmija.  
+Iz kompanije Nordeus, kolega Đorđe Đorđević održaće predavanje na temu: "Physically based rendering".
+Iz kompanije Sirmija kolega Momčilo Bajalović održaće predavanje na temu: "Grafički podsistem na Linuksu". 
+
+
 [23.11.2022.] Drage koleginice i kolege,  
 Prema [rezultatima ankete](https://docs.google.com/spreadsheets/d/1oUl6DA428fpUZ9R3yg-rCOK6fMkIOISbrAgXD2-GlmI/edit?usp=sharing) za predlog da se ispitni rok Jan1 zameni aprilskim ispitnim rokom glasalo je 160 studenata.  
 Za: 152  
