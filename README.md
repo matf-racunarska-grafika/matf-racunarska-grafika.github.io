@@ -6,7 +6,7 @@
 [30.11.2022.] Drage koleginice i kolege, 
 Zadovoljstvo mi je da vas obavestim da ćemo u utorak 13.12. u 12h u terminu predavanja imati gostujuća predavanja 
 kolega iz kompanija Nordeus i Sirmija.  
-Iz kompanije Nordeus, kolega Đorđe Đurđević održaće predavanje na temu: "Physically based rendering".
+Iz kompanije Nordeus, kolega Đorđe Đurđević održaće predavanje na temu: "Uvod u PBR modele osvetljenja".
 Iz kompanije Sirmija kolega Momčilo Bajalović održaće predavanje na temu: "Grafički podsistem na Linuksu". 
 
 
