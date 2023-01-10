@@ -3,6 +3,12 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja
+[10.1.2023.] Drage koleginice i kolege,  
+Prema anketi koju smo sproveli složili smo se da umesto januarskog roka održimo apriliski rok, svi ostali rokovi ostaju ne promenjeni.  
+Podesćamo, ako je nekome ostalo par ispita do kraja, uradio je projekat ove ili prošle godine i značilo bi mu da položi računarsku grafiku u januarskom roku, molimo Vas da nam se javite mejlom u narednih par dana kako bi smo mogli da organizujemo rok.  
+Srdačan pozdrav,  
+RG tim  
+
 [30.11.2022.] Drage koleginice i kolege, 
 Zadovoljstvo mi je da vas obavestim da ćemo u utorak 13.12. u 12h u terminu predavanja imati gostujuća predavanja 
 kolega iz kompanija Nordeus i Sirmija.  
