@@ -5,7 +5,7 @@
 ## Obaveštenja
 [10.1.2023.] Drage koleginice i kolege,  
 Prema anketi koju smo sproveli složili smo se da umesto januarskog roka održimo apriliski rok, svi ostali rokovi ostaju ne promenjeni.  
-Podesćamo, ako je nekome ostalo par ispita do kraja, uradio je projekat ove ili prošle godine i značilo bi mu da položi računarsku grafiku u januarskom roku, molimo Vas da nam se javite mejlom u narednih par dana kako bi smo mogli da organizujemo rok.  
+Podsećamo, ako je nekome ostalo par ispita do kraja, uradio je projekat ove ili prošle godine i značilo bi mu da položi računarsku grafiku u januarskom roku, molimo Vas da nam se javite mejlom u narednih par dana kako bi smo mogli da organizujemo rok.  
 Srdačan pozdrav,  
 RG tim  
 
