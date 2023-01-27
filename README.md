@@ -3,6 +3,10 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja
+[27.01.2023.] Drage koleginice i kolege,  
+Na sledećem [linku](https://forms.gle/LeQLSG1mvb3smhiT6) možete naći formu za prijavu projekata za februarski ispitni rok.  
+Datum ispita je 08.02. a forma će biti otvorena do 04.02. u 20:00. Molimo vas da pre prijave projekta proverite da li projekat ispunjava sve uslove sa stranice [projekat](https://matf-racunarska-grafika.github.io/projekat/).  
+
 [10.1.2023.] Drage koleginice i kolege,  
 Prema anketi koju smo sproveli složili smo se da umesto januarskog roka održimo apriliski rok, svi ostali rokovi ostaju ne promenjeni.  
 Podsećamo, ako je nekome ostalo par ispita do kraja, uradio je projekat ove ili prošle godine i značilo bi mu da položi računarsku grafiku u januarskom roku, molimo Vas da nam se javite mejlom u narednih par dana kako bi smo mogli da organizujemo rok.  
