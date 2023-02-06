@@ -5,6 +5,8 @@
 ## Termin ispita Jan2  
 Ispit iz računarske grafike biće održan u sredu 08.02. sa početkom u 13:00 u zgradi na Trgu.
 Molimo Vas da dođete barem 15 minuta ranije ispred učionice 718.  
+Prvo će se raditi teorijski deo ispita, pa nakon teorijskog dela praktični deo ispita.  
+Ko želi da radi samo praktični deo ispita, može doći u 14:00.  
 
 ## Bodovi projekata: Jan2
 Indeks      Bodovi  
