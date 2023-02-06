@@ -3,16 +3,16 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Bodovi projekata: Jan2
-
-70/2020	  40  
-216/2018	35  
-187/2020	35  
-122/2017	25  
-227/2017	0  - Obavezne lekcije nisu implementirane  
-172/2018	35  
-82/2017	  0  - Obavezne lekcije nisu implementirane  
-350/2020  29	  
-098/2020	35  
+Indeks      Bodovi  
+70/2020     40  
+216/2018    35  
+187/2020    35  
+122/2017    25  
+227/2017    0  - Obavezne lekcije nisu implementirane  
+172/2018    35  
+82/2017     0  - Obavezne lekcije nisu implementirane  
+350/2020    29	  
+098/2020    35  
 
 ## Obaveštenja
 
