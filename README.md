@@ -2,12 +2,6 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Aprilski rok  
-Drage koleginice i kolege,  
-Molimo vas da odaberete koji dan bi vam više odgovarao za polaganje pismenog i teorijskog dela ispita.  
-[https://forms.gle/3cT7jtap8f4u1wrM6](https://forms.gle/3cT7jtap8f4u1wrM6)  
-Forma će biti dostupna do 15.03.  
-
 ## Termin ispita Jan2  
 Ispit iz računarske grafike biće održan u sredu 08.02. sa početkom u 13:00 u zgradi na Trgu.
 Molimo Vas da dođete barem 15 minuta ranije ispred učionice 718.  
