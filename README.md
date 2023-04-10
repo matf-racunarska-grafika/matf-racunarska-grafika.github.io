@@ -3,9 +3,10 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Aprilski rok  
-Drage koleginice i kolege,  
-Ispit će biti održan 22.04. s' obzirom da se dana 23.04. održava Beogradski maraton. Hvala kolegi Đorđu Mariću na brzom obaveštenju.  
-Tačnu satnicu ispita objavićemo barem nedelju dana pre ispita.  
+Projekte za aprilski rok možete prijaviti preko sledeće [forme](https://forms.gle/RZBuzHhdUDQ1uPug9).  
+Prijava će biti otvorena do 17.04. u 18:00.
+
+Ispit će biti održan u subotu 22.04. Tačan termin biće naknadno objavljen.
 
 
 ## Termin ispita Jan2  
