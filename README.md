@@ -3,12 +3,9 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Aprilski rok  
-Projekte za aprilski rok možete prijaviti preko sledeće [forme](https://forms.gle/RZBuzHhdUDQ1uPug9).  
-Prijava će biti otvorena do 17.04. u 18:00.
+Ispit će biti održan u subotu 22.04. u zgradi na Trgu sa početkomu 09:00.  
+Teorijski deo počinje u 09:00, a pismeni deo ispita počinje u 10:00.  
 
-Ispit će biti održan u subotu 22.04. Tačan termin biće naknadno objavljen.
-
-Molim vas, sva pitanja vezna za projekte pošaljite do 12.04. kako bi ostalo dovoljno vremena da vam svima odgovorim pre početka praznika.  
 
 ## Termin ispita Jan2  
 Ispit iz računarske grafike biće održan u sredu 08.02. sa početkom u 13:00 u zgradi na Trgu.
