@@ -6,6 +6,10 @@
 Ispit će biti održan u subotu 22.04. u zgradi na Trgu sa početkomu 09:00.  
 Teorijski deo počinje u 09:00, a pismeni deo ispita počinje u 10:00.  
 
+[Rezultati projekta](https://docs.google.com/spreadsheets/d/1sJgHjsHOqQ4InHQ1GuD5Ly8t8bQiASIMWN79qwZ-iEs/edit?usp=sharing) list za **Apr**  
+
+[Forma za prijavu](https://forms.gle/6pSETFBFc23sDF4CA) za izlazak na ispit biće otvorena do 20.04. u 14:00.
+
 
 ## Termin ispita Jan2  
 Ispit iz računarske grafike biće održan u sredu 08.02. sa početkom u 13:00 u zgradi na Trgu.
