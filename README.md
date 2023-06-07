@@ -3,11 +3,12 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Junski rok
-Drage koleginice i kolege,  
-Projekte za ispitni rok Jun1 možete prijaviti na sledećoj [formi](https://forms.gle/mZLycR2si3TakHfF7) koja će biti otvorena do 06.06. u 20:00.  
-
-
-[Rezultati projekta](https://docs.google.com/spreadsheets/d/1sJgHjsHOqQ4InHQ1GuD5Ly8t8bQiASIMWN79qwZ-iEs/edit?usp=sharing) list za **Apr**  
+Drage koleginice i kolege,    
+Ispit će biti održan u subotu 10.06. sa početkom u 10:00 u **N salama**.  
+Teorijski deo ispita biće u terminu 10:00-11:00, a praktični deo ispita od 11:00-12:00.  
+Ukoliko raditi samo praktični deo ispita možete doći samo na taj deo.  
+Radi bolje organizacije ispita molimo vas da popunite [formu za prijavu za izlazak na ispit](https://forms.gle/2CQcoqpY19vKm56DA). Forma će biti otvorena do petka 09.06. u 13:00.  
+[Rezultati projekta](https://docs.google.com/spreadsheets/d/1sJgHjsHOqQ4InHQ1GuD5Ly8t8bQiASIMWN79qwZ-iEs/edit?usp=sharing) list za **Jun1**  
 
 ## Termin ispita Jan2  
 Ispit iz računarske grafike biće održan u sredu 08.02. sa početkom u 13:00 u zgradi na Trgu.
