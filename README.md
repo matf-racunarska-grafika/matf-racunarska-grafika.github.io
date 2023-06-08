@@ -4,7 +4,7 @@
 
 ## Junski rok
 Drage koleginice i kolege,    
-Ispit će biti održan u subotu 10.06. sa početkom u 10:00 u **N salama**.  
+Ispit će biti održan u subotu 10.06. sa početkom u 13:00 u **N salama**.  
 Teorijski deo ispita biće u terminu 13:00-14:00, a praktični deo ispita od 14:00-15:00.  
 Ukoliko raditi samo praktični deo ispita možete doći samo na taj deo.  
 Radi bolje organizacije ispita molimo vas da popunite [formu za prijavu za izlazak na ispit](https://forms.gle/2CQcoqpY19vKm56DA). Forma će biti otvorena do petka 09.06. u 13:00.  
