@@ -10,29 +10,7 @@ Ukoliko raditi samo praktični deo ispita možete doći samo na taj deo.
 Radi bolje organizacije ispita molimo vas da popunite [formu za prijavu za izlazak na ispit](https://forms.gle/2CQcoqpY19vKm56DA). Forma će biti otvorena do petka 09.06. u 13:00.  
 [Rezultati projekta](https://docs.google.com/spreadsheets/d/1sJgHjsHOqQ4InHQ1GuD5Ly8t8bQiASIMWN79qwZ-iEs/edit?usp=sharing) list za **Jun1**  
 
-## Termin ispita Jan2  
-Ispit iz računarske grafike biće održan u sredu 08.02. sa početkom u 13:00 u zgradi na Trgu.
-Molimo Vas da dođete barem 15 minuta ranije ispred učionice 718.  
-Prvo će se raditi teorijski deo ispita, pa nakon teorijskog dela praktični deo ispita.  
-Ko želi da radi samo praktični deo ispita, može doći u 14:00.  
-
-## Bodovi projekata: Jan2
-Indeks      Bodovi  
-70/2020     40  
-216/2018    35  
-187/2020    35  
-122/2017    25  
-227/2017    0  - Obavezne lekcije nisu implementirane  
-172/2018    35  
-82/2017     0  - Obavezne lekcije nisu implementirane  
-350/2020    29	  
-098/2020    35  
-
 ## Obaveštenja
-
-[27.01.2023.] Drage koleginice i kolege,  
-Na sledećem [linku](https://forms.gle/LeQLSG1mvb3smhiT6) možete naći formu za prijavu projekata za februarski ispitni rok.  
-Datum ispita je 08.02. a forma će biti otvorena do 04.02. u 20:00. Molimo vas da pre prijave projekta proverite da li projekat ispunjava sve uslove sa stranice [projekat](https://matf-racunarska-grafika.github.io/projekat/).  
 
 [10.1.2023.] Drage koleginice i kolege,  
 Prema anketi koju smo sproveli složili smo se da umesto januarskog roka održimo apriliski rok, svi ostali rokovi ostaju ne promenjeni.  
