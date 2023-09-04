@@ -2,16 +2,17 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Septembarski rok  
-Drage koleginice i kolege,
-Na sledećem [formularu](https://forms.gle/eMQv8n2ouQAEymzp9) možete prijaviti projekat za ispitni rok Septembar 1.  
-Formular će biti otvorena do 03.09. u 21:00.  
+## Ispitni rok: Septembar 1  
+Drage koleginice i kolege,  
+Ispit će biti održan u **N salama**:  
+-Praktični deo: 13h-14h  
+-Teorijski deo: 14h-15h  
 
-## Rezultati
+## Rezultati Septembar 1
 Drage koleginice i kolege, 
-U tabeli možete naći rezultate projekata i praktičnog dela ispita.  
-Uvid u radove biće održan u četvrtak 15.06. u 12:30 u kabinetu 716.  
-[Rezultati projekta i praktičnog dela ispita](https://docs.google.com/spreadsheets/d/1sJgHjsHOqQ4InHQ1GuD5Ly8t8bQiASIMWN79qwZ-iEs/edit?usp=sharing) list za **Jun1**  
+U tabeli možete naći rezultate projekata. 
+
+[Rezultati projekta i praktičnog dela ispita](https://docs.google.com/spreadsheets/d/1sJgHjsHOqQ4InHQ1GuD5Ly8t8bQiASIMWN79qwZ-iEs/edit?usp=sharing) list za **Sep1**  
 
 ## Obaveštenja
 
