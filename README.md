@@ -2,50 +2,11 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Ispitni rok: Septembar 1  
+## Početak školske godine
 Drage koleginice i kolege,  
-Ispit će biti održan u **N salama**:  
--Praktični deo: 13h-14h  
--Teorijski deo: 14h-15h  
+Vežbe iz predmeta računarske grafike počeće od prve nedelje nastave (02.10.).  
+Želimo vam uspešan početak nove školske godine!
 
-## Rezultati Septembar 1
-Drage koleginice i kolege, 
-U tabeli možete naći rezultate projekata. 
-
-[Rezultati projekta i praktičnog dela ispita](https://docs.google.com/spreadsheets/d/1sJgHjsHOqQ4InHQ1GuD5Ly8t8bQiASIMWN79qwZ-iEs/edit?usp=sharing) list za **Sep1**  
-
-## Obaveštenja
-
-[10.1.2023.] Drage koleginice i kolege,  
-Prema anketi koju smo sproveli složili smo se da umesto januarskog roka održimo apriliski rok, svi ostali rokovi ostaju ne promenjeni.  
-Podsećamo, ako je nekome ostalo par ispita do kraja, uradio je projekat ove ili prošle godine i značilo bi mu da položi računarsku grafiku u januarskom roku, molimo Vas da nam se javite mejlom u narednih par dana kako bi smo mogli da organizujemo rok.  
-Srdačan pozdrav,  
-RG tim  
-
-[30.11.2022.] Drage koleginice i kolege, 
-Zadovoljstvo mi je da vas obavestim da ćemo u utorak 13.12. u 12h u terminu predavanja imati gostujuća predavanja 
-kolega iz kompanija Nordeus i Sirmija.  
-Iz kompanije Nordeus, kolega Đorđe Đurđević održaće predavanje na temu: "Uvod u PBR modele osvetljenja".
-Iz kompanije Sirmija kolega Momčilo Bajalović održaće predavanje na temu: "Grafički podsistem na Linuksu". 
-
-
-[23.11.2022.] Drage koleginice i kolege,  
-Prema [rezultatima ankete](https://docs.google.com/spreadsheets/d/1oUl6DA428fpUZ9R3yg-rCOK6fMkIOISbrAgXD2-GlmI/edit?usp=sharing) za predlog da se ispitni rok Jan1 zameni aprilskim ispitnim rokom glasalo je 160 studenata.  
-Za: 152  
-Protiv: 8  
-Dakle, *ispitni rok Jan1 neće biti održan, umesto Jan1 biće održan aprilski rok u drugoj polovini meseca aprila.*  
-Tačan datum i termin dogovorićemo početkom meseca aprila.  Ostali ispitni rokovi (jan2, jun1, sep1) ostaju nepromenjeni.
-Hvala vam na velikom odzivu i učestvovanju u donošenju ove odluke. Nadamo se da će vam ovakav raspored pomoći da balgovremeno i temeljno naučite gradivo i uspešno položite ovaj i druge ispite u ovoj školskoj godini.  
-Srdačan pozdrav
-
-[18.11.2022.] Drage koleginice i kolege,  
-Molimo vas da popunite sledeću anketu za održavanje aprilskog roka.
-[https://forms.gle/8xwad1dvbc7YfbC3A](https://forms.gle/8xwad1dvbc7YfbC3A).
-
-
-[06.11.2022.] U petak 11.11. neće biti vežbi. Studenti koji vežbe slušaju petkom mogu doći na bilo koji termin u četvrtak 10.11.
-
-[01.11.2022.] Termin vežbi utorkom je oslobođen. Studenti koji su vežbe slušali utorkom mogu doći na vežbe u bilo kom drugom terminu po želji. 
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
