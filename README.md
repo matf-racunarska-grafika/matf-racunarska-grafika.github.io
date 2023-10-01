@@ -26,10 +26,6 @@ Vežbe iz predmeta računarske grafike počeće od prve nedelje nastave (02.10.)
 
 -asistent: Marko Spasić (marko_spasic _At_-- math.rs)
 
-## Imam pitanje?  
-Vaše pitanje možete postaviti na [Github stranici kursa](https://github.com/matf-racunarska-grafika/matf-racunarska-grafika.github.io/issues).  
-Pre postavljanja pitanje provesti barem 2 sata u samostalnom pokušaju rešavanja problema. Prilikom opisa problema obavezno opisati šta je pokušano kao rešenje i dobijeni rezultat.
-
 ## Bodovanje  
 Praktični: 55 (35 projekat + 20 pismeni)  
 Teorijski: 45 (završni teorijski)  
@@ -37,14 +33,10 @@ Teorijski: 45 (završni teorijski)
 Da bi se položio praktični deo ispita neophodno je ostvariti barem 25/55 bodova, od toga barem 10/35 na projektu i barem 10/20 na pismenom.  
 Da bi se položio teorijski deo ispita neophodno je ostvariti barem 20/45 bodova na završnom teorijskom ispitu.  
 Na kraju, potrebno je na praktičnom i teorijskom delu imati barem 51 bodova u zbiru.  
-Bodovi osvojeni na projektu u školskoj godini 2021/2022 važe i u školskoj godini 2022/2023.  
 
 **Polaganje**  
 Odbranjen projekat je uslov za izlazak na pismeni i završni teorijski. Jednom odbranjen projekat i dobijeni bodovi važe cele godine.  
-Pismeni i završni teorijski su međusobno nezavisni i mogu se polagati u bilo kom ispitnom roku odvojeno ili zajedno.  
-Jednom položen pismeni ili završni teorijski važi cele godine.  
 Pismeni i zavržni teorijski se polažu na dan ispita iz Računarske grafike po [rasporedu](http://www.matf.bg.ac.rs/m/36/raspored-ispita/) sa sajta fakulteta.  
-Ukoliko niste zadovljni osvojenim bodovima sa pismenog ili teorijskog možete izaći ponovo. Ponovni izlazak na neki od delova ispita poništava prethodno osvojene bodove.  
 Ukoliko niste zadovoljni osvojenim bodovima na projektu, možete projekat doraditi i ponovo prijaviti u nekom od narednih ispitnih rokova.  
 
 [Praktični detaljnije](projekat/)  
