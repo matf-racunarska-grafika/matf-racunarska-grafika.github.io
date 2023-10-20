@@ -2,12 +2,6 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Početak školske godine
-Drage koleginice i kolege,  
-Vežbe iz predmeta računarske grafike počeće od prve nedelje nastave (02.10.).  
-Želimo vam uspešan početak nove školske godine!
-
-
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
 > [Projekat](projekat/) 
