@@ -3,7 +3,7 @@
 ## Virtualna mašina
 
 1. Preuzeti i instalirati [Virtual box](https://www.virtualbox.org/).  
-2. Preuzeti [podešenu virtualnu mašinu](https://drive.google.com/file/d/1zcNJGaPv6A84O1r5K9olvff4S3K_preN/view?usp=sharing) i otpakovati `zip` datoteku.  
+2. Preuzeti [podešenu virtualnu mašinu](https://drive.google.com/file/d/1D9aU4ycOEYfl13VvGkwefDfqct5b3uAx/view?usp=drive_link) i otpakovati `zip` datoteku.  
 3. Pokrenuti `Virtual box`  
 4. Klikunti dugme `Add` i otvoriti odabrati `matf-racunarska-grafika.vbox` koja se nalazi u otpakovanoj datoteci iz koraka 2.  
 5. Pokrenuti virtualnu mašinu `matf-racunarska-grafika` pritiskom na dugme `Start`  
