@@ -4,6 +4,8 @@
 
 [Primeri sa časa](https://github.com/matf-racunarska-grafika/LearnOpenGL/)
 
+[Prezentacije](https://drive.google.com/drive/folders/1-rp2-lYXwHC-uodT_VY0E9Q3P9rX8owx?usp=sharing)
+
 [C++ primeri](https://github.com/spaske00/cpp_tutorial)
 
 [C++ mini kurs](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
