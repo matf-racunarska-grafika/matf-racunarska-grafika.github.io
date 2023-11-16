@@ -3,6 +3,8 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja  
+[16.11.2023.] Drage koleginice i kolege, molimo Vas da popunite sledeći [formular](https://forms.gle/P7Gv4rkfQU5XzGQcA) i svojim glasom doprinesite u donošenju odluke o održavanju Aprilskog ispitnog roka.  
+
 [02.11.2023.] Termin predavanja od četvrtka (09.11.) biće održan u ponedeljak (06.11.) od 09:00 časova u učionici 718 umesto vežbi. Molimo studente koji vežbe slušaju u terminu ponedeljkom da dođu u drugu grupu, po želji, ili pogledaju snimke vežbi za 6. nedelju. 
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
