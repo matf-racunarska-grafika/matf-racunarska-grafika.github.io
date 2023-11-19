@@ -3,6 +3,9 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja  
+[19.11.2023.] Drage koleginice i kolege, od 20.11. termini vežbi ponedeljkom i petkom biće rezervisani za onlajn konsultacije o projektima i lekcijama od 9-13 oblasti. Molim vas da se za konsultacije najavite mejlom, barem 2 dana ranije.  
+Sredom od 14:00 na Trgu u učionici 718 držaćemo vežbe iz lekcija od 9-13 oblasti. Želimo vam srećan početak izrade projekata! :)
+
 [16.11.2023.] Drage koleginice i kolege, molimo vas da popunite sledeći [formular](https://forms.gle/P7Gv4rkfQU5XzGQcA) i svojim glasom doprinesite u donošenju odluke o održavanju Aprilskog ispitnog roka. Glasanje će biti otvoreno do ponedeljka 20.11. 
 
 [02.11.2023.] Termin predavanja od četvrtka (09.11.) biće održan u ponedeljak (06.11.) od 09:00 časova u učionici 718 umesto vežbi. Molimo studente koji vežbe slušaju u terminu ponedeljkom da dođu u drugu grupu, po želji, ili pogledaju snimke vežbi za 6. nedelju. 
