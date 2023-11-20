@@ -3,6 +3,9 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja  
+[20.11.2023.] Drage koleginice i kolege, na anketi o održavanju aprilskog roka glasalo je vas 100, od čega je 98 bilo ZA, a 2 PROTIV održavanja aprilskog roka.  
+Aprilski rok će dakle biti održan umesto januarskog roka, drugom polovinom aprila. Tačan termin objavićemo krajem marta i vodićemo računa da se ne poklopi sa drugim fakultetskim aktivnostima. Ako je nekome grafika jedan od poslednjih ispita pred dipolomiranje i želeo bi da ga položi ranije, molimo vas da nam se javite mejlom. Zahvaljujemo vam se na učestvovanju u donošenju ove odluke!
+
 [19.11.2023.] Drage koleginice i kolege, od 20.11. termini vežbi ponedeljkom i petkom biće rezervisani za onlajn konsultacije o projektima i lekcijama od 9-13 oblasti. Molim vas da se za konsultacije najavite mejlom, barem 2 dana ranije.  
 Sredom od 14:00 na Trgu u učionici 718 držaćemo vežbe iz lekcija od 9-13 oblasti. Želimo vam srećan početak izrade projekata! :)
 
