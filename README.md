@@ -3,6 +3,11 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja  
+[16.12.2023.] **Gostujuće predavanje**
+Drage koleginice i kolege, 
+zadovoljstvo nam je da najavimo da će u sredu 20.12. u 14:00 u učionici 718 Mirko Brkuišanin iz kompanije Sirmija održati predavanje na temu: **Uvod u kompajliranje shadera**.  
+Vežbe će u sredu početi u 12:00, i trajaće do 14:00, nakon čega će biti održano gostujuće predavanje.
+
 [22.11.2023.] **Utisci sa vežbi**  
 Drage koleginice i kolege,
 vaše mišljenje nam veoma znači. Da bismo i ove godine unapredili kurs molimo vas da nam vašim iskustvom i mišljenjem pomognete popunjavanjem sledeće [ankete](https://forms.gle/LxdaS2eNHUfczyx87).  
