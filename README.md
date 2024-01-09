@@ -3,6 +3,27 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja  
+[09.01.2024.] **Bodovanje projekta**  
+Drage koleginice i kolege,  
+Način bodovanja projketa je izmenjen. Lekcija sa modelima je sada opciona. Ostatak načina bodovanja je nepromenjen.  
+Možete iskoristiti modele sa projekata od prethodnih školskih godina samo je neophodno da navedete link do Github repozitorijuma projekta sa kojeg je model preuzet.  
+Repozitrijume za projekat možete napraviti sami na svom nalogu.
+
+**Kako se boduje projekat?**  
+Projekat se radi individualno.  
+Projekat nosi 35 poena.  
+Bodovanje lekcija:  
+* **Obavezne lekcije (10 bodova)**
+  * [1-7] nedelje 
+  * [Blending](https://learnopengl.com/Advanced-OpenGL/Blending)  
+  * [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling)  
+  * [Advanced lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting)  
+* **Opcione lekcije**    
+  * Model (5 bodova)  
+  * Lekcija iz oblasti grupe A (10 bodova)  
+  * Lekcija iz oblasti grupe B (10 bodova)
+* Ukoliko projekat sadrži sve gore navedeno moguće je implementirati još jednu oblast iz grupe B za bonus 5 poena.  
+
 [16.12.2023.] **Gostujuće predavanje**
 Drage koleginice i kolege, 
 zadovoljstvo nam je da najavimo da će u sredu 20.12. u 14:00 u učionici 718 Mirko Brkuišanin iz kompanije Sirmija održati predavanje na temu: **Uvod u kompajliranje shadera**.  
