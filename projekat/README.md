@@ -5,15 +5,17 @@ Praktični nosi 55 poena (35 projekat + 20 pismeni)
 **Kako se boduje projekat?**  
 Projekat se radi individualno.  
 Projekat nosi 35 poena.  
-Neophodno je da projekat sadrži sve teme od 1. nedelje zaključno sa 8. nedeljom, [Blending](https://learnopengl.com/Advanced-OpenGL/Blending), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling), [Advanced lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting). Ako sadrži to i samo to maksimalan broj bodova koje je moguće osvojiti je 15.  
-
-Svo osvetljenje na sceni treba da se računa po Blin-Fonogovom modelu [Advanced lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting).  
-Dovoljno je da projekat ima jedan tip [Blendinga](https://learnopengl.com/Advanced-OpenGL/Blending)(Discard ili blend).  
-
-Ukoliko projekat sadrži sve neophodne oblasti i oblast (dve oblasti ukoliko se radi u paru) iz grupe A maksimalan broj bodova koje je moguće osvojiti je 25.    
-Ukoliko projekat sadrži sve neophodne oblasti, oblast iz grupe A (dve ukoliko se radi u paru) i oblast iz grupe B (dve ukoliko se radi u paru) maksimalan broj bodova koje je moguće osvojiti je 35.  
-
-Ukoliko projekat sadrži sve gore navedeno moguće je implementirati još jednu oblast iz grupe B za bonus 5 poena.
+Bodovanje lekcija:  
+* **Obavezne lekcije (10 bodova)**
+  * [1-7] nedelje 
+  * [Blending](https://learnopengl.com/Advanced-OpenGL/Blending)  
+  * [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling)  
+  * [Advanced lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting)  
+* **Opcione lekcije**    
+  * Model (5 bodova)  
+  * Lekcija iz oblasti grupe A (10 bodova)  
+  * Lekcija iz oblasti grupe B (10 bodova)
+* Ukoliko projekat sadrži sve gore navedeno moguće je implementirati još jednu oblast iz grupe B za bonus 5 poena.
 
 **Veoma važno: Na platformi Github mora postojati istorija komitova celog projekta. Projekat koji nema istoriju komitova neće biti pregledan.**  
 
