@@ -2,10 +2,8 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Prijava projekata JAN2
-Drage koleginice i kolege,  
-Projekte za ispitni rok JAN2 možete prijavite preko sledeće [forme](https://forms.gle/jLFFQwWK5NdyGXWJ9).  
-Prijava će biti otvorena do petka 02.01. u 21:00.  
+## Bodovi projekata JAN2
+[Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
 
 ## Obaveštenja  
 [09.01.2024.] **Bodovanje projekta**  
