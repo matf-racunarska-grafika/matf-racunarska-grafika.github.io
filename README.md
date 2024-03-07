@@ -11,6 +11,10 @@ Molimo vas da dođete barem 10 minuta ranije ispred učionice 718.
 [Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
 
 ## Obaveštenja  
+[07.03.2024.] **Aprilski rok**  
+Drage koleginice i kolege, 
+Rok za predaju projekata u aprilskom roku biće 12.04. 
+
 [09.01.2024.] **Bodovanje projekta**  
 Drage koleginice i kolege,  
 Način bodovanja projketa je izmenjen. Lekcija sa modelima je sada opciona. Ostatak načina bodovanja je nepromenjen.  
