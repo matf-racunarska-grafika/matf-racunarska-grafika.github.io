@@ -2,15 +2,15 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Ispit JAN2 
-Drage koleginice i kolege,  
-Ispit ćemo održati u zgradi na Trgu prema rasporedu u 13:00 u četvrtak 08.02.  
-Molimo vas da dođete barem 10 minuta ranije ispred učionice 718.  
-
 ## Bodovi projekata JAN2
 [Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
 
 ## Obaveštenja  
+Drage koleginice i kolege,  
+Molim vas da odaberete termine za polaganje ispita u aprilskom roku koji vam odgovaraju.  
+Ispit će biti u terminu sa najvećim brojem glasova. Anketa će biti otvorena do petka 15.03. u 14:00.  
+[Anketa](https://forms.gle/aYVbRaiFTcu2rCnR9)  
+
 [07.03.2024.] **Aprilski rok**  
 Drage koleginice i kolege, 
 Rok za predaju projekata u aprilskom roku biće 12.04. 
