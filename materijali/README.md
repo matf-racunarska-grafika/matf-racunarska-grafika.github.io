@@ -79,7 +79,7 @@ Modele možete preuzeti sa:
 -[Blender](https://youtube.com/watch?v=4DQquG_o-Ac): kako konvertovati bilo koji model u Blenderu tako da radi sa trenutnom implementacijom učitavanja modela
 
 ### 08
--[Model and Lighting]: Model i osvetljenje (Mora biti u projektu. Ovde je demonstrirano kako se radi.) [video](https://youtu.be/yl9716rp97g)
+-[Model and Lighting]: Model i osvetljenje [video](https://youtu.be/yl9716rp97g)
 
 -[ImGui](https://github.com/ocornut/imgui): GUI biblioteka [video](https://youtu.be/NW3Xk1RaZ10) [video](https://youtu.be/5NLdqTFh6Wk)
 
