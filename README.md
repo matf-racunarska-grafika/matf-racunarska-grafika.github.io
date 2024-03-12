@@ -7,7 +7,7 @@
 
 ## Obaveštenja  
 Drage koleginice i kolege,  
-Molim vas da odaberete termine za polaganje ispita u aprilskom roku koji vam odgovaraju.  
+Molimo vas da odaberete termine za polaganje ispita u aprilskom roku koji vam odgovaraju.  
 Ispit će biti u terminu sa najvećim brojem glasova. Anketa će biti otvorena do petka 15.03. u 14:00.  
 [Anketa](https://forms.gle/aYVbRaiFTcu2rCnR9)  
 
