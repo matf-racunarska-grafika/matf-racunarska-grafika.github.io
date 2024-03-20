@@ -6,7 +6,7 @@
 [Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
 
 ## Obaveštenja  
-Drage koleginice i kolege,  
+[20.04.2024.]  Drage koleginice i kolege,  
 Ispit u aprilskom roku biće održan 26.04. u 19:00 u učionici 706.  Prijave projekata počeće 04.04. i trajaće do 12.04.  
 
 
