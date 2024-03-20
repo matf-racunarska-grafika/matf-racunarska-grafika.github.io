@@ -7,9 +7,8 @@
 
 ## Obaveštenja  
 Drage koleginice i kolege,  
-Molimo vas da odaberete termine za polaganje ispita u aprilskom roku koji vam odgovaraju.  
-Ispit će biti u terminu sa najvećim brojem glasova. Anketa će biti otvorena do petka 15.03. u 14:00.  
-[Anketa](https://forms.gle/aYVbRaiFTcu2rCnR9)  
+Ispit u aprilskom roku biće održan 26.04. u 19:00 u učionici 706.  Prijave projekata počeće 04.04. i trajaće do 12.04.  
+
 
 [07.03.2024.] **Aprilski rok**  
 Drage koleginice i kolege, 
