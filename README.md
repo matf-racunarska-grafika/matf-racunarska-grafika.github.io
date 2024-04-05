@@ -11,7 +11,9 @@ Prijava će biti otvorena do 12.04. u 14:00.
 [Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
 
 ## Obaveštenja  
-[20.04.2024.]  Drage koleginice i kolege,  
+[05.04.2024.] Otvoren termin konsultacija u utorak 09.04. u N salama.
+
+[20.03.2024.]  Drage koleginice i kolege,  
 Ispit u aprilskom roku biće održan 26.04. u 19:00 u učionici 706.  Prijave projekata počeće 04.04. i trajaće do 12.04.  
 
 
