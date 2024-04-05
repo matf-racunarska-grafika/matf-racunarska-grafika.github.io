@@ -7,7 +7,7 @@ Drage koleginice i kolege,
 Možete prijaviti projekte preko sledećeg [formulara](https://forms.gle/5K6nuUdEscxXRWWa8).  
 Prijava će biti otvorena do 12.04. u 14:00.   
 
-## Bodovi projekata JAN2
+## Bodovi projekata APR
 [Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
 
 ## Obaveštenja  
