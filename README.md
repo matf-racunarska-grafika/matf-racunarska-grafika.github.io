@@ -10,8 +10,9 @@ Prijava će biti otvorena do 12.04. u 14:00.
 ## Bodovi projekata APR
 [Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
 
-## Obaveštenja  
-[05.04.2024.] Otvoren termin konsultacija u utorak 09.04. u N salama.
+## Obaveštenja 
+[08.04.2024.] Otvoren termin konsultacija u četvrtak 11.04. u 10:00 na Trgu.  
+[05.04.2024.] Otvoren termin konsultacija u utorak 09.04. u N salama u 12:00.
 
 [20.03.2024.]  Drage koleginice i kolege,  
 Ispit u aprilskom roku biće održan 26.04. u 19:00 u učionici 706.  Prijave projekata počeće 04.04. i trajaće do 12.04.  
