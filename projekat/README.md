@@ -65,6 +65,5 @@ Primere odličnih projekata iz prethodnih godina možete pronaći na: [https://g
 
 **Kako se brani projekat?**  
 Projekat se prijavljuje preko gugl forme koja će biti istaknuta na stranici kursa oko 10 dana pre datuma ispita. Prijava traje nedelju dana.  
-Uz projekat se prilaže snimak ekrana u trajanju najviše do 5 minuta na kojem se demonstrira projekat. Snimak postaviti na youtube, a link ostaviti u README datoteci repozitorijuma projekta. Za snimanje ekrana projekta preporučuje se https://obsproject.com/download.  
-Projekat se ocenjuje do poslednjeg komita na grani `main` u trenutku prijave projekta. Sve izmene nakon prijave projekta  neće biti pregledane.  
-Projekti će biti pregledani u toku trajanje prijave.  
+Uz projekat se (opciono) prilaže snimak ekrana u trajanju najviše do 5 minuta na kojem se demonstrira projekat. Snimak postaviti na youtube, a link ostaviti u README datoteci repozitorijuma projekta. Za snimanje ekrana projekta preporučuje se https://obsproject.com/download.  
+Projekat se ocenjuje do poslednjeg komita na grani `main` u trenutku prijave projekta. Sve izmene nakon prijave projekta  neće biti pregledane.    
