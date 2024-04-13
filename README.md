@@ -2,12 +2,11 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Prijava projekata APR
-Drage koleginice i kolege,   
-Možete prijaviti projekte preko sledećeg [formulara](https://forms.gle/5K6nuUdEscxXRWWa8).  
-Prijava će biti otvorena do 12.04. u 14:00.   
-
 ## Bodovi projekata APR
+Drage koleginice i kolege,  
+Za aprilski rok vas se prijavilo ukupno 122.  
+Pregledanje projekata biće završeno tokom naredne nedelje.  
+Hvala na strpljenju!  
 [Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
 
 ## Obaveštenja 
