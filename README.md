@@ -3,6 +3,7 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Bodovi projekata APR
+[13.04.2024.]  
 Drage koleginice i kolege,  
 Za aprilski rok vas se prijavilo ukupno 122.  
 Pregledanje projekata biće završeno tokom naredne nedelje.  
