@@ -27,8 +27,8 @@ Oblasti grupe A:
 
 Oblasti grupe B:  
 -[Point shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows)  
--[Normal mapping](https://learnopengl.com/Advanced-Lighting/Normal-Mapping), [Parallax Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping)  
--[HDR](https://learnopengl.com/Advanced-Lighting/HDR), [Bloom](https://learnopengl.com/Advanced-Lighting/Bloom)  
+-[Parallax Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping)  
+-[Bloom](https://learnopengl.com/Advanced-Lighting/Bloom)  
 -[Deffered Shading](https://learnopengl.com/Advanced-Lighting/Deferred-Shading)  
 -[SSAO](https://learnopengl.com/Advanced-Lighting/SSAO)
 
