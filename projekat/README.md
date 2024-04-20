@@ -39,10 +39,6 @@ Bodovanje obuhvata:
 
 U projektu nije dozvoljeno korišćenje .obj modela i tekstura iz glavnog [repozitorijuma](https://github.com/matf-racunarska-grafika/LearnOpenGL).
 
-**Kako se boduje i polaže pismeni deo?**  
-Pismeni deo nosi 20 bodova i polaže se na papiru u terminu ispita po rasporedu sa sajta fakulteta.   
-Sastoji se od pitanja iz oblasti od 1-8 nedelje, [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling), [Advanced Lighting](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing), [Blending](https://learnopengl.com/Advanced-OpenGL/Blending).  Uspešno urađen i odbranjen projekat je uslov za izlazak na pismeni i teorijski deo ispita.
-
 **Šta mora da sadrži Github repozitorijum?**  
 Celokupan izvorni kod projekta zajedno sa potrebnim resurisma (modeli, teksture...). Ukoliko je veličina datoteke u kojoj se nalaze objekti ili teksture prevelika za git, isti se mogu postaviti na google-drive kao zip fajl. U tom slučaju neophodno je u README.md ostaviti link ka tom zip fajlu.
 
