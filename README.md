@@ -4,6 +4,7 @@
 
 ## APR ispit
 Ispit će biti održan u petak 26.04. u terminu 19:00-21:00 u zgradi na Trgu.  
+Ispit će početi po završetku predavanja iz Veštačke inteligencije koje je u terminu od 16:00-19:00.
 Radi bolje orgranizacije ispita u utorak 23.04. u 08:00 biće objavljen formular za prijavu za izlazak na ispit i trajaće do srede 24.04. u 17:00.  
 Molimo vas da se prijavite samo ukoliko ćete sigurno izaći na ispit.  
 Praktični i teorijski deo ispita rade se u istom terminu i ne mogu se prenositi između rokova.  
