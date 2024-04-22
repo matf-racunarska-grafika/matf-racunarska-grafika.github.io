@@ -49,6 +49,12 @@ Bodovanje lekcija:
   * Lekcija iz oblasti grupe B (10 bodova)
 * Ukoliko projekat sadrži sve gore navedeno moguće je implementirati još jednu oblast iz grupe B za bonus 5 poena.  
 
+[22.04.2024.] **Promena gradiva za sledeću školsku godinu**  
+Drage koleginice i kolege,  
+Gradivo sa vežbi će biti promenjeno sledeće školske godine, tako da projekti od ove godine neće moći da se prenesu u sledeću.  
+Molimo vas da ukoliko ste položili projekat, ove godine izađete i na praktični i teorijski deo ispita.  
+
+
 [16.12.2023.] **Gostujuće predavanje**
 Drage koleginice i kolege, 
 zadovoljstvo nam je da najavimo da će u sredu 20.12. u 14:00 u učionici 718 Mirko Brkuišanin iz kompanije Sirmija održati predavanje na temu: **Uvod u kompajliranje shadera**.  
