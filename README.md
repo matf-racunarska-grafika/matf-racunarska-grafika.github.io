@@ -4,7 +4,7 @@
 
 ## APR prijava  
 Drage koleginice i kolege,
-Molimo vas da se prijavite preko sledećeg [formulara](https://forms.gle/LrDVgvRsmKCdaa9n7) samo ukoliko sigurno izlazite na ispit u petak 26.04.  
+Radi bolje organizacije ispita, molimo vas da se prijavite preko sledećeg [formulara](https://forms.gle/LrDVgvRsmKCdaa9n7) samo ukoliko sigurno izlazite na ispit u petak 26.04.  
 Prijava će biti otvorena do srede u 17:00.  
 
 ## APR ispit
