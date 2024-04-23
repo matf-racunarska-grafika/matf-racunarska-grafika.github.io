@@ -2,6 +2,11 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## APR prijava  
+Drage koleginice i kolege,
+Molimo vas da se prijavite preko sledećeg [formulara](https://forms.gle/LrDVgvRsmKCdaa9n7) samo ukoliko sigurno izlazite na ispit u petak 26.04.  
+Prijava će biti otvorena do srede u 17:00.  
+
 ## APR ispit
 Ispit će biti održan u petak 26.04. u terminu 19:00-21:00 u zgradi na Trgu.  
 Ispit će početi po završetku predavanja iz Veštačke inteligencije koje je u terminu od 16:00-19:00.
