@@ -4,7 +4,7 @@
 
 ## Bodovi APR
 Drage koleginice i kolege,  
-Na sledećem [link](http://poincare.matf.bg.ac.rs/~vesnap/grafika/studenti_rg2023.xls) možete pronaći rezultate aprilskog ispitnog roka.  
+Na sledećem [linku](http://poincare.matf.bg.ac.rs/~vesnap/grafika/studenti_rg2023.xls) možete pronaći rezultate aprilskog ispitnog roka.  
 Uvid u praktični deo ispita biće 14.05. u 12:00 u zbornici u N-salama i 16.05. u 10:00 u kabinetu 716 na Trgu.  
 
 ## Bodovi projekata APR
