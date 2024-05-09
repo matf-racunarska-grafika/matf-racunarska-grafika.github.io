@@ -2,15 +2,10 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## APR prijava  
-Drage koleginice i kolege,
-Radi bolje organizacije ispita, molimo vas da se prijavite preko sledećeg [formulara](https://forms.gle/LrDVgvRsmKCdaa9n7) samo ukoliko sigurno izlazite na ispit u petak 26.04.  
-Prijava će biti otvorena do srede u 17:00.  
-
-## APR ispit
+## Bodovi APR
 Drage koleginice i kolege,  
-Nezavisno od dana objavljivanja rezultata, uvidi u radove će biti posle praznika.  
-
+Na sledećem [link](http://poincare.matf.bg.ac.rs/~vesnap/grafika/studenti_rg2023.xls) možete pronaći rezultate aprilskog ispitnog roka.  
+Uvid u praktični deo ispita biće 14.05. u 12:00 u zbornici u N-salama i 16.05. u 10:00 u kabinetu 716 na Trgu.  
 
 ## Bodovi projekata APR
 [17.04.2024.]  
