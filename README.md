@@ -2,6 +2,9 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## Prijava projekata za ispitni rok JUN1  
+[Forma za prijavu projekata](https://forms.gle/mR2hGV1fERXsyYqa7) biće otvorena do utorka 04.06. u 20:00.  
+
 ## Bodovi APR
 Drage koleginice i kolege,  
 Na sledećem [linku](http://poincare.matf.bg.ac.rs/~vesnap/grafika/studenti_rg2023.xls) možete pronaći rezultate aprilskog ispitnog roka.  
