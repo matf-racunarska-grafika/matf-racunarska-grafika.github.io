@@ -2,20 +2,13 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Prijava projekata za ispitni rok JUN1  
-[Forma za prijavu projekata](https://forms.gle/mR2hGV1fERXsyYqa7) biće otvorena do utorka 04.06. u 20:00.  
+## Bodovi projekata JUN
+[Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
 
 ## Bodovi APR
 Drage koleginice i kolege,  
 Na sledećem [linku](http://poincare.matf.bg.ac.rs/~vesnap/grafika/studenti_rg2023.xls) možete pronaći rezultate aprilskog ispitnog roka.  
 Uvid u praktični deo ispita biće 14.05. u 12:00 u zbornici u N-salama i 16.05. u 10:00 u kabinetu 716 na Trgu.  
-
-## Bodovi projekata APR
-[17.04.2024.]  
-Drage koleginice i kolege,  
-Na linku niže možete pronaći bodove projekata. Ukoliko se Vaš indeks ne nalazi na spisku ili želite predlog kako biste mogli da doradite projekat za više bodova u narednom roku, molim Vas da mi se javite mejlom.  
-Hvala na strpljenju!
-[Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
 
 ## Obaveštenja 
 [08.04.2024.] Otvoren termin konsultacija u četvrtak 11.04. u 10:00 na Trgu.  
