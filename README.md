@@ -2,6 +2,12 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## Prijava za izlazak na ispit u roku JUN1  
+Drage koleginice i kolege,  
+Radi bolje organizacije ispita molimo vas da se prijavite za izlazak na ispit preko sledećeg [formulara](https://forms.gle/jYmMsmZJp1c5CX2D9) samo ukoliko ste sigurni da izlazite na ispit.   
+Prijava će biti otvorena do nedelje 09.06. u 20:00.  
+
+
 ## Bodovi projekata JUN
 [Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
 
