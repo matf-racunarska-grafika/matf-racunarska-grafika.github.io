@@ -2,10 +2,9 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## JUN1
-Drage koleginice i kolege,  
-Ispit će biti održan u N salama u utorak 11.06. sa početkom u 13:00.  
-
+## Rezultati JUN1  
+[Rezultati junskog roka](http://poincare.matf.bg.ac.rs/~vesnap/grafika/studenti_rg2023.xls)  
+Uvid u radove sa praktičnog dela ispita u petak 21.06. u 15:00 u učionici 716.  
 
 ## Bodovi projekata JUN
 [Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
