@@ -2,17 +2,16 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## Ispitni rok SEP1  
+Formular za prijavu projekata u ispitnom roku SEP1 biće otvoren od 23.08. do 01.09.  
+Ispit će biti održan po rasporedu 05.09. у 13:00 у **N salama**.  
+
 ## Rezultati JUN1  
 [Rezultati junskog roka](http://poincare.matf.bg.ac.rs/~vesnap/grafika/studenti_rg2023.xls)  
 Uvid u radove sa praktičnog dela ispita u petak 21.06. u 15:00 u učionici 716.  
 
 ## Bodovi projekata JUN
 [Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
-
-## Bodovi APR
-Drage koleginice i kolege,  
-Na sledećem [linku](http://poincare.matf.bg.ac.rs/~vesnap/grafika/studenti_rg2023.xls) možete pronaći rezultate aprilskog ispitnog roka.  
-Uvid u praktični deo ispita biće 14.05. u 12:00 u zbornici u N-salama i 16.05. u 10:00 u kabinetu 716 na Trgu.  
 
 ## Obaveštenja 
 [08.04.2024.] Otvoren termin konsultacija u četvrtak 11.04. u 10:00 na Trgu.  
