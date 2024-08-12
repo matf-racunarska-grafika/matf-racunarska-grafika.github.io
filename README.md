@@ -5,6 +5,7 @@
 ## Ispitni rok SEP1  
 Formular za prijavu projekata u ispitnom roku SEP1 biće otvoren od 23.08. do 01.09.  
 Ispit će biti održan po rasporedu 05.09. у 13:00 у **N salama**.  
+Podsećamo da je ovo poslednji rok u ovoj školskoj godini i da će gradivo sledeće godine na vežbama biti promenjeno, tako da neće biti moguć prenos bodova sa projekata.  
 
 ## Rezultati JUN1  
 [Rezultati junskog roka](http://poincare.matf.bg.ac.rs/~vesnap/grafika/studenti_rg2023.xls)  
