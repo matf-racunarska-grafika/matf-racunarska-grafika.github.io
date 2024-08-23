@@ -2,6 +2,9 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## Prijava projekata: Sep1
+[Formular za prijavu projekata](https://forms.gle/7eYqTL2gincNUa769)  
+
 ## Ispitni rok SEP1  
 Formular za prijavu projekata u ispitnom roku SEP1 biće otvoren od 23.08. do 01.09.  
 Ispit će biti održan po rasporedu 05.09. у 13:00 у **N salama**.  
