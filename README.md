@@ -3,8 +3,8 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Ispit: SEP
-U svrhu bolje organizacije ispita molimo vas da se prijavite za izlazak na ispit preko sledećeg [formulara](https://forms.gle/AHEVykvep9VFSyBg7).   
-Bodove projekata prijavljenih u ovom roku možete naći u sledećoj [tabeli](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing). Molim kolege kojima nisu upisani bodovi u tabelu da se jave preko mejla.   
+U svrhu bolje organizacije ispita molimo vas da se prijavite za izlazak na ispit preko sledećeg [formulara](https://forms.gle/AHEVykvep9VFSyBg7).  Formular će biti otvoren do 04.09. u 13:00.   
+Bodove projekata prijavljenih u ovom roku možete naći u sledećoj [tabeli](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing). Molim kolege kojima nisu upisani bodovi u tabelu da se jave preko mejla. 
 Ispit će biti održan po rasporedu 05.09. у 13:00 у **N salama**.   
  
 
