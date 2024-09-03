@@ -4,8 +4,9 @@
 
 ## Ispit: SEP
 U svrhu bolje organizacije ispita molimo vas da se prijavite za izlazak na ispit preko sledećeg [formulara](https://forms.gle/AHEVykvep9VFSyBg7).   
-Bodove projekata prijavljenih u ovom roku možete naći u sledećoj [tabeli](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing).  
+Bodove projekata prijavljenih u ovom roku možete naći u sledećoj [tabeli](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing). Molim kolege kojima nisu upisani bodovi u tabelu da se jave preko mejla.   
 Ispit će biti održan po rasporedu 05.09. у 13:00 у **N salama**.   
+ 
 
 ## Bodovi projekata SEP
 [Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
