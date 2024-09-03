@@ -2,20 +2,18 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Prijava projekata: Sep1
-[Formular za prijavu projekata](https://forms.gle/7eYqTL2gincNUa769)  
+## Ispit: SEP
+U svrhu bolje organizacije ispita molimo vas da se prijavite za izlazak na ispit preko sledećeg [formulara](https://forms.gle/AHEVykvep9VFSyBg7).   
+Bodove projekata prijavljenih u ovom roku možete naći u sledećoj [tabeli](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing).  
+Ispit će biti održan po rasporedu 05.09. у 13:00 у **N salama**.   
 
-## Ispitni rok SEP1  
-Formular za prijavu projekata u ispitnom roku SEP1 biće otvoren od 23.08. do 01.09.  
-Ispit će biti održan po rasporedu 05.09. у 13:00 у **N salama**.  
-Podsećamo da je ovo poslednji rok u ovoj školskoj godini i da će gradivo sledeće godine na vežbama biti promenjeno, tako da neće biti moguć prenos bodova sa projekata.  
+## Bodovi projekata SEP
+[Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
 
 ## Rezultati JUN1  
 [Rezultati junskog roka](http://poincare.matf.bg.ac.rs/~vesnap/grafika/studenti_rg2023.xls)  
 Uvid u radove sa praktičnog dela ispita u petak 21.06. u 15:00 u učionici 716.  
 
-## Bodovi projekata JUN
-[Bodovi](https://docs.google.com/spreadsheets/d/1xs9YGGPbmeOZcrBjd-3XIEX877wc6XZTjlkG-jOHnnk/edit?usp=sharing)
 
 ## Obaveštenja 
 [08.04.2024.] Otvoren termin konsultacija u četvrtak 11.04. u 10:00 na Trgu.  
