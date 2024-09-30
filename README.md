@@ -36,10 +36,6 @@ Pismeni i zavržni teorijski se polažu na dan ispita iz Računarske grafike po 
 Ukoliko niste zadovoljni osvojenim bodovima na projektu, možete projekat doraditi i ponovo prijaviti u nekom od narednih ispitnih rokova. 
 U slučaju da položite praktični i teorijski deo ispita i želite da doradite projekat za veću ocenu potrebno je da javite profesorki mejlom da ćete doraditi projekat u nekom od narednih rokova.   
 
-**Kako se boduje i polaže pismeni deo?**  
-Pismeni deo nosi 20 bodova i polaže se na papiru u terminu ispita po rasporedu sa sajta fakulteta.   
-Sastoji se od pitanja iz oblasti od 1-8 nedelje, [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling), [Advanced Lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting), [Blending](https://learnopengl.com/Advanced-OpenGL/Blending).  Uspešno urađen i odbranjen projekat je uslov za izlazak na pismeni i teorijski deo ispita.
-
 [Praktični detaljnije](projekat/)  
 
 ## Konsultacije
