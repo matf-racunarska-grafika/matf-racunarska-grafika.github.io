@@ -55,8 +55,6 @@ Ukoliko želite, kurs možete pratiti i raditi projekat i na virtuelnoj mašini.
 
 Sve biblioteke i alati su instalirani. Nije potrebno dodatno podešavanje virtualne mašine.  
 
-[Skelet projekta](https://github.com/matf-racunarska-grafika/project_base) Skelet projekta sa svim uključenim bibliotekama za vežbanje primera sa časa. 
-
 ### Licenca
 Materijali kursa su bazirani na [www.learnopengl.com](www.learnopengl.com) sajtu napravljenom od strane [Joey De Vries](https://joeydevries.com/#home) i kao takvi spadaju pod [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licencu. Celokupan tekst licence možete pronaći [ovde](https://creativecommons.org/licenses/by/4.0/legalcode).
 
