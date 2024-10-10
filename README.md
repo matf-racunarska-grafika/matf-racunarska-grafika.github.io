@@ -18,7 +18,7 @@
 
 
 ## Nastavnici i asistenti
--nastavnik: [dr. Vesna Marinković](http://poincare.matf.bg.ac.rs/~vesnam/grafika.html)
+-nastavnik: [dr. Vesna Marinković](http://poincare.matf.bg.ac.rs/~vesnap/grafika.html)
 
 -asistent: Marko Spasić (marko_spasic _At_-- math.rs)
 
