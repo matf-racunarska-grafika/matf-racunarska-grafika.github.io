@@ -1,4 +1,4 @@
-## Praktični ispit
+## Praktični ispit (STARA VERZIJA 2020-2023)
 
 Praktični nosi 55 poena (35 projekat + 20 pismeni)
 
@@ -55,7 +55,7 @@ Primere odličnih projekata iz prethodnih godina možete pronaći na: [https://g
 
 **Da li sve u projektu mora da bude urađeno od početka ili postoji neki šablon za projekat?**
 
-> Možete koristiti [skelet projekta](https://github.com/matf-racunarska-grafika/project_base). Iskopirati sve fajlove uključujući i sakriveni .gitignore
+<!--- > Možete koristiti [skelet projekta](https://github.com/matf-racunarska-grafika/project_base). Iskopirati sve fajlove uključujući i sakriveni .gitignore
 
 > Ukoliko koristite nečiji kod obavezno navesti početak i kraj, i odakle je kod preuzet. 
 
