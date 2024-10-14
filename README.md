@@ -6,7 +6,7 @@
 [14.10.2024]  
 Drage koleginice i kolege,  
 Želimo vam uspešan početak nove školske godine.  
-Gradivo na vežbama kao i kreiterijumi za izradu projekta će u izvesnoj meri biti promenjeni u odnosu na prethodnu godinu; s` toga, neće biti moguć prenos bodova projekata iz prethodne školske godine.  
+Gradivo na vežbama kao i kreiterijumi za izradu projekta će u izvesnoj meri biti promenjeni u odnosu na prethodnu godinu i zbog toga neće biti moguć prenos bodova projekata iz prethodne školske godine.  
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
