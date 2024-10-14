@@ -3,6 +3,10 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja 
+[14.10.2024]  
+Drage koleginice i kolege,  
+Želimo vam uspešan početak nove školske godine.  
+Gradivo na vežbama kao i kreiterijumi za izradu projekta će u izvesnoj meri biti promenjeni u odnosu na prethodnu godinu; s` toga, neće biti moguć prenos bodova projekata iz prethodne školske godine.  
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
