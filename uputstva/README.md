@@ -2,19 +2,20 @@
 
 ## Virtualna mašina
 
+Preporučeno je podesiti matični Ubuntu sistem prema koracima u [upustvu/](upustva/).  
+Ukoliko želite, kurs možete pratiti i raditi projekat i na virtuelnoj mašini. 
+
 1. Preuzeti i instalirati [Virtual box](https://www.virtualbox.org/).  
-2. Preuzeti [podešenu virtualnu mašinu](https://drive.google.com/file/d/1D9aU4ycOEYfl13VvGkwefDfqct5b3uAx/view?usp=drive_link) i otpakovati `zip` datoteku.  
-3. Pokrenuti `Virtual box`  
-4. Klikunti dugme `Add` i otvoriti odabrati `matf-racunarska-grafika.vbox` koja se nalazi u otpakovanoj datoteci iz koraka 2.  
+2. Preuzeti [podešenu virtualnu mašinu](https://drive.google.com/file/d/1ejqbQNY-rAuQOMw9d6nubZovhW0JWEDy/view?usp=drive_link) i otpakovati `zip` datoteku.  
+3. Pokrenuti `Virtual box` (sa Windows-a kao administrator: desni klik -> Run as Administrator) 
+4. Klikunti dugme `Add` i otvoriti odabrati `matf-rg.vbox` koja se nalazi u otpakovanoj datoteci iz koraka 2.  
 5. Pokrenuti virtualnu mašinu `matf-racunarska-grafika` pritiskom na dugme `Start`  
-6. Šifra: matfrg  
+6. Šifra: matfrg
 
 Sve biblioteke i alati su instalirani. Nije potrebno dodatno podešavanje virtualne mašine.  
 
+
 ## Postupna instalacija
-
-### Biblioteke
-
 
 ## Biblioteke
 `sudo apt-get install g++ cmake git build-essential libgl1-mesa-dev libsoil-dev libglm-dev libassimp-dev libglew-dev libglfw3-dev libxinerama-dev libxcursor-dev libxi-dev mesa-common-dev mesa-utils libxxf86vm-dev libfreetype6-dev`
