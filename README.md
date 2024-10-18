@@ -45,20 +45,6 @@ U slučaju da položite praktični i teorijski deo ispita i želite da doradite 
 ## Konsultacije
 Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 
-## Virtualna mašina
-
-Preporučeno je podesiti matični Ubuntu sistem prema koracima u [upustvu/](upustva/).  
-Ukoliko želite, kurs možete pratiti i raditi projekat i na virtuelnoj mašini. 
-
-1. Preuzeti i instalirati [Virtual box](https://www.virtualbox.org/).  
-2. Preuzeti [podešenu virtualnu mašinu](https://drive.google.com/file/d/1D9aU4ycOEYfl13VvGkwefDfqct5b3uAx/view?usp=drive_link) i otpakovati `zip` datoteku.  
-3. Pokrenuti `Virtual box` (sa Windows-a kao administrator: desni klik -> Run as Administrator) 
-4. Klikunti dugme `Add` i otvoriti odabrati `matf-racunarska-grafika.vbox` koja se nalazi u otpakovanoj datoteci iz koraka 2.  
-5. Pokrenuti virtualnu mašinu `matf-racunarska-grafika` pritiskom na dugme `Start`  
-6. Šifra: matfrg
-
-Sve biblioteke i alati su instalirani. Nije potrebno dodatno podešavanje virtualne mašine.  
-
 ### Licenca
 Materijali kursa su bazirani na [www.learnopengl.com](www.learnopengl.com) sajtu napravljenom od strane [Joey De Vries](https://joeydevries.com/#home) i kao takvi spadaju pod [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licencu. Celokupan tekst licence možete pronaći [ovde](https://creativecommons.org/licenses/by/4.0/legalcode).
 
