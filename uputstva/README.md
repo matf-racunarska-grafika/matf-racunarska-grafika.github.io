@@ -2,7 +2,6 @@
 
 ## Virtualna mašina
 
-Preporučeno je podesiti matični Ubuntu sistem prema koracima u [upustvu/](upustva/).  
 Ukoliko želite, kurs možete pratiti i raditi projekat i na virtuelnoj mašini. 
 
 1. Preuzeti i instalirati [Virtual box](https://www.virtualbox.org/).  
