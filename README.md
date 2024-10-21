@@ -27,7 +27,7 @@ Gradivo na vežbama kao i kreiterijumi za izradu projekta će u izvesnoj meri bi
 ## Nastavnici i asistenti
 -nastavnik: [dr. Vesna Marinković](http://poincare.matf.bg.ac.rs/~vesnap/grafika.html)
 
--asistent: Marko Spasić (marko_spasic _At_-- math.rs)
+-asistent: Marko Spasić (marko.spasic --_At__-- math.rs)
 
 ## Bodovanje  
 Praktični: 55 (35 projekat + 20 pismeni)  
