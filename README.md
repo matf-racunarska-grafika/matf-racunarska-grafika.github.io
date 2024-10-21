@@ -3,6 +3,9 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja 
+[21.10.2024.]  
+Ove nedelje (sreda 23.10., četvrtak 24.10. i petak 25.10.) neće biti časova vežbi. Časovi predavanja održaće se u regularnim terminima.
+
 [14.10.2024]  
 Drage koleginice i kolege,  
 Želimo vam uspešan početak nove školske godine.  
