@@ -6,8 +6,8 @@
 [26.11.2024.] **Aprilski rok**  
 Drage koleginice i kolege,  
 Rezultati ankete aprilskog roka su sledeći:  
-DA - 89
-NE - 6
+DA - 89  
+NE - 6  
 Velikom većinom glasova, umesto ispitnog roka Januar1 održaćemo ispitni rok krajem meseca aprila. Ostali ispitni rokovi: Jan2, Jun1, Sep1; ostaju nepromenjeni.
 Napominjemo, ukoliko je nekome računarska grafika jedan od poslednjih ispita i važno mu je da položi baš u roku januar1 molimo da nam se javite mejlom.  
 
