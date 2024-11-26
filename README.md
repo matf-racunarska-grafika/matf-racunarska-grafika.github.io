@@ -3,6 +3,14 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja 
+[26.11.2024.] **Aprilski rok**  
+Drage koleginice i kolege,  
+Rezultati ankete aprilskog roka su sledeći:  
+DA - 89
+NE - 6
+Velikom većinom glasova, umesto ispitnog roka Januar1 održaćemo ispitni rok krajem meseca aprila. Ostali ispitni rokovi: Jan2, Jun1, Sep1; ostaju nepromenjeni.
+Napominjemo, ukoliko je nekome računarska grafika jedan od poslednjih ispita i važno mu je da položi baš u roku januar1 molimo da nam se javite mejlom.  
+
 [21.10.2024.]  
 Ove nedelje (sreda 23.10., četvrtak 24.10. i petak 25.10.) neće biti časova vežbi. Časovi predavanja održaće se u regularnim terminima.
 
