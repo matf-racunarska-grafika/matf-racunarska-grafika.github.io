@@ -3,6 +3,18 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja 
+[28.11.2024] **Gostujuće predavanje**  
+Drage koleginice i kolege,  
+U petak 06.12. sa početkom u 13:00 u zgradi na Trgu, učionica 718, će kolege Mirko Brkušanin iz kompanije **AMD** i Đorđe Đurđević iz kompanije **Nordeus** održati dva gostujuća predavanja.  
+Ovo je odlična prilika da se upoznate sa sistemskom infrastrukturom grafičkih sistema i primenom grafike u jednoj od najuspešniji mobilinih igara.  
+Predavanje je otvoreno za sve! Vidimo se!  
+
+Biografije predavača:  
+Mirko Brkušanin je završio studije na Matematičkom fakultetu u Beogradu. Trenutno je zaposlen u kompaniji AMD kao senior inženjer i deo je shader compiler tima. Radio je na implementaciji back-end i middle-end delova kompajlera za više generacija grafičkih kartica. Primarni fokus rada je na Vulkan i DirectX delovima drajvera koji su danas najupotrebljeniji API-ji za grafičke aplikacije.  
+
+Đorđe Đurđević doktorirao je na Elektrotehničkom fakultetu u Beogradu. Trenutno je zaposlen u kompaniji Noredus kao inžinjer grafike i vodi deo Engine tima.  
+Radio je implementaciji grafike u najpoznatijoj Nordeus igri Top Eleven.   
+
 [26.11.2024.] **Aprilski rok**  
 Drage koleginice i kolege,  
 Rezultati ankete aprilskog roka su sledeći:  
