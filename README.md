@@ -5,7 +5,7 @@
 ## Obaveštenja 
 [28.11.2024] **Gostujuće predavanje**  
 Drage koleginice i kolege,  
-U petak 06.12. sa početkom u 13:00 u zgradi na Trgu, učionica 718, će kolege Mirko Brkušanin iz kompanije **AMD** i Đorđe Đurđević iz kompanije **Nordeus** održati dva gostujuća predavanja.  
+U petak **06.12.** u terminu 13:00-15:00 u zgradi na Trgu, učionica 718, će kolege Mirko Brkušanin iz kompanije **AMD** i Đorđe Đurđević iz kompanije **Nordeus** održati dva gostujuća predavanja.  
 Ovo je odlična prilika da se upoznate sa sistemskom infrastrukturom grafičkih sistema i primenom grafike u jednoj od najuspešniji mobilinih igara.  
 Predavanje je otvoreno za sve! Vidimo se!  
 
