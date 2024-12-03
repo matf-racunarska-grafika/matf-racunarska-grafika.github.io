@@ -5,7 +5,7 @@
 ## Obaveštenja 
 [3.12.2024.] **Vežbe i gostujuće predavanje** 
 Drage koleginice i kolege,  
-Prema odlicu kolegijuma dekanata http://www.matf.bg.ac.rs/vesti/4844/obustava-nastave/ neće biti nastave u periodu 4.12.-6.12.  
+Prema odluci kolegijuma dekanata http://www.matf.bg.ac.rs/vesti/4844/obustava-nastave/ neće biti nastave u periodu 4.12.-6.12.  
 Gostujuće predavanje pomera se za petak 13.12.  u istom terminu.  
 
 [28.11.2024] **Gostujuće predavanje**  
