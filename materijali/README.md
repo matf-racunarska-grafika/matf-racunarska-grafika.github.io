@@ -12,11 +12,7 @@
 
 [Domaći zadaci](https://matf-racunarska-grafika.github.io/domaci/)
 
-Modele možete preuzeti sa:  
-- [sketchfab](https://sketchfab.com/3d-models)
-- [artec3d](https://www.artec3d.com/3d-models)
-- [free3D](www.free3d.com)
-- [turbosquid](https://www.turbosquid.com/3d-models/)
+
 
 ### 01
 -[CLion](https://www.jetbrains.com/clion/): integrisano razvojno okruženje, kompajliranje, debagovanje, CMake [video](https://youtu.be/Epx2jEskAJw)
@@ -79,25 +75,73 @@ Modele možete preuzeti sa:
 -[Blender](https://youtube.com/watch?v=4DQquG_o-Ac): kako konvertovati bilo koji model u Blenderu tako da radi sa trenutnom implementacijom učitavanja modela
 
 ### 08
--[Model and Lighting]: Model i osvetljenje [video](https://youtu.be/yl9716rp97g)
+[Engine overview]:
+- App  
+- Controllers  
+- ControllerManager  
+- PlatformController  
+- ResourcesController  
+- GraphicsController  
 
--[ImGui](https://github.com/ocornut/imgui): GUI biblioteka [video](https://youtu.be/NW3Xk1RaZ10) [video](https://youtu.be/5NLdqTFh6Wk)
+[Engine test app]
+- MainApp
+- MainController
 
--[Text Rendering](https://learnopengl.com/In-Practice/Text-Rendering): prikazivanje teksta
+[Engine gui]
+- GUIController
+
+### 9
+[Engine deep dive]  
+- ShaderCompiler
+- ResourcesController Implementation
+- PlatformController  
+- ResourcesController  
+- GraphicsController  
+- ArgParser
+- Configuration
+- Skybox implementation
 
 
-### 09
+### Pismeni
 -[Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing): Bafer dubine, funkcija testiranja dubine, preciznost vrednosti dubine, vizuelizacija bafera dubine, z-bafer, [z-value math](http://www.songho.ca/opengl/gl_projectionmatrix.html) [video](https://youtu.be/YYvCxTxnaIg)
-
--[Stencil testing](https://learnopengl.com/Advanced-OpenGL/Stencil-testing): odbacivanje fragmenata, stencil funkcije, ivičenje objekata [video](https://youtu.be/M08BirB3OH8) 
 
 -[Blending](https://learnopengl.com/Advanced-OpenGL/Blending): providnost, odbacivanje fragmenata, utapanje, prikaz polu-providnih tekstura [video](https://youtu.be/gpxO2HVAIm4)
 
 -[Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling): winding number, odsecanja [video](https://youtu.be/TtejUXP18Cs)
 
+
+### Grupa A
+
 -[Framebuffers](https://learnopengl.com/Advanced-OpenGL/Framebuffers): kreiranje, renderovanje na teksturu, post-procesiranje, kernel efekti [video](https://youtu.be/rNiJcfrtQJM)
 
-### 10
+-[Instancing](https://learnopengl.com/Advanced-OpenGL/Instancing): primer (polje asterioda) [video](https://youtu.be/MA-eEBPRMJ8)
+
+-[Anti Aliasing -> Framebuffers](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing): multisampling, MSAA, Off-screen MSAA [video](https://youtu.be/2M3vx5W6LTQ)
+
+-[Parallax Mapping -> Normal mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping): paralaks mapiranje, koso paralaks mapiranje, paralaks absorbovanje [video](https://youtu.be/Rqj_yDFALWk)
+
+
+### Grupa B
+
+-[Point shadows -> Shadow Mapping -> Framebuffers](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows): omnidirekcione mape senki, PCF [video](https://youtu.be/1VT9HOyiut4)
+
+-[Bloom -> HDR -> Framebuffers](https://learnopengl.com/Advanced-Lighting/Bloom): ekstrakovanje blještavih boja, Gausov blur, blending [video](https://youtu.be/m2lJ800T42o)
+
+
+-[Deffered Shading -> Framebuffers](https://learnopengl.com/Advanced-Lighting/Deferred-Shading): G-bafer
+
+-[SSAO -> Framebuffers](https://learnopengl.com/Advanced-Lighting/SSAO)
+
+
+### Prateće lekcije grupa A i B
+
+-[Shadow mapping](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping): mapa senki, mapa dubine, renderovanje senki, PCF [video](https://youtu.be/E5UCOrG9gJI)
+
+-[Normal mapping](https://learnopengl.com/Advanced-Lighting/Normal-Mapping): mapiranje normala, tangenti prostori, kompleksni objekti [video](https://youtu.be/51Q_vZ0BuKU)
+
+-[HDR](https://learnopengl.com/Advanced-Lighting/HDR): Floating point buffers, Tone mapping, Exposure [video](https://youtu.be/4bMwMTA8BEw)
+
+### Dodatno
 -[Cubemaps](https://learnopengl.com/Advanced-OpenGL/Cubemaps): kreiranje, skybox, mapiranje okruženja, dinamične mape okruženja [video](https://youtu.be/dxO4CFc0N98) [video](https://youtu.be/3Mx88eYNuyY)
 
 -[Advanced Data](https://learnopengl.com/Advanced-OpenGL/Advanced-Data): vertex atributi, baferi [video](https://youtu.be/k7KNRAUL3f0)
@@ -106,33 +150,18 @@ Modele možete preuzeti sa:
 
 -[Geometry Shader](https://learnopengl.com/Advanced-OpenGL/Geometry-Shader): korišćenje, eksplodirajući objekti [video](https://youtu.be/dFGH735D7ik)
 
--[Instancing](https://learnopengl.com/Advanced-OpenGL/Instancing): primer (polje asterioda) [video](https://youtu.be/MA-eEBPRMJ8)
-
--[Anti Aliasing](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing): multisampling, MSAA, Off-screen MSAA [video](https://youtu.be/2M3vx5W6LTQ)
-
-### 11
 -[Advanced Lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting): Blinn-Phong [video](https://youtu.be/CJcRTXwHYhg)
 
 -[Gamm Correction](https://learnopengl.com/Advanced-Lighting/Gamma-Correction): sRGB teksture [video](https://youtu.be/eXhWwqU1eiA)
 
--[Shadow mapping](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping): mapa senki, mapa dubine, renderovanje senki, PCF [video](https://youtu.be/E5UCOrG9gJI)
+-[Stencil testing](https://learnopengl.com/Advanced-OpenGL/Stencil-testing): odbacivanje fragmenata, stencil funkcije, ivičenje objekata [video](https://youtu.be/M08BirB3OH8) 
 
--[Point shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows): omnidirekcione mape senki, PCF [video](https://youtu.be/1VT9HOyiut4)
+-[Model and Lighting](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/3.model_loading/2.model_lighting): Model i osvetljenje [video](https://youtu.be/yl9716rp97g)
 
--[Normal mapping](https://learnopengl.com/Advanced-Lighting/Normal-Mapping): mapiranje normala, tangenti prostori, kompleksni objekti [video](https://youtu.be/51Q_vZ0BuKU)
+-[ImGui](https://github.com/ocornut/imgui): GUI biblioteka [video](https://youtu.be/NW3Xk1RaZ10) [video](https://youtu.be/5NLdqTFh6Wk)
 
-### 12
+-[Text Rendering](https://learnopengl.com/In-Practice/Text-Rendering): prikazivanje teksta
 
-
--[Parallax Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping): paralaks mapiranje, koso paralaks mapiranje, paralaks absorbovanje [video](https://youtu.be/Rqj_yDFALWk)
-
--[HDR](https://learnopengl.com/Advanced-Lighting/HDR): Floating point buffers, Tone mapping, Exposure [video](https://youtu.be/4bMwMTA8BEw)
-
--[Bloom](https://learnopengl.com/Advanced-Lighting/Bloom): ekstrakovanje blještavih boja, Gausov blur, blending [video](https://youtu.be/m2lJ800T42o)
-
--[Deffered Shading](https://learnopengl.com/Advanced-Lighting/Deferred-Shading): G-bafer
-
--[SSAO](https://learnopengl.com/Advanced-Lighting/SSAO)
 
 ### Dodatna (neobavezna) literatura
 

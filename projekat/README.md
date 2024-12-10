@@ -3,7 +3,7 @@
 
 Projekat je predispitna obaveza koja nosi ukupno (35 + 10) bodova. Projekat se smatra položenim ako je ocenjen sa barem 10 bodova.
 Uspešno urađen i položen projekat je **uslov za izlazak na pismeni i teorijski** deo ispita.  
-Projekti se rade individualno.   
+Projekat se radi individualno.   
 
 
 **Nesamostalan rad na projektu, plagiranje, kao i direktno preuzimanje delova koda iz drugih studentskih projekata smatra se kršenjem pravila polaganja ispita prema pravilniku fakulteta i povlači automatsko pokretanje disciplinskog postupka i zabranu polaganja ispita Računarske grafike u trenutnoj školskoj godini.**
@@ -22,7 +22,7 @@ Sav koda iz repozitorijuma sa primerima sa časa možete slobodno koristiti u pr
 4. Klonirati projekat na svoj računar: `git clone --recursive git@github.com:{USER_NAME}/{REPOSITORY_NAME}.git` (zeleno dugme `Clone` na stranici **forkovanog** projekta)
 5. `cd {REPOSITORY_NAME}`
 6. Pokrenuti `./setup.sh` za instalaciju potrebnih biblioteka
-7. Pokrenuti `cd engine && doxygen Doxyfile` za generisanje dokumentacije
+7. Pokrenuti `doxygen Doxyfile` za generisanje dokumentacije
 8. Napraviti granu sa vašim brojem indeksa: `git checkout -b {miXXXXX}`.
 9. Pokrenuti CLion i otvoriti projekat: `File` -> `Open` -> `path/to/{REPOSITORY_NAME}`
 
@@ -181,3 +181,11 @@ S` poštovanjem,
 {Ime} {Prezime}
 {brINDEKSA}
 ```
+
+## Gde mogu pronaći modele za projekat?  
+Modele možete preuzeti sa:  
+- [sketchfab](https://sketchfab.com/3d-models)
+- [artec3d](https://www.artec3d.com/3d-models)
+- [free3D](www.free3d.com)
+- [turbosquid](https://www.turbosquid.com/3d-models/)
+
