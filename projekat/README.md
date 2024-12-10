@@ -123,9 +123,9 @@ https://github.com/{USER_NAME}/{REPOSITORY_NAME}/issues/{Issue-NUM}
 
 ```
 
-## [Review] Završio sam projekat, ali nisam siguran da li još nešto treba da uradim i koliko trenutno nosi bodova?
+## [Review] Projekat je završen, želim da znam koliko bi bodova osvojio i kako ga mogu unaprediti?
 
-U bilo kom trenutku tokom školske godine možete poslati trenutno stanje projekta radi dobijanja procene koliko bi projekat osvojio bodova i kako ga unaprediti: 
+U bilo kom trenutku tokom školske (osim u toku trajanja prijave projekta) godine možete poslati trenutno stanje projekta radi dobijanja procene koliko bi projekat osvojio bodova i kako ga unaprediti: 
 1. U podešavanjima sa GitHub stranice projekta dodati korisničko ime: `@spaske00` u `Contributors`:  : `Settings` -> `Collaborators and teams` -> `Add people` type `@spaske00`. Za `role` staviti `write`. 
 2. Komitovati promene i postaviti granu na GitHub: `git push -u origin {miXXXXX}`
 3. Napravite Pull Request sa stranice Vašeg projekta: `Pull Requests` -> `New pull request` -> `base` ostaviti `main`, za `compare` odabrati `{miXXXXX}` -> `Create pull request`
