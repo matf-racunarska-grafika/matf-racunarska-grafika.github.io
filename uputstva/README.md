@@ -43,12 +43,16 @@ OpenGL ES profile extensions:
 2) Sign up.  
 3) Unesite svoje informacije. Mejl ne mora biti sa alasa.  
 4) Potvrdite nalog.  
-5) [SSH key i kloniranje repozitorijuma](https://www.youtube.com/watch?v=Z3ELWci34cM) [Github dokumentacija](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-6) [Kreiranje SSH kljuca](https://www.youtube.com/watch?v=WgZIv5HI44o)  
+5) Iz terminala
+  - `ssh-keygen -t ed25519 -C "your_email@example.com"`
+  - uneti passkey ili ostaviti prazno
+  - `eval "$(ssh-agent -s)"`
+  - `ssh-add ~/.ssh/id_ed25519`
+  - `cat ~/.ssh/id_ed25519.pub` -> koprati
+6) Otvoriti stranicu `https://github.com/settings/keys` -> `New SSH Key` -> u polje `Key` prekoprati izlaz iz komande iz prethodnog koraka `cat ~/.ssh/id_ed25519.pub`. Uneti `Title` -> `Add SSH key`.
 7) U terminalu pokrenuti: ssh -T git@github.com  
 8) Ukoliko je sve dobro uradjeno trebalo bi da ispise poruku: "Hi ${VasUsername}! You've successfully authenticated, but GitHub does not provide shell access."  
 Napomena: Svuda gde se u snimku koristi HTTPS link za kolniranje, zameniti sa SSH linkom. 
-9) Klonirati repozitorijum sa primerima: `git clone git@github.com:matf-racunarska-grafika/LearnOpenGL.git`
 
 ### JetBrains CLion student licence
 
