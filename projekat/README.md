@@ -1,5 +1,5 @@
 
-# Projekti
+# Projekat
 
 Projekat je predispitna obaveza koja nosi ukupno (35 + 10) bodova. Projekat se smatra položenim ako je ocenjen sa barem 10 bodova.
 Uspešno urađen i položen projekat je **uslov za izlazak na pismeni i teorijski** deo ispita.  
