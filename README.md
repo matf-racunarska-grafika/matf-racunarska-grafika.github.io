@@ -3,6 +3,17 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja 
+[NOVO][10.12.2024.] **Februarski ispitni rok**  
+Drage koleginice i kolege,  
+U februarskom ispitnom roku projekat **neće** biti uslov za izlazak na praktični i teorijski deo ispita.  
+Dakle, možete izaći na ispit i bez urađenog projekta u ovom roku.  
+Januarski ispitni rok, prema većini glasova, zamenjen je aprilskim rokom.  
+
+[NOVO][10.12.2024.] **Vežbe i gostujuće predavanje** 
+Drage koleginice i kolege,  
+Prema odluci kolegijuma dekanata http://www.matf.bg.ac.rs/vesti/4844/obustava-nastave/ neće biti nastave u periodu 09.12.-13.12.  
+Termin gostujućeg predavanja odlaže se do danjeg.
+
 [3.12.2024.] **Vežbe i gostujuće predavanje** 
 Drage koleginice i kolege,  
 Prema odluci kolegijuma dekanata http://www.matf.bg.ac.rs/vesti/4844/obustava-nastave/ neće biti nastave u periodu 4.12.-6.12.  
@@ -63,7 +74,7 @@ Da bi se položio teorijski deo ispita neophodno je ostvariti barem 20/45 bodova
 Na kraju, potrebno je na praktičnom i teorijskom delu imati barem 51 bodova u zbiru.  
 
 **Polaganje**  
-Odbranjen projekat je uslov za izlazak na pismeni i završni teorijski. Jednom odbranjen projekat i dobijeni bodovi važe cele godine.  
+**Odbranjen projekat je uslov za izlazak na pismeni i završni teorijski.** Jednom odbranjen projekat i dobijeni bodovi važe cele godine.  
 Pismeni i zavržni teorijski se polažu na dan ispita iz Računarske grafike po [rasporedu](http://www.matf.bg.ac.rs/m/36/raspored-ispita/) sa sajta fakulteta i ne mogu se razdvajati i prenositi između rokova.
 Ukoliko niste zadovoljni osvojenim bodovima na projektu, možete projekat doraditi i ponovo prijaviti u nekom od narednih ispitnih rokova. 
 U slučaju da položite praktični i teorijski deo ispita i želite da doradite projekat za veću ocenu potrebno je da javite profesorki mejlom da ćete doraditi projekat u nekom od narednih rokova.   
