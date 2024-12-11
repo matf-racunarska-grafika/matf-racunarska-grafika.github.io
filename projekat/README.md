@@ -9,8 +9,8 @@ Projekat se radi individualno.
 **Nesamostalan rad na projektu, plagiranje, kao i direktno preuzimanje delova koda iz drugih studentskih projekata smatra se kršenjem pravila polaganja ispita prema pravilniku fakulteta i povlači automatsko pokretanje disciplinskog postupka i zabranu polaganja ispita Računarske grafike u trenutnoj školskoj godini.**
 
 
-Molimo Vas, **detaljno** pročitajte i ispratite upustva u daljem tekstu.  
-**Projekti koji odstupaju od šablona datog u upustvu neće biti pregledani.**  
+Molimo Vas, **detaljno** pročitajte i ispratite uputstva u daljem tekstu.  
+**Projekti koji odstupaju od šablona datog u uputstvu neće biti pregledani.**  
 Ukoliko budete imali poteškoća u bilo kom koraku slobodno se javite mejlom.
 
 Sav koda iz repozitorijuma sa primerima sa časa možete slobodno koristiti u projektu bez ikakvih restrikcija i navođenja.
@@ -188,4 +188,5 @@ Modele možete preuzeti sa:
 - [artec3d](https://www.artec3d.com/3d-models)
 - [free3D](www.free3d.com)
 - [turbosquid](https://www.turbosquid.com/3d-models/)
+- [gdrive](https://drive.google.com/drive/folders/1vMCZej9C5V0uc4RgKrinMHS6OM1IaY2g?usp=sharing)
 
