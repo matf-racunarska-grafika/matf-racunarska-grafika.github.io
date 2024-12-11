@@ -66,7 +66,7 @@ Gradivo na vežbama kao i kreiterijumi za izradu projekta će u izvesnoj meri bi
 -asistent: Marko Spasić (marko.spasic --_At__-- math.rs)
 
 ## Bodovanje  
-Praktični: 55 (35+10 projekat + 20 pismeni)  
+Praktični: 65 (35+10 projekat + 20 pismeni)  
 Teorijski: 45 (završni teorijski)  
 
 Da bi se položio praktični deo ispita neophodno je ostvariti barem 25/55 bodova, od toga barem 10/35 na projektu i barem 10/20 na pismenom.  
