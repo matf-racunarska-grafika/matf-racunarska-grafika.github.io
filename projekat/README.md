@@ -46,7 +46,7 @@ Dokumentaciji se može pristupiti otvaranjem: `path/to/{REPOSITORY_NAME}/engine/
     - ACTION - pritisak dugmenta, pomeranje na neku lokaciju na sceni, određen trenutak u vremenu...
     - AFTER_X_SECONDS - nakon što protekne X sekundi od registrovane akcije
     - EVENT - nešto se pomeri na sceni, boja svetla se promeni, neki objekat nestane, neki objekat se pojavi...
-- Popunjen `README-TEMPLATE.md` i preimenovan u `README.md`
+- Popunjen `PROJECT-DESCRIPTION-TEMPLATE.md`
 
 [Opciono] Jedna lekcija iz grupe A (10 bodova):
 - [Frame-buffers with post-processing](https://learnopengl.com/Advanced-OpenGL/Framebuffers)  
@@ -92,7 +92,7 @@ U projektu se takođe boduje:
 - Scena sadrži modele i teksture iz repozitorijuma sa primerima sa časa
 - Projekat nije napravljen kao fork skeleta projekta iz uputstva
 - Projekat se ne kompilira, ne pokreće, iznenadno se zaustavlja (segfault, exception...)
-- Nema popunjen `README.md` prema šablonu `README-TEMPLATE.md`
+- Nema popunjen `PROJECT-DESCRIPTION-TEMPLATE.md`
 - Kod nije formatiran prema stilu datom u `clion-code-style.xml`
 
 
