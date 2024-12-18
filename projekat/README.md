@@ -28,7 +28,7 @@ Sav koda iz repozitorijuma sa primerima sa časa možete slobodno koristiti u pr
 
 Praviti male, logične promene u kodu i redovno komitovati sa porukama koje sažeto opisuju dodatu promenu. Izbegavati dodavanje *velike* količine koda od jednom. 
 
-Dokumentaciji se može pristupiti otvaranjem: `path/to/{REPOSITORY_NAME}/engine/docs/html/index.html` u veb pretraživaču.
+Dokumentaciji se može pristupiti lokalno otvaranjem: `path/to/{REPOSITORY_NAME}/engine/docs/html/index.html` u veb pretraživaču ili preko stranice kursa [https://matf-racunarska-grafika.github.io/matf-rg-project-2024/](https://matf-racunarska-grafika.github.io/matf-rg-project-2024/).
 
 ## CLion podešavanja
 1. Učitati stil formatiranja koda: `Settings` -> `Editor` -> `Code Style` -> `Schema (Wheel icon)` -> `Import scheema` -> `path/to/{REPOSITORY_NAME}/clion-code-style.xml`
