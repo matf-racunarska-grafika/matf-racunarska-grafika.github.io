@@ -77,24 +77,19 @@
 ### 08
 [Engine overview](https://github.com/matf-racunarska-grafika/matf-rg-project-2024):
 - [engine::core::App](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/core/App.hpp)
-- [engine::controller::Controllers](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/controller/Controller.hpp)
-- [engine::controller::ControllerManager](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/controller/ControllerManager.hpp)
 - [engine::platform::PlatformController](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/platform/PlatformController.hpp)
 - [engine::resources::ResourcesController](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/resources/ResourcesController.hpp)
 - [engine::graphics::GraphicsController](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/graphics/GraphicsController.hpp)
 - [engine::graphics::OpenGL](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/graphics/OpenGL.hpp)
 
 [Engine test app](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/tree/main/engine/test/app)
-- [engine::test::MainApp](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/test/app/src/MainApp.cpp)
-- [engine::test::MainController](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/test/app/src/MainController.cpp)
-- [engine::test::GUIController](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/test/app/src/GUIController.cpp)
 
 ### 9
 [Engine deep dive]  
 - [engine::resources::ShaderCompiler Implementation](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/resources/ShaderCompiler.hpp)
 - [engine::resources::ResourcesController Implementation](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/src/ResourcesController.cpp)
-- [engine::platform::PlatformController Implementation](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/src/Platform.cpp) 
-- [engine::graphics::GraphicsController Implementation](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/src/Graphics.cpp)
+- [engine::platform::PlatformController Implementation](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/src/PlatformController.cpp) 
+- [engine::graphics::GraphicsController Implementation](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/src/GraphicsController.cpp)
 - Skybox implementation
 
 
