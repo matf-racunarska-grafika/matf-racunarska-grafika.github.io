@@ -10,7 +10,7 @@
 
 [C++ mini kurs](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
 
-[Domaći zadaci](https://matf-racunarska-grafika.github.io/domaci/)
+[Zadaci za vežbu](https://matf-racunarska-grafika.github.io/domaci/)
 
 
 
@@ -160,9 +160,12 @@
 
 
 ### Dodatna (neobavezna) literatura
-
+-[C++ Primer, 5th edition](https://cpp-primer.pages.dev/book/000-cpp_primer_fifth_edition.html)
 -[Game Engine Architecture - Jason Gregory](https://www.gameenginebook.com/)   
 -[Game Programming Patterns - Robert Nystrom](https://gameprogrammingpatterns.com/)  
 -[Physically Based Rendering: From Theory to Implementation 3rd Edition](https://www.pbrt.org/)  
 -[Raytracing in One Weekend](https://raytracing.github.io/)  
+
+
+
 
