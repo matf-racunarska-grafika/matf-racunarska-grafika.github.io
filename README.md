@@ -3,13 +3,16 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Obaveštenja 
-[NOVO][10.12.2024.] **Februarski ispitni rok**  
+[NOVO] 17.01.2025. **Novi snimci - Engine i Projekat**  
+Drage kolege i koleginice, nove snimke možete pronaći na sledećim linkovima: [Engine - Uvod](https://youtu.be/bPa9-2cpnZk?feature=shared), [Engine - App](https://youtu.be/xvxi96gglLU?feature=shared)
+
+[10.12.2024.] **Februarski ispitni rok**  
 Drage koleginice i kolege,  
 U februarskom ispitnom roku projekat **neće** biti uslov za izlazak na praktični i teorijski deo ispita.  
 Dakle, možete izaći na ispit i bez urađenog projekta u ovom roku.  
 Januarski ispitni rok, prema većini glasova, zamenjen je aprilskim rokom.  
 
-[NOVO][10.12.2024.] **Vežbe i gostujuće predavanje** 
+[10.12.2024.] **Vežbe i gostujuće predavanje** 
 Drage koleginice i kolege,  
 Prema odluci kolegijuma dekanata http://www.matf.bg.ac.rs/vesti/4844/obustava-nastave/ neće biti nastave u periodu 09.12.-13.12.  
 Termin gostujućeg predavanja odlaže se do danjeg.
