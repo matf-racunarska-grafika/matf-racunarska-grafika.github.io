@@ -190,3 +190,27 @@ Modele možete preuzeti sa:
 - [turbosquid](https://www.turbosquid.com/3d-models/)
 - [gdrive](https://drive.google.com/drive/folders/1vMCZej9C5V0uc4RgKrinMHS6OM1IaY2g?usp=sharing)
 
+## Sinhronizacija forka projekta
+Fork projekta je kopija originalnog projekta nastala od stanja originala u trenutku forkovanja i od tog trenutka promene na oba su međusobno nezavisne.  
+Ukoliko originalni projekta dobije nove komitove nakon trenutka forkovanja, fork projekta se može sinhronzivaoti sa originalnom na sledeći način:  
+```bash
+cd my/project/directory
+
+# Prebaciti se na main granu
+git checkout main
+
+# Dodati upstream originalnog projekta
+git remote add upstream git@github.com:matf-racunarska-grafika/matf-rg-project-2024.git
+
+# Preuzeti grane sa originalnog projekta
+git fetch upstream
+
+# Prebaciti sve nove kommitve sa main grane originala na lokalnu main granu
+git rebase upstream/main
+
+# Postaviti novu main granu na forkovan repozitorijum
+git push origin main --force
+
+# Sinhronizovati granu za rad sa glavnom granom
+git checkout miGGXXXX && git rebase main
+```
