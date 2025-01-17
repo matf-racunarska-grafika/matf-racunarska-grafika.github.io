@@ -75,14 +75,14 @@
 -[Blender](https://youtube.com/watch?v=4DQquG_o-Ac): kako konvertovati bilo koji model u Blenderu tako da radi sa trenutnom implementacijom učitavanja modela
 
 ### 08
-[Engine overview](https://github.com/matf-racunarska-grafika/matf-rg-project-2024):
+[Engine overview](https://github.com/matf-racunarska-grafika/matf-rg-project-2024): [video](https://youtu.be/bPa9-2cpnZk?feature=shared)
 - [engine::core::App](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/core/App.hpp)
 - [engine::platform::PlatformController](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/platform/PlatformController.hpp)
 - [engine::resources::ResourcesController](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/resources/ResourcesController.hpp)
 - [engine::graphics::GraphicsController](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/graphics/GraphicsController.hpp)
 - [engine::graphics::OpenGL](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/graphics/OpenGL.hpp)
 
-[Engine test app](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/tree/main/engine/test/app)
+[Engine test app](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/tree/main/engine/test/app) [video](https://youtu.be/xvxi96gglLU?feature=shared)
 
 ### 9
 [Engine deep dive]  
