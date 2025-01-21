@@ -108,10 +108,11 @@ Ako projekat sadrži sve prethodno navedeno, uz implementaciju bonus oblasti mo�
 
 Ako ništa od toga ne uspe:
 1. Postavite Vašu granu na Github: `git checkout {miXXXXX} && git push -u origin HEAD`
-2. Na stranici Vašeg repozitorijuma napraviti novi issue: `https://github.com:{USER_NAME}/{REPOSITORY_NAME}/issues`
-3. Opisati problem i barem 3 pokušana pristupa za rešavanje problema (izlaz iz terminala ukoliko je u pitanju neka greška)
-4. U opisu problema tagovati korisničko ime: `@spaske00`.
-5. Poslati mejl sa naslovom: `[RG][Issue]` i u sadržaju ostaviti **samo** link do napravljenog `issue` na GitHub-u.  
+2. Uključiti opciju Issues: Settings -> Features -> Enable Issues
+3. Na stranici Vašeg repozitorijuma napraviti novi issue: `https://github.com:{USER_NAME}/{REPOSITORY_NAME}/issues`
+4. Opisati problem i barem 3 pokušana pristupa za rešavanje problema (izlaz iz terminala ukoliko je u pitanju neka greška)
+5. U opisu problema tagovati korisničko ime: `@spaske00`.
+6. Poslati mejl sa naslovom: `[RG][Issue]` i u sadržaju ostaviti **samo** link do napravljenog `issue` na GitHub-u.  
 
 
 ```
