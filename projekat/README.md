@@ -101,28 +101,66 @@ Ako projekat sadrži obavezne oblasti i jednu lekciju iz grupe A, može osvojiti
 Ako projekat sadrži obavezne oblasti, jednu lekciju iz grupe A i jednu lekciju iz grupe B, može osvojiti potencijalno 35 bodova u skladu sa uslovima bodovanja.  
 Ako projekat sadrži sve prethodno navedeno, uz implementaciju bonus oblasti može osvojiti potencijalno 45 bodova.
 
+## Kako da koristim Git i Github?  
+Napraviti baznu granu za projekat prema upustvu: [Kako da započnem projekat?].  
+Za svaku lekciju od grane `{miXXXXX}` napraviti odvojenu granu `{lesson-name-implemntation}` i promene postavljati na toj grani kako bi pregledanje, poređenje i testiranje bilo lakše.  
+Kada je lekcija implementirana, granu sa lekcijom `{lesson-name-implemntation}` spojiti sa granom `{miXXXXX}`.  
 
-## [Issue] Imam problem/poteškoću na projektu koju ne mogu da rešim?  
+Kompletan primer rada na implementaciji osvetljenja:  
+```bash
+# Napraviti granu
+git checkout -b miXXXXX
+# ... dodati osnovne, zatim za svaku funkcionalnost projekta napraviti granu
+git checkout -b lighting-implementation
+# ... implementirati svetlo
+git add Lighting.cpp light.glsl
+git commit -m 'Implemented basic Point light.'
+# ... podesiti svetlo
+git add Lighting.cpp light.glsl MainController.cpp
+git commit -m 'Fine tune Point light.'
+# if (implementacija svetla završena) {
+    git checkout miXXXXX
+    git merge lighting-implementation
+# } else if (implementacija svetla ima problem) {
+    git push -u origin HEAD
+    # Pogledati upustvo [Implementation] ispod
+# }
+```
+## [Implementation] Imam problem/poteškoću prilikom implementacije lekcije koju ne mogu da rešim?  
+Obavezno ispratiti upustvo iznad: [## Kako da efektivno koristim Git i Github?]. Implementacije lekcija držati u odvojenim granama.  
 - Barem 1-2 sata probajte sami da rešite problem
 - Probajte da vratite projekat u poslednje stanje u kojem je sve radilo pa inkrementalno dodajte promene jednu po jednu, testirajući dodati kod: `git stash` zatim `git checkout .`. `git stash` će sačuvati sve trenutne promene, možete ih vratiti sa `git stash pop`.
 
 Ako ništa od toga ne uspe:
-1. Postavite Vašu granu na Github: `git checkout {miXXXXX} && git push -u origin HEAD`
-2. Uključiti opciju Issues: Settings -> Features -> Enable Issues
-3. Na stranici Vašeg repozitorijuma napraviti novi issue: `https://github.com:{USER_NAME}/{REPOSITORY_NAME}/issues`
-4. Opisati problem i barem 3 pokušana pristupa za rešavanje problema (izlaz iz terminala ukoliko je u pitanju neka greška)
-5. U opisu problema tagovati korisničko ime: `@spaske00`.
-6. Poslati mejl sa naslovom: `[RG][Issue]` i u sadržaju ostaviti **samo** link do napravljenog `issue` na GitHub-u.  
-
+1. U podešavanjima sa GitHub stranice projekta dodati korisničko ime: `@spaske00` u `Contributors`:  : `Settings` -> `Collaborators and teams` -> `Add people` type `@spaske00`. Za `role` staviti `write`. 
+2. Komitovati promene i postaviti granu na GitHub: `git push -u origin {lesson-name-implementation}`
+3. Napravite Pull Request sa stranice Vašeg projekta: `Pull Requests` -> `New pull request` -> `base` postaviti `miXXXXX`, za `compare` odabrati `{lesson-name-implementation}` -> `Create pull request`
+4. U opisu ostaviti pitanja
+5. Sidebar desno `Reviewers` -> `wheel icon` -> `add @spaske00`.
+6. Poslati mejl sa naslovom: `[RG][Implementation]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{USER_NAME}/{REPOSITORY_NAME}/compare/main...{miXXXXX}`.  
 
 ```
 To: {asistent} _At__ @math.rs
-Subject: [RG][Issue]
+Subject: [RG][Implementation]
 Content:
 
-https://github.com/{USER_NAME}/{REPOSITORY_NAME}/issues/{Issue-NUM}
+https://github.com/{USER_NAME}/{REPOSITORY_NAME}/compare/{miXXXXX}...{lesson-name-implementation}
 
 ```
+
+## [Question] Imam opšte pitanje u vezi projekta/lekcije?  
+Ukoliko imate opšte pitanje u vezi lekcije ili projekta, koje nema prateći kod, prvo barem 1-2 sata probajte sami da pronađete odgovor u materijalima kursa.  
+Ako ne uspete:
+1. Uključiti opciju Issues: Settings -> Features -> Enable Issues
+2. Na stranici Vašeg repozitorijuma napraviti novi issue: `https://github.com:{USER_NAME}/{REPOSITORY_NAME}/issues`
+3. Naslov [Issue] postavite da bude tekst pitanja
+4. U opisu [Issue] opisati koje ste materijale pogledali i eventualno detaljnije pojasnite pitanje.
+5. U opisu problema tagovati korisničko ime: `@spaske00`.
+6. Poslati mejl sa naslovom: `[RG][Question]` i u sadržaju ostaviti **samo** link do napravljenog `issue` na GitHub-u.
+
+Jedan [Issue] treba sadržati tačno jedno pitanje, ukoliko imate više pitanja, napravite više [Issue] tiketa.
+
+
 
 ## [Review] Projekat je završen, želim da znam koliko bi bodova osvojio i kako ga mogu unaprediti?
 
@@ -161,7 +199,7 @@ Projekat će biti pregledan i bodovi objavljeni na stranici kursa.
 - Opštih pitanja samo iz implementiranih lekcija iz grupe A i grupe B
 - Opštih pitanja o konkretnoj implementaciji i razumevanju samog projekta
 
-**Važno: Konsultacije, `Review` i `Issue` projekata se ne održavaju od početka prijave projekata do dana ispitnog roka.**  
+**Važno: Konsultacije, `Question`, `Review` i `Issue` projekata se ne održavaju od početka prijave projekata do dana ispitnog roka.**  
 
 
 ## [Upgrade] Da li mogu unaprediti projekat za veću ocenu?
@@ -190,6 +228,8 @@ Modele možete preuzeti sa:
 - [free3D](www.free3d.com)
 - [turbosquid](https://www.turbosquid.com/3d-models/)
 - [gdrive](https://drive.google.com/drive/folders/1vMCZej9C5V0uc4RgKrinMHS6OM1IaY2g?usp=sharing)
+
+
 
 ## Sinhronizacija forka projekta
 Fork projekta je kopija originalnog projekta nastala od stanja originala u trenutku forkovanja i od tog trenutka promene na oba su međusobno nezavisne.  
