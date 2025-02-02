@@ -78,7 +78,9 @@ Na kraju, potrebno je na praktičnom i teorijskom delu imati barem 51 bodova u z
 
 **Polaganje**  
 **Odbranjen projekat je uslov za izlazak na pismeni i završni teorijski.** Jednom odbranjen projekat i dobijeni bodovi važe cele godine.  
-Pismeni i zavržni teorijski se polažu na dan ispita iz Računarske grafike po [rasporedu](http://www.matf.bg.ac.rs/m/36/raspored-ispita/) sa sajta fakulteta i ne mogu se razdvajati i prenositi između rokova.
+Pismeni i zavržni teorijski se polažu na dan ispita iz Računarske grafike po [rasporedu](http://www.matf.bg.ac.rs/m/36/raspored-ispita/) sa sajta fakulteta i ne mogu se razdvajati i prenositi između rokova.   
+Primer pismenog ispita možete pronaći [ovde](materijali/rg-pismeni-primer.pdf).  
+Napomena: **Iz primera pismenog ispita se može videti opšta struktura pitanja, bodovanje i obim ispita. Pitanja iz primera ispita ne moraju biti identična pitanjima sa ispita.**
 
 [Projekat detaljnije](projekat/)  
 
