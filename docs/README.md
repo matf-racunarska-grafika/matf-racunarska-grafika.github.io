@@ -5,7 +5,7 @@
 
 -[learncpp](https://www.learncpp.com/)
 
--[Tour of C++ - Bjarne](https://www.stroustrup.com/Tour.html)
+-[Tour of C++ - Bjarne](https://www.stroustrup.com/tour3.html)
 
 ## Dokumentacija
 -[OpenGL docs](http://docs.gl/)
