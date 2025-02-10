@@ -137,7 +137,7 @@ Ako ništa od toga ne uspe:
 3. Napravite Pull Request sa stranice Vašeg projekta: `Pull Requests` -> `New pull request` -> `base` postaviti `miXXXXX`, za `compare` odabrati `{lesson-name-implementation}` -> `Create pull request`
 4. U opisu ostaviti pitanja
 5. Sidebar desno `Reviewers` -> `wheel icon` -> `add @spaske00`.
-6. Poslati mejl sa naslovom: `[RG][Implementation]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{USER_NAME}/{REPOSITORY_NAME}/compare/main...{miXXXXX}`.  
+6. Poslati mejl sa naslovom: `[RG][Implementation]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{USER_NAME}/{REPOSITORY_NAME}/compare/{miXXXXX}...{lesson-name-implementation}`.  
 
 ```
 To: {asistent} _At__ @math.rs
