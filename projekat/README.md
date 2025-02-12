@@ -19,7 +19,7 @@ Sav koda iz repozitorijuma sa primerima sa časa možete slobodno koristiti u pr
 1. Napraviti nalog na platformi [Github](https://github.com) i dodajte SSH ključ ([Uputstva -> Github](https://matf-racunarska-grafika.github.io/uputstva/))
 2. Forkovati [skelet projekta](https://github.com/matf-racunarska-grafika/matf-rg-project-2024) (Dugme `Fork` na stranici)
 3. Na forkovanom projektu promeniti naziv u podešavanjima (`Settings` -> `Repository name`)
-4. Klonirati projekat na svoj računar: `git clone --recursive git@github.com:{USER_NAME}/{REPOSITORY_NAME}.git` (zeleno dugme `Clone` na stranici **forkovanog** projekta)
+4. Klonirati projekat na svoj računar: `git clone --recursive git@github.com:{USER_NAME}/{REPOSITORY_NAME}.git` (link preuzeti preko zelenog dugmeta `Clone` na stranici **forkovanog** projekta)
 5. `cd {REPOSITORY_NAME}`
 6. Pokrenuti `./setup.sh` za instalaciju potrebnih biblioteka
 7. Pokrenuti `doxygen Doxyfile` za generisanje dokumentacije
