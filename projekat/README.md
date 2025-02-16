@@ -170,8 +170,11 @@ U bilo kom trenutku tokom školske (osim u toku trajanja prijave projekta) godin
 3. Napravite Pull Request sa stranice Vašeg projekta: `Pull Requests` -> `New pull request` -> `base` ostaviti `main`, za `compare` odabrati `{miXXXXX}` -> `Create pull request`
 4. U opisu ostaviti pitanja
 5. Sidebar desno `Reviewers` -> `wheel icon` -> `add @spaske00`.
-6. Poslati mejl sa naslovom: `[RG][Review]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{USER_NAME}/{REPOSITORY_NAME}/compare/main...{miXXXXX}`.  
-
+6. Poslati mejl sa naslovom: `[RG][Review]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{USER_NAME}/{REPOSITORY_NAME}/compare/main...{miXXXXX}`.
+7. Nakon pregledanja, ukoliko su potrebne izmene na projektu, komentari će biti ostavljeni na Github-u.
+8. Komitove sa ispravkama na osnovu ostavljenih komentara postaviti na **istu granu**.
+9. **Ne markirati komentare sa: Resolved**. Kada se komitovi sa unesenim izmenama budu postavljeni, kao odgovor na komentar napisati ukratko šta je urađeno u komitu kao ispravka koda.
+10. Kada su ispravljeni **svi** komentari, na pull request-u ostaviti komentare da su svi komentari ispravljeni i poslati mejl sa naslovom: [Review][Done] a poruci ostaviti samo link do do pull requesta. 
 
 ```
 To: {asistent} _At__ @math.rs
