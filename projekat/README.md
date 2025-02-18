@@ -201,6 +201,7 @@ Projekat će biti pregledan i bodovi objavljeni na stranici kursa.
 - Opštih pitanja iz lekcija sa vežbi
 - Opštih pitanja samo iz implementiranih lekcija iz grupe A i grupe B
 - Opštih pitanja o konkretnoj implementaciji i razumevanju samog projekta
+- Na odbrani projekta se očekuje da razumete oblast koju ste implementirali – ukoliko ne možete objasniti kod koji ste dodali, ta oblast se ocenjuje sa **nula bodova**.
 
 **Važno: Konsultacije, `Question`, `Review` i `Issue` projekata se ne održavaju od početka prijave projekata do dana ispitnog roka.**  
 
