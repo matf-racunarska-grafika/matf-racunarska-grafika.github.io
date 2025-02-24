@@ -156,7 +156,7 @@
 
 ### Dodatna (neobavezna) literatura
 -[A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)  
--[C++ Primer, 5th edition](https://cpp-primer.pages.dev/book/000-cpp_primer_fifth_edition.html)
+-[C++ Primer, 5th edition](https://cpp-primer.pages.dev/book/000-cpp_primer_fifth_edition.html)  
 -[Game Engine Architecture - Jason Gregory](https://www.gameenginebook.com/)   
 -[Game Programming Patterns - Robert Nystrom](https://gameprogrammingpatterns.com/)  
 -[Physically Based Rendering: From Theory to Implementation 3rd Edition](https://www.pbrt.org/)  
