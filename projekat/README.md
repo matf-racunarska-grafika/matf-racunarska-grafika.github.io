@@ -185,6 +185,15 @@ https://github.com/{USER_NAME}/{REPOSITORY_NAME}/compare/main...{miXXXXX}
 
 ```
 
+## Komentari  
+Radi lakše organizacije i određivanja prioriteta rada na projektu, komentari koji budu ostavljeni na platformi Github su podeljeni u nekoliko kategorija:  
+* **[CRITICAL]** - Problemi koji moraju biti rešeni kako bi projekat imao prolazni broj bodova.  
+* **[STYLE]** - Sugestije koje se odnose na stil koda, uključujući imenovanje identifikatora, formatiranje i  
+ konzistentnost.  
+* **[REFACTOR]** - Predlozi za reorganizaciju koda radi bolje čitljivosti, razumevanja i lakše buduće nadogradnje.  
+* **[FEATURE]** -  Predlozi za dodatne funkcionalnosti koje bi mogle poboljšati projekat.  
+* **[OPTIONAL]** -  Opciono ispravljanje i sugestije koje ne utiču na konačan broj bodova, ali mogu pomoći u istraživanju alternativnih rešenja i proširivanju znanja.  
+
 ## Prijava i ocenjivanje projekata
 
 Tri nedelje pred svaki ispitni rok na stranici kursa biće okačena forma za prijavu završenih projekata za taj rok. Formular će biti otvoren nedelju dana. Nakon zatvaranja formulara nije moguća naknadna prijava projekata. Projekat je potrebno završiti i prijaviti dve nedelje pre samog datuma ispita. Projekat se pregleda u stanju u trenutku prijave, svako naknadno menjanje projekta nakon prijave se ne pregleda.
