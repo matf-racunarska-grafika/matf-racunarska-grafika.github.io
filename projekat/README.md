@@ -194,6 +194,7 @@ Radi lakše organizacije i određivanja prioriteta rada na projektu, komentari k
 * **[REFACTOR]** - Predlozi za reorganizaciju koda radi bolje čitljivosti, razumevanja i lakše buduće nadogradnje.  
 * **[FEATURE]** -  Predlozi za dodatne funkcionalnosti koje bi mogle poboljšati projekat.  
 * **[OPTIONAL]** -  Opciono ispravljanje i sugestije koje ne utiču na konačan broj bodova, ali mogu pomoći u istraživanju alternativnih rešenja i proširivanju znanja.
+
 Ako je predlog iz komentara usvojen u kodu, molimo Vas da u odgovoru na komentar ostavite kratak opis promene. Ako niste sigurni kako da implementirate predlog, slobodno postavite pitanje za dodatno pojašnjenje.  
 Ako predlog nije implementiran, nemojte razrešavati komentar dok ne bude obrađen kako bismo lakše pratili koje izmene su još potrebne.
 
