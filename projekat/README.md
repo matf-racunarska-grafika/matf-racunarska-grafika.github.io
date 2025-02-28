@@ -174,7 +174,7 @@ U bilo kom trenutku tokom školske (osim u toku trajanja prijave projekta) godin
 6. Poslati mejl sa naslovom: `[RG][Review]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{USER_NAME}/{REPOSITORY_NAME}/compare/main...{miXXXXX}`.
 7. Nakon pregledanja, ukoliko su potrebne izmene na projektu, komentari će biti ostavljeni na Github-u.
 8. Komitove sa ispravkama na osnovu ostavljenih komentara postaviti na **istu granu**.
-9. **Ne markirati komentare sa: Resolved**. Kada se komitovi sa unesenim izmenama budu postavljeni, kao odgovor na komentar napisati ukratko šta je urađeno u komitu kao ispravka koda.
+9. **Ne markirati komentare sa: Resolved**. Kada se komitovi sa unesenim izmenama budu postavljeni, kao odgovor na komentar napisati ukratko šta je urađeno u komitu kao ispravka koda. Pogledati sekciju **Komentari** niže za više detalja.  
 10. Kada su ispravljeni **svi** komentari, na pull request-u ostaviti komentare da su svi komentari ispravljeni i poslati mejl sa naslovom: [RG][Review][Done] a poruci ostaviti samo link do do pull requesta. 
 
 ```
@@ -193,7 +193,11 @@ Radi lakše organizacije i određivanja prioriteta rada na projektu, komentari k
  konzistentnost.  
 * **[REFACTOR]** - Predlozi za reorganizaciju koda radi bolje čitljivosti, razumevanja i lakše buduće nadogradnje.  
 * **[FEATURE]** -  Predlozi za dodatne funkcionalnosti koje bi mogle poboljšati projekat.  
-* **[OPTIONAL]** -  Opciono ispravljanje i sugestije koje ne utiču na konačan broj bodova, ali mogu pomoći u istraživanju alternativnih rešenja i proširivanju znanja.  
+* **[OPTIONAL]** -  Opciono ispravljanje i sugestije koje ne utiču na konačan broj bodova, ali mogu pomoći u istraživanju alternativnih rešenja i proširivanju znanja.
+Ako je predlog iz komentara usvojen u kodu, molimo Vas da u odgovoru na komentar ostavite kratak opis promene. Ako niste sigurni kako da implementirate predlog, slobodno postavite pitanje za dodatno pojašnjenje.  
+Ako predlog nije implementiran, nemojte razrešavati komentar dok ne bude obrađen kako bismo lakše pratili koje izmene su još potrebne.
+
+
 
 ## Prijava i ocenjivanje projekata
 
