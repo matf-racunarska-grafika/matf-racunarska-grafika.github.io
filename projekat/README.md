@@ -61,6 +61,9 @@ Dokumentaciji se može pristupiti lokalno otvaranjem: `path/to/{REPOSITORY_NAME}
 - [Point Shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows)  
 - [SSAO](https://learnopengl.com/Advanced-Lighting/SSAO)
 
+Lekcije grupe A i B implementiraju se kao komponente modula `engine` koje bi svaka instanca aplikacije mogla da koristi, na sličan način kako je implementirana 
+lekcija `skybox`. Lekcije grupe A i grupe B koje nisu implementirane kao komponenta modula `engine` **neće biti bodovane**.
+
 Obratiti pažnju na svrhu i primenu lekcija iz grupe A i grupe B. Implementirane lekcije koje se na sceni ne primećuju neće biti bodovane. Primer:
 - Bloom efekat bez tačkastog izvora svetlosti predstavljenog nekim objektom iz kojeg se svetlo `preliva`
 - Instanciranje sa malim brojem objekata
