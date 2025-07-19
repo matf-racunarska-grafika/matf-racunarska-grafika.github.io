@@ -30,6 +30,9 @@ Praviti male, logične promene u kodu i redovno komitovati sa porukama koje saž
 
 Dokumentaciji se može pristupiti lokalno otvaranjem: `path/to/{REPOSITORY_NAME}/engine/docs/html/index.html` u veb pretraživaču ili preko stranice kursa [https://matf-racunarska-grafika.github.io/matf-rg-project-2024/](https://matf-racunarska-grafika.github.io/matf-rg-project-2024/).
 
+Stil pisanja koda koji projekat treba da prati nalazi se u README.md dokumentu kloniranog repozitorijuma. 
+Pre svakog pokretanja procesa prevođenja projekta, pokreće se skripta koja verifikuje da je kod napisan prema pravilima u dokumentu README.md. Eventualne greške kao i smernice za ispravljanje grešaka biće ispisani u `CMake` podprozoru okruženja CLion (jedan od podprozora koji se može uključiti pritiskom na CMake dugme u donjem levom uglu okruženja CLion). 
+
 ## CLion podešavanja
 1. Učitati stil formatiranja koda: `Settings` -> `Editor` -> `Code Style` -> `Schema (Wheel icon)` -> `Import scheema` -> `path/to/{REPOSITORY_NAME}/clion-code-style.xml`
 2. Uključiti automatsko formatiranje koda: `Settings` -> `Tools` -> `Actions on Save` -> `Reformat code`
@@ -136,19 +139,19 @@ Obavezno ispratiti upustvo iznad: [## Kako da efektivno koristim Git i Github?].
 - Probajte da vratite projekat u poslednje stanje u kojem je sve radilo pa inkrementalno dodajte promene jednu po jednu, testirajući dodati kod: `git stash` zatim `git checkout .`. `git stash` će sačuvati sve trenutne promene, možete ih vratiti sa `git stash pop`.
 
 Ako ništa od toga ne uspe:
-1. U podešavanjima sa GitHub stranice projekta dodati korisničko ime: `@spaske00` u `Contributors`:  : `Settings` -> `Collaborators and teams` -> `Add people` type `@spaske00`. Za `role` staviti `write`. 
+1. U podešavanjima sa GitHub stranice **Vašeg** projekta dodati korisničko ime: `@spaske00` u `Contributors`:  : `Settings` -> `Collaborators and teams` -> `Add people` type `@spaske00`. Za `role` staviti `write`. 
 2. Komitovati promene i postaviti granu na GitHub: `git push -u origin {lesson-name-implementation}`
-3. Napravite Pull Request sa stranice Vašeg projekta: `Pull Requests` -> `New pull request` -> `base` postaviti `miXXXXX`, za `compare` odabrati `{lesson-name-implementation}` -> `Create pull request`
+3. Napravite Pull Request sa stranice **Vašeg** projekta: `Pull Requests` -> `New pull request` -> `base` postaviti `miXXXXX`, za `compare` odabrati `{lesson-name-implementation}` -> `Create pull request`
 4. U opisu ostaviti pitanja
 5. Sidebar desno `Reviewers` -> `wheel icon` -> `add @spaske00`.
-6. Poslati mejl sa naslovom: `[RG][Implementation]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{USER_NAME}/{REPOSITORY_NAME}/compare/{miXXXXX}...{lesson-name-implementation}`.  
+6. Poslati mejl sa naslovom: `[RG][Implementation]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{USER_NAME}/{REPOSITORY_NAME}/pulls/{NUMBER}`.  
 
 ```
 To: {asistent} _At__ @math.rs
 Subject: [RG][Implementation]
 Content:
 
-https://github.com/{USER_NAME}/{REPOSITORY_NAME}/compare/{miXXXXX}...{lesson-name-implementation}
+https://github.com/{USER_NAME}/{REPOSITORY_NAME}/pulls/{NUMBER}
 
 ```
 
@@ -174,7 +177,7 @@ U bilo kom trenutku tokom školske (osim u toku trajanja prijave projekta) godin
 3. Napravite Pull Request sa stranice Vašeg projekta: `Pull Requests` -> `New pull request` -> `base` ostaviti `main`, za `compare` odabrati `{miXXXXX}` -> `Create pull request`
 4. U opisu ostaviti pitanja
 5. Sidebar desno `Reviewers` -> `wheel icon` -> `add @spaske00`.
-6. Poslati mejl sa naslovom: `[RG][Review]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{USER_NAME}/{REPOSITORY_NAME}/compare/main...{miXXXXX}`.
+6. Poslati mejl sa naslovom: `[RG][Review]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{USER_NAME}/{REPOSITORY_NAME}/pulls/{NUMBER}`.
 7. Nakon pregledanja, ukoliko su potrebne izmene na projektu, komentari će biti ostavljeni na Github-u.
 8. Komitove sa ispravkama na osnovu ostavljenih komentara postaviti na **istu granu**.
 9. **Ne markirati komentare sa: Resolved**. Kada se komitovi sa unesenim izmenama budu postavljeni, kao odgovor na komentar napisati ukratko šta je urađeno u komitu kao ispravka koda. Pogledati sekciju **Komentari** niže za više detalja.  
@@ -185,7 +188,7 @@ To: {asistent} _At__ @math.rs
 Subject: [RG][Review]
 Content:
 
-https://github.com/{USER_NAME}/{REPOSITORY_NAME}/compare/main...{miXXXXX}
+https://github.com/{USER_NAME}/{REPOSITORY_NAME}/pulls/{NUMBER}
 
 ```
 
