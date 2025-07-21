@@ -141,17 +141,17 @@ Obavezno ispratiti upustvo iznad: [## Kako da efektivno koristim Git i Github?].
 Ako ništa od toga ne uspe:
 1. U podešavanjima sa GitHub stranice **Vašeg** projekta dodati korisničko ime: `@spaske00` u `Contributors`:  : `Settings` -> `Collaborators and teams` -> `Add people` type `@spaske00`. Za `role` staviti `write`. 
 2. Komitovati promene i postaviti granu na GitHub: `git push -u origin {lesson-name-implementation}`
-3. Napravite Pull Request sa stranice **Vašeg** projekta: `Pull Requests` -> `New pull request` -> `base` postaviti `miXXXXX`, za `compare` odabrati `{lesson-name-implementation}` -> `Create pull request`
+3. Napravite Pull Request sa stranice **Vašeg** projekta: `Pull Requests` -> `New pull request` -> `base` postaviti `{YOUR_REPOSITORY_NAME}:miXXXXX`, za `compare` odabrati `{YOUR_REPOSITORY_NAME}:{lesson-name-implementation}` -> `Create pull request`
 4. U opisu ostaviti pitanja
 5. Sidebar desno `Reviewers` -> `wheel icon` -> `add @spaske00`.
-6. Poslati mejl sa naslovom: `[RG][Implementation]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{USER_NAME}/{REPOSITORY_NAME}/pulls/{NUMBER}`.  
+6. Poslati mejl sa naslovom: `[RG][Implementation]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{YOUR_USER_NAME}/{YOUR_REPOSITORY_NAME}/pulls/{NUMBER}`.  
 
 ```
 To: {asistent} _At__ @math.rs
 Subject: [RG][Implementation]
 Content:
 
-https://github.com/{USER_NAME}/{REPOSITORY_NAME}/pulls/{NUMBER}
+https://github.com/{YOUR_USER_NAME}/{YOUR_REPOSITORY_NAME}/pulls/{NUMBER}
 
 ```
 
@@ -159,7 +159,7 @@ https://github.com/{USER_NAME}/{REPOSITORY_NAME}/pulls/{NUMBER}
 Ukoliko imate opšte pitanje u vezi lekcije ili projekta, koje nema prateći kod, prvo barem 1-2 sata probajte sami da pronađete odgovor u materijalima kursa.  
 Ako ne uspete:
 1. Uključiti opciju Issues: Settings -> Features -> Enable Issues
-2. Na stranici Vašeg repozitorijuma napraviti novi issue: `https://github.com:{USER_NAME}/{REPOSITORY_NAME}/issues`
+2. Na stranici Vašeg repozitorijuma napraviti novi issue: `https://github.com:{YOUR_USER_NAME}/{YOUR_REPOSITORY_NAME}/issues`
 3. Naslov [Issue] postavite da bude tekst pitanja
 4. U opisu [Issue] opisati koje ste materijale pogledali i eventualno detaljnije pojasnite pitanje.
 5. U opisu problema tagovati korisničko ime: `@spaske00`.
@@ -174,21 +174,22 @@ Jedan [Issue] treba sadržati tačno jedno pitanje, ukoliko imate više pitanja,
 U bilo kom trenutku tokom školske (osim u toku trajanja prijave projekta) godine možete poslati trenutno stanje projekta radi dobijanja procene koliko bi projekat osvojio bodova i kako ga unaprediti: 
 1. U podešavanjima sa GitHub stranice projekta dodati korisničko ime: `@spaske00` u `Contributors`:  : `Settings` -> `Collaborators and teams` -> `Add people` type `@spaske00`. Za `role` staviti `write`. 
 2. Komitovati promene i postaviti granu na GitHub: `git push -u origin {miXXXXX}`
-3. Napravite Pull Request sa stranice Vašeg projekta: `Pull Requests` -> `New pull request` -> `base` ostaviti `main`, za `compare` odabrati `{miXXXXX}` -> `Create pull request`
+3. Napravite Pull Request sa stranice Vašeg projekta: `Pull Requests` -> `New pull request` -> `base` ostaviti `{YOUR_REPOSITORY_NAME}:main`, za `compare` odabrati `{YOUR_REPOSITORY_NAME}:{miXXXXX}` -> `Create pull request`. (Obratiti pažnju da umesto {YOUR_REPOSITORY_NAME} Github ponekad ostavi `matf-rg-projekat`, svakako zameniti sa granom main na Vašem repozitroijumu)
 4. U opisu ostaviti pitanja
 5. Sidebar desno `Reviewers` -> `wheel icon` -> `add @spaske00`.
-6. Poslati mejl sa naslovom: `[RG][Review]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{USER_NAME}/{REPOSITORY_NAME}/pulls/{NUMBER}`.
+6. Poslati mejl sa naslovom: `[RG][Review]` i u sadržaju ostaviti **samo** link do pull requesta: `https://github.com/{YOUR_USER_NAME}/{YOUR_REPOSITORY_NAME}/pulls/{NUMBER}`.
 7. Nakon pregledanja, ukoliko su potrebne izmene na projektu, komentari će biti ostavljeni na Github-u.
 8. Komitove sa ispravkama na osnovu ostavljenih komentara postaviti na **istu granu**.
 9. **Ne markirati komentare sa: Resolved**. Kada se komitovi sa unesenim izmenama budu postavljeni, kao odgovor na komentar napisati ukratko šta je urađeno u komitu kao ispravka koda. Pogledati sekciju **Komentari** niže za više detalja.  
 10. Kada su ispravljeni **svi** komentari, na pull request-u ostaviti komentare da su svi komentari ispravljeni i poslati mejl sa naslovom: [RG][Review][Done] a poruci ostaviti samo link do do pull requesta. 
+
 
 ```
 To: {asistent} _At__ @math.rs
 Subject: [RG][Review]
 Content:
 
-https://github.com/{USER_NAME}/{REPOSITORY_NAME}/pulls/{NUMBER}
+https://github.com/{YOUR_USER_NAME}/{YOUR_REPOSITORY_NAME}/pulls/{NUMBER}
 
 ```
 
@@ -212,7 +213,7 @@ Tri nedelje pred svaki ispitni rok na stranici kursa biće okačena forma za pri
 Koraci za prijavu projekta:
 1. U podešavanjima dodati korisničko ime: `@spaske00` u `Contributors`:  sa stranice Vašeg projekta: `Settings` -> `Collaborators and teams` -> `Add people` type `@spaske00`. Za `role` staviti `write`. 
 2. Postaviti granu na Github: `git push -u origin {miXXXXX}`
-3. Napraviti Pull Request sa stranice projekta: `Pull Requests` -> `New pull request` -> `base` ostaviti `main`, za `compare` odabrati `{miXXXXX}` -> `Create pull request`
+3. Napraviti Pull Request sa stranice projekta: `Pull Requests` -> `New pull request` -> `base` ostaviti `{YOUR_REPOSITORY_NAME}:main`, za `compare` odabrati `{YOUR_REPOSITORY_NAME}:{miXXXXX}` -> `Create pull request`. (Obratiti pažnju da umesto {YOUR_REPOSITORY_NAME} Github ponekad ostavi `matf-rg-projekat`, svakako zameniti sa granom main na Vašem repozitroijumu)
 4. U opisu ostaviti pitanja
 5. Sidebar desno `Reviewers` -> `wheel icon` -> `add @spaske00`.
 6. Prijaviti projekat popunjavanjem formulara sa stranice kursa. 
