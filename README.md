@@ -5,15 +5,17 @@
 ## Polaganje ispita [NOVO!]  
 
 **Pismeni i teorijski deo ispita mogu se polagati nezavisno jedan od drugog** - ukoliko položite jedan deo ispita, a drugi ne, možete u nekom od narednih rokova izaći samo na deo koji niste položili.  
-**Jednom položen deo ispita važi do kraja školske godine**  - ponovnim izlaskom na bilo koji deo ispita poništavaju se bodovi osvojeni na prethdnom izlasku za taj deo ispita.  
-**Položen projekat nije uslov za izlazak na pismeni i teorijski deo ispita** - možete izaći na pismeni i teorijski deo ispita iako projekat još uvek nije ocenjen sa prolaznom ocenom.  
-**Minimalni broj bodova na projektu jeste uslov za uspešno položen ceo ispit** -  ne možete položiti ispit ukoliko na projektu nemate barem minimalan broj osvojenih bodova.  
+**Jednom položen deo ispita važi do kraja školske godine**  - ponovnim izlaskom na bilo koji deo ispita poništavaju se bodovi osvojeni na prethodnom izlasku za taj deo ispita.  
+**Položen projekat nije uslov za _izlazak_ na pismeni i teorijski deo ispita** - možete izaći na pismeni i teorijski deo ispita iako projekat još uvek nije ocenjen sa prolaznom ocenom.  
+**Položen projekat jeste uslov za uspešno _položen_ ceo ispit** -  ne možete položiti ispit ukoliko na projektu nemate barem minimalan broj potrebnih bodova (10/35).  
+
+Za više detalja pogledati sekciju **Bodovanje** niže i stranicu **Projekat**.  
+Molimo Vas da pre započinjanja rada na projektu detaljno pročitate - i tokom rada ispratite - **sva** upustva i napomene sa stranice [Projekat](https://matf-racunarska-grafika.github.io/projekat/).  
 
 Završen projekat možete predati u bilo kom trenutku do deset dana pred završetak školske godine (tačan datum biće objavljen nakon izlaska rasporeda ispita)
 kako bi ostalo vremena za njihovo pregledanje, ocenjivanje i po potrebi usmenu odbranu.
 
-[Link do formulara za prijavu ocenjivanja završenog projekta](https://forms.gle/HTW2JvxdZud55TC57) 
-
+## Prijava projekta: [Link](https://forms.gle/HTW2JvxdZud55TC57)  
 
 ## Obaveštenja 
 [NOVO] 17.01.2025. **Novi snimci - Engine i Projekat**  
