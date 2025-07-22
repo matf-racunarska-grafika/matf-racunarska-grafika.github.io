@@ -209,21 +209,19 @@ Ako predlog nije implementiran, nemojte razrešavati komentar dok ne bude obrađ
 
 ## Prijava i ocenjivanje projekata
 
-Tri nedelje pred svaki ispitni rok na stranici kursa biće okačena forma za prijavu završenih projekata za taj rok. Formular će biti otvoren nedelju dana. Nakon zatvaranja formulara nije moguća naknadna prijava projekata. Projekat je potrebno završiti i prijaviti dve nedelje pre samog datuma ispita. Projekat se pregleda u stanju u trenutku prijave, svako naknadno menjanje projekta nakon prijave se ne pregleda.
 Koraci za prijavu projekta:
 1. U podešavanjima dodati korisničko ime: `@spaske00` u `Contributors`:  sa stranice Vašeg projekta: `Settings` -> `Collaborators and teams` -> `Add people` type `@spaske00`. Za `role` staviti `write`. 
 2. Postaviti granu na Github: `git push -u origin {miXXXXX}`
-3. Napraviti Pull Request sa stranice projekta: `Pull Requests` -> `New pull request` -> `base` ostaviti `{YOUR_REPOSITORY_NAME}:main`, za `compare` odabrati `{YOUR_REPOSITORY_NAME}:{miXXXXX}` -> `Create pull request`. (Obratiti pažnju da umesto {YOUR_REPOSITORY_NAME} Github ponekad ostavi `matf-rg-projekat`, svakako zameniti sa granom main na Vašem repozitroijumu)
-4. U opisu ostaviti pitanja
-5. Sidebar desno `Reviewers` -> `wheel icon` -> `add @spaske00`.
-6. Prijaviti projekat popunjavanjem formulara sa stranice kursa. 
+3. Napraviti Pull Request sa stranice projekta: `Pull Requests` -> `New pull request` -> `base` ostaviti `{YOUR_REPOSITORY_NAME}:main`, za `compare` odabrati `{YOUR_REPOSITORY_NAME}:{miXXXXX}` -> `Create pull request`. (Obratiti pažnju da umesto {YOUR_REPOSITORY_NAME} Github ponekad ostavi `matf-rg-projekat`, svakako zameniti sa granom main na **Vašem** repozitorijumu)
+4. Sidebar desno `Reviewers` -> `wheel icon` -> `add @spaske00`.
+5. Prijaviti projekat popunjavanjem [formulara](https://forms.gle/eRCeUS6rEYwF8CXU7) sa stranice kursa. 
 
 Projekat će biti pregledan i bodovi objavljeni na stranici kursa.  
-[Opciono] Student može biti pozvan na usmenu odbranu projekta. Usmena odbrana projekta se sastoji od:  
+Student može biti pozvan na usmenu odbranu projekta. Usmena odbrana projekta se sastoji od:  
 - Opštih pitanja iz lekcija sa vežbi
 - Opštih pitanja samo iz implementiranih lekcija iz grupe A i grupe B
 - Opštih pitanja o konkretnoj implementaciji i razumevanju samog projekta
-- Na odbrani projekta se očekuje da razumete oblast koju ste implementirali – ukoliko ne možete objasniti kod koji ste dodali, ta oblast se ocenjuje sa **nula bodova**.
+- Na odbrani projekta se očekuje da razumete oblast koju ste implementirali – ukoliko ne možete objasniti kod i lekciju koji ste dodali, ta oblast se ocenjuje sa **nula bodova**.
 
 **Važno: Konsultacije, `Question`, `Review` i `Issue` projekata se ne održavaju od početka prijave projekata do dana ispitnog roka.**  
 
