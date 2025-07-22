@@ -2,6 +2,19 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## Polaganje ispita [NOVO!]  
+
+**Pismeni i teorijski deo ispita mogu se polagati nezavisno jedan od drugog** - ukoliko položite jedan deo ispita, a drugi ne, možete u nekom od narednih rokova izaći samo na deo koji niste položili.  
+**Jednom položen deo ispita važi do kraja školske godine**  - ponovnim izlaskom na bilo koji deo ispita poništavaju se bodovi osvojeni na prethdnom izlasku za taj deo ispita.  
+**Položen projekat nije uslov za izlazak na pismeni i teorijski deo ispita** - možete izaći na pismeni i teorijski deo ispita iako projekat još uvek nije ocenjen sa prolaznom ocenom.  
+**Minimalni broj bodova na projektu jeste uslov za uspešno položen ceo ispit** -  ne možete položiti ispit ukoliko na projektu nemate barem minimalan broj osvojenih bodova.  
+
+Završen projekat možete predati u bilo kom trenutku do deset dana pred završetak školske godine (tačan datum biće objavljen nakon izlaska rasporeda ispita)
+kako bi ostalo vremena za njihovo pregledanje, ocenjivanje i po potrebi usmenu odbranu.
+
+[Link do formulara za prijavu ocenjivanja završenog projekta](https://forms.gle/HTW2JvxdZud55TC57) 
+
+
 ## Obaveštenja 
 [NOVO] 17.01.2025. **Novi snimci - Engine i Projekat**  
 Drage kolege i koleginice, nove snimke možete pronaći na sledećim linkovima: [Engine - Uvod](https://youtu.be/bPa9-2cpnZk?feature=shared), [Engine - App](https://youtu.be/xvxi96gglLU?feature=shared)
@@ -77,8 +90,7 @@ Da bi se položio teorijski deo ispita neophodno je ostvariti barem 20/45 bodova
 Na kraju, potrebno je na praktičnom i teorijskom delu imati barem 51 bodova u zbiru.  
 
 **Polaganje**  
-**Odbranjen projekat je uslov za izlazak na pismeni i završni teorijski.** Jednom odbranjen projekat i dobijeni bodovi važe cele godine.  
-Pismeni i zavržni teorijski se polažu na dan ispita iz Računarske grafike po [rasporedu](http://www.matf.bg.ac.rs/m/36/raspored-ispita/) sa sajta fakulteta i ne mogu se razdvajati i prenositi između rokova.   
+Jednom odbranjen projekat i dobijeni bodovi važe cele godine.  
 Primer pismenog ispita možete pronaći [ovde](materijali/rg-pismeni-primer.pdf).  
 Napomena: **Iz primera pismenog ispita se može videti opšta struktura pitanja, bodovanje i obim ispita. Pitanja iz primera ispita ne moraju biti identična pitanjima sa ispita.**
 
