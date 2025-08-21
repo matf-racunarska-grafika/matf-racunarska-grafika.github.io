@@ -16,7 +16,8 @@ Završen projekat možete predati u bilo kom trenutku do deset dana pred završe
 kako bi ostalo vremena za njihovo pregledanje, ocenjivanje i po potrebi usmenu odbranu.
 
 ## Prijava projekta: [Link](https://forms.gle/HTW2JvxdZud55TC57)  
-## Bodovi projekata: [Link](https://docs.google.com/spreadsheets/d/15aZRK5aKzTHCCDwSPXiO0mKO6vin9dmel2oJjyCOIMc/edit?usp=sharing)  
+## Bodovi projekata: [Link](https://docs.google.com/spreadsheets/d/15aZRK5aKzTHCCDwSPXiO0mKO6vin9dmel2oJjyCOIMc/edit?usp=sharing)
+## Bodovi ROK1-praktični: [Link](https://docs.google.com/spreadsheets/d/15aZRK5aKzTHCCDwSPXiO0mKO6vin9dmel2oJjyCOIMc/edit?gid=2142063530#gid=2142063530&range=A1)  
 
 ## Obaveštenja 
 [NOVO] 17.01.2025. **Novi snimci - Engine i Projekat**  
