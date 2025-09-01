@@ -2,6 +2,12 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## ROK2 
+Ispit će biti održan u utorak 02.09. u **N-salama**, učionica 153.    
+Praktični deo ispita počeće u 13:00.  
+Teorijski deo ispita počeće u 13:45.   
+Možete doći samo na deo ispita na koji izlazite u ovom roku.  
+
 ## Polaganje ispita [NOVO!]  
 
 **Pismeni i teorijski deo ispita mogu se polagati nezavisno jedan od drugog** - ukoliko položite jedan deo ispita, a drugi ne, možete u nekom od narednih rokova izaći samo na deo koji niste položili.  
