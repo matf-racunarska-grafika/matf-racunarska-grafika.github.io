@@ -23,7 +23,7 @@ kako bi ostalo vremena za njihovo pregledanje, ocenjivanje i po potrebi usmenu o
 
 ## Prijava projekta: [Link](https://forms.gle/HTW2JvxdZud55TC57)  
 ## Bodovi projekata: [Link](https://docs.google.com/spreadsheets/d/15aZRK5aKzTHCCDwSPXiO0mKO6vin9dmel2oJjyCOIMc/edit?usp=sharing)
-## Bodovi ROK1-praktični: [Link](https://docs.google.com/spreadsheets/d/15aZRK5aKzTHCCDwSPXiO0mKO6vin9dmel2oJjyCOIMc/edit?gid=2142063530#gid=2142063530&range=A1)  
+## Bodovi ROK2-praktični: [Link][https://docs.google.com/spreadsheets/d/15aZRK5aKzTHCCDwSPXiO0mKO6vin9dmel2oJjyCOIMc/edit?gid=2142063530#gid=2142063530&range=A1](https://docs.google.com/spreadsheets/d/1C_zzPXUmwGSas3K_E-Z5tqBj00bpVyRY/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
 
 ## Obaveštenja 
 [NOVO] 17.01.2025. **Novi snimci - Engine i Projekat**  
