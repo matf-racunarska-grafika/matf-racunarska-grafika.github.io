@@ -8,8 +8,15 @@ Praktični deo ispita počeće u 13:00.
 Teorijski deo ispita počeće u 13:45.   
 Možete doći samo na deo ispita na koji izlazite u ovom roku.  
 
-## Polaganje ispita [NOVO!]  
+## Kranji rok za predaju projekata 20.10.2025.
+**Završene** projekte možete predati u bilo kom trenutku do **20.10.2025.** kako bi ostalo vremena za njihovo pregledanje, ocenjivanje i po potrebi usmenu odbranu.  
+Formular za prijavu projekta zatvara se **20.10.2025.**  
 
+## Prijava projekta (do 20.10.2025.): [Link](https://forms.gle/HTW2JvxdZud55TC57) 
+## Bodovi projekata: [Link](https://docs.google.com/spreadsheets/d/15aZRK5aKzTHCCDwSPXiO0mKO6vin9dmel2oJjyCOIMc/edit?usp=sharing)
+## Bodovi ROK2-praktični: [Link](https://docs.google.com/spreadsheets/d/1C_zzPXUmwGSas3K_E-Z5tqBj00bpVyRY/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
+
+## Polaganje ispita 
 **Pismeni i teorijski deo ispita mogu se polagati nezavisno jedan od drugog** - ukoliko položite jedan deo ispita, a drugi ne, možete u nekom od narednih rokova izaći samo na deo koji niste položili.  
 **Jednom položen deo ispita važi do kraja školske godine**  - ponovnim izlaskom na bilo koji deo ispita poništavaju se bodovi osvojeni na prethodnom izlasku za taj deo ispita.  
 **Položen projekat nije uslov za _izlazak_ na pismeni i teorijski deo ispita** - možete izaći na pismeni i teorijski deo ispita iako projekat još uvek nije ocenjen sa prolaznom ocenom.  
@@ -17,13 +24,6 @@ Možete doći samo na deo ispita na koji izlazite u ovom roku.
 
 Za više detalja pogledati sekciju **Bodovanje** niže i stranicu **Projekat**.  
 Molimo Vas da pre započinjanja rada na projektu detaljno pročitate - i tokom rada ispratite - **sva** upustva i napomene sa stranice [Projekat](https://matf-racunarska-grafika.github.io/projekat/).  
-
-Završen projekat možete predati u bilo kom trenutku do deset dana pred završetak školske godine (tačan datum biće objavljen nakon izlaska rasporeda ispita)
-kako bi ostalo vremena za njihovo pregledanje, ocenjivanje i po potrebi usmenu odbranu.
-
-## Prijava projekta: [Link](https://forms.gle/HTW2JvxdZud55TC57)  
-## Bodovi projekata: [Link](https://docs.google.com/spreadsheets/d/15aZRK5aKzTHCCDwSPXiO0mKO6vin9dmel2oJjyCOIMc/edit?usp=sharing)
-## Bodovi ROK2-praktični: [Link][https://docs.google.com/spreadsheets/d/15aZRK5aKzTHCCDwSPXiO0mKO6vin9dmel2oJjyCOIMc/edit?gid=2142063530#gid=2142063530&range=A1](https://docs.google.com/spreadsheets/d/1C_zzPXUmwGSas3K_E-Z5tqBj00bpVyRY/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
 
 ## Obaveštenja 
 [NOVO] 17.01.2025. **Novi snimci - Engine i Projekat**  
