@@ -8,7 +8,7 @@ Praktični deo ispita počeće u 13:00.
 Teorijski deo ispita počeće u 13:45.   
 Možete doći samo na deo ispita na koji izlazite u ovom roku.  
 
-## Kranji rok za predaju projekata 20.10.2025.
+## Rok za predaju projekata: 20.10.2025.
 **Završene** projekte možete predati u bilo kom trenutku do **20.10.2025.** kako bi ostalo vremena za njihovo pregledanje, ocenjivanje i po potrebi usmenu odbranu.  
 Formular za prijavu projekta zatvara se **20.10.2025.**  
 
