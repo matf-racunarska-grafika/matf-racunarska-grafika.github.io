@@ -15,7 +15,7 @@ Formular za prijavu projekta zatvara se **20.10.2025.**
 
 ## Prijava projekta (do 20.10.2025.): [Link](https://forms.gle/HTW2JvxdZud55TC57) 
 ## Bodovi projekata: [Link](https://docs.google.com/spreadsheets/d/15aZRK5aKzTHCCDwSPXiO0mKO6vin9dmel2oJjyCOIMc/edit?usp=sharing)
-## Bodovi ROK2-praktični: [Link](https://docs.google.com/spreadsheets/d/1C_zzPXUmwGSas3K_E-Z5tqBj00bpVyRY/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
+## Bodovi ROK3-praktični: [Link](https://docs.google.com/spreadsheets/d/1C_zzPXUmwGSas3K_E-Z5tqBj00bpVyRY/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
 
 ## Polaganje ispita 
 **Pismeni i teorijski deo ispita mogu se polagati nezavisno jedan od drugog** - ukoliko položite jedan deo ispita, a drugi ne, možete u nekom od narednih rokova izaći samo na deo koji niste položili.  
