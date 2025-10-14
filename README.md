@@ -2,9 +2,9 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## ROK4  
-[Formular za prijavu](https://forms.gle/HKbcyTMt8jNo5EEL6) za izlazak na ispit biće otvoren do petka 03.10. u 18:00.  
-Ispit će biti održan u subotu 04.10. u **N-salama**, učionica 153.    
+## ROK5  
+[Formular za prijavu](https://forms.gle/9S7dqicH77caNpqX7) za izlazak na ispit biće otvoren do četvrtka 16.10. u 18:00.  
+Ispit će biti održan u petak 17.10. u **N-salama**, učionica 153.    
 Praktični deo ispita počeće u 13:00.  
 Teorijski deo ispita počeće u 13:45.   
 Možete doći samo na deo ispita na koji izlazite u ovom roku.  
