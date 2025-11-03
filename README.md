@@ -4,7 +4,7 @@
 
 ## ROK7  
 [Formular za prijavu](https://forms.gle/qeBLKHo5nA6cSxwW9) za izlazak na ispit biće otvoren do utorka 04.11. u 21:00.  
-Ispit će biti održan u sredu 05.11. na **Studentskom Trgu**, molimo Vas da dođete barem 10 minuta ranije ispred učionice 704.     
+Ispit će biti održan u sredu 05.11. na **Studentskom trgu**, molimo Vas da dođete barem 10 minuta ranije ispred učionice 704.     
 Praktični deo ispita počeće u 17:00.  
 Teorijski deo ispita počeće u 17:45.   
 Možete doći samo na deo ispita na koji izlazite u ovom roku.  
