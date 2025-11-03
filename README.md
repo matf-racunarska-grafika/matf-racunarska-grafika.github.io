@@ -2,11 +2,11 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## ROK6  
-[Formular za prijavu](https://forms.gle/6oTGwBQcyJMRqCzy7) za izlazak na ispit biće otvoren do srede 29.10. u 18:00.  
-Ispit će biti održan u četvrtak 30.10. u **N-salama**, učionica 153.    
-Praktični deo ispita počeće u 13:00.  
-Teorijski deo ispita počeće u 13:45.   
+## ROK7  
+[Formular za prijavu](https://forms.gle/qeBLKHo5nA6cSxwW9) za izlazak na ispit biće otvoren do utorka 04.11. u 21:00.  
+Ispit će biti održan u sredu 05.11. na **Studentskom Trgu**, molimo Vas da dođete barem 10 minuta ranije ispred učionice 704.     
+Praktični deo ispita počeće u 17:00.  
+Teorijski deo ispita počeće u 17:45.   
 Možete doći samo na deo ispita na koji izlazite u ovom roku.  
 
 ## Rok za predaju projekata: 8.11.2025.  
