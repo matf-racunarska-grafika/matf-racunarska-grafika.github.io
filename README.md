@@ -26,52 +26,10 @@ Za više detalja pogledati sekciju **Bodovanje** niže i stranicu **Projekat**.
 Molimo Vas da pre započinjanja rada na projektu detaljno pročitate - i tokom rada ispratite - **sva** upustva i napomene sa stranice [Projekat](https://matf-racunarska-grafika.github.io/projekat/).  
 
 ## Obaveštenja 
-[NOVO] 17.01.2025. **Novi snimci - Engine i Projekat**  
-Drage kolege i koleginice, nove snimke možete pronaći na sledećim linkovima: [Engine - Uvod](https://youtu.be/bPa9-2cpnZk?feature=shared), [Engine - App](https://youtu.be/xvxi96gglLU?feature=shared)
-
-[10.12.2024.] **Februarski ispitni rok**  
-Drage koleginice i kolege,  
-U februarskom ispitnom roku projekat **neće** biti uslov za izlazak na praktični i teorijski deo ispita.  
-Dakle, možete izaći na ispit i bez urađenog projekta u ovom roku.  
-Januarski ispitni rok, prema većini glasova, zamenjen je aprilskim rokom.  
-
-[10.12.2024.] **Vežbe i gostujuće predavanje** 
-Drage koleginice i kolege,  
-Prema odluci kolegijuma dekanata http://www.matf.bg.ac.rs/vesti/4844/obustava-nastave/ neće biti nastave u periodu 09.12.-13.12.  
-Termin gostujućeg predavanja odlaže se do danjeg.
-
-[3.12.2024.] **Vežbe i gostujuće predavanje** 
-Drage koleginice i kolege,  
-Prema odluci kolegijuma dekanata http://www.matf.bg.ac.rs/vesti/4844/obustava-nastave/ neće biti nastave u periodu 4.12.-6.12.  
-Gostujuće predavanje pomera se za petak 13.12.  u istom terminu.  
-
-[28.11.2024] **Gostujuće predavanje**  
-Drage koleginice i kolege,  
-U petak ~~**06.12.**~~ 13.12. u terminu 13:00-15:00 u zgradi na Trgu, učionica 718, će kolege Mirko Brkušanin iz kompanije **AMD** i Đorđe Đurđević iz kompanije **Nordeus** održati dva gostujuća predavanja.  
-Ovo je odlična prilika da se upoznate sa sistemskom infrastrukturom grafičkih sistema i primenom grafike u jednoj od najuspešniji mobilinih igara.  
-Predavanje je otvoreno za sve! Vidimo se!  
-
-Biografije predavača:  
-Mirko Brkušanin je završio studije na Matematičkom fakultetu u Beogradu. Trenutno je zaposlen u kompaniji AMD kao senior inženjer i deo je shader compiler tima. Radio je na implementaciji back-end i middle-end delova kompajlera za više generacija grafičkih kartica. Primarni fokus rada je na Vulkan i DirectX delovima drajvera koji su danas najupotrebljeniji API-ji za grafičke aplikacije.  
-
-Đorđe Đurđević doktorirao je na Elektrotehničkom fakultetu u Beogradu. Trenutno je zaposlen u kompaniji Noredus kao inžinjer grafike i vodi deo Engine tima.  
-Radio je implementaciji grafike u najpoznatijoj Nordeus igri Top Eleven.   
-
-[26.11.2024.] **Aprilski rok**  
-Drage koleginice i kolege,  
-Rezultati ankete aprilskog roka su sledeći:  
-DA - 89  
-NE - 6  
-Velikom većinom glasova, umesto ispitnog roka Januar1 održaćemo ispitni rok krajem meseca aprila. Ostali ispitni rokovi: Jan2, Jun1, Sep1; ostaju nepromenjeni.
-Napominjemo, ukoliko je nekome računarska grafika jedan od poslednjih ispita i važno mu je da položi baš u roku januar1 molimo da nam se javite mejlom.  
-
-[21.10.2024.]  
-Ove nedelje (sreda 23.10., četvrtak 24.10. i petak 25.10.) neće biti časova vežbi. Časovi predavanja održaće se u regularnim terminima.
-
-[14.10.2024]  
-Drage koleginice i kolege,  
-Želimo vam uspešan početak nove školske godine.  
-Gradivo na vežbama kao i kreiterijumi za izradu projekta će u izvesnoj meri biti promenjeni u odnosu na prethodnu godinu i zbog toga neće biti moguć prenos bodova projekata iz prethodne školske godine.  
+[NOVO] 3.11.2025. **Početak školske 2025/2026**  
+Drage kolege i koleginice,  
+U ponedeljak 10.11. vežbe neće biti držane, molimo studente koji bi u ovom terminu slušali vežbe da dođu u bilo koji drugi termin tokom nedelje po želji.  
+Srećan početak nove školske godine!
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
