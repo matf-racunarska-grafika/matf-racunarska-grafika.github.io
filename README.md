@@ -2,13 +2,6 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## ROK7  
-[Formular za prijavu](https://forms.gle/qeBLKHo5nA6cSxwW9) za izlazak na ispit biće otvoren do utorka 04.11. u 21:00.  
-Ispit će biti održan u sredu 05.11. na **Studentskom trgu**, molimo Vas da dođete barem 10 minuta ranije ispred učionice 704.     
-Praktični deo ispita počeće u 17:00.  
-Teorijski deo ispita počeće u 17:45.   
-Možete doći samo na deo ispita na koji izlazite u ovom roku.  
-
 ## Rok za predaju projekata: 8.11.2025.  
 **Završene** projekte možete predati u bilo kom trenutku **do 8.11.2025.** kako bi ostalo vremena za njihovo pregledanje, ocenjivanje i po potrebi usmenu odbranu.  
 Formular za prijavu projekta zatvara se **8.11.2025.**  
@@ -69,7 +62,5 @@ Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
 
 ### Licenca
 Materijali kursa su bazirani na [www.learnopengl.com](www.learnopengl.com) sajtu napravljenom od strane [Joey De Vries](https://joeydevries.com/#home) i kao takvi spadaju pod [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licencu. Celokupan tekst licence možete pronaći [ovde](https://creativecommons.org/licenses/by/4.0/legalcode).
-
-
 
 Examples used in this course are based on [www.learnopengl.com](www.learnopengl.com) tutorials by [Joey De Vries](https://joeydevries.com/#home) and as such are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Full text of the licence can be found [here](https://creativecommons.org/licenses/by/4.0/legalcode).
