@@ -13,6 +13,10 @@ Završni praktični i teorijski test se polažu u istom ispitnom roku. Da bi se 
 
 Molimo Vas da pre započinjanja rada na projektu detaljno pročitate - i tokom rada ispratite - **sva** upustva i napomene sa stranice [Projekat](https://matf-racunarska-grafika.github.io/projekat/).  
 
+Primer pismenog ispita možete pronaći [ovde](materijali/rg-pismeni-primer.pdf).  
+Napomena: **Iz primera pismenog ispita se može videti opšta struktura pitanja, bodovanje i obim ispita. Pitanja iz primera ispita ne moraju biti identična pitanjima sa ispita.**
+
+
 ## Obaveštenja 
 [NOVO] 3.11.2025. **Početak školske 2025/2026**  
 Drage kolege i koleginice,  
@@ -36,19 +40,6 @@ Srećan početak nove školske godine!
 -nastavnik: [dr. Vesna Marinković](http://poincare.matf.bg.ac.rs/~vesnap/grafika.html)
 
 -asistent: Marko Spasić (marko.spasic --_At__-- math.rs)
-
-## Bodovanje  
-Praktični: 65 (35+10 projekat + 20 pismeni)  
-Teorijski: 45 (završni teorijski)  
-
-Da bi se položio praktični deo ispita neophodno je ostvariti barem 25/55 bodova, od toga barem 10/35 na projektu i barem 10/20 na pismenom.  
-Da bi se položio teorijski deo ispita neophodno je ostvariti barem 20/45 bodova na završnom teorijskom ispitu.  
-Na kraju, potrebno je na praktičnom i teorijskom delu imati barem 51 bodova u zbiru.  
-
-**Polaganje**  
-Jednom odbranjen projekat i dobijeni bodovi važe cele godine.  
-Primer pismenog ispita možete pronaći [ovde](materijali/rg-pismeni-primer.pdf).  
-Napomena: **Iz primera pismenog ispita se može videti opšta struktura pitanja, bodovanje i obim ispita. Pitanja iz primera ispita ne moraju biti identična pitanjima sa ispita.**
 
 [Projekat detaljnije](projekat/)  
 
