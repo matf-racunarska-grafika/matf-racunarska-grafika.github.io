@@ -2,20 +2,15 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Rok za predaju projekata: 8.11.2025.  
-**Završene** projekte možete predati u bilo kom trenutku **do 8.11.2025.** kako bi ostalo vremena za njihovo pregledanje, ocenjivanje i po potrebi usmenu odbranu.  
-Formular za prijavu projekta zatvara se **8.11.2025.**  
-
-## Prijava projekta (do 8.11.2025.): [Link](https://forms.gle/HTW2JvxdZud55TC57) 
-## Bodovi: [Link](https://docs.google.com/spreadsheets/d/1C_zzPXUmwGSas3K_E-Z5tqBj00bpVyRY/edit?usp=sharing&ouid=118131903717126289602&rtpof=true&sd=true)
-
 ## Polaganje ispita 
-**Pismeni i teorijski deo ispita mogu se polagati nezavisno jedan od drugog** - ukoliko položite jedan deo ispita, a drugi ne, možete u nekom od narednih rokova izaći samo na deo koji niste položili.  
-**Jednom položen deo ispita važi do kraja školske godine**  - ponovnim izlaskom na bilo koji deo ispita poništavaju se bodovi osvojeni na prethodnom izlasku za taj deo ispita.  
-**Položen projekat nije uslov za _izlazak_ na pismeni i teorijski deo ispita** - možete izaći na pismeni i teorijski deo ispita iako projekat još uvek nije ocenjen sa prolaznom ocenom.  
-**Položen projekat jeste uslov za uspešno _položen_ ceo ispit** -  ne možete položiti ispit ukoliko na projektu nemate barem minimalan broj potrebnih bodova (10/35).  
+- projekat od 20 (+10 dodatnih) poena
+- završni praktični test od 40 poena
+- završni teorijski test od 40 poena
+- 
+Izrada projekta nije obavezna. Projekat se može predati bilo kada tokom školske godine. Jednom odbranjen projekat važi cele godine.
 
-Za više detalja pogledati sekciju **Bodovanje** niže i stranicu **Projekat**.  
+Završni praktični i teorijski test se polažu u istom ispitnom roku. Da bi se položio ispit potrebno je i na završnom praktičnom testu i na završnom teorijskom ispitu osvojiti po 20 poena i u zbiru imati bar 51 poen.  
+
 Molimo Vas da pre započinjanja rada na projektu detaljno pročitate - i tokom rada ispratite - **sva** upustva i napomene sa stranice [Projekat](https://matf-racunarska-grafika.github.io/projekat/).  
 
 ## Obaveštenja 
