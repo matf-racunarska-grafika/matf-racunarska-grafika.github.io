@@ -17,7 +17,7 @@ Sve biblioteke i alati su instalirani. Nije potrebno dodatno podešavanje virtua
 ## Postupna instalacija
 
 ## Biblioteke
-`sudo apt install pkg-config g++-13 clang-format clang-tidy cmake git build-essential libwayland-dev libxkbcommon-dev xorg-dev libgl1-mesa-dev mesa-common-dev mesa-utils doxygen graphviz
+`sudo apt install pkg-config clang-format clang-tidy cmake git build-essential libglfw3 libglfw3-dev libx11-dev libxrandr-dev libxi-dev libxxf86vm-dev libxcursor-dev libwayland-dev libxkbcommon-dev xorg-dev libgl1-mesa-dev mesa-common-dev mesa-utils doxygen graphviz
 `
 
 Provera verzije OpenGL: `glxinfo | grep OpenGL`  
