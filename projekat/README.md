@@ -206,6 +206,7 @@ Modele možete preuzeti sa:
 - [artec3d](https://www.artec3d.com/3d-models)
 - [free3D](www.free3d.com)
 - [turbosquid](https://www.turbosquid.com/3d-models/)
+- [poly-pizza](https://poly.pizza/)
 - [gdrive](https://drive.google.com/drive/folders/1vMCZej9C5V0uc4RgKrinMHS6OM1IaY2g?usp=sharing)
 
 
