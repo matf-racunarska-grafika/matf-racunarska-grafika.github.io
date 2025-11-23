@@ -12,6 +12,8 @@
 
 [Zadaci za vežbu](https://matf-racunarska-grafika.github.io/domaci/)
 
+[rg-playground](https://github.com/matf-racunarska-grafika/rg-playground)
+
 
 
 ### 01
