@@ -5,7 +5,7 @@
 Ukoliko želite, kurs možete pratiti i raditi projekat i na virtuelnoj mašini. 
 
 1. Preuzeti i instalirati [Virtual box](https://www.virtualbox.org/).  
-2. Preuzeti [podešenu virtualnu mašinu](https://drive.google.com/file/d/1INWWtVVVYqEztocS8mZA0cY-L3El11L1/view?usp=sharing) i otpakovati `zip` datoteku.  
+2. Preuzeti [podešenu virtualnu mašinu](https://drive.google.com/file/d/1uqbRI_YOH7oSbX-8NQXNbtO90kHTRd2K/view?usp=drive_link) i otpakovati `zip` datoteku.  
 3. Pokrenuti `Virtual box` (sa Windows-a kao administrator: desni klik -> Run as Administrator) 
 4. Klikunti dugme `Add` i otvoriti odabrati `matf-rg.vbox` koja se nalazi u otpakovanoj datoteci iz koraka 2.  
 5. Pokrenuti virtualnu mašinu `matf-racunarska-grafika` pritiskom na dugme `Start`  
