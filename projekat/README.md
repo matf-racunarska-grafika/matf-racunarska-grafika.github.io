@@ -49,7 +49,6 @@ Osnova
 
 Jedna lekcija iz grupe A:
 - [Frame-buffers with post-processing](https://learnopengl.com/Advanced-OpenGL/Framebuffers)  
-- [Instancing](https://learnopengl.com/Advanced-OpenGL/Instancing)  
 - [Off-screen Anti-Aliasing](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing)  
 - [Parallax Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping)
 - [Bloom](https://learnopengl.com/Advanced-Lighting/Bloom)
@@ -64,7 +63,6 @@ lekcija `skybox`. Lekcije grupe A i grupe B koje nisu implementirane kao kompone
 
 Obratiti pažnju na svrhu i primenu lekcija iz grupe A i grupe B. Implementirane lekcije koje se na sceni ne primećuju neće biti bodovane. Primer:
 - Bloom efekat bez tačkastog izvora svetlosti predstavljenog nekim objektom iz kojeg se svetlo `preliva`
-- Instanciranje sa malim brojem objekata
 - Parallax Mapping bez teksture sa dubinom i normalama
 - Deffered Shading sa malim brojem izvora svetlosti
 - ...
