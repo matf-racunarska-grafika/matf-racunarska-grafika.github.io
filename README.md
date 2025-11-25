@@ -4,7 +4,8 @@
 
 ## Polaganje ispita 
 - projekat od 20 (+10 dodatnih) poena
-- završni praktično-teorijski test od 80 poena  
+- završni praktični test od 40 poena
+- završni teorijski test od 40 poena  
 
 Izrada projekta nije obavezna. Projekat se može predati bilo kada tokom školske godine. Jednom odbranjen projekat važi cele godine.
 
