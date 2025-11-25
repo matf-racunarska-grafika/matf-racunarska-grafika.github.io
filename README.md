@@ -4,8 +4,7 @@
 
 ## Polaganje ispita 
 - projekat od 20 (+10 dodatnih) poena
-- završni praktični test od 40 poena
-- završni teorijski test od 40 poena
+- završni praktično-teorijski test od 80 poena  
 
 Izrada projekta nije obavezna. Projekat se može predati bilo kada tokom školske godine. Jednom odbranjen projekat važi cele godine.
 
@@ -14,7 +13,7 @@ Završni praktični i teorijski test se polažu u istom ispitnom roku. Da bi se 
 Molimo Vas da pre započinjanja rada na projektu detaljno pročitate - i tokom rada ispratite - **sva** upustva i napomene sa stranice [Projekat](https://matf-racunarska-grafika.github.io/projekat/).  
 
 Primer pismenog ispita možete pronaći [ovde](materijali/rg-pismeni-primer.pdf).  
-Napomena: **Iz primera pismenog ispita se može videti opšta struktura pitanja, bodovanje i obim ispita. Pitanja iz primera ispita ne moraju biti identična pitanjima sa ispita.**
+Napomena: **Pitanja iz primera ispita, kao i broj i način bodovanja ne moraju biti identična pitanjima sa ispita.**
 
 
 ## Obaveštenja 
