@@ -9,7 +9,9 @@ Molimo Vas, **detaljno** pročitajte i ispratite uputstva u daljem tekstu.
 **Projekti koji odstupaju od šablona datog u uputstvu neće biti pregledani.**  
 Ukoliko budete imali poteškoća u bilo kom koraku slobodno se javite mejlom.
 
-Sav koda iz repozitorijuma sa primerima sa časa možete slobodno koristiti u projektu bez ikakvih restrikcija i navođenja.
+Sav koda iz repozitorijuma sa primerima sa časa možete slobodno koristiti u projektu bez ikakvih restrikcija i navođenja.  
+
+Korišćenje razvojnog okruženja (CLion, QTCreator...) nije obavezno, ali može olakšati rad na projektu.  
 
 ## Kako da započnem projekat?
 1. Napraviti nalog na platformi [Github](https://github.com) i dodajte SSH ključ ([Uputstva -> Github](https://matf-racunarska-grafika.github.io/uputstva/))
@@ -171,7 +173,7 @@ Koraci za prijavu projekta:
 4. Sidebar desno `Reviewers` -> `wheel icon` -> `add @spaske00`.
 5. Prijaviti projekat popunjavanjem [formulara](https://forms.gle/uVNCu776TECvDtMZ9). 
 
-Projekat će biti pregledan i bodovi objavljeni na stranici kursa.  
+Projekat će biti pregledan, po potrebi zakazana odbrana, i bodovi objavljeni na stranici kursa.  
 Student može biti pozvan na usmenu odbranu projekta. Usmena odbrana projekta se sastoji od:  
 - Opštih pitanja iz lekcija sa vežbi
 - Opštih pitanja samo iz implementiranih lekcija iz grupe A i grupe B
@@ -180,9 +182,9 @@ Student može biti pozvan na usmenu odbranu projekta. Usmena odbrana projekta se
 
 **Važno: Konsultacije, `Question`, i `Issue` projekata se ne održavaju od početka prijave projekata do dana ispitnog roka.**  
 
-## Da li mogu da uradim projekat nakon položenog ispita?
+## Da li mogu da uradim projekat nakon položenog teorijskog i praktičnog testa?
 Ocena iz predmeta računarske grafike formira se kao zbir bodova na projektu, praktičnog i teorijskog testa.
-Ako želite da uradite projekat nakon položenog ispita potrebno je da nam **odmah nakon objavljivanja rezultata ispitnog roka** javite mejlom:  
+Ako želite da uradite projekat nakon položenog praktičnog i teorijskog testa potrebno je da nam **odmah nakon objavljivanja rezultata ispitnog roka** javite mejlom:  
 
 ```
 To: {profesorka} _At_ math.rs, 
