@@ -46,28 +46,30 @@
 
 -[Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems): local space, world space, view space, clip space, screen space [video](https://youtu.be/PVNk8XNLAQ0)
 
--[Camera](https://learnopengl.com/Getting-started/Camera): pozicija, pogled, opseg, kretanje kamere, Camera klasa (još abstrakcija)
-[video intro](https://youtu.be/Asm2eEAa8Ys) [video camera rotation](https://youtu.be/9GHfHALyIj0) [video camera class](https://youtu.be/wgE_E4902NE)
-
--[Rekapitulacija](https://learnopengl.com/Getting-started/Review)
+-[Camera](https://learnopengl.com/Getting-started/Camera): pozicija, pogled, opseg [video intro](https://youtu.be/Asm2eEAa8Ys)  
 
 ### 05
+-[Camera](https://learnopengl.com/Getting-started/Camera) - koordinatni sistem kamere, pomeranje kamere, matrica pogleda   
+-[Video camera rotation](https://youtu.be/9GHfHALyIj0) - rotiranje kamere, zoom
+-[Video camera class](https://youtu.be/wgE_E4902NE)  
+
+### 06
 -[Colors](https://learnopengl.com/Lighting/Colors): scena sa svetlom [video](https://youtu.be/8g8kZQ7Q_Xs)
 
 -[Basic lighting](https://learnopengl.com/Lighting/Basic-Lighting): ambijentalno, difuzno, spekularno [video](https://youtu.be/NhzU6gIYkSM) 
 
 -[Materials](https://learnopengl.com/Lighting/Materials): postavljanje materijala, svojstva svetla, različite boje svetla [video](https://youtu.be/O_n9oh7BuG4) 
 
-### 06
 -[Ligthing maps](https://learnopengl.com/Lighting/Lighting-maps): difuzne, spekularne [video](https://youtu.be/RXvi0umB4lo)
 
+### 07
 -[Light casters](https://learnopengl.com/Lighting/Light-casters): direkciono, tačkasto, koncentrisano [video](https://youtu.be/MEPziIv_TJI) 
 
 -[Multiple lights](https://learnopengl.com/Lighting/Multiple-lights): direkciono, tačkasto [video](https://youtu.be/PwkLzp0dNjQ)
 
 -[Rekaputilacija svetlosti](https://learnopengl.com/Lighting/Review)
 
-### 07
+### 08
 -[Assimp](https://learnopengl.com/Model-Loading/Assimp): instalacija i korišćenje biblioteke [video](https://youtu.be/eqiVRAAoh-w)
 
 -[Mesh](https://learnopengl.com/Model-Loading/Mesh): modeli i optimizacije [video](https://youtu.be/5_jyzp94L1c) 
@@ -76,7 +78,7 @@
 
 -[Blender](https://youtube.com/watch?v=4DQquG_o-Ac): kako konvertovati bilo koji model u Blenderu tako da radi sa trenutnom implementacijom učitavanja modela
 
-### 08
+### 09
 [Engine overview](https://github.com/matf-racunarska-grafika/matf-rg-project-2024): [video](https://youtu.be/bPa9-2cpnZk?feature=shared)
 - [engine::core::App](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/core/App.hpp)
 - [engine::platform::PlatformController](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/platform/PlatformController.hpp)
@@ -86,7 +88,7 @@
 
 [Engine test app](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/tree/main/engine/test/app) [video](https://youtu.be/xvxi96gglLU?feature=shared)
 
-### 9
+### 10
 [Engine deep dive]  
 - [engine::resources::ShaderCompiler Implementation](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/include/engine/resources/ShaderCompiler.hpp)
 - [engine::resources::ResourcesController Implementation](https://github.com/matf-racunarska-grafika/matf-rg-project-2024/blob/main/engine/src/ResourcesController.cpp)
@@ -107,7 +109,7 @@
 
 -[Framebuffers](https://learnopengl.com/Advanced-OpenGL/Framebuffers): kreiranje, renderovanje na teksturu, post-procesiranje, kernel efekti [video](https://youtu.be/rNiJcfrtQJM)
 
--[Instancing](https://learnopengl.com/Advanced-OpenGL/Instancing): primer (polje asterioda) [video](https://youtu.be/MA-eEBPRMJ8)
+-[Bloom -> HDR -> Framebuffers](https://learnopengl.com/Advanced-Lighting/Bloom): ekstrakovanje blještavih boja, Gausov blur, blending [video](https://youtu.be/m2lJ800T42o)
 
 -[Anti Aliasing -> Framebuffers](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing): multisampling, MSAA, Off-screen MSAA [video](https://youtu.be/2M3vx5W6LTQ)
 
@@ -117,9 +119,6 @@
 ### Grupa B
 
 -[Point shadows -> Shadow Mapping -> Framebuffers](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows): omnidirekcione mape senki, PCF [video](https://youtu.be/1VT9HOyiut4)
-
--[Bloom -> HDR -> Framebuffers](https://learnopengl.com/Advanced-Lighting/Bloom): ekstrakovanje blještavih boja, Gausov blur, blending [video](https://youtu.be/m2lJ800T42o)
-
 
 -[Deffered Shading -> Framebuffers](https://learnopengl.com/Advanced-Lighting/Deferred-Shading): G-bafer
 
@@ -135,6 +134,8 @@
 -[HDR](https://learnopengl.com/Advanced-Lighting/HDR): Floating point buffers, Tone mapping, Exposure [video](https://youtu.be/4bMwMTA8BEw)
 
 ### Dodatno
+-[Instancing](https://learnopengl.com/Advanced-OpenGL/Instancing): primer (polje asterioda) [video](https://youtu.be/MA-eEBPRMJ8)
+
 -[Cubemaps](https://learnopengl.com/Advanced-OpenGL/Cubemaps): kreiranje, skybox, mapiranje okruženja, dinamične mape okruženja [video](https://youtu.be/dxO4CFc0N98) [video](https://youtu.be/3Mx88eYNuyY)
 
 -[Advanced Data](https://learnopengl.com/Advanced-OpenGL/Advanced-Data): vertex atributi, baferi [video](https://youtu.be/k7KNRAUL3f0)
