@@ -16,6 +16,8 @@ Molimo Vas da pre započinjanja rada na projektu detaljno pročitate - i tokom r
 Primer pismenog ispita možete pronaći [ovde](materijali/rg-pismeni-primer.pdf).  
 Napomena: **Pitanja iz primera ispita, kao i broj i način bodovanja ne moraju biti identična pitanjima sa ispita.**
 
+## Prijave projekata  
+[Formular](https://forms.gle/pqyQxtoP5GQx1ACj6)  
 
 ## Obaveštenja 
 [NOVO] 3.11.2025. **Početak školske 2025/2026**  
