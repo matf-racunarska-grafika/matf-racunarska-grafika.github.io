@@ -20,7 +20,10 @@ Napomena: **Pitanja iz primera ispita, kao i broj i način bodovanja ne moraju b
 [Formular](https://forms.gle/pqyQxtoP5GQx1ACj6)  
 
 ## Obaveštenja 
-[NOVO] 3.11.2025. **Početak školske 2025/2026**  
+16.12.2025. **Nastava petak 19.12.**  
+U petak 19.12. neće biti vežbi. Termina nadoknade biće naknadno dogovoren.  
+
+3.11.2025. **Početak školske 2025/2026**  
 Drage kolege i koleginice,  
 U ponedeljak 10.11. vežbe neće biti držane, molimo studente koji bi u ovom terminu slušali vežbe da dođu u bilo koji drugi termin tokom nedelje po želji.  
 Srećan početak nove školske godine!
