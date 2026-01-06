@@ -20,6 +20,10 @@ Napomena: **Pitanja iz primera ispita, kao i broj i način bodovanja ne moraju b
 [Formular](https://forms.gle/pqyQxtoP5GQx1ACj6)  
 
 ## Obaveštenja 
+06.01.2026. **Nastava 08.01. i 09.01.**  
+U četvrtak 08.01. i petak 09.01. neće biti vežbi. Časovi se nastavljaju po rasporedu od 11.01. 
+Termini nadoknade biće blagovremeno dogovoreni.
+
 16.12.2025. **Nastava petak 19.12.**  
 U petak 19.12. neće biti vežbi. Termina nadoknade biće naknadno dogovoren.  
 
