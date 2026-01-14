@@ -11,6 +11,9 @@ Izrada projekta nije obavezna. Projekat se može predati bilo kada tokom školsk
 
 Završni praktični i teorijski test se polažu u istom ispitnom roku. Da bi se položio ispit potrebno je i na završnom praktičnom testu i na završnom teorijskom ispitu osvojiti po 20 poena i u zbiru imati bar 51 poen.  
 
+Gradivo praktičnog dela ispita obuhvata nedelje [1-8] iz [materijala](materijali/) i lekcije: [Advanced Lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting), [Blending](https://learnopengl.com/Advanced-OpenGL/Blending), [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling).   
+Na praktičnom delu ispita neće biti pitanja iz: C++, git, cmake-a, CLion.
+
 Molimo Vas da pre započinjanja rada na projektu detaljno pročitate - i tokom rada ispratite - **sva** upustva i napomene sa stranice [Projekat](https://matf-racunarska-grafika.github.io/projekat/).  
 
 Primer pismenog ispita možete pronaći [ovde](materijali/rg-pismeni-primer.pdf).  
