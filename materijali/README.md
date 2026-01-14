@@ -104,6 +104,7 @@
 
 -[Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling): winding number, odsecanja [video](https://youtu.be/TtejUXP18Cs)
 
+-[Advanced Lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting): Blinn-Phong [video](https://youtu.be/CJcRTXwHYhg)
 
 ### Grupa A
 
