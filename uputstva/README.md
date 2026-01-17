@@ -14,8 +14,8 @@ Ukoliko želite, kurs možete pratiti i raditi projekat i na virtuelnoj mašini.
 Sve biblioteke i alati su instalirani. Nije potrebno dodatno podešavanje virtualne mašine.  
 
 ## RG-Playground
-Na sledećem linku [rg-playground](https://github.com/matf-racunarska-grafika/rg-playground) nalazi se minimalni skelet projekta, koji uključuje sve potrebne biblioteke, za vežbanje zadataka sa časa.  
-
+Na sledećem linku [rg-playground](https://github.com/matf-racunarska-grafika/rg-playground) minimalni potrebni skelet koji uključuje sve potrebne biblioteke za vežbanje zadataka sa časa.  
+Skelet za izradu samog projekta nalazi se na linku [matf-rg-project](https://github.com/matf-racunarska-grafika/matf-rg-project-2024)
 
 ## Postupna instalacija
 
