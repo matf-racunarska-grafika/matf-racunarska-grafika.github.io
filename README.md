@@ -7,7 +7,7 @@
 Drage koleginice i kolege,  
 U četvrtak 22.01. sa početkom u 18:00 u učionici 718 imaćemo dva gostujuća predavanja. Predavanja će održati:  
 -**Napredne tehnike računarske grafike** - Nemanja Milanović, Noredus.  
--**AMD ROCm: open platform for compute acceleration** - za  Filip Janković, AMD.    
+-**AMD ROCm: open platform for compute acceleration** - Filip Janković, AMD.    
 Nakon gostujućih predavanja imaćete priliku da se raspitate o poslovima i praksama u kompanijama gostujućih predavača.  
 Ulaz je slobodan, vidimo se! 
 
