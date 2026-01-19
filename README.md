@@ -2,6 +2,15 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## Gostujuća predavanja
+
+Drage koleginice i kolege,  
+U četvrtak 22.01. sa početkom u 18:00 u učionici 718 imaćemo dva gostujuća predavanja. Predavanja će održati:  
+-**Napredne tehnike računarske grafike** - Nemanja Milanović, Noredus.  
+-**AMD ROCm: open platform for compute acceleration** - za  Filip Janković, AMD.    
+Nakon gostujućih predavanja imaćete priliku da se raspitate o poslovima i praksama u kompanijama gostujućih predavača.  
+Ulaz je slobodan, vidimo se! 
+
 ## Polaganje ispita 
 - projekat od 20 (+10 dodatnih) poena
 - završni praktični test od 40 poena
