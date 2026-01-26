@@ -3,7 +3,7 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Polaganje ispita 
-- projekat od 20 (+10 dodatnih) poena
+- (opciono) projekat od 20 (+10 dodatnih) poena
 - završni praktični test od 40 poena
 - završni teorijski test od 40 poena  
 
