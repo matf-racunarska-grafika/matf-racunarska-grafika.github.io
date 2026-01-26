@@ -7,7 +7,7 @@
 - završni praktični test od 40 poena
 - završni teorijski test od 40 poena  
 
-Izrada projekta nije obavezna i nije uslov za izlazak ne bilo koji deo ispita. Projekat se može predati bilo kada tokom školske godine. Jednom ocenjen i odbranjen projekat važi cele godine.
+Izrada projekta nije obavezna i nije uslov za izlazak nа ispit. Projekat se može predati bilo kada tokom školske godine. Jednom ocenjen i odbranjen projekat važi cele godine.
 
 Završni praktični i teorijski test se polažu u istom ispitnom roku i ne mogu se razdvajati. Nije moguće odvojeno polaganje teorijskog i praktičnog dela ni prenošenje bodova između rokova. Da bi se položio ispit potrebno je na završnom praktičnom i teorijskom ispitu osvojiti po 20 bodova i u zbiru imati bar 51 bod.  
 
