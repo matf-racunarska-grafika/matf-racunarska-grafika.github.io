@@ -2,23 +2,14 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Gostujuća predavanja
-
-Drage koleginice i kolege,  
-U četvrtak 22.01. sa početkom u 18:00 u učionici 718 imaćemo dva gostujuća predavanja. Predavanja će održati:  
--**Napredne tehnike računarske grafike** - Nemanja Milanović, Noredus.  
--**AMD ROCm: open platform for compute acceleration** - Filip Janković, AMD.    
-Nakon gostujućih predavanja imaćete priliku da se raspitate o poslovima i praksama u kompanijama gostujućih predavača.  
-Ulaz je slobodan, vidimo se! 
-
 ## Polaganje ispita 
 - projekat od 20 (+10 dodatnih) poena
 - završni praktični test od 40 poena
 - završni teorijski test od 40 poena  
 
-Izrada projekta nije obavezna. Projekat se može predati bilo kada tokom školske godine. Jednom odbranjen projekat važi cele godine.
+Izrada projekta nije obavezna i nije uslov za izlazak ne bilo koji deo ispita. Projekat se može predati bilo kada tokom školske godine. Jednom ocenjen i odbranjen projekat važi cele godine.
 
-Završni praktični i teorijski test se polažu u istom ispitnom roku. Da bi se položio ispit potrebno je i na završnom praktičnom testu i na završnom teorijskom ispitu osvojiti po 20 poena i u zbiru imati bar 51 poen.  
+Završni praktični i teorijski test se polažu u istom ispitnom roku i ne mogu se razdvajati. Nije moguće odvojeno polaganje teorijskog i praktičnog dela ni prenošenje bodove između rokova. Da bi se položio ispit potrebno je i na završnom praktičnom i teorijskom ispitu osvojiti po 20 poena i u zbiru imati bar 51 poen.  
 
 Gradivo praktičnog dela ispita obuhvata nedelje [1-8] iz [materijala](materijali/) i lekcije: [Advanced Lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting), [Blending](https://learnopengl.com/Advanced-OpenGL/Blending), [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling).   
 Na praktičnom delu ispita neće biti pitanja iz: C++, git, cmake-a, CLion.
@@ -26,12 +17,15 @@ Na praktičnom delu ispita neće biti pitanja iz: C++, git, cmake-a, CLion.
 Molimo Vas da pre započinjanja rada na projektu detaljno pročitate - i tokom rada ispratite - **sva** upustva i napomene sa stranice [Projekat](https://matf-racunarska-grafika.github.io/projekat/).  
 
 Primer pismenog ispita možete pronaći [ovde](materijali/rg-pismeni-primer.pdf).  
-Napomena: **Pitanja iz primera ispita, kao i broj i način bodovanja ne moraju biti identična pitanjima sa ispita.**
+Napomena: **Pitanja iz primera ispita, obim, kao i broj i način bodovanja ne moraju biti identični ispitu.**
 
 ## Prijave projekata  
 [Formular](https://forms.gle/pqyQxtoP5GQx1ACj6)  
 
 ## Obaveštenja 
+26.01.2026. **Nastava od 26.01.**  
+U terminima vežbi do kraja semestra neće biti nastave. Termini do kraja semestra služe za konsultacije (po najavi mejlom i dogovoru) i izrade projekata.   
+
 06.01.2026. **Nastava 08.01. i 09.01.**  
 U četvrtak 08.01. i petak 09.01. neće biti vežbi. Časovi se nastavljaju po rasporedu od 11.01. 
 Termini nadoknade biće blagovremeno dogovoreni.
