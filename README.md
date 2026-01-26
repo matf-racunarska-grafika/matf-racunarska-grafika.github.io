@@ -9,12 +9,13 @@
 
 Izrada projekta nije obavezna i nije uslov za izlazak ne bilo koji deo ispita. Projekat se može predati bilo kada tokom školske godine. Jednom ocenjen i odbranjen projekat važi cele godine.
 
-Završni praktični i teorijski test se polažu u istom ispitnom roku i ne mogu se razdvajati. Nije moguće odvojeno polaganje teorijskog i praktičnog dela ni prenošenje bodove između rokova. Da bi se položio ispit potrebno je i na završnom praktičnom i teorijskom ispitu osvojiti po 20 poena i u zbiru imati bar 51 poen.  
+Završni praktični i teorijski test se polažu u istom ispitnom roku i ne mogu se razdvajati. Nije moguće odvojeno polaganje teorijskog i praktičnog dela ni prenošenje bodova između rokova. Da bi se položio ispit potrebno je na završnom praktičnom i teorijskom ispitu osvojiti po 20 bodova i u zbiru imati bar 51 bod.  
 
 Gradivo praktičnog dela ispita obuhvata nedelje [1-8] iz [materijala](materijali/) i lekcije: [Advanced Lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting), [Blending](https://learnopengl.com/Advanced-OpenGL/Blending), [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling).   
 Na praktičnom delu ispita neće biti pitanja iz: C++, git, cmake-a, CLion.
 
 Molimo Vas da pre započinjanja rada na projektu detaljno pročitate - i tokom rada ispratite - **sva** upustva i napomene sa stranice [Projekat](https://matf-racunarska-grafika.github.io/projekat/).  
+Ukoliko imate bilo kakvih nejasnoća i nedoumica molimo vas javite mejlom.  
 
 Primer pismenog ispita možete pronaći [ovde](materijali/rg-pismeni-primer.pdf).  
 Napomena: **Pitanja iz primera ispita, obim, kao i broj i način bodovanja ne moraju biti identični ispitu.**
