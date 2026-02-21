@@ -13,7 +13,7 @@ Uvid u radove biće održan u četvrtak (19.02) u zgradi na Trgu u 16:00 u učio
 Izrada projekta nije obavezna i nije uslov za izlazak nа ispit. Projekat se može predati bilo kada tokom školske godine. Jednom ocenjen i odbranjen projekat važi cele godine.
 
 Bodovi ostvareni na jednom delu ispita (praktičnom ili teroijskom) važe u spojenim rokovima (jan1-jan2, jun1-jun2, sep1-sep2). Na primer, položeni praktični (teorijski) deo u jan1 važi u jan2, ali ne i u ostalim rokovima. Slično, položeni praktični (teorijski) deo u jun1 važi u jun2, i isto za sep1 i sep2. Ponovnim izlaskom na praktični ili teorijski deo ispita poništavaju se ostvareni bodovi iz prethodnog roka samo na tom delu ispita.
-Da bi se položio ispit potrebno je na završnom praktičnom i teorijskom ispitu osvojiti po 20 bodova i u zbiru imati bar 51 bod.  
+Da bi se položio ispit potrebno je na završnom praktičnom i teorijskom ispitu osvojiti po 20 bodova i u zbiru na oba dela imati barem 51 bod.  
 
 Gradivo praktičnog dela ispita obuhvata nedelje [1-8] iz [materijala](materijali/) i lekcije: [Advanced Lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting), [Blending](https://learnopengl.com/Advanced-OpenGL/Blending), [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling).   
 Na praktičnom delu ispita neće biti pitanja iz: C++, git, cmake-a, CLion.
