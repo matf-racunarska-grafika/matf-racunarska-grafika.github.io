@@ -2,9 +2,10 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Rezultati praktičnog dela ispita (Jan1)  
+## Rezultati ispita ispita (Jan1)  
 [Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXRdiUKiWNHNj_2BL7tpyTdN4uKN7oJckP9yG6ifx-DSCj5RKK_3BewXVtomgXaFB0lKWd-p1F2YBo/pubhtml)  
-Uvid u radove biće održan u četvrtak (19.02) u zgradi na Trgu u 16:00 u učionici 716.  
+
+[Pitanja](https://github.com/user-attachments/files/25483679/rg_jan1.pdf) sa praktičnog dela ispita iz roka januar1.
 
 ## Polaganje ispita 
 - (opciono) projekat od 20 (+10 dodatnih) poena
