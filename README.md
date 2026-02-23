@@ -22,7 +22,7 @@ Na praktičnom delu ispita neće biti pitanja iz: C++, git, cmake-a, CLion.
 Molimo Vas da pre započinjanja rada na projektu detaljno pročitate - i tokom rada ispratite - **sva** upustva i napomene sa stranice [Projekat](https://matf-racunarska-grafika.github.io/projekat/).  
 Ukoliko imate bilo kakvih nejasnoća i nedoumica molimo vas javite mejlom.  
 
-Primer pismenog ispita možete pronaći [ovde](materijali/rg-pismeni-primer.pdf).  
+Primer pismenog ispita možete pronaći [ovde](https://github.com/user-attachments/files/25483679/rg_jan1.pdf).  
 Napomena: **Pitanja iz primera ispita, obim, kao i broj i način bodovanja ne moraju biti identični ispitu.**
 
 ## Prijave projekata  
