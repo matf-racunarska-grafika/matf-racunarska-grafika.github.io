@@ -41,7 +41,7 @@ Pre svakog pokretanja procesa prevođenja projekta, pokreće se skripta koja ver
 
 ## Sadržaj projekta
 
-Osnova
+[10 bodova]  Osnova (obavezan deo) 
 - Model osvetljen sa barem dva tipa svetlosti (`Directional|Point|Spot`)
 - Osvetljenje koje može da se podešava preko grafičkog korisničkog interfejsa ili tastature/miša
 - Implementiran niz događaja: `{ACTION_X} --- AFTER_M_SECONDS---Triggers---> {EVENT_A} ---> AFTER_N_SECONDS---Triggers---> {EVENT_B}`
@@ -49,13 +49,13 @@ Osnova
     - AFTER_X_SECONDS - nakon što protekne X sekundi od registrovane akcije
     - EVENT - nešto se pomeri na sceni, boja svetla se promeni, neki objekat nestane, neki objekat se pojavi...
 
-Jedna lekcija iz grupe A:
+[5 bodova] (Opciono) Jedna lekcija iz grupe A:
 - [Frame-buffers with post-processing](https://learnopengl.com/Advanced-OpenGL/Framebuffers)  
 - [Off-screen Anti-Aliasing](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing)  
 - [Parallax Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping)
 - [Bloom](https://learnopengl.com/Advanced-Lighting/Bloom)
 
-Jedna lekcija iz grupe B: 
+[5 bodova] (Opciono) Jedna lekcija iz grupe B: 
 - [Deferred Shading](https://learnopengl.com/Advanced-Lighting/Deferred-Shading)  
 - [Point Shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows)  
 - [SSAO](https://learnopengl.com/Advanced-Lighting/SSAO)
