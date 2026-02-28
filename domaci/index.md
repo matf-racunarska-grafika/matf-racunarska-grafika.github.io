@@ -20,7 +20,7 @@ Na kraju, pogledajte rešenje kako bi ste proverili da li ste ispravno uradili i
     
  Proveriti verziju: `glxinfo | grep OpenGL`
     
-6. Klonirati [learnopengl](https://github.com/matf-racunarska-grafika/LearnOpenGL) repozitorijum; poreknuti svaki primer
+6. Klonirati [learnopengl](https://github.com/matf-racunarska-grafika/LearnOpenGL) repozitorijum; pokrenuti svaki primer
 
 7. Pročitati lekcije za sledeće vežbe
 
