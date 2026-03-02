@@ -6,7 +6,7 @@
 Termin: 05.03. u zgradi na Trgu:  
 -Teorija: 13:00
 -Praktični: 14:00  
-Molimo vas da na sledećem [formular](https://forms.gle/ttQqLz8kGJLr8PKi6) označite na koji deo ispita izlazite.  
+Molimo vas da na sledećem [formularu](https://forms.gle/ttQqLz8kGJLr8PKi6) označite na koji deo ispita izlazite.  
 
 
 ## Rezultati ispita (Jan1)  
