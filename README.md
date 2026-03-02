@@ -2,6 +2,13 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## Ispitni rok Januar 2  
+Termin: 05.03. u zgradi na Trgu:  
+-Teorija: 13:00
+-Praktični: 14:00  
+Molimo vas da na sledećem [formular](https://forms.gle/ttQqLz8kGJLr8PKi6) označite na koji deo ispita izlazite.  
+
+
 ## Rezultati ispita (Jan1)  
 [Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXRdiUKiWNHNj_2BL7tpyTdN4uKN7oJckP9yG6ifx-DSCj5RKK_3BewXVtomgXaFB0lKWd-p1F2YBo/pubhtml)  
 
