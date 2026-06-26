@@ -3,7 +3,8 @@
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
 ## Ispitni rok Jun1
-Radi bolje organizacije, molimo da se prijavite preko sledećeg [formulara](https://forms.gle/GLWd6iyjfy1ech88A) samo ukoliko sigurno izlazite na ispit u ovom roku. Formular će biti otvoren do četvrtka 25.06. u 18:00.  
+Ispit će biti održan u zgradi fakulteta u ulici Vatroslava Jagića. Praktični deo počeće u 13:00 a teorijski deo počeće u 14:00.
+
 
 ## Rezultati ispita (Jan2)  
 Na sledećem 
