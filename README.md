@@ -6,12 +6,12 @@
 Ispit će biti održan u zgradi fakulteta u ulici Vatroslava Jagića. Praktični deo počeće u 13:00 a teorijski deo počeće u 14:00.
 
 
-## Rezultati ispita (Jan2)  
+## Rezultati ispita (Jun1)  
 Na sledećem 
 [Linku](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXRdiUKiWNHNj_2BL7tpyTdN4uKN7oJckP9yG6ifx-DSCj5RKK_3BewXVtomgXaFB0lKWd-p1F2YBo/pubhtml)  
 možete pronaći razultate **praktičnog dela** ispita. 
 
-Uvid u radove iz **praktičnog dela** ispita biće održan u ponedeljak u 15:30 u zgradi na Trgu u učionici 716.  
+Uvid u radove iz **praktičnog dela** ispita biće održan u sredu (08.07) u 15:00 u zgradi na Trgu u učionici 716.  
 
 
 [Pitanja](https://github.com/user-attachments/files/25483679/rg_jan1.pdf) sa praktičnog dela ispita iz roka januar1.
