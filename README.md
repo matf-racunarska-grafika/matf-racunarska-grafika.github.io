@@ -2,8 +2,11 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## Ispitni rok Jun1
-Ispit će biti održan u zgradi fakulteta u ulici Vatroslava Jagića. Praktični deo počeće u 13:00 a teorijski deo počeće u 14:00.
+## Ispitni rok Jun2
+Ispit će biti održan u zgradi fakulteta na Studentskom trgu. Praktični deo počeće u 13:00 a teorijski deo počeće u 14:15.  
+Molimo vas da dođete barem 15 minuta pre početka ispita kako bi smo se blagovremeno smestili u učinoice i na vreme počeli ispit.  
+Osvojeni bodovi u roku Jun1 prenose se u rok Jun2. Izlaskom na neki od delova ispita (praktični ili teorijski) poništavaju se 
+prethodno osvojeni bodovi.  
 
 
 ## Rezultati ispita (Jun1)  
