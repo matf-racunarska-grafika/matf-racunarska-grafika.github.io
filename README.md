@@ -5,14 +5,14 @@
 ## Termini odbrane projekata
 
 Termini za odbranu projekata: 
-Petak 17.07. na Trgu, u 15:00, učionica 716.  
-Sreda 22.07. na Trgu, u 18:00, učionica 716.
-Uslov za izlazak na odbranu:  
-- projekat prijavljen preko formulara
-- pregledan i odobren (approved PR)
+Petak 17.07. na Trgu, u 15:00, učionica 716.    
+Sreda 22.07. na Trgu, u 18:00, učionica 716.  
+Uslov za izlazak na odbranu:    
+- projekat prijavljen preko formulara  
+- pregledan i odobren (approved PR)  
 
-Izlazak na odbranu u petak potvrditi mejlom do 16.07. u 18:00. izlazak na odbranu u sredu 22.07. potvrditi do utorka 21.07. u 18:00.  
-Ukoliko bude veliki broj prijavljenih, biće objavljen i raspored.  
+Izlazak na odbranu u petak potvrditi mejlom do 16.07. u 18:00. izlazak na odbranu u sredu 22.07. potvrditi do utorka 21.07. u 18:00.   
+Ukoliko bude veliki broj prijavljenih, biće objavljen i raspored.   
 
 ## Ispitni rok Jun2
 Ispit će biti održan u zgradi fakulteta na Studentskom trgu. Praktični deo počeće u 13:00 a teorijski deo počeće u 14:15.  
