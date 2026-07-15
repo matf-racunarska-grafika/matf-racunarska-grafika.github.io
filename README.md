@@ -2,6 +2,18 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## Termini odbrane projekata
+
+Termini za odbranu projekata: 
+Petak 17.07. na Trgu, u 15:00, učionica 716.  
+Sreda 22.07. na Trgu, u 18:00, učionica 716.
+Uslov za izlazak na odbranu:  
+- projekat prijavljen preko formulara
+- pregledan i odobren (approved PR)
+
+Izlazak na odbranu u petak potvrditi mejlom do 16.07. u 18:00. izlazak na odbranu u sredu 22.07. potvrditi do utorka 21.07. u 18:00.  
+Ukoliko bude veliki broj prijavljenih, biće objavljen i raspored.  
+
 ## Ispitni rok Jun2
 Ispit će biti održan u zgradi fakulteta na Studentskom trgu. Praktični deo počeće u 13:00 a teorijski deo počeće u 14:15.  
 Molimo vas da dođete barem 15 minuta pre početka ispita kako bi smo se blagovremeno smestili u učinoice i na vreme počeli ispit.  
