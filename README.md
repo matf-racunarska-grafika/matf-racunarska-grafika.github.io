@@ -14,19 +14,12 @@ Uslov za izlazak na odbranu:
 Izlazak na odbranu u petak potvrditi mejlom do 16.07. u 18:00. izlazak na odbranu u sredu 22.07. potvrditi do utorka 21.07. u 18:00.   
 Ukoliko bude veliki broj prijavljenih, biće objavljen i raspored.   
 
-## Ispitni rok Jun2
-Ispit će biti održan u zgradi fakulteta na Studentskom trgu. Praktični deo počeće u 13:00 a teorijski deo počeće u 14:15.  
-Molimo vas da dođete barem 15 minuta pre početka ispita kako bi smo se blagovremeno smestili u učinoice i na vreme počeli ispit.  
-Osvojeni bodovi u roku Jun1 prenose se u rok Jun2. Izlaskom na neki od delova ispita (praktični ili teorijski) poništavaju se 
-prethodno osvojeni bodovi.  
-
-
-## Rezultati ispita (Jun1)  
+## (NOVO) Rezultati ispita (Jun2)  
 Na sledećem 
 [Linku](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXRdiUKiWNHNj_2BL7tpyTdN4uKN7oJckP9yG6ifx-DSCj5RKK_3BewXVtomgXaFB0lKWd-p1F2YBo/pubhtml)  
 možete pronaći razultate **praktičnog dela** ispita. 
 
-Uvid u radove iz **praktičnog dela** ispita biće održan u sredu (08.07) u 15:00 u zgradi na Trgu u učionici 716.  
+Uvid u radove iz **praktičnog dela** ispita biće održan u sredu (22.07) u 18:00 u zgradi na Trgu u učionici 716.  
 
 
 [Pitanja](https://github.com/user-attachments/files/25483679/rg_jan1.pdf) sa praktičnog dela ispita iz roka januar1.
