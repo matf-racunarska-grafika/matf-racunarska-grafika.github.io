@@ -171,7 +171,7 @@ Koraci za prijavu projekta:
 2. Postaviti granu na Github: `git push -u origin {miXXXXX}`
 3. Napraviti Pull Request sa stranice projekta: `Pull Requests` -> `New pull request` -> `base` ostaviti `{YOUR_REPOSITORY_NAME}:main`, za `compare` odabrati `{YOUR_REPOSITORY_NAME}:{miXXXXX}` -> `Create pull request`. (Obratiti pažnju da umesto {YOUR_REPOSITORY_NAME} Github ponekad ostavi `matf-rg-project-2024`, zameniti sa granom main na **Vašem** repozitorijumu)
 4. Sidebar desno `Reviewers` -> `wheel icon` -> `add @spaske00`.
-5. Prijaviti projekat popunjavanjem [formulara](https://forms.gle/uVNCu776TECvDtMZ9). 
+5. Prijaviti projekat popunjavanjem [formulara](https://forms.gle/pqyQxtoP5GQx1ACj6). 
 
 Projekat će biti pregledan, po potrebi zakazana odbrana, i bodovi objavljeni na stranici kursa.  
 Student može biti pozvan na usmenu odbranu projekta. Usmena odbrana projekta se sastoji od:  
