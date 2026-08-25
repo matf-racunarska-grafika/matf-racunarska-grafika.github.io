@@ -2,6 +2,18 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## Prijava SEP1
+
+Molimo vas da se preko sledećeg formulara [https://forms.gle/Q4Mt9dqnheKeQVmy9](https://forms.gle/Q4Mt9dqnheKeQVmy9) prijavite za izlazak na ispit iz računarske grafike koji će biti održan  
+u četvrtak 27.08. u zgradi fakulteta na Trgu, sa početkom u 13:00.
+
+Praktični deo ispita biće održan od 13:00 a teorijski u 14:15.
+
+Formular će biti otvoren do srede u 19:00. 
+
+Unapred hvala,  
+RG tim
+
 ## (NOVO) Rezultati ispita (Jun2)  
 Na sledećem 
 [Linku](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXRdiUKiWNHNj_2BL7tpyTdN4uKN7oJckP9yG6ifx-DSCj5RKK_3BewXVtomgXaFB0lKWd-p1F2YBo/pubhtml)  
