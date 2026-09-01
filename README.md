@@ -8,7 +8,7 @@ Na sledećem
 [Linku](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXRdiUKiWNHNj_2BL7tpyTdN4uKN7oJckP9yG6ifx-DSCj5RKK_3BewXVtomgXaFB0lKWd-p1F2YBo/pubhtml)  
 možete pronaći razultate ispita. 
 
-Uvid u radove iz **teorijskog dela** ispita biće održan u utorak (02.09) u 10:30 u zgradi na Trgu.  
+Uvid u radove iz **teorijskog dela** ispita biće održan u utorak (02.09) u 10:30 u zgradi na Trgu u učionici 716.  
 Uvid u radove iz **praktičnog dela** ispita biće održan u petak (04.09) u 15:00 u zgradi na Trgu u učionici 716.  
 
 
