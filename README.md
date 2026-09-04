@@ -2,8 +2,24 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+## (NOVO) Odbrane projekata 
 
-## (NOVO) Rezultati ispita (Sep1)  
+Utorak 08.09. u zgradi na Trgu. 
+Molim vas potvrdite mejlom dolazak u navedenom terminu. Ukoliko Vam se neki ispit ili obaveza preklapa sa navedenim
+terminom molim Vas javite mi mejlom pa cemo organizovati alternativni termin.
+
+Termin 18:00   
+100/2023  
+024/2023  
+026/2023  
+213/2022
+
+Termin 19:00
+065/2023
+8/2022
+209/2021
+
+## Rezultati ispita (Sep1)  
 Na sledećem 
 [Linku](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXRdiUKiWNHNj_2BL7tpyTdN4uKN7oJckP9yG6ifx-DSCj5RKK_3BewXVtomgXaFB0lKWd-p1F2YBo/pubhtml)  
 možete pronaći razultate ispita. 
