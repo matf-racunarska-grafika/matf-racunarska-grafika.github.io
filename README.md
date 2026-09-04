@@ -8,13 +8,13 @@ Utorak 08.09. u zgradi na Trgu.
 Molim vas potvrdite mejlom dolazak u navedenom terminu. Ukoliko Vam se neki ispit ili obaveza preklapa sa navedenim
 terminom molim Vas javite mi mejlom pa cemo organizovati alternativni termin.
 
-Termin 18:00    
-100/2023    
-024/2023  
-026/2023  
+**Termin 18:00**  
+100/2023  
+024/2023  
+026/2023  
 213/2022  
-
-Termin 19:00  
+  
+**Termin 19:00**  
 065/2023  
 8/2022  
 209/2021  
