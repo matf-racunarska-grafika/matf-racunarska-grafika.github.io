@@ -49,6 +49,9 @@ Primer pismenog ispita možete pronaći [ovde](https://github.com/user-attachmen
 Napomena: **Pitanja iz primera ispita, obim, kao i broj i način bodovanja ne moraju biti identični ispitu.**
 
 ## Prijave projekata  
+
+Molimo vas da nakon završetka, projekat prijavite preko formulara kako bi bio pregledan, 
+zakazan eventualni datum odbrane projekta i bodovi upisani u tabelu.  
 [Formular](https://forms.gle/pqyQxtoP5GQx1ACj6)  
 
 ## Obaveštenja 
