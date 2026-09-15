@@ -2,22 +2,13 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-
-## Ispit Sep2  
-
-Ponedeljak 14.09. zgrada na Trgu.  
-Teorija: 13:00  
-Praktični: 14:00  
-
-
-
-## Rezultati ispita (Sep1)  
+## (NOVO) Rezultati ispita (Sep2)  
 Na sledećem 
 [Linku](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXRdiUKiWNHNj_2BL7tpyTdN4uKN7oJckP9yG6ifx-DSCj5RKK_3BewXVtomgXaFB0lKWd-p1F2YBo/pubhtml)  
-možete pronaći razultate ispita. 
+možete pronaći razultate **praktičnog** dela ispita. 
+Uskoro će biti objavljeni i rezultati teorijskog dela ispita.   
 
-Uvid u radove iz **teorijskog dela** ispita biće održan u utorak (02.09) u 10:30 u zgradi na Trgu u učionici 716.  
-Uvid u radove iz **praktičnog dela** ispita biće održan u petak (04.09) u 15:00 u zgradi na Trgu u učionici 716.  
+Uvid u radove iz **praktičnog dela** ispita biće održan u četvrtak (17.09) u 16:00 u zgradi na Trgu u učionici 716.    
 
 
 [Pitanja](https://github.com/user-attachments/files/25483679/rg_jan1.pdf) sa praktičnog dela ispita iz roka januar1.  
