@@ -2,10 +2,17 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## (NOVO) Rezultati ispita (Sep2)  
+## (NOVO) Projekti 17.09.2026.   
+Drage koleginice i kolege,
+Molimo vas da projekte predate do nedelje 20.09. kako bi ostalo dovoljno vremena za njihovo pregledanje.  [Formular](https://forms.gle/pqyQxtoP5GQx1ACj6)    
+Termini za odbrane projekata će biti u ponedeljak 21.09. i petak 25.09.  
+Za projekte čiji su bodovi već upisani u  [tabeli](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXRdiUKiWNHNj_2BL7tpyTdN4uKN7oJckP9yG6ifx-DSCj5RKK_3BewXVtomgXaFB0lKWd-p1F2YBo/pubhtml) odbrana neće biti potrebna.   
+
+
+## Rezultati ispita (Sep2)  
 Na sledećem 
 [Linku](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXRdiUKiWNHNj_2BL7tpyTdN4uKN7oJckP9yG6ifx-DSCj5RKK_3BewXVtomgXaFB0lKWd-p1F2YBo/pubhtml)  
-možete pronaći razultate **praktičnog** dela ispita. 
+možete pronaći razultate **praktičnog i teorijskog** dela ispita. 
 Uskoro će biti objavljeni i rezultati teorijskog dela ispita.   
 
 Uvid u radove iz **praktičnog dela** ispita biće održan u četvrtak (17.09) u 16:00 u zgradi na Trgu u učionici 716.    
