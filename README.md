@@ -2,9 +2,20 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
-## (NOVO) Projekti 17.09.2026.   
-Drage koleginice i kolege, 
-Termini za odbrane projekata će biti u ponedeljak 21.09. i petak 25.09.  
+## (NOVO) Odbrane projekata 25.09.2026.   
+Zgrada na Trgu, ispred učionice 716.  
+
+10:00  
+276/2023  
+124/2023  
+075/2023  
+
+11:00   
+133/2023  
+6/2022  
+159/2021  
+
+
 Za projekte čiji su bodovi već upisani u  [tabeli](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXRdiUKiWNHNj_2BL7tpyTdN4uKN7oJckP9yG6ifx-DSCj5RKK_3BewXVtomgXaFB0lKWd-p1F2YBo/pubhtml) odbrana neće biti potrebna.   
 
 
