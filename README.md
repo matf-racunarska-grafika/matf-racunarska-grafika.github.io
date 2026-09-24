@@ -40,9 +40,6 @@ Izrada projekta nije obavezna i nije uslov za izlazak nа ispit. Projekat se mo�
 Bodovi ostvareni na jednom delu ispita (praktičnom ili teroijskom) važe u spojenim rokovima (jan1-jan2, jun1-jun2, sep1-sep2). Na primer, položeni praktični (teorijski) deo u jan1 važi u jan2, ali ne i u ostalim rokovima. Slično, položeni praktični (teorijski) deo u jun1 važi u jun2, i isto za sep1 i sep2. Ponovnim izlaskom na praktični ili teorijski deo ispita poništavaju se ostvareni bodovi iz prethodnog roka samo na tom delu ispita.
 Da bi se položio ispit potrebno je na završnom praktičnom i teorijskom ispitu osvojiti po 20 bodova i u zbiru na oba dela i **projektu** imati barem 51 bod.  
 
-Gradivo praktičnog dela ispita obuhvata nedelje [1-8] iz [materijala](materijali/) i lekcije: [Advanced Lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting), [Blending](https://learnopengl.com/Advanced-OpenGL/Blending), [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing), [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling).   
-Na praktičnom delu ispita neće biti pitanja iz: C++, git, cmake-a, CLion.
-
 Molimo Vas da pre započinjanja rada na projektu detaljno pročitate - i tokom rada ispratite - **sva** upustva i napomene sa stranice [Projekat](https://matf-racunarska-grafika.github.io/projekat/).  
 Ukoliko imate bilo kakvih nejasnoća i nedoumica molimo vas javite mejlom.  
 
@@ -51,20 +48,7 @@ Napomena: **Pitanja iz primera ispita, obim, kao i broj i način bodovanja ne mo
 
 
 ## Obaveštenja 
-26.01.2026. **Nastava od 26.01.**  
-U terminima vežbi do kraja semestra neće biti nastave. Termini do kraja semestra služe za konsultacije (po najavi mejlom i dogovoru) i izrade projekata.   
 
-06.01.2026. **Nastava 08.01. i 09.01.**  
-U četvrtak 08.01. i petak 09.01. neće biti vežbi. Časovi se nastavljaju po rasporedu od 11.01. 
-Termini nadoknade biće blagovremeno dogovoreni.
-
-16.12.2025. **Nastava petak 19.12.**  
-U petak 19.12. neće biti vežbi. Termina nadoknade biće naknadno dogovoren.  
-
-3.11.2025. **Početak školske 2025/2026**  
-Drage kolege i koleginice,  
-U ponedeljak 10.11. vežbe neće biti držane, molimo studente koji bi u ovom terminu slušali vežbe da dođu u bilo koji drugi termin tokom nedelje po želji.  
-Srećan početak nove školske godine!
 
 ## Materijali iz vežbi za kurs iz Računarske grafike na Matematičkom fakultetu - Univerzitet u Beogradu
 
@@ -87,7 +71,7 @@ Srećan početak nove školske godine!
 [Projekat detaljnije](projekat/)  
 
 ## Konsultacije
-Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom.
+Nakon svakog termina vežbi po rasporedu ili u dogovoru mejlom tokom trajanja semestra.  
 
 ### Licenca
 Materijali kursa su bazirani na [www.learnopengl.com](www.learnopengl.com) sajtu napravljenom od strane [Joey De Vries](https://joeydevries.com/#home) i kao takvi spadaju pod [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licencu. Celokupan tekst licence možete pronaći [ovde](https://creativecommons.org/licenses/by/4.0/legalcode).
