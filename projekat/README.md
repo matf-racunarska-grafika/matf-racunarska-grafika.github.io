@@ -1,7 +1,7 @@
 
 # Projekat (In construction...work in progress)
 
-Projekat obavezan deo kursa koji nosi ukupno 60 (+15 bonus) bodova. Projekat se smatra položenim ako je ocenjen sa barem 20 bodova i radi se individualno.  
+Projekat obavezan deo kursa koji nosi ukupno ?? bodova. Projekat se smatra položenim ako je ocenjen sa barem ?? bodova i radi se individualno.  
 
 **Nesamostalan rad na projektu, plagiranje, kao i direktno preuzimanje delova koda iz drugih studentskih projekata smatra se kršenjem pravila polaganja ispita prema pravilniku fakulteta i povlači automatsko pokretanje disciplinskog postupka i zabranu polaganja ispita Računarske grafike u trenutnoj školskoj godini.**
 
@@ -18,7 +18,7 @@ Stil pisanja koda koji projekat treba da prati nalazi se u DOCS.md dokumentu klo
 
 ## Šta projekat treba da sadrži?
 
-[30 bodova]  Osnova (Obavezno) 
+Osnova (Obavezno) 
 - Pokretnu kameru
 - Blending
 - Face culling
@@ -32,11 +32,11 @@ Stil pisanja koda koji projekat treba da prati nalazi se u DOCS.md dokumentu klo
     - AFTER_X_SECONDS - nakon što protekne X sekundi od registrovane akcije
     - EVENT - nešto se pomeri na sceni, boja svetla se promeni, neki objekat nestane, neki objekat se pojavi...
 
-[10 bodova] [Off-screen Anti-Aliasing](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing) (Opciono)
+[Off-screen Anti-Aliasing](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing) (Opciono)
 
-[10 bodova] [Bloom](https://learnopengl.com/Advanced-Lighting/Bloom) (Opciono)
+[Bloom](https://learnopengl.com/Advanced-Lighting/Bloom) (Opciono)
 
-[10 bodova] [Point Shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows)  (Opciono)
+[Point Shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows)  (Opciono)
 
 [+15 bodova] Ukoliko je projekat ocenjen sa maksimalnih 60 bodova možete se javiti mejlom za dodatni zadatak koji će nositi 15 bonus poena, tako da u zbiru na kraju ispita možete imati 115 bodova.  
 
