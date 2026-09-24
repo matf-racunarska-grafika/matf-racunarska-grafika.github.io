@@ -156,10 +156,4 @@ Modele možete preuzeti sa:
 - [gdrive](https://drive.google.com/drive/folders/1vMCZej9C5V0uc4RgKrinMHS6OM1IaY2g?usp=sharing)
 
 
-## CLion podešavanja
-1. Učitati stil formatiranja koda: `Settings` -> `Editor` -> `Code Style` -> `Schema (Wheel icon)` -> `Import scheema` -> `path/to/{REPOSITORY_NAME}/clion-code-style.xml`
-2. Uključiti automatsko formatiranje koda: `Settings` -> `Tools` -> `Actions on Save` -> `Reformat code`
-3. Uključiti izuzetke za formatiranje koda: `Settings` -> `Tools` -> `Editor` -> `Code Style` -> Check `Turn formatter on/off with markers in code comments` -> `Off: @formatter:off`, `On: @formatter:on`
-4. [Opciono] Instalirati dodatak GLSL za bojenje sintakse: `Settings` -> `Plugins` -> `Marketplace` -> search `GLSL` -> `Install`.
-5. [Opciono] Instalirati dodatak GitToolBox za bolju git integraciju: `Settings` -> `Plugins` -> `Marketplace` -> search `GitToolBox` -> `Install`.
 
