@@ -1,5 +1,5 @@
 
-# Projekat
+# Projekat (In construction...work in progress)
 
 Projekat obavezan deo kursa koji nosi ukupno 60 (+15 bonus) bodova. Projekat se smatra položenim ako je ocenjen sa barem 20 bodova i radi se individualno.  
 
