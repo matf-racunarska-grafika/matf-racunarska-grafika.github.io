@@ -1,9 +1,7 @@
 # Materijali
 
-
 ## Osnovna literatura
-
-Osnovni izvor za učenje računarske grafike je knjiga _Learn OpenGL_ sa pratećim primerima sa časova vežbi.  
+Osnovni izvor za učenje računarske grafike je **knjiga** _Learn OpenGL_ sa pratećim primerima sa časova vežbi.  
 
 - [Knjiga Web](https://learnopengl.com/)
 - [Knjiga PDF](https://learnopengl.com/book/book_pdf.pdf)
@@ -14,6 +12,21 @@ Osnovni izvor za učenje računarske grafike je knjiga _Learn OpenGL_ sa prateć
 - [C++ mini kurs](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
 - [Zadaci za vežbu](https://matf-racunarska-grafika.github.io/domaci/)
 - [Prazan skelet za vežbanje primera](https://github.com/matf-racunarska-grafika/rg-playground)
+
+## Dokumentacija
+-[OpenGL docs](http://docs.gl/)  
+-[glfw](https://www.glfw.org/)  
+-[glad generator](https://glad.dav1d.de/)  
+-[cppreference](https://en.cppreference.com/w/)  
+-[Git cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)  
+-[learngit](https://learngitbranching.js.org/)  
+
+## Alati
+- [CLion](https://www.jetbrains.com/clion/)
+- [QtCreator](https://www.qt.io/download-qt-installer)
+- [Visual Code](https://code.visualstudio.com/)
+- [Github](https://github.com/)
+- [RenderDoc](https://renderdoc.org/)
 
 ### Dodatna (neobavezna) literatura
 - [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)  
