@@ -14,12 +14,12 @@ Osnovni izvor za učenje računarske grafike je **knjiga** _Learn OpenGL_ sa pra
 - [Prazan skelet za vežbanje primera](https://github.com/matf-racunarska-grafika/rg-playground)
 
 ## Dokumentacija
--[OpenGL docs](http://docs.gl/)  
--[glfw](https://www.glfw.org/)  
--[glad generator](https://glad.dav1d.de/)  
--[cppreference](https://en.cppreference.com/w/)  
--[Git cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)  
--[learngit](https://learngitbranching.js.org/)  
+- [OpenGL docs](http://docs.gl/)  
+- [glfw](https://www.glfw.org/)  
+- [glad generator](https://glad.dav1d.de/)  
+- [cppreference](https://en.cppreference.com/w/)  
+- [Git cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)  
+- [learngit](https://learngitbranching.js.org/)  
 
 ## Alati
 - [CLion](https://www.jetbrains.com/clion/)
