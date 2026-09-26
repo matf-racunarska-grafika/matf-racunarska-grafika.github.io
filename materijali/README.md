@@ -41,20 +41,16 @@ Osnovni izvor za učenje računarske grafike je **knjiga** _Learn OpenGL_ sa pra
 ## Osnove računarske grafike
 
 ### 01
--[CLion](https://www.jetbrains.com/clion/): integrisano razvojno okruženje, kompajliranje, debagovanje, CMake [video](https://youtu.be/Epx2jEskAJw)  
-
--C++: osnove jezika [playlist](https://youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)  
-
--Git: clone, add, commit, remove, branch, checkout, push, pull, merge, rebase [video](https://youtu.be/AJO-obSjOak) 
 
 -Uvod u interaktivnu računarsku grafiku [video](https://youtu.be/rMs4BpasVSo)  
 
---- 
-
-### 02
 -GLFW, GLAD
 
 -[Hello Window](https://learnopengl.com/Getting-started/Hello-Window): Skelet projekta, uključivanje biblioteka GLFW i GLAD, prozor, dorađaji 
+
+---
+
+### 02
 
 -[Hello Triangle](https://learnopengl.com/Getting-started/Hello-Triangle): Vertex shader, Fragmen shader, Vertex Buffer Object, Vertex Array Object, Element Buffer Object
 
@@ -175,4 +171,10 @@ Osnovni izvor za učenje računarske grafike je **knjiga** _Learn OpenGL_ sa pra
 -[Normal mapping](https://learnopengl.com/Advanced-Lighting/Normal-Mapping): mapiranje normala, tangenti prostori, kompleksni objekti [video](https://youtu.be/51Q_vZ0BuKU)
 
 -[HDR](https://learnopengl.com/Advanced-Lighting/HDR): Floating point buffers, Tone mapping, Exposure [video](https://youtu.be/4bMwMTA8BEw)
+
+
+### Licenca
+Materijali kursa su bazirani na [www.learnopengl.com](www.learnopengl.com) sajtu napravljenom od strane [Joey De Vries](https://joeydevries.com/#home) i kao takvi spadaju pod [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licencu. Celokupan tekst licence možete pronaći [ovde](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+Examples used in this course are based on [www.learnopengl.com](www.learnopengl.com) tutorials by [Joey De Vries](https://joeydevries.com/#home) and as such are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Full text of the licence can be found [here](https://creativecommons.org/licenses/by/4.0/legalcode).
 
