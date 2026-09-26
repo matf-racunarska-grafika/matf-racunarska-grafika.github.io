@@ -1,7 +1,24 @@
 
 # Projekat (In construction...work in progress)
 
-Projekat obavezan deo kursa koji nosi ukupno ?? bodova. Projekat se smatra položenim ako je ocenjen sa barem ?? bodova i radi se individualno.  
+Projekat neobavezan deo kursa koji nosi ukupno ?? bodova. Projekat se smatra položenim ako je ocenjen sa barem ?? bodova i radi se individualno.  
+
+Rokovi za ocenjivanje projekata:  
+- Jan1-Jan2   
+    - Predaja do 17.01. u 21:00  
+    - Ispravke do 24.01. u 21:00  
+- Jun1-Jun2   
+    - Predaja do 06.06. u 21:00   
+    - Ispravke do 13.06. u 21:00  
+- Sep1-Sep2   
+    - Predaja do 15.08. u 21:00 (poslednji termin)   
+    - Ispravke do 22.08 u 21:00 (poslednji termin)   
+
+- Predaja projekta:
+    - Popunjavanjem formulara  
+    - Projekat je završen    
+    - Sve željene lekcije prisutne i funkcionalne  
+
 
 **Nesamostalan rad na projektu, plagiranje, kao i direktno preuzimanje delova koda iz drugih studentskih projekata smatra se kršenjem pravila polaganja ispita prema pravilniku fakulteta i povlači automatsko pokretanje disciplinskog postupka i zabranu polaganja ispita Računarske grafike u trenutnoj školskoj godini.**
 
@@ -9,8 +26,7 @@ Molimo Vas, **detaljno** pročitajte i ispratite uputstva u daljem tekstu.
 **Projekti koji odstupaju od šablona datog u uputstvu neće biti pregledani.**  
 Ukoliko budete imali poteškoća u bilo kom koraku slobodno se javite mejlom.
 
-Sav koda iz repozitorijuma sa primerima sa časa možete slobodno koristiti u projektu bez ikakvih restrikcija i navođenja. 
-Korišćenje razvojnog okruženja (CLion, QTCreator...) nije obavezno, ali može olakšati rad na projektu.  
+Sav koda iz repozitorijuma sa primerima sa časa možete slobodno koristiti u projektu bez ikakvih restrikcija i navođenja.  
 
 ## Kako da započnem projekat?
 Praviti male, logične promene u kodu i redovno komitovati sa porukama koje sažeto opisuju dodatu promenu. Izbegavati dodavanje *velike* količine koda od jednom.  
@@ -32,22 +48,17 @@ Osnova (Obavezno)
     - AFTER_X_SECONDS - nakon što protekne X sekundi od registrovane akcije
     - EVENT - nešto se pomeri na sceni, boja svetla se promeni, neki objekat nestane, neki objekat se pojavi...
 
-[Off-screen Anti-Aliasing](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing) (Opciono)
 
-[Bloom](https://learnopengl.com/Advanced-Lighting/Bloom) (Opciono)
+(10 bodova) [Bloom](https://learnopengl.com/Advanced-Lighting/Bloom) (Opciono)
 
-[Point Shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows)  (Opciono)
+(10 bodova) [Point Shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows)  (Opciono)
 
-[+15 bodova] Ukoliko je projekat ocenjen sa maksimalnih 60 bodova možete se javiti mejlom za dodatni zadatak koji će nositi 15 bonus poena, tako da u zbiru na kraju ispita možete imati 115 bodova.  
-
-Obratiti pažnju na svrhu i primenu opcionih lekcija. Implementirane lekcije koje se na sceni ne primećuju neće biti bodovane. Na primer: 
-- Bloom efekat bez tačkastog izvora svetlosti predstavljenog nekim objektom iz kojeg se svetlo `preliva`
+(10 bodova)
 
 U projektu se takođe boduje:
-- Stil, kreativnost i skladnost scene. 
 - Uočljivost, izraženost i doprinos implementiranih oblasti atmosferi scene. 
 - Kvalitet koda
-    - Konzistentno formatiranje prema `clion-code-style.xml` (pogledati kod `engine` i `test::app` za primere)
+    - Konzistentno formatiranje prema DOCS.md uputstvu
     - Modularnost i logična podeljenost koda
     - Čitljiva i razumljiva imena klasa, funkcija, promenljivih
 
@@ -61,10 +72,9 @@ U projektu se takođe boduje:
 - Nema popunjen `README.md`
 
 
-
 ## Kako da koristim Git i Github?  
 Napraviti baznu granu za projekat prema upustvu: [Kako da započnem projekat?].  
-Za svaku lekciju od grane `{dev}` napraviti odvojenu granu `{lesson-name-implemntation}` i promene postavljati na toj grani kako bi pregledanje, poređenje i testiranje bilo lakše.  
+Za svaku lekciju od grane `{dev}` napraviti odvojenu granu `{lesson-name-implementation}` i promene postavljati na toj grani kako bi pregledanje, poređenje i testiranje bilo lakše.  
 Kada je lekcija implementirana, granu sa lekcijom `{lesson-name-implemntation}` spojiti sa granom `{dev}`.  
 
 Kompletan primer rada na implementaciji osvetljenja:  
