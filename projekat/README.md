@@ -48,11 +48,12 @@ Osnova (Obavezno)
 - Blin-fongov model osvetljenja na svim objektima
 - Model osvetljen sa sva tri tipa svetlosti (`Directional Point Spot`)
 - Osvetljenje koje može da se podešava preko grafičkog korisničkog interfejsa (ImGui)
-- {Efekat} post procesiranja
-- Implementiran niz događaja: `{ACTION_X} --- AFTER_M_SECONDS---Triggers---> {EVENT_A} ---> AFTER_N_SECONDS---Triggers---> {EVENT_B}`
-    - ACTION - pomeranje kamere na neku lokaciju na sceni, određen trenutak u vremenu...
-    - AFTER_X_SECONDS - nakon što protekne X sekundi od registrovane akcije
-    - EVENT - nešto se pomeri na sceni, boja svetla se promeni, neki objekat nestane, neki objekat se pojavi...
+- Offscreen post procesiranja slike  
+- Implementiran niz događaja:
+    - {AKCIJA_A1} -> NAKON_M_SEKUNDI ---> {DOGADJAJ_X} ---> NAKON_N_SEKUNDI ---> {DOGADJAJ_Y}`
+    - AKCIJA - pomeranje kamere na neku lokaciju na sceni, određen trenutak u vremenu...
+    - NAKON_X_SEKUNDI - nakon što protekne X sekundi od registrovane akcije
+    - DOGADJAJ - nešto se pomeri na sceni, boja svetla se promeni, neki objekat nestane, neki objekat se pojavi...
 
 
 (10 bodova) [Bloom](https://learnopengl.com/Advanced-Lighting/Bloom) ili [Point Shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows)  
