@@ -40,102 +40,235 @@ Osnovni izvor za učenje računarske grafike je **knjiga** _Learn OpenGL_ sa pra
 
 ## Osnove računarske grafike
 
-### 01
+### 01 Uvod u interaktivnu računarsku grafiku
 
--Uvod u interaktivnu računarsku grafiku [video](https://youtu.be/rMs4BpasVSo)  
+Lekcije:
+- [Introduction](https://learnopengl.com/Introduction)
+- [OpenGL](https://learnopengl.com/Getting-started/OpenGL)
+- [Creating a window](https://learnopengl.com/Getting-started/Creating-a-window)
+- [Hello Window](https://learnopengl.com/Getting-started/Hello-Window)
 
--GLFW, GLAD
+Primeri:  
+- [hello_window](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/1.1.hello_window)
+- [hello_window_clear](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/1.2.hello_window_clear)
+- [hello_window_events](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.6.hello_window_events)
 
--[Hello Window](https://learnopengl.com/Getting-started/Hello-Window): Skelet projekta, uključivanje biblioteka GLFW i GLAD, prozor, dorađaji 
+Snimci:
+- [Uvod u interaktivnu računarsku grafiku](https://youtu.be/rMs4BpasVSo)
+- [Hello Window](https://www.youtube.com/watch?v=Ju2qCsVBUgw&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=6)
+- [Hello Window Clear](https://www.youtube.com/watch?v=JBLRgPWCX1I&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=8)
+- [Hello Window Events](https://www.youtube.com/watch?v=f5GN7t-8n0M&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=7)
+
+Glavni koncepti:  
+- Interaktivna računarska grafika  
+- OpenGL
+- GLFW
+- GLAD
+- **Petlja renderovanja**
+- Događaji
 
 ---
 
-### 02
+### 02 Grafička protočna obrada
+Lekcije:
+- [Hello Triangle](https://learnopengl.com/Getting-started/Hello-Triangle)
 
--[Hello Triangle](https://learnopengl.com/Getting-started/Hello-Triangle): Vertex shader, Fragmen shader, Vertex Buffer Object, Vertex Array Object, Element Buffer Object
+Primeri:
+- [hello_triangle](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.1.hello_triangle)
+- [hello_triangle_extra_attrib](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.8.hello_triangle_extra_attrib)
+- [hello_triangle_indexed](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.2.hello_triangle_indexed)
+- [hello_triangle_index_extra_attrib](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.7.hello_triangle_indexed_extra_attrib)
+- [hello_tirangle_glcall_error](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/2.9.hello_triangle_glcall_error)
 
--[Debugging video](https://youtu.be/FXDM6HrIzIA) 
+Snimci:
+- [Hello Triangle](https://www.youtube.com/watch?v=FUTjyNe1eKY&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=9)
+- [Hello Triangle - VBO, VAO](https://www.youtube.com/watch?v=BdQ-bxc3maw&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=10)
+- [Hello Triangle - Shader](https://www.youtube.com/watch?v=ZQz_wxwHVj0&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=11)
+- [Hello Triangle - EBO](https://www.youtube.com/watch?v=7aUZexYV_cY&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=12
+- [Hello Triangle - Indexed](https://www.youtube.com/watch?v=E8gjdhYa-4w&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=13)
+- [Debugging](https://www.youtube.com/watch?v=FXDM6HrIzIA&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=14)
+
+Glavni koncepti:
+- **Grafička protočna obrada**
+- Šejderi
+- Vertex Array Object
+- Vertex Buffer Object
+- Element Buffer Object
 
 ---
 
-### 03
--[Shaders](https://learnopengl.com/Getting-started/Shaders): GLSL, in, out, Uniforms, Shader klasa (naša prva abstrakcija) [video](https://youtu.be/JyYwUaZicxQ)
-[video](https://youtu.be/2kdH7_39AWo)  
-[Interpolacija trougla](https://codeplea.com/triangular-interpolation)
+### 03 Šejderi i Teksture
+Lekcije:
+- [Shaders](https://learnopengl.com/Getting-started/Shaders) [video](https://youtu.be/JyYwUaZicxQ) [video](https://youtu.be/2kdH7_39AWo)  
+- [Textures](https://learnopengl.com/Getting-started/Textures) [video](https://youtu.be/1Hxf4UvPcS4)
+- [Interpolacija trougla](https://codeplea.com/triangular-interpolation)
+  
+Primeri:
+- [Shaders - Uniform](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.1.shaders_uniform)
+- [Shaders - Interpolation](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.2.shaders_interpolation)
+- [Shaders - Class](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/3.3.shaders_class)
+- [Textures](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.1.textures)
+- [Textures - Combined](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.1.textures)
+- [Textures - Attribs](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/4.7.shaders_position_color_texture_uniform_mix)
 
--[Textures](https://learnopengl.com/Getting-started/Textures): teksture, mapiranje tekstura, MipMaps [video](https://youtu.be/1Hxf4UvPcS4)
-
+Glavni koncepti:
+- Programiranje GPU - Šejderi
+- Vertex i Fragment šejder
+- **Fragment interpolacija**
+- Mapiranje tekstura
+- Mipmaps
 --- 
 
-### 04
--[Transformations](https://learnopengl.com/Getting-started/Transformations): vektori, matrice, operacije nad matricama, translacije, rotacije, GLM [video](https://youtu.be/b8wFCYJErLw)
+### 04 Koordinatni sistemi i Kamera
 
--[Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems): local space, world space, view space, clip space, screen space [video](https://youtu.be/PVNk8XNLAQ0)
+Lekcije:
+- [Transformations](https://learnopengl.com/Getting-started/Transformations) [video](https://youtu.be/b8wFCYJErLw)
+- [Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems)  [video](https://youtu.be/PVNk8XNLAQ0)
+- [Camera](https://learnopengl.com/Getting-started/Camera): pozicija, pogled, opseg [video intro](https://youtu.be/Asm2eEAa8Ys)
 
--[Camera](https://learnopengl.com/Getting-started/Camera): pozicija, pogled, opseg [video intro](https://youtu.be/Asm2eEAa8Ys)  
+Primeri:
+- [Transformations](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/5.1.transformations)
+- [Coordinate systems](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/6.1.coordinate_systems)
+- [Coordinate systems - Depth](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/6.2.coordinate_systems_depth)
+- [Coordinate systems - Multiple](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/6.3.coordinate_systems_multiple)
 
----
-
-### 05
--[Camera](https://learnopengl.com/Getting-started/Camera) - koordinatni sistem kamere, pomeranje kamere, matrica pogleda   
--[Video camera rotation](https://youtu.be/9GHfHALyIj0) - rotiranje kamere, zoom
--[Video camera class](https://youtu.be/wgE_E4902NE)  
-
----
-
-### 06
--[Colors](https://learnopengl.com/Lighting/Colors): scena sa svetlom [video](https://youtu.be/8g8kZQ7Q_Xs)
-
--[Basic lighting](https://learnopengl.com/Lighting/Basic-Lighting): ambijentalno, difuzno, spekularno [video](https://youtu.be/NhzU6gIYkSM) 
-
--[Materials](https://learnopengl.com/Lighting/Materials): postavljanje materijala, svojstva svetla, različite boje svetla [video](https://youtu.be/O_n9oh7BuG4) 
-
--[Ligthing maps](https://learnopengl.com/Lighting/Lighting-maps): difuzne, spekularne [video](https://youtu.be/RXvi0umB4lo)
+Glavni koncepti:
+- Matrične operacije: translacija, skaliranje, rotacija
+- **Transformacije: Model -> View -> Projection -> NDC -> Screen**
+- **Koordinatni sistemi: Local -> World -> View -> Clip -> Screen**
+- Kamera
 
 ---
 
-### 07
--[Light casters](https://learnopengl.com/Lighting/Light-casters): direkciono, tačkasto, koncentrisano [video](https://youtu.be/MEPziIv_TJI) 
+### 05 Kamera - kretanje
+Lekcije:
+- [Camera](https://learnopengl.com/Getting-started/Camera) -[Video camera rotation](https://youtu.be/9GHfHALyIj0) [Video camera class](https://youtu.be/wgE_E4902NE)
 
--[Multiple lights](https://learnopengl.com/Lighting/Multiple-lights): direkciono, tačkasto [video](https://youtu.be/PwkLzp0dNjQ)
+Primeri:
+- [Camera - keyboard](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/7.2.camera_keyboard_dt)
+- [Camera - mouse](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/7.3.camera_mouse_zoom)
+- [Camera - class](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/1.getting_started/7.4.camera_class)
 
--[Rekaputilacija svetlosti](https://learnopengl.com/Lighting/Review)
+Glavni koncepti:
+- Koordinatni sistem kamere
+- LookAt matrica
+- Vektori kamere
+- Kretanje kamere
+- Uglovi rotacije kamere
 
 ---
 
-### 08   
--[Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing): Bafer dubine, funkcija testiranja dubine, preciznost vrednosti dubine, vizuelizacija bafera dubine, z-bafer, [z-value math](http://www.songho.ca/opengl/gl_projectionmatrix.html) [video](https://youtu.be/YYvCxTxnaIg)
+### 06 Osvetljenje - Fongov model
 
--[Blending](https://learnopengl.com/Advanced-OpenGL/Blending): providnost, odbacivanje fragmenata, utapanje, prikaz polu-providnih tekstura [video](https://youtu.be/gpxO2HVAIm4)
+Lekcije: 
+- [Colors](https://learnopengl.com/Lighting/Colors) [video](https://youtu.be/8g8kZQ7Q_Xs)
+- [Basic lighting](https://learnopengl.com/Lighting/Basic-Lighting) [video](https://youtu.be/NhzU6gIYkSM) 
+- [Materials](https://learnopengl.com/Lighting/Materials) [video](https://youtu.be/O_n9oh7BuG4) 
+- [Lighting maps](https://learnopengl.com/Lighting/Lighting-maps) [video](https://youtu.be/RXvi0umB4lo)
 
--[Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling): winding number, odsecanja [video](https://youtu.be/TtejUXP18Cs)
+Primeri:
+- [Colors](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/1.colors)
+- [Diffuse lighting](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.1.basic_lighting_diffuse)
+- [Specular lighting](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/2.2.basic_lighting_specular)
+- [Materials](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/3.1.materials)
+- [Lighting maps - Specular](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/4.1.lighting_maps_diffuse_map)
+- [Lighting maps - Diffuse](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/4.2.lighting_maps_specular_map)
 
--[Advanced Lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting): Blinn-Phong [video](https://youtu.be/CJcRTXwHYhg)
+Glavni koncepti:
+- **Fongov model osvetljenja: ambient + diffuse + specular**
+- Materijali
+- Lighting maps - tekstura osvetljenja
 
--[Advanced Data](https://learnopengl.com/Advanced-OpenGL/Advanced-Data): vertex atributi, baferi [video](https://youtu.be/k7KNRAUL3f0)
+---
 
--[Advanced GLSL](https://learnopengl.com/Advanced-OpenGL/Advanced-GLSL): GLSL promenljive, interfejsi blokovi, uniform bafer objekti [video](https://youtu.be/RQtRSRlYYvo)
+### 07 Tipovi izvora svetlosti
+Lekcije: 
+- [Light casters](https://learnopengl.com/Lighting/Light-casters): direkciono, tačkasto, koncentrisano [video](https://youtu.be/MEPziIv_TJI) 
+- [Multiple lights](https://learnopengl.com/Lighting/Multiple-lights): direkciono, tačkasto [video](https://youtu.be/PwkLzp0dNjQ)
+- [Rekaputilacija svetlosti](https://learnopengl.com/Lighting/Review)
+
+Primeri:
+- [Light casters - Directional](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/5.1.light_casters_directional)
+- [Light casters - Point](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/5.2.light_casters_point)
+- [Light casters - Spot](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/5.3.light_casters_spot)
+- [Light casters - Soft Spot](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/5.4.light_casters_spot_soft)
+- [Multiple lights](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/2.lighting/6.multiple_lights)
+
+Glavni koncepti:
+- **Tipovi izvora svetlosti: direkciono (directional), tačkasto (point), usmereno (spot)**
+- Scene sa više svetala
+
+---
+
+### 08 OpenGL - Napredni koncepti
+
+Lekcije:
+- [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing): Bafer dubine, funkcija testiranja dubine, preciznost vrednosti dubine, vizuelizacija bafera dubine, z-bafer, [z-value math](http://www.songho.ca/opengl/gl_projectionmatrix.html) [video](https://youtu.be/YYvCxTxnaIg)
+- [Blending](https://learnopengl.com/Advanced-OpenGL/Blending): providnost, odbacivanje fragmenata, utapanje, prikaz polu-providnih tekstura [video](https://youtu.be/gpxO2HVAIm4)
+- [Face culling](https://learnopengl.com/Advanced-OpenGL/Face-culling): winding number, odsecanja [video](https://youtu.be/TtejUXP18Cs)
+- [Cubemaps](https://learnopengl.com/Advanced-OpenGL/Cubemaps): kreiranje, skybox, mapiranje okruženja, dinamične mape okruženja [video](https://youtu.be/dxO4CFc0N98) [video](https://youtu.be/3Mx88eYNuyY)
+- [Advanced Lighting](https://learnopengl.com/Advanced-Lighting/Advanced-Lighting): Blinn-Phong [video](https://youtu.be/CJcRTXwHYhg)
+- [Advanced Data](https://learnopengl.com/Advanced-OpenGL/Advanced-Data): vertex atributi, baferi [video](https://youtu.be/k7KNRAUL3f0)
+- [Advanced GLSL](https://learnopengl.com/Advanced-OpenGL/Advanced-GLSL): GLSL promenljive, interfejsi blokovi, uniform bafer objekti [video](https://youtu.be/RQtRSRlYYvo)
+
+Primeri:
+- [Depth Testing](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/4.advanced_opengl/1.1.depth_testing)
+- [Depth Testing View](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/4.advanced_opengl/1.2.depth_testing_view)
+- [Blending - Discard](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/4.advanced_opengl/3.1.blending_discard)
+- [Blending - Sort](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/4.advanced_opengl/3.2.blending_sort)
+- [Face Culling](https://github.com/matf-racuhttps://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/4.advanced_opengl/6.1.cubemaps_skyboxnarska-grafika/LearnOpenGL/tree/master/src/4.advanced_opengl/4.1.face_culling_example)
+- [Face Culling Cubes](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/4.advanced_opengl/4.2.face_culling_cubes)
+- [Cubemaps - skybox](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/4.advanced_opengl/6.1.cubemaps_skybox)
+- [GLSL - Interface blocks](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/4.advanced_opengl/7.4.advanced_glsl_interface_blocks)
+- [GLSL - Uniform Buffer Objects](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/4.advanced_opengl/8.advanced_glsl_ubo)
+
+Glavni koncepti:
+- **Nelinearnost funkcije dubine fragmenata**
+- Providnost objekata
+- Odsecanje stranica
+- 3D teksture - Cubemaps
+- GLSL UBO - Uniform Buffer Objects 
+- GLSL Direct State Access (DSA)
 
 ---
 
 ### 09
--[Assimp](https://learnopengl.com/Model-Loading/Assimp): instalacija i korišćenje biblioteke [video](https://youtu.be/eqiVRAAoh-w)
 
--[Mesh](https://learnopengl.com/Model-Loading/Mesh): modeli i optimizacije [video](https://youtu.be/5_jyzp94L1c) 
+Lekcije:
+- [Assimp](https://learnopengl.com/Model-Loading/Assimp): instalacija i korišćenje biblioteke [video](https://youtu.be/eqiVRAAoh-w)
+- [Mesh](https://learnopengl.com/Model-Loading/Mesh): modeli i optimizacije [video](https://youtu.be/5_jyzp94L1c) 
+- [Modeli](https://learnopengl.com/Model-Loading/Model): formati i učitavanje modela [video](https://youtu.be/tpmmM0lI1BI) 
+- [Model and Lighting](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/3.model_loading/2.model_lighting): Model i osvetljenje [video](https://youtu.be/yl9716rp97g)
+- [ImGui](https://github.com/ocornut/imgui): GUI biblioteka [video](https://youtu.be/NW3Xk1RaZ10) [video](https://youtu.be/5NLdqTFh6Wk)
+- [Blender](https://youtube.com/watch?v=4DQquG_o-Ac): kako konvertovati bilo koji model u Blenderu tako da radi sa trenutnom implementacijom učitavanja modela
 
--[Modeli](https://learnopengl.com/Model-Loading/Model): formati i učitavanje modela [video](https://youtu.be/tpmmM0lI1BI) 
+Primeri:
+- [Model loading](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/3.model_loading/1.model_loading)
+- [Model lighting](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/3.model_loading/2.model_lighting)
 
--[Model and Lighting](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/3.model_loading/2.model_lighting): Model i osvetljenje [video](https://youtu.be/yl9716rp97g)
-
--[ImGui](https://github.com/ocornut/imgui): GUI biblioteka [video](https://youtu.be/NW3Xk1RaZ10) [video](https://youtu.be/5NLdqTFh6Wk)
-
--[Blender](https://youtube.com/watch?v=4DQquG_o-Ac): kako konvertovati bilo koji model u Blenderu tako da radi sa trenutnom implementacijom učitavanja modela
+Glavni koncepti:
+- Formati modela
+- Assimp
+- Mesh
+- Model
 
 ---
 
-## Napredni efekti računarske grafike
+### 10 
 
--[Framebuffers](https://learnopengl.com/Advanced-OpenGL/Framebuffers): kreiranje, renderovanje na teksturu, post-procesiranje, kernel efekti [video](https://youtu.be/rNiJcfrtQJM)
+Lekcije:
+- [Framebuffers](https://learnopengl.com/Advanced-OpenGL/Framebuffers) [video](https://youtu.be/rNiJcfrtQJM)
+
+Primeri:
+- [Framebuffers](https://github.com/matf-racunarska-grafika/LearnOpenGL/tree/master/src/4.advanced_opengl/5.1.framebuffers)
+
+Glavni koncepti:
+- Framebaferi
+- Renderovanje u teksturu
+- Renderbaferi
+- Post-processing
+
+## Napredni efekti računarske grafike
 
 -[Bloom <- HDR <- Framebuffers](https://learnopengl.com/Advanced-Lighting/Bloom): ekstrakovanje blještavih boja, Gausov blur, blending [video](https://youtu.be/m2lJ800T42o)
 
@@ -148,7 +281,6 @@ Osnovni izvor za učenje računarske grafike je **knjiga** _Learn OpenGL_ sa pra
 ### Dodatno
 -[Instancing](https://learnopengl.com/Advanced-OpenGL/Instancing): primer (polje asterioda) [video](https://youtu.be/MA-eEBPRMJ8)
 
--[Cubemaps](https://learnopengl.com/Advanced-OpenGL/Cubemaps): kreiranje, skybox, mapiranje okruženja, dinamične mape okruženja [video](https://youtu.be/dxO4CFc0N98) [video](https://youtu.be/3Mx88eYNuyY)
 
 -[Geometry Shader](https://learnopengl.com/Advanced-OpenGL/Geometry-Shader): korišćenje, eksplodirajući objekti [video](https://youtu.be/dFGH735D7ik)
 
