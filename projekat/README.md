@@ -1,24 +1,28 @@
 
 # Projekat (In construction...work in progress)
 
-Projekat neobavezan deo kursa koji nosi ukupno ?? bodova. Projekat se smatra položenim ako je ocenjen sa barem ?? bodova i radi se individualno.  
+Projekat neobavezan deo kursa koji nosi ukupno 25 bodova i radi se individualno. Projekat se smatra položenim ako se na odbrani osvoji barem 10 bodova.  
+Jednom odbranjen projekat važi cele školske godine. Projekat nije uslov za izlazak na ispit, niti je položen ispit uslov za rad na projektu i odbranu.  
 
-Rokovi za ocenjivanje projekata:  
-- Jan1-Jan2   
-    - Predaja do 17.01. u 21:00  
-    - Ispravke do 24.01. u 21:00  
-- Jun1-Jun2   
-    - Predaja do 06.06. u 21:00   
-    - Ispravke do 13.06. u 21:00  
-- Sep1-Sep2   
-    - Predaja do 15.08. u 21:00 (poslednji termin)   
-    - Ispravke do 22.08 u 21:00 (poslednji termin)   
-
+Rokovi za ocenjivanje projekata:
+- Jan1-Jan2 
+    - Predaja do 17.01. u 21:00
+    - Ispravke do 24.01. u 21:00
+- Jun1-Jun2 
+    - Predaja do 06.06. u 21:00 
+    - Ispravke do 13.06. u 21:00
+- Sep1-Sep2 
+    - Predaja do 15.08. u 21:00 (poslednji termin) 
+    - Ispravke do 22.08 u 21:00 (poslednji termin) 
 - Predaja projekta:
-    - Popunjavanjem formulara  
-    - Projekat je završen    
-    - Sve željene lekcije prisutne i funkcionalne  
+    - Projekat je završen
+    - Sve željene lekcije prisutne i funkcionalne
 
+Projekat se brani u roku u kojem je predat u terminu održavanja ispita.  
+Odbrana projekta je test sastavljen od pitanja samo iz oblasti koje su u projektu implementirane.  
+Na odbranu je moguće izaći do dva puta u jednoj godini, a u spojenim rokovima. 
+Ponovni izlazak na odbranu poništava ostvarene bodove na prethodnoj odbrani.
+Tokom trajanja ispitnog roka se ne održavaju konsultacije i pregledanja projekata.  
 
 **Nesamostalan rad na projektu, plagiranje, kao i direktno preuzimanje delova koda iz drugih studentskih projekata smatra se kršenjem pravila polaganja ispita prema pravilniku fakulteta i povlači automatsko pokretanje disciplinskog postupka i zabranu polaganja ispita Računarske grafike u trenutnoj školskoj godini.**
 
@@ -35,25 +39,25 @@ Stil pisanja koda koji projekat treba da prati nalazi se u DOCS.md dokumentu klo
 ## Šta projekat treba da sadrži?
 
 Osnova (Obavezno) 
+- 3D svet
 - Pokretnu kameru
 - Blending
 - Face culling
 - Cubemaps
-- Instanciranje
+- Instanciranje ??
 - Blin-fongov model osvetljenja na svim objektima
-- Model osvetljen sa barem dva tipa svetlosti (`Directional|Point|Spot`)
+- Model osvetljen sa sva tri tipa svetlosti (`Directional Point Spot`)
 - Osvetljenje koje može da se podešava preko grafičkog korisničkog interfejsa (ImGui)
+- {Efekat} post procesiranja
 - Implementiran niz događaja: `{ACTION_X} --- AFTER_M_SECONDS---Triggers---> {EVENT_A} ---> AFTER_N_SECONDS---Triggers---> {EVENT_B}`
     - ACTION - pomeranje kamere na neku lokaciju na sceni, određen trenutak u vremenu...
     - AFTER_X_SECONDS - nakon što protekne X sekundi od registrovane akcije
     - EVENT - nešto se pomeri na sceni, boja svetla se promeni, neki objekat nestane, neki objekat se pojavi...
 
 
-(10 bodova) [Bloom](https://learnopengl.com/Advanced-Lighting/Bloom) (Opciono)
+(10 bodova) [Bloom](https://learnopengl.com/Advanced-Lighting/Bloom) ili [Point Shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows)  
 
-(10 bodova) [Point Shadows](https://learnopengl.com/Advanced-Lighting/Shadows/Point-Shadows)  (Opciono)
-
-(10 bodova)
+(15 bodova) [Deferred shading](https://learnopengl.com/Advanced-Lighting/Deferred-Shading)  
 
 U projektu se takođe boduje:
 - Uočljivost, izraženost i doprinos implementiranih oblasti atmosferi scene. 
@@ -73,8 +77,7 @@ U projektu se takođe boduje:
 
 
 ## Kako da koristim Git i Github?  
-Napraviti baznu granu za projekat prema upustvu: [Kako da započnem projekat?].  
-Za svaku lekciju od grane `{dev}` napraviti odvojenu granu `{lesson-name-implementation}` i promene postavljati na toj grani kako bi pregledanje, poređenje i testiranje bilo lakše.  
+Radi lakešeg praćenja rada, preporučljivo je za svaku lekciju od grane `{dev}` napraviti odvojenu granu `{lesson-name-implementation}` i promene postavljati na toj grani kako bi pregledanje, poređenje i testiranje bilo lakše.  
 Kada je lekcija implementirana, granu sa lekcijom `{lesson-name-implemntation}` spojiti sa granom `{dev}`.  
 
 Kompletan primer rada na implementaciji osvetljenja:  
@@ -140,21 +143,14 @@ Koraci za prijavu projekta:
 4. Sidebar desno `Reviewers` -> `wheel icon` -> `add @spaske00`.
 5. Prijaviti projekat popunjavanjem [formulara]
 
-Projekat će biti pregledan i bodovi upisani na stranici kursa.  
-Student može biti pozvan i na usmenu odbranu projekta, po potrebi. Usmena odbrana projekta se sastoji od:  
-- Opštih pitanja iz lekcija sa vežbi
-- Opštih pitanja samo iz implementiranih lekcija iz grupe A i grupe B
-- Opštih pitanja o konkretnoj implementaciji i razumevanju samog projekta
-- Na odbrani projekta se očekuje duboko razumevanje implementiranih oblasti i interakcije sa ostatkom projekta – ukoliko ne možete objasniti kod i lekciju koji ste dodali, ta oblast se ocenjuje sa **nula bodova**.
 
 ### Komentari  
-Svaki nerazrešen komentar koji nije označen sa **[OPTIONAL]**, nosi negativne bodove u konačnom zbiru bodova na projektu.  
 Ako je kod ispravljen predlogom iz komentara, u odgovoru na komentar ostaviti kratak opis promene.  
 Ako niste sigurni kako da implementirate predlog, odgovoriti na komentar pitanjem za dodatno pojašnjenje.   
 Ako predlog nije implementiran, ne razrešavati komentar dok ne bude obrađen radi lakšeg praćenja izmena.  
 
 
-**Važno: Konsultacije, `Question`, i `Issue` projekata se ne održavaju tokom trajanja ispitnog roka.**  
+**Važno: Konsultacije i pregledanje projekata se ne održavaju tokom trajanja ispitnog roka.**  
 
 ## Gde mogu pronaći modele za projekat?  
 Modele možete preuzeti sa:  
