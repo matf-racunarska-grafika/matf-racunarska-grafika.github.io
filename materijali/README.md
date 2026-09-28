@@ -36,6 +36,53 @@ Osnovni izvor za učenje računarske grafike je **knjiga** _Learn OpenGL_ sa pra
 - [Physically Based Rendering: From Theory to Implementation 3rd Edition](https://www.pbrt.org/)  
 - [Raytracing in One Weekend](https://raytracing.github.io/)  
 
+---
+## Algoritam za učenje računarske grafike
+
+
+```python
+setup_env()
+examples, book = download()
+knowledge = set()
+project = set()
+
+def experiment(example):
+	for e in choose(range(0, 10)):
+		example_modifed = modify(knowledge, example)
+		Y_guessed = guess_output(knowledge, example_modifed)
+		Y_real = run(example_modifed)
+		knowledge |= learn(knowledge, Y_guessed, Y_real, book, example)
+
+def practice(example):
+	while True:
+		scratch = template(example)
+		knowledge |= read(knowledge, materials)
+		knowledge |= try_implement(scratch, example, 30min)
+		if run(scratch) == run(example):
+			return
+
+for week in range(0, 13):
+	knowledge |= read(knowledge, book, week)  
+	knowledge |= lectures(knowledge, week)
+
+   for example in examples(week):
+		experiment(example)
+		practice(example)
+
+	for task in project_tasks(0, week):
+		knowledge |= try_implement(task, knowledge, project)
+		if used_gpt():
+			knowledge = set()
+	
+	if not project.contains(project_tasks(week)):
+		knowledge |= ask_for_help(project, project_tasks(week), knowledge)
+	
+	take_break_and_rest()
+
+points = submit(project)
+grade = exam(knowledge)
+```
+
 --- 
 
 ## Osnove računarske grafike
@@ -116,7 +163,8 @@ Glavni koncepti:
 - Vertex i Fragment šejder
 - **Fragment interpolacija**
 - Mapiranje tekstura
-- Mipmaps
+- Mipmaps  
+
 --- 
 
 ### 04 Koordinatni sistemi i Kamera
@@ -156,6 +204,8 @@ Glavni koncepti:
 - Kretanje kamere
 - Uglovi rotacije kamere
 
+---
+### Kraj gradiva za I kolokvijum
 ---
 
 ### 06 Osvetljenje - Fongov model
@@ -267,6 +317,10 @@ Glavni koncepti:
 - Renderovanje u teksturu
 - Renderbaferi
 - Post-processing
+
+---
+### Kraj gradiva za II kolokvijum
+---
 
 ## Napredni efekti računarske grafike
 
