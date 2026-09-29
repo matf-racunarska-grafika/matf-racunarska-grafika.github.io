@@ -10,16 +10,14 @@
 * Praktični deo ispita (polaže se na papiru): 45 bodova  
 * (Opciono) Praktični projekat koji uključuje odbranu: 25 bodova
 
-Način polaganja:
-
+Oba dela ispita, teorijski i praktični, mogu se položiti na dva načina:  
 1. Preko kolokvijuma  
-   * Teorijski deo ispita: 2 kolokvijuma od po 22.5 bodova (termini: u prvoj i drugoj kolokvijumskoj nedelji)  
-   * Praktični deo ispita: 2 kolokvijuma od po 22.5 bodova (termini: u prvoj i drugoj kolokvijumskoj nedelji)  
+   * 2 kolokvijuma od po 22.5 bodova (termini: u prvoj i drugoj kolokvijumskoj nedelji)  
    * Uslov: da bi teorijski ili praktični deo ispita bio položen preko kolokvijuma potrebno je ostvariti barem po 10 bodova na oba kolokvijuma, a da bi ispit bio položen potrebno je u zbiru na oba dela ispita imati 51 bod (bez projekta).  
 2. Preko ispita  
-   * Teorijski test: 45 bodova  
-   * Praktični test: 45 bodova  
-   * Uslov: da bi ispit bio položen potrebno je ostvariti barem 20 bodova na svakom delu ispita i u zbiru imati 51 bod (bez projekta).	   
+   * Završni test od 45 bodova
+   * Uslov: da bi ispit bio položen potrebno je ostvariti barem 20 bodova na svakom delu ispita i u zbiru imati 51 bod (bez projekta).	
+
 * Dozovljeno je praktični ili teorijski deo ispita položiti preko dva kolokvijuma, a drugi deo preko ispita.  
 * Bodovi ostvareni na praktičnom ili teorijskom važe u spojenim rokovima Jan1-Jan2, Jun2-Jun2, Sep1-Sep2.  
 * Izlazak na teorijski ili praktični ispit poništava prethodno ostvarene poene na tom delu ispita ili kolokvijuma.   
