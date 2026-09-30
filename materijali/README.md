@@ -22,6 +22,7 @@ Osnovni izvor za učenje računarske grafike je **knjiga** _Learn OpenGL_ sa pra
 - [learngit](https://learngitbranching.js.org/)  
 
 ## Alati
+- [Shader Academy](https://shaderacademy.com/explore)
 - [CLion](https://www.jetbrains.com/clion/)
 - [QtCreator](https://www.qt.io/download-qt-installer)
 - [Visual Code](https://code.visualstudio.com/)
@@ -29,12 +30,22 @@ Osnovni izvor za učenje računarske grafike je **knjiga** _Learn OpenGL_ sa pra
 - [RenderDoc](https://renderdoc.org/)
 
 ### Dodatna (neobavezna) literatura
-- [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)  
-- [C++ Primer, 5th edition](https://cpp-primer.pages.dev/book/000-cpp_primer_fifth_edition.html)  
-- [Game Engine Architecture - Jason Gregory](https://www.gameenginebook.com/)   
-- [Game Programming Patterns - Robert Nystrom](https://gameprogrammingpatterns.com/)  
-- [Physically Based Rendering: From Theory to Implementation 3rd Edition](https://www.pbrt.org/)  
-- [Raytracing in One Weekend](https://raytracing.github.io/)  
+Kako da faktorišem projekat u kohezivne i logične module koje je lako razumeti i modifikovati?
+- [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)
+- [C++ Primer, 5th edition](https://cpp-primer.pages.dev/book/000-cpp_primer_fifth_edition.html)
+- [Game Engine Architecture - Jason Gregory](https://www.gameenginebook.com/)
+- [Game Programming Patterns - Robert Nystrom](https://gameprogrammingpatterns.com/)
+
+Kako da renderujem fotorealistične scene?  
+- [Physically Based Rendering: From Theory to Implementation 3rd Edition](https://www.pbrt.org/)
+- [Raytracing in One Weekend](https://raytracing.github.io/)
+- [Real Time Rendering](https://www.realtimerendering.com/)
+
+Kako da naučim osnove matematike računarske grafike?  
+- [Računarska grafika - Skripta](https://poincare.matf.bg.ac.rs/~vesna.marinkovic/grafika/rg.pdf)
+- [Computer Graphics From Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
+
+
 
 ---
 ## Algoritam za učenje računarske grafike
