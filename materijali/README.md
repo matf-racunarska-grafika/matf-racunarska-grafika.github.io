@@ -19,9 +19,10 @@ Osnovni izvor za učenje računarske grafike je **knjiga** _Learn OpenGL_ sa pra
 - [glad generator](https://glad.dav1d.de/)  
 - [cppreference](https://en.cppreference.com/w/)  
 - [Git cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)  
-- [learngit](https://learngitbranching.js.org/)  
+- [learngit](https://learngitbranching.js.org/)
 
 ## Alati
+- [Shader Toy](https://www.shadertoy.com/)
 - [Shader Academy](https://shaderacademy.com/explore)
 - [CLion](https://www.jetbrains.com/clion/)
 - [QtCreator](https://www.qt.io/download-qt-installer)
