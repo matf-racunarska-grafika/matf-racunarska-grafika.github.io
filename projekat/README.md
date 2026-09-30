@@ -1,8 +1,10 @@
 
-# Projekat (In construction...work in progress)
+# Projekat
 
 Projekat neobavezan deo kursa koji nosi ukupno 25 bodova i radi se individualno. Projekat se smatra položenim ako se na odbrani osvoji barem 10 bodova.  
 Jednom odbranjen projekat važi cele školske godine. Projekat nije uslov za izlazak na ispit, niti je položen ispit uslov za rad na projektu i odbranu.  
+Preporučljivo je na projektu raditi sedmično prateći [sedmične zadatke za projekat](#sedmični-zadaci-za-projekat).  
+Samostalnim i redovnim radom na sedmičnim zadacima za projekat, uz čitanje priloženih lekcija iz knjige ograđenih na vežbama te sedmice, najlakše se i uradi projekat i spremi gradivo za ispit i odbranu projekta.   
 
 Rokovi za ocenjivanje projekata:
 - Jan1-Jan2 
@@ -68,7 +70,142 @@ U projektu se takođe boduje:
     - Čitljiva i razumljiva imena klasa, funkcija, promenljivih
 
 [Primeri scena i bodova](primeri/EXAMPLES.md)
- 
+
+
+## Sedmični zadaci za projekat
+
+Projekat se razvija inkrementalno iz nedelje u nedelju, tako da zadaci svake nedelje direktno odgovaraju gradivu koje je obrađeno te nedelje.
+
+### 01 -  Postavljanje projekta
+
+Preuzeti materijale:
+- [ ] Preuzeti primere sa časa
+- [ ] Preuzeti skelet projekta
+- [ ] Preuzeti skelet za vežbanje
+- [ ] Bookmarkovati dokumentaciju [glfw](https://www.glfw.org/documentation) [gl](https://docs.gl/)
+
+Podesiti projekat:
+- [ ] Instalirati biblioteke
+- [ ] Podesiti okruženje
+- [ ] Preuzeti skelet projekta 
+
+Projekat:
+- [ ] Implementirati petlju renderovanja
+- [ ] Boja pozadine menja se pritiskom dugmića tastature
+- [ ] CTRL + Strelice povećavaju/smanjuju veličinu prozora (gore/dole visina, levo/desno širina)
+- [ ] Klikom miša na ekran boja pozadine se menja na nasumičnu boju
+- [ ] Dok je pritisnut Shift, boja prozora (r, g, b) = (x, y, 0) gde su (x,y) koordinate miša transformisane tako da je koordinatni početak u donjem levom uglu ekrana, a gornji desni ugao ekrana je (x,y)=(1.0, 1.0) . Primer: kada je kursor na sredini ekrana boja pozadine je: (0.5, 0.5, 0.0)
+- [ ] Esc gasi prozor
+
+---
+
+### 02  OpenGL prozor i crtanje
+
+- [ ] Nacrtati jedan trougao na sredini ekrana pomoću VAO i VBO objekata
+- [ ] Nacrtati kvadrat pomoću dva trougla jedne boje
+- [ ] Napraviti tako da je svaki kvadrant ekrana obojen drugom bojom
+- [ ] Napisati funkciju koja crta mnogougao N na sredini ekrana
+- [ ] CTRL + N - crta n-tougao na sredini ekrana gde je N broj na tastaturi
+
+---
+
+### 03  Šejderi i teksture
+- [ ] Pojednostaviti crtanje kvadranta tako da postoji samo jedan jedinični kvadrat koji se pomoću šejdera translira na odgovarajuću poziciju
+- [ ] Napraviti funkcije/klase za rad sa šejderima i učitavanje tekstura u zasebnim .hpp i .cpp fajlovima
+- [ ] Shift + K + (r|g|b) - menja boju K-tog kvadranta na crvenu (ili zelenu, ili plavu)
+- [ ] Dodati koordinate tekstura kvadratima
+- [ ] Svaki kvadrant obojiti različitom teksturom
+- [ ] Shift + K + t  - mixuje boju K-tog kvadranta njegovom teksturom
+- [ ] Promeniti crtanje N-tougla tako da primitive formira geometry shader od iz jedne tačke (0,0) koja se nalazi u centru ekrana
+
+---
+
+### 04 Transformacije i koordinatni sistemi
+
+- [ ] Postavljanje kvadranata promeniti u model matricu
+- [ ] Napraviti crtanje X,Y,Z osa pomoću linija (pogledati dokumentaciju za podešavanje debljine linije)
+- [ ] Napraviti crtanje X,Y ravni (ograničiti na [-1.0, 1.0])
+- [ ] Napraviti pod sa teksturom 
+- [ ] Postaviti 4 teksturisane kocke, različitih veličina i orijentacija na pod
+
+
+---
+### 05 - Kamera
+
+- [ ] Omogućiti slobodno kretanje (letenje) po 3D sceni
+- [ ] Omogućiti zaključano kretanje samo po podu scene
+- [ ] Onemogućiti ulazak kamerom u postavljene kocke kada je kretanje zaključano na pod, ali moguće kada je kamera u slobodnom kretanju
+- [ ] Klikom miša na ekranu na kocku promeni boju u crvenu, ponovnim klikom se vrati boja na teksturu (samostalno istražiti na internetu)
+- [ ] Napraviti funkcije/klase za rad sa kamerom u zasebnim .hpp i .cpp fajlovima projekta
+
+---
+
+### 06  Osnovno osvetljenje i materijali
+
+- [ ] Dodati normale geometriji objekata
+- [ ] Dodati Phongovo svetlo u vidu lampe na sredini scene
+- [ ] Dodati difuzne i spekularne teksture kockama i podu
+- [ ] Napraviti funkcije za crtanje osnovnih geometrijskih primitiva:
+	- [ ] linija
+	- [ ] trougao
+	- [ ] kvadrat
+	- [ ] krug
+	- [ ] kocka
+	- [ ] piramida
+	- [ ] lopta
+
+---
+
+### 07  Više izvora svetlosti
+
+- [ ] Implementirati direkciono svetlo
+- [ ] Implementirati tačkasto svetlo
+- [ ] Implementirati stacionarnu usmerenu lampu na sceni
+- [ ] Implementirati lampu kao izvor svetla iz kamere
+- [ ] Podržati više izvora svetlosti u šejderima
+
+---
+
+### 08 Napredni OpenGL
+ - [ ] Dodat ImGUI i vezati sve parametre scene
+- [ ] Pritiskom na dugme umesto scene iscrtava se njen depth bafer na ekranu
+- [ ]  Dodati prozirne objekte (staklo u boji) 
+- [ ] Dodati providne objekete (drveće, lišće, cveće)
+- [ ] Uključiti Face Culling i popraviti one objekte na sceni koji više ne izgledaju ispravno
+- [ ] Nacrtati kocku tako da se unutrašnje strane odsecaju prilikom crtanja
+- [ ] Promeniti model osvetljenja u svim šejderima u Blin-fongov
+- [ ] Promeniti slanje view/projection matrica, svetla i deljenih podataka u šejderima u UBO 
+- [ ] Promeniti individualne in/out promenljive u interfejs blokove
+- [ ] Promeniti individualne glGen/glBind bafere u glCreate/glNamedBuffer
+
+---
+
+### 09 - Modeli i GUI
+
+- [ ] Napraviti funkcije za ucitavanje modela sa prosledjene putanje
+- [ ] Iscrtavati učitane modele sa osvetljenjem
+- [ ] Pronaći 2 modela koja nisu u repozitorijumu i iscrtati sa punim osvetljenjem
+- [ ] Dodati ImGui u projekat
+- [ ] Povezati parametre osvetljenja i modela za ImGui
+
+---
+
+### 10 Frejmbaferi i post-procesiranje
+
+- [ ] Renderovati scenu u novi frajembafer umesto podrazumevanog
+- [ ] Napraviti šejdere za efekte post procesiranja iz knjige i dodati opciju menjanja efekata post procesiranja pritiskom na CTRL + SHIFT + NUM. Prvi pritisak uključi efekat, drugi pritisak dugmeta isključi efekat
+- [ ] Dodati mogućnst kompozicije efekata post procesiranja
+- [ ] Dodati kontrolu uključivanja/isključivanja post procesiranja u GUI
+- [ ] Napraviti ImGui prozor koji prikazuje bafer dubine scene gde je svaki fragment obojen vrednošću funkcije dubine
+- [ ] Napraviti ImGui prozor koji prikazuje bafer normala fragmenata scene gde je svaki fragment obojen vrednostima vektora normala
+- [ ] Napravigi ImGui prozor koji prikazuje bafer intenziteta difuzne komponente osvetljenja
+- [ ] Napraviti ImGui prozor koji prikazuije bafer intenziteta spekularne komponente osvetljenja
+- [ ] Dodati ImGui prozor u kojem se prikazuje preview izgleda scena kada se primeni odabrani efekat post-procesiranja
+
+---
+
+
+
 **Projekat neće biti pregledan ako:**
 - Ne postoji istorija pojedinačnih komitova projekta (na primer ceo projekat postavljen jednim komitom)
 - Scena sadrži modele i teksture iz repozitorijuma sa primerima sa časa  
