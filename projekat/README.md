@@ -147,9 +147,12 @@ Projekat:
 - [ ] Dodati difuzne i spekularne teksture kockama i podu
 - [ ] Napraviti funkcije za crtanje osnovnih geometrijskih primitiva:
 	- [ ] linija
-	- [ ] trougao
+    - [ ] trougao
 	- [ ] kvadrat
 	- [ ] krug
+    - [ ] konus
+    - [ ] cilindar
+    - [ ] tetraedar
 	- [ ] kocka
 	- [ ] piramida
 	- [ ] lopta
@@ -167,7 +170,7 @@ Projekat:
 ---
 
 ### 08 Napredni OpenGL
- - [ ] Dodat ImGUI i vezati sve parametre scene
+- [ ] Dodat ImGUI i vezati sve parametre scene
 - [ ] Pritiskom na dugme umesto scene iscrtava se njen depth bafer na ekranu
 - [ ]  Dodati prozirne objekte (staklo u boji) 
 - [ ] Dodati providne objekete (drveće, lišće, cveće)
