@@ -55,13 +55,6 @@ sudo apt install \
     libassimp-dev \           # Assimp: loading 3D model formats
     libglew-dev \             # GLEW: OpenGL extension/function loading
     libsoil-dev                # SOIL: loading images/textures
-
-# Documentation
-sudo apt install \
-    doxygen \                  # Generate API documentation from C/C++ comments
-    graphviz                   # Graph generation for Doxygen diagrams
-
-
 ```
 
 
