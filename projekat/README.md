@@ -112,10 +112,10 @@ Projekat:
 ### 03  Šejderi i teksture
 - [ ] Pojednostaviti crtanje kvadranta tako da postoji samo jedan jedinični kvadrat koji se pomoću šejdera translira na odgovarajuću poziciju
 - [ ] Napraviti funkcije/klase za rad sa šejderima i učitavanje tekstura u zasebnim .hpp i .cpp fajlovima
-- [ ] Shift + K + (r|g|b) - menja boju K-tog kvadranta na crvenu (ili zelenu, ili plavu)
+- [ ] `Shift + K + (r|g|b)` - menja boju K-tog kvadranta na crvenu (ili zelenu, ili plavu)
 - [ ] Dodati koordinate tekstura kvadratima
 - [ ] Svaki kvadrant obojiti različitom teksturom
-- [ ] Shift + K + t  - mixuje boju K-tog kvadranta njegovom teksturom
+- [ ] `Shift + K + t`  - mixuje boju K-tog kvadranta njegovom teksturom
 - [ ] Promeniti crtanje N-tougla tako da primitive formira geometry shader od iz jedne tačke (0,0) koja se nalazi u centru ekrana
 
 ---
