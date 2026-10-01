@@ -69,7 +69,7 @@ def practice(example):
 	while True:
 		scratch = template(example)
 		knowledge |= read(knowledge, materials)
-		knowledge |= try_implement(scratch, example, 30min)
+		knowledge |= try_implement(knowledge, scratch, example, 30min)
 		if run(scratch) == run(example):
 			return
 
@@ -77,12 +77,12 @@ for week in range(0, 13):
 	knowledge |= read(knowledge, book, week)  
 	knowledge |= lectures(knowledge, week)
 
-   for example in examples(week):
+	for example in examples(week):
 		experiment(example)
 		practice(example)
 
 	for task in project_tasks(0, week):
-		knowledge |= try_implement(task, knowledge, project)
+		knowledge |= try_implement(knowledge, project, task)
 		if used_gpt():
 			knowledge = set()
 	
@@ -92,7 +92,10 @@ for week in range(0, 13):
 	take_break_and_rest()
 
 points = submit(project)
-grade = exam(knowledge)
+grade = exam(knowledge, project)
+
+assert points == 25 
+assert grade == 10
 ```
 
 --- 
