@@ -2,6 +2,10 @@
 
 "Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime." [-ryg](https://twitter.com/rygorous/status/1507178315886444544)
 
+[Projekat](projekat/) -- 
+[Materijali](materijali/) -- 
+[Galerija](gallery/) -- 
+[Uputstva](uputstva/) 
 
 
 ## Obaveze studenata
@@ -71,16 +75,6 @@ Gradivo za teorijski test je isto kao za I i II kolokvijum.
 Gradivo za praktični test je isto kao za I i II kolokvijum.
 
 ## Obaveštenja 
-
-> [Projekat](projekat/) 
-
-> [Materijali](materijali/) 
-
-> [Galerija](gallery/)
-
-> [Literatura Dokumentacija Alati](docs/)
-
-> [Uputstva](uputstva/) CLion, Github, QtCreator, CMake
 
 
 ## Nastavnici i asistenti
