@@ -16,6 +16,8 @@ Pratite korake redom. Na kraju svake celine nalazi se provera kojom možete da u
 
 ---
 
+
+
 ## 0. Pre nego što počnete
 
 **Preporučeno okruženje:** Koristite operativni sistem koji je instaliran direktno na računaru. Virtuelna mašina ima virtuelizovanu grafičku karticu (GPU) zbog čega programi rade sporije, a neke OpenGL funkcionalnosti možda neće biti dostupne.
@@ -29,6 +31,40 @@ Pratite korake redom. Na kraju svake celine nalazi se provera kojom možete da u
 3. **Virtuelna mašina:** Može da posluži, ali uz slabije performanse. Pogledajte odeljak [Virtuelna mašina](#virtuelna-masina-alternativa).
 
 > Windows i macOS **nisu zvanično podržani** na kursu. Repozitorijumi se mogu kompajlirati i na ovim sistemima (pogledajte njihove `DOCS.md` datoteke), ali asistent vam može pružiti podršku samo za probleme na Ubuntu-u.
+
+---
+
+
+### Kratak pregled najvažnijih komandi
+
+```
+# Provera OpenGL verzije
+glxinfo -B
+
+# Kloniranje, kompajliranje i pokretanje primera sa kursa
+git clone git@github.com:YourUsername/LearnOpenGL.git
+cd LearnOpenGL
+cmake -S . -B build && cmake --build build --parallel
+cd bin/1.getting_started && ./1.getting_started__1.1.hello_window
+
+# Kompajliranje i pokretanje projekta na osnovu šablona
+cd ~/rg/rg-playground
+cmake -S . -B build -DCMAKE_BUILD_TYPE=Debug
+cmake --build build --parallel
+./project
+
+# Ručno formatiranje datoteke
+clang-format -i path/to/file.cpp
+
+# Preuzimanje izmena nastavnika u sopstveni fork
+git fetch upstream
+git pull upstream master
+
+# Čuvanje sopstvenih izmena
+git add .
+git commit -m "Describe what you changed"
+git push origin master
+```
 
 ---
 
@@ -366,11 +402,11 @@ Izvršne datoteke biće napravljene u direktorijumima `bin/<chapter>/`.
 **Svaki program pokrenite iz njegovog direktorijuma**, kako bi mogao da pronađe odgovarajuće shader datoteke:
 
 ```
-cd bin/1.getting_started
-./1.getting_started__1.1.hello_window
+cd bin/3.model_loading
+./3.model_loading__3.1.model_loading
 ```
 
-> **Provera:** Trebalo bi da se otvori prazan prozor.
+> **Provera:** Trebalo bi da se otvori prozor u kojem je nacrtan ranac.
 
 ---
 
@@ -386,15 +422,14 @@ Na raspolaganju su vam dva repozitorijuma sa šablonima:
 ### Kreiranje sopstvenog projekta na osnovu šablona
 
 1. Otvorite odgovarajući repozitorijum sa šablonom na GitHub-u.
-2. Kliknite na **Use this template -> Create a new repository** (ili **Fork**, ako opcija nije dostupna).
-3. Izaberite naziv repozitorijuma, na primer `rg-playground` ili `rg-project`.
-4. Klonirajte **novokreirani repozitorijum** na svoj računar:
+2. Kliknite na **Use this template -> Create a new repository**.
+3. Klonirajte **novokreirani repozitorijum** na svoj računar:
    ```
    cd ~/rg
    git clone git@github.com:YourUsername/rg-playground.git
    cd rg-playground
    ```
-5. Pročitajte datoteke `README.md` i `DOCS.md` u repozitorijumu. U njima se nalaze uputstva za kompajliranje i pravila za formatiranje koda.
+5. Pročitajte datoteku `README.md` u repozitorijumu. U njima se nalaze uputstva za kompajliranje i pravila za formatiranje koda.
 
 ### Kompajliranje i pokretanje
 
@@ -412,7 +447,7 @@ Program pokrenite iz **korenskog direktorijuma projekta** (direktorijuma koji sa
 
 ## 5. Podešavanje razvojnog okruženja (CLion)
 
-CLion je razvojno okruženje koje se koristi u video-snimcima sa kursa. Možete koristiti i druge editore (VS Code i slično), ali je CLion zvanično okruženje za koje asistenti pružaju podršku.
+CLion je razvojno okruženje koje se koristi u video-snimcima sa kursa. Možete koristiti i druge editore (VS Code i slično), ali je CLion baziran na okviru koji koristi Intellij a koji je već poznat sa predmeta Objektno orijentisano programiranje.  
 
 ### Korak 5.1: Instalacija CLion-a
 
@@ -421,7 +456,6 @@ CLion je razvojno okruženje koje se koristi u video-snimcima sa kursa. Možete 
   ```
   sudo snap install clion --classic
   ```
-- **Licenca:** CLion je komercijalni softver. Studenti mogu da podnesu zahtev za besplatnu obrazovnu licencu na [https://www.jetbrains.com/community/education/#students](https://www.jetbrains.com/community/education/#students), koristeći imejl adresu fakulteta. Takođe, JetBrains nudi besplatnu licencu za nekomercijalnu upotrebu.
 
 ### Korak 5.2: Otvaranje projekta i podešavanje kompajliranja
 
@@ -486,10 +520,10 @@ Pre prvih vežbi proverite da li sve navedeno funkcioniše:
 - Komanda `ssh -T git@github.com` prikazuje pozdrav sa vašim korisničkim imenom.
 - Repozitorijum LearnOpenGL je kloniran (po mogućstvu kao fork) i primer `1.1.hello_window` uspešno otvara prozor.
 - Kreirali ste sopstveni repozitorijum na osnovu šablona `rg-playground`, klonirali ga i uspešno kompajlirali.
-- CLion uspešno otvara projekat, kompajlira ga i pokreće sa radnim direktorijumom postavljenim na korenski direktorijum projekta.
-- Čuvanjem datoteke u CLion-u kod se automatski formatira.
+- (Ako koristite) CLion uspešno otvara projekat, kompajlira ga i pokreće sa radnim direktorijumom postavljenim na korenski direktorijum projekta.
+- (Ako koristite) Čuvanjem datoteke u CLion-u kod se automatski formatira.
 
-Ako neki od koraka ne funkcioniše, pogledajte sledeći odeljak pre nego što zatražite pomoć.
+Ako neki od koraka ne funkcioniše, pogledajte sledeći odeljak, ukoliko ni u sledećem odeljku ne pronađete rešenje, javite se za pomoć.  
 
 ---
 
@@ -596,37 +630,6 @@ Kada tražite pomoć, obavezno priložite:
 
 ---
 
-## 8. Kratak pregled najvažnijih komandi
-
-```
-# Provera OpenGL verzije
-glxinfo -B
-
-# Kloniranje, kompajliranje i pokretanje primera sa kursa
-git clone git@github.com:YourUsername/LearnOpenGL.git
-cd LearnOpenGL
-cmake -S . -B build && cmake --build build --parallel
-cd bin/1.getting_started && ./1.getting_started__1.1.hello_window
-
-# Kompajliranje i pokretanje projekta na osnovu šablona
-cd ~/rg/rg-playground
-cmake -S . -B build -DCMAKE_BUILD_TYPE=Debug
-cmake --build build --parallel
-./project
-
-# Ručno formatiranje datoteke
-clang-format -i path/to/file.cpp
-
-# Preuzimanje izmena nastavnika u sopstveni fork
-git fetch upstream
-git pull upstream master
-
-# Čuvanje sopstvenih izmena
-git add .
-git commit -m "Describe what you changed"
-git push origin master
-```
-
-**I dalje imate problem?** Postavite pitanje na kanalu predviđenom za komunikaciju na kursu i obavezno priložite informacije navedene na početku odeljka Rešavanje problema.
+**I dalje imate problem?** Postavite pitanje mejlom i obavezno priložite informacije navedene na početku odeljka Rešavanje problema.
 
 
