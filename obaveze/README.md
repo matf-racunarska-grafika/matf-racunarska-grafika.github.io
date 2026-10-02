@@ -12,6 +12,7 @@ Oba dela ispita, teorijski i praktični, mogu se položiti na dva načina:
    * Završni test od 45 bodova
    * Uslov: da bi ispit bio položen potrebno je ostvariti barem 20 bodova na svakom delu ispita i u zbiru imati 51 bod (bez projekta).	
 
+* Jednom položena oba kolokvijuma iz teorijskog ili praktičnog dela važe tokom cele školske godine.
 * Dozovljeno je praktični ili teorijski deo ispita položiti preko dva kolokvijuma, a drugi deo preko ispita.  
 * Bodovi ostvareni na praktičnom ili teorijskom važe u spojenim rokovima Jan1-Jan2, Jun2-Jun2, Sep1-Sep2.  
 * Izlazak na teorijski ili praktični ispit poništava prethodno ostvarene poene na tom delu ispita ili kolokvijuma.   
