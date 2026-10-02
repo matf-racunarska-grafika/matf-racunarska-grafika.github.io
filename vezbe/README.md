@@ -1,4 +1,4 @@
-# Materijali
+# Vežbe  
 
 ## Osnovna literatura
 Osnovni izvor za učenje računarske grafike je **knjiga** _Learn OpenGL_ sa pratećim primerima sa časova vežbi.  
