@@ -4,7 +4,7 @@
 
 [Obaveze studenata](obaveze/) -- 
 [Projekat](projekat/) -- 
-[Materijali](materijali/) -- 
+[Vežbe](vezbe/) -- 
 [Galerija](gallery/) -- 
 [Uputstva](uputstva/) 
 
