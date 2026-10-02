@@ -84,10 +84,9 @@ Preuzeti materijale:
 - [ ] Preuzeti skelet za vežbanje
 - [ ] Bookmarkovati dokumentaciju [glfw](https://www.glfw.org/documentation) [gl](https://docs.gl/)
 
-Podesiti projekat:
-- [ ] Instalirati biblioteke
-- [ ] Podesiti okruženje
-- [ ] Preuzeti skelet projekta 
+Podešavanje okruženja 
+- [ ] Ispratiti sve korake iz [uputstva](../uputstva/) za podešavanje biblioteka:
+- [ ] Uraditi sve zadatke sa [learngitbranching](https://learngitbranching.js.org/)
 
 Projekat:
 - [ ] Implementirati petlju renderovanja
