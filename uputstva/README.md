@@ -1,18 +1,17 @@
 # Računarska grafika – Uputstvo za podešavanje okruženja
 
-Pratite korake redom. Na kraju svake celine nalazi se provera kojom možete da utvrdite da li je sve uspešno podešeno. Ako naiđete na problem, pogledajte odeljak [7. Rešavanje problema](#7-resavanje-problema).
+Pratite korake redom. Na kraju svake celine nalazi se provera kojom možete da utvrdite da li je sve uspešno podešeno. Ako naiđete na problem, pogledajte odeljak [7. Rešavanje problema](#7-rešavanje-problema).
 
 ## Sadržaj
 
-0. [Pre nego što počnete](#0-pre-nego-sto-pocnete)
-1. [Podešavanje sistema](#1-podesavanje-sistema)
-2. [Kreiranje GitHub naloga i podešavanje SSH pristupa](#2-kreiranje-github-naloga-i-podesavanje-ssh-pristupa)
+0. [Pre nego što počnete](#0-pre-nego-što-počnete)
+1. [Podešavanje sistema](#1-podešavanje-sistema)
+2. [Kreiranje GitHub naloga i podešavanje SSH pristupa](#2-kreiranje-github-naloga-i-podešavanje-ssh-pristupa)
 3. [Preuzimanje materijala sa kursa](#3-preuzimanje-materijala-sa-kursa)
-4. [Preuzimanje šablona za vežbe](#4-preuzimanje-sablona-za-vezbe)
-5. [Podešavanje razvojnog okruženja (CLion)](#5-podesavanje-razvojnog-okruzenja-clion)
-6. [Završna provera: kompajliranje i pokretanje programa](#6-zavrsna-provera-kompajliranje-i-pokretanje-programa)
-7. [Rešavanje problema](#7-resavanje-problema)
-8. [Kratak pregled najvažnijih komandi](#8-kratak-pregled-najvaznijih-komandi)
+4. [Preuzimanje šablona za vežbe](#4-preuzimanje-šablona-za-vežbe)
+5. [Podešavanje razvojnog okruženja (CLion)](#5-podešavanje-razvojnog-okruženja-clion)
+6. [Završna provera: kompajliranje i pokretanje programa](#6-završna-provera-kompajliranje-i-pokretanje-programa)
+7. [Rešavanje problema](#7-rešavanje-problema)
 
 ---
 
