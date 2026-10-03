@@ -69,4 +69,4 @@ Gradivo za teorijski test je isto kao za I i II kolokvijum.
   - 10 Framebuffers \+ Post Processing
 
 Gradivo za praktični test je isto kao za I i II kolokvijum.
-[Primer praktičnog završnog testa](rg-prakticni-primer.pdf)
+[Primer praktičnog završnog testa](rg_prakticni_primer.pdf)
