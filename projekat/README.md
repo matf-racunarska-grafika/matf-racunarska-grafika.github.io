@@ -293,13 +293,18 @@ Ako predlog nije implementiran, ne razrešavati komentar dok ne bude obrađen ra
 **Važno: Konsultacije i pregledanje projekata se ne održavaju tokom trajanja ispitnog roka.**  
 
 ## Gde mogu pronaći modele za projekat?  
-Modele možete preuzeti sa:  
+Preporučljivo je koristiti standardne modele za razvoj i istraživanja u računarskoj grafici:  
+- [Khronos sample assets](https://github.com/KhronosGroup/glTF-Sample-Assets)
+- [McGuire Compter Graphics Archive](https://casual-effects.com/data/)
+
+Dodatne modele možete naći sa:  
+- Google drive sa modelima prethodnih školskih godina [gdrive](https://drive.google.com/drive/folders/1vMCZej9C5V0uc4RgKrinMHS6OM1IaY2g?usp=sharing)
 - [sketchfab](https://sketchfab.com/3d-models)
 - [artec3d](https://www.artec3d.com/3d-models)
 - [free3D](www.free3d.com)
 - [turbosquid](https://www.turbosquid.com/3d-models/)
 - [poly-pizza](https://poly.pizza/)
-- [gdrive](https://drive.google.com/drive/folders/1vMCZej9C5V0uc4RgKrinMHS6OM1IaY2g?usp=sharing)
+
 
 
 
