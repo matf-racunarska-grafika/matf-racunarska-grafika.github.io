@@ -61,9 +61,9 @@ project = set()
 def experiment(example):
 	for e in choose(range(0, 10)):
 		example_modifed = modify(knowledge, example)
-		Y_guessed = guess_output(knowledge, example_modifed)
+		Y_predict = predict(knowledge, example_modifed)
 		Y_real = run(example_modifed)
-		knowledge |= learn(knowledge, Y_guessed, Y_real, book, example)
+		knowledge |= learn(knowledge, Y_predict, Y_real, book, example)
 
 def practice(example):
 	while True:
