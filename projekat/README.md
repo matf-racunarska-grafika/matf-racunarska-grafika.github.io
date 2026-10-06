@@ -116,6 +116,7 @@ Projekat:
 - [ ] Svaki kvadrant obojiti različitom teksturom
 - [ ] `Shift + K + t`  - mixuje boju K-tog kvadranta njegovom teksturom
 - [ ] Promeniti crtanje N-tougla tako da primitive formira geometry shader od iz jedne tačke (0,0) koja se nalazi u centru ekrana
+- [ ] Implementirati automatsku rekompilaciju šejdera: program detektuje da li se izvorni kod šejdera promenio na disku, ukoliko jeste i ispravan je kompajlira i linkuje novi izvorni kod, a ako nije ne menja postojeći šejder. 
 
 ---
 
@@ -189,6 +190,7 @@ Projekat:
 - [ ] Pronaći 2 modela koja nisu u repozitorijumu i iscrtati sa punim osvetljenjem
 - [ ] Dodati ImGui u projekat
 - [ ] Povezati parametre osvetljenja i modela za ImGui
+- [ ] U ImGui dodati prozor sa svim kompajliranim šejderima i editor za menjanje izvornog koda šejdera tokom izvršavanja aplikacije. Promenom koda, šejder se rekompilira i program nastavlja normalno da ga koristi.
 
 ---
 
