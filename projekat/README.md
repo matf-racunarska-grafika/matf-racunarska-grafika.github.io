@@ -93,7 +93,7 @@ Projekat:
 - [ ] Boja pozadine menja se pritiskom dugmića tastature
 - [ ] CTRL + Strelice povećavaju/smanjuju veličinu prozora (gore/dole visina, levo/desno širina)
 - [ ] Klikom miša na ekran boja pozadine se menja na nasumičnu boju
-- [ ] Dok je pritisnut Shift, boja prozora (r, g, b) = (x, y, 0) gde su (x,y) koordinate miša transformisane tako da je koordinatni početak u donjem levom uglu ekrana, a gornji desni ugao ekrana je (x,y)=(1.0, 1.0) . Primer: kada je kursor na sredini ekrana boja pozadine je: (0.5, 0.5, 0.0)
+- [ ] Dok je pritisnut Shift, boja prozora (r, g, b) = (x, y, 0) gde su (x,y) koordinate miša transformisane tako da je koordinatni početak u donjem levom uglu ekrana, a gornji desni ugao ekrana je (x,y)=(1.0, 1.0) . Primer: kada je kursor na sredini ekrana boja pozadine je: (0.5, 0.5, 0.0). Hint: [mouse input](https://www.glfw.org/docs/3.3/input_guide.html#input_mouse)
 - [ ] Esc gasi prozor
 
 ---
