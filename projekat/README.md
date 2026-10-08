@@ -20,6 +20,9 @@ Rokovi za ocenjivanje projekata:
     - Projekat je završen
     - Sve željene lekcije prisutne i funkcionalne
 
+
+Ispratite [../uputstva](../uputstva) za preuzimanje šablona projekta [rg-project-template] u kojem
+se projekat radi.
 Projekat se brani u roku u kojem je predat u terminu održavanja ispita.  
 Odbrana projekta je test sastavljen od pitanja samo iz oblasti koje su u projektu implementirane.  
 Na odbranu je moguće izaći do dva puta u jednoj godini, a u spojenim rokovima. 
