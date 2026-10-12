@@ -147,3 +147,45 @@ pkg-config --modversion glfw3 assimp freetype2
 ```
 
 Prva komanda ispisuje naziv grafičke kartice. Ako ispiše `llvmpipe`, OpenGL koristi softversko iscrtavanje, što znači da drajver nije ispravno učitan.
+
+### Korak 1.9: Provera OpenGL verzije
+
+```bash
+glxinfo -B
+```
+
+Kratak ispis koji se dobija opcijom `-B` pregledniji je od kompletne komande `glxinfo | grep OpenGL`, koja takođe može da se koristi:
+
+```bash
+glxinfo | grep OpenGL
+```
+
+**Potrebna je OpenGL verzija 4.0 ili novija.** Obratite pažnju na red `OpenGL core profile version string`.
+
+Primer ispisa (NVIDIA):
+
+```text
+direct rendering: Yes
+OpenGL vendor string: NVIDIA Corporation
+OpenGL renderer string: GeForce RTX 2060/PCIe/SSE2
+OpenGL core profile version string: 4.6.0 NVIDIA 460.91.03     <--- OpenGL verzija 4.6.0
+OpenGL core profile shading language version string: 4.60 NVIDIA
+OpenGL core profile context flags: (none)
+OpenGL core profile profile mask: core profile
+OpenGL version string: 4.6.0 NVIDIA 460.91.03
+OpenGL shading language version string: 4.60 NVIDIA
+OpenGL ES profile version string: OpenGL ES 3.2 NVIDIA 460.91.03
+```
+
+**Šta treba proveriti u sopstvenom ispisu:**
+
+| Stavka                               | Ispravno                                            | Neispravno                                                      |
+| ------------------------------------ | --------------------------------------------------- | --------------------------------------------------------------- |
+| `direct rendering`                   | `Yes`                                               | `No` (nema hardverskog ubrzanja)                                |
+| `OpenGL renderer string`             | Naziv vaše grafičke kartice (NVIDIA, AMD, Intel...) | `llvmpipe` ili `softpipe` (softversko iscrtavanje, veoma sporo) |
+| `OpenGL core profile version string` | `4.0` ili novija verzija                            | Verzija starija od 4.0                                          |
+
+> **Provera:** Potrebno je da `direct rendering` bude `Yes`, da renderer prikazuje naziv stvarne grafičke kartice i da verzija OpenGL core profila bude 4.0 ili novija. Ako nešto od ovoga nije ispunjeno, pogledajte odeljak Rešavanje problema.
+
+Možete pokrenuti i komandu `glxgears`. Trebalo bi da se otvori prozor sa tri rotirajuća zupčanika, a u terminalu će se ispisivati broj frejmova u sekundi.
+
