@@ -1,6 +1,6 @@
 # Računarska grafika – Uputstvo za podešavanje okruženja
 
-Pratite korake redom. Na kraju svake celine nalazi se provera kojom možete da utvrdite da li je sve uspešno podešeno. Ako naiđete na problem, pogledajte odeljak [7. Rešavanje problema](#7-rešavanje-problema).
+Pratite korake redom. Na kraju svake celine nalazi se provera kojom možete da utvrdite da li je sve uspešno podešeno. Ako naiđete na problem, pogledajte odeljak [7. Rešavanje problema](#7-rešavanje-problema). Ukoliko odeljak ne sadrži rešenje problema obavezno javite mejlom kako bi smo rešili problem i ažurirali uputstvo.
 
 ## Sadržaj
 
