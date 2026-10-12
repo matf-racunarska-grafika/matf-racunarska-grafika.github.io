@@ -1,11 +1,11 @@
-# 1. Podešavanje sistema (Fedora)
+# Podešavanje sistema (Fedora)
 
 Otvorite terminal i pokrenite komande jednu po jednu. Pročitajte ispis posle svakog koraka. Ako se pojavi greška, rešite je pre nego što nastavite.
 
 Ovo uputstvo koristi `dnf` (DNF 4 ili DNF 5). Komande su iste u obe verzije.
 
 
-## Korak 1.1: Ažuriranje sistema
+## Korak 1: Ažuriranje sistema
 
 ```bash
 sudo dnf upgrade --refresh -y
@@ -13,7 +13,7 @@ sudo dnf upgrade --refresh -y
 
 Ako se ažurira kernel, ponovo pokrenite računar: `sudo reboot`.
 
-## Korak 1.2: Alati za razvoj i kompajliranje
+## Korak 2: Alati za razvoj i kompajliranje
 
 ```bash
 sudo dnf install -y gcc gcc-c++ make cmake git pkgconf-pkg-config clang-tools-extra
@@ -34,7 +34,7 @@ sudo dnf group install -y development-tools    # DNF 5 (Fedora 41 i novije)
 sudo dnf groupinstall -y "Development Tools"   # DNF 4 (Fedora 40 i starije)
 ```
 
-## Korak 1.3: OpenGL, Mesa i dijagnostički alati
+## Korak 3: OpenGL, Mesa i dijagnostički alati
 
 ```bash
 sudo dnf install -y mesa-libGL-devel mesa-libGLU-devel libglvnd-devel mesa-demos
@@ -46,7 +46,7 @@ sudo dnf install -y mesa-libGL-devel mesa-libGLU-devel libglvnd-devel mesa-demos
 | `mesa-libGLU-devel` | GLU zaglavlja (opciono, neki primeri ih koriste) |
 | `mesa-demos` | Alati `glxinfo` i `glxgears` za proveru OpenGL-a |
 
-## Korak 1.4: Biblioteke za sistem prozora (X11 i Wayland)
+## Korak 4: Biblioteke za sistem prozora (X11 i Wayland)
 
 GLFW-u su za kompajliranje potrebne sledeće biblioteke.
 
@@ -58,7 +58,7 @@ sudo dnf install -y libX11-devel libXrandr-devel libXinerama-devel libXcursor-de
 
 Fedora nema metapaket `xorg-dev`. Zato ovde navedite svaki X11 paket posebno.
 
-## Korak 1.5: Grafičke biblioteke i biblioteke za učitavanje resursa
+## Korak 5: Grafičke biblioteke i biblioteke za učitavanje resursa
 
 ```bash
 sudo dnf install -y glfw-devel glm-devel assimp-devel freetype-devel
@@ -71,7 +71,7 @@ sudo dnf install -y glfw-devel glm-devel assimp-devel freetype-devel
 | `assimp-devel` | Assimp: učitavanje različitih formata 3D modela |
 | `freetype-devel` | FreeType: iscrtavanje fontova (koristi se u primeru za iscrtavanje teksta) |
 
-## Korak 1.6: Instalacija svih paketa jednom komandom (opciono)
+## Korak 6: Instalacija svih paketa jednom komandom (opciono)
 
 Ovom komandom preskačete korake 1.2–1.5:
 
@@ -85,7 +85,7 @@ sudo dnf upgrade --refresh -y && sudo dnf install -y \
     glfw-devel glm-devel assimp-devel freetype-devel
 ```
 
-## Korak 1.7: Instalacija drajvera za grafičku karticu
+## Korak 7: Instalacija drajvera za grafičku karticu
 
 Performanse OpenGL-a zavise od drajvera grafičke kartice.
 
