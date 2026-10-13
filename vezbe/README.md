@@ -146,7 +146,7 @@ Snimci:
 - [Hello Triangle](https://www.youtube.com/watch?v=FUTjyNe1eKY&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=9)
 - [Hello Triangle - VBO, VAO](https://www.youtube.com/watch?v=BdQ-bxc3maw&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=10)
 - [Hello Triangle - Shader](https://www.youtube.com/watch?v=ZQz_wxwHVj0&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=11)
-- [Hello Triangle - EBO](https://www.youtube.com/watch?v=7aUZexYV_cY&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=12
+- [Hello Triangle - EBO](https://www.youtube.com/watch?v=7aUZexYV_cY&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=12)
 - [Hello Triangle - Indexed](https://www.youtube.com/watch?v=E8gjdhYa-4w&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=13)
 - [Debugging](https://www.youtube.com/watch?v=FXDM6HrIzIA&list=PLD-fbfqEboxyzhQpaa_5SoNwKIOXoY5uj&index=14)
 
