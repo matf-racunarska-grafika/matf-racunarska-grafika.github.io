@@ -16,9 +16,6 @@ Rokovi za ocenjivanje projekata:
 - Sep1-Sep2 
     - Predaja do 15.08. u 21:00 (poslednji termin) 
     - Ispravke do 22.08 u 21:00 (poslednji termin) 
-- Predaja projekta:
-    - Projekat je završen
-    - Sve željene lekcije prisutne i funkcionalne
 
 
 Ispratite [../uputstva](../uputstva) za preuzimanje šablona projekta [rg-project-template] u kojem
@@ -28,6 +25,10 @@ Odbrana projekta je test sastavljen od pitanja samo iz oblasti koje su u projekt
 Na odbranu je moguće izaći do dva puta u jednoj godini, a u spojenim rokovima. 
 Ponovni izlazak na odbranu poništava ostvarene bodove na prethodnoj odbrani.
 Tokom trajanja ispitnog roka se ne održavaju konsultacije i pregledanja projekata.  
+
+Završen projekat se prijavljuje preko [formulara](https://forms.gle/CToun4a5dDWdNiGZ8). 
+Pre predaje obavezno proveriti da li su sve štiklirane stavke završene.  
+
 
 **Nesamostalan rad na projektu, plagiranje, kao i direktno preuzimanje delova koda iz drugih studentskih projekata smatra se kršenjem pravila polaganja ispita prema pravilniku fakulteta i povlači automatsko pokretanje disciplinskog postupka i zabranu polaganja ispita Računarske grafike u trenutnoj školskoj godini.**
 
