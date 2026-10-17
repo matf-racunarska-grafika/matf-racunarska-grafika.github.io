@@ -278,7 +278,7 @@ cd bin/3.model_loading
 
 ---
 
-## 4. Preuzimanje šablona za vežbe
+## 4. Preuzimanje šablona za vežbanje i finalni projekat
 
 Na raspolaganju su vam dva repozitorijuma sa šablonima:
 
@@ -287,37 +287,26 @@ Na raspolaganju su vam dva repozitorijuma sa šablonima:
 | [rg-playground](https://github.com/matf-racunarska-grafika/rg-playground)             | Minimalna struktura projekta sa svim bibliotekama potrebnim za zadatke koji se rade na časovima. Koristite ga za samostalno vežbanje. |
 | [rg-project-template](https://github.com/matf-racunarska-grafika/rg-project-template) | Šablon projekta koji ćete koristiti za izradu **završnog projekta na kursu**.                                                         |
 
-### Kreiranje sopstvenog projekta na osnovu šablona
+### Preuzimanje repozitorijuma
 
-1. Otvorite odgovarajući repozitorijum sa šablonom na GitHub-u.
-2. Kliknite na **Use this template -> Create a new repository**.
+1. Otvorite odgovarajući repozitorijum na GitHub-u.
+2. Kliknite na **Use this template -> Create a new repository**. Opciono možete promeniti naziv vašeg repozitorijuma. 
+U tom slučaju u komandama ispod umesto šablonskih naziva, staviti nov naziv.  
 3. Klonirajte **novokreirani repozitorijum** na svoj računar:
    ```
    cd ~/rg
    git clone git@github.com:YourUsername/rg-playground.git
-   cd rg-playground
+   git clone git@github.com:YourUsername/rg-project-template.git
    ```
-5. Pročitajte datoteku `README.md` u repozitorijumu. U njima se nalaze uputstva za kompajliranje i pravila za formatiranje koda.
+4. Pročitajte datoteku `README.md` u repozitorijumu. U njima se nalaze uputstva za kompajliranje i pravila za formatiranje koda.
 
-### Kompajliranje i pokretanje
+## 5. (opciono) Podešavanje razvojnog okruženja (CLion)
 
-```
-cmake -S . -B cmake-build-debug -DCMAKE_BUILD_TYPE=Debug
-cmake --build cmake-build-debug --parallel
-./project
-```
+CLion je razvojno okruženje koje se koristi u video-snimcima sa kursa. Možete koristiti i druge editore (VS Code i slično), ali je CLion baziran na okviru koji koristi Intellij a koji je već poznat sa predmeta Objektno orijentisano programiranje. 
 
-Program pokrenite iz **korenskog direktorijuma projekta** (direktorijuma koji sadrži `resources/`), kako bi mogao da pronađe shader-e, teksture i modele.
+Korišćenje razvojnog okruženja nije obavezno, ceo kurs i projekat možete uraditi iz običnog editora i prevoditi programe komandom iz terminala.
 
-> **Provera:** Prozor projekta trebalo bi da se otvori bez grešaka u terminalu.
-
----
-
-## 5. Podešavanje razvojnog okruženja (CLion)
-
-CLion je razvojno okruženje koje se koristi u video-snimcima sa kursa. Možete koristiti i druge editore (VS Code i slično), ali je CLion baziran na okviru koji koristi Intellij a koji je već poznat sa predmeta Objektno orijentisano programiranje.  
-
-### Korak 5.1: Instalacija CLion-a
+### Korak 5.1: Instalacija CLion-a 
 
 - **JetBrains Toolbox (preporučeno):** Preuzmite ga sa [https://www.jetbrains.com/toolbox-app/](https://www.jetbrains.com/toolbox-app/), a zatim kroz njega instalirajte CLion.
 - **Snap:**
