@@ -119,8 +119,9 @@ Projekat:
 - [ ] Dodati koordinate tekstura kvadratima
 - [ ] Svaki kvadrant obojiti različitom teksturom
 - [ ] `Shift + K + t`  - mixuje boju K-tog kvadranta njegovom teksturom
-- [ ] Promeniti crtanje N-tougla tako da primitive formira geometry shader od iz jedne tačke (0,0) koja se nalazi u centru ekrana
-- [ ] Implementirati automatsku rekompilaciju šejdera: program detektuje da li se izvorni kod šejdera promenio na disku, ukoliko jeste i ispravan je kompajlira i linkuje novi izvorni kod, a ako nije ne menja postojeći šejder. 
+- [ ] Dodati opciju za promenu načina filtriranja svih tekstura sa `GL_NEAREST` na `GL_LINEAR` i obrnuto
+- [ ] Implementirati učitavanje šejdera iz izvornog fajla sa diska. Fajlovi sa ekstenzijom `.vs` sadrže vrteks šejdera, a fajlovi sa ekstenzijom `.fs` sadrži fragment šejder. U glavnom programu implementirati funkcije koje kompajliraju i linkuju šejder program iz prosleđene putanje izvornog koda (.vs i .fs) na disku.  
+- [ ] Implementirati automatsku rekompilaciju šejdera: tokom izvršavanja glavnog programa, detektuje se da li se izvorni kod šejdera promenio na disku, ukoliko jeste i ispravan je kompajlira i linkuje novi izvorni kod, a ako nije ne menja postojeći šejder. 
 
 ---
 
