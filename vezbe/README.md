@@ -10,7 +10,7 @@ Osnovni izvor za učenje računarske grafike je **knjiga** _Learn OpenGL_ sa pra
 - [Prezentacije](https://drive.google.com/drive/folders/1-rp2-lYXwHC-uodT_VY0E9Q3P9rX8owx?usp=sharing)
 - [C++ primeri](https://github.com/spaske00/cpp_tutorial)
 - [C++ mini kurs](https://www.youtube.com/playlist?list=PLD-fbfqEboxwg1LG1K8emMmPPEWGcfRcT)
-- [Zadaci za vežbu](https://matf-racunarska-grafika.github.io/domaci/)
+- [Zadaci za vežbu](https://matf-racunarska-grafika.github.io/projekat/)
 - [Prazan skelet za vežbanje primera](https://github.com/matf-racunarska-grafika/rg-playground)
 
 ## Dokumentacija
